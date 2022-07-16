@@ -1,5 +1,5 @@
 Monotonic stack is a ordered stack. 
-The elements in the stack are monotonically increasing/decreasing after each new element is pushed into the stack.
+<br>The elements in the stack are monotonically increasing/decreasing after each new element is pushed into the stack.
 
 ```
 function test() {
