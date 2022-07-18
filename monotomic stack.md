@@ -9,3 +9,7 @@ function test() {
   console.log("notice the blank line before this function?");
 }
 ```
+907. Sum of Subarray Minimums
+https://leetcode.com/problems/sum-of-subarray-minimums/
+2104. Sum of Subarray Ranges
+https://leetcode.com/problems/sum-of-subarray-ranges/
