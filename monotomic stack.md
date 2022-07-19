@@ -9,12 +9,28 @@ The typical paradigm for monotonous increase stack:
 ```
 Java
 for(int i = 0; i < Nums.size(); i++){
-  while(!stack.isEmpty() && stack.peek() > A[i]){
+  //pop all elements on the stack which is greater than next element Nums[i]
+  //So that the element below the stack will always smaller than the next one
+  while(!stack.isEmpty() && stack.peek() > Nums[i]){
     stack.pop();
   }
-  stack.push(A[i]);
+  stack.push(Nums[i]);
 }
 ```
+
+Similarly for monotonous decrease stack:
+```
+Java
+for(int i = 0; i < Nums.size(); i++){
+  //pop all elements on the stack which is smaller than next element Nums[i]
+  //So that the element below the stack will always greater than the next one
+  while(!stack.isEmpty() && stack.peek() < Nums[i]){
+    stack.pop();
+  }
+  stack.push(Nums[i]);
+}
+```
+
 907. Sum of Subarray Minimums
 https://leetcode.com/problems/sum-of-subarray-minimums/
 2104. Sum of Subarray Ranges
