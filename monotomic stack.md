@@ -4,9 +4,15 @@ Monotonic stack is a ordered stack.
 First LeetCode Problem: 
 <br>496. Next Greater Element I
 Visit https://leetcode.com/problems/next-greater-element-i/
+
+The typical paradigm for monotonous increase stack:
 ```
-function test() {
-  console.log("notice the blank line before this function?");
+Java
+for(int i = 0; i < Nums.size(); i++){
+  while(!stack.isEmpty() && stack.peek() > A[i]){
+    stack.pop();
+  }
+  stack.push(A[i]);
 }
 ```
 907. Sum of Subarray Minimums
