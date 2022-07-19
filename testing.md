@@ -142,6 +142,27 @@ for(int i = length-1; i >= 0; i--){
 }
 ```
 
+We can modify the NLE algorithm slightly so that the iteration start from left to right, which allows the NLE to be find in the same pass as the PLE.&#x20;
 
+```java
+int length = Nums.size();
+int[] nles = new int[length];
+Stack<Integer> stack_nle = new Stack<>();
+//first we initialize the nles array with the distance to RHS end
+for(int i = 0; i < length; i++){
+  nles[i] = length - i;
+}
+//Then we only update the nles array for index with an NLE to the RHS
+for(int i = 0; i < length; i++){
+  while(!stack.isEmpty() && Nums[stack_nle.peek()] > Nums[i]){
+    //Use the index at stack.top
+    int temp_index = stack_nle.peek();
+    //update nles array distance to i - the index at stack.top
+    nles[temp_index] = i - temp_index;
+    stack_nle.pop();
+  }
+  stack_nle.push(i);
+}
+```
 
 2104\. Sum of Subarray Ranges [https://leetcode.com/problems/sum-of-subarray-ranges/](https://leetcode.com/problems/sum-of-subarray-ranges/)
