@@ -1,7 +1,3 @@
----
-description: 'Lists of LeetCode Problems:'
----
-
 # Monotonic Stack
 
 496\. Next Greater Element I Visit [https://leetcode.com/problems/next-greater-element-i/](https://leetcode.com/problems/next-greater-element-i/)
