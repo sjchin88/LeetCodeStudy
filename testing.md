@@ -79,4 +79,73 @@ Case2: What if the numbers are not unique for the array, there could be two or m
 
 Solution: In this case, we need to set either PLE or NLE as **less than and equal,**&#x20;
 
+**Modifying the monotonic stack algorithm to find the PLE and NLE. For PLE:**
+
+```java
+int length = Nums.size();
+int[] ples = new int[length];
+Stack<Integer> stack = new Stack<>();
+for(int i = 0; i < length; i++){
+  while(!stack.isEmpty() && stack.peek() > Nums[i]){
+    stack.pop();
+  }
+  //Extra code: insert top of stack or -1 if the stack is empty to ples array
+  if(stack.isEmpty()){
+    ples[i]=-1;
+  }else{
+    ples[i]=stack.peek();
+  }
+  stack.push(Nums[i]);
+}
+
+```
+
+As we are only interest in the distance to PLE/NLE for this problem, we can modify the algorithm to operate with the index of the element instead of the value of the element, and put the distance to PLE/NLE into the ple/nle array. For PLE:
+
+```java
+int length = Nums.size();
+int[] ples = new int[length];
+Stack<Integer> stack = new Stack<>();
+for(int i = 0; i < length; i++){
+//compare the Nums[stack.top] to Nums[i]
+  while(!stack.isEmpty() && Nums[stack.peek()] > Nums[i]){
+    stack.pop();
+  }
+  //if stack is empty, store the distance to LHS edge which is i + 1;
+  if(stack.isEmpty()){
+    ples[i]= i+1;
+  }else{
+  //else, distance is i - stack.top
+    ples[i]= i-stack.peek();
+  }
+  //now push the index instead of the given element
+  stack.push(i);
+}
+```
+
+For NLE, the key difference to PLE algorithm is the iteration will be from right to left opposite to PLE (which is from left to right)
+
+```java
+int length = Nums.size();
+int[] nles = new int[length];
+Stack<Integer> stack = new Stack<>();
+
+for(int i = length-1; i >= 0; i--){
+  while(!stack.isEmpty() && Nums[stack.peek()] > Nums[i]){
+    stack.pop();
+  }
+  //if stack is empty, store the distance to RHS edge which is length - i;
+  if(stack.isEmpty()){
+    nles[i]= length - i;
+  }else{
+  //else, distance is stack.top - i
+    nles[i]= stack.peek()-i;
+  }
+  //now push the index instead of the given element
+  stack.push(i);
+}
+```
+
+
+
 2104\. Sum of Subarray Ranges [https://leetcode.com/problems/sum-of-subarray-ranges/](https://leetcode.com/problems/sum-of-subarray-ranges/)
