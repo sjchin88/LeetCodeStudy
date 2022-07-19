@@ -1,4 +1,4 @@
 # Table of contents
 
-* [Monotonic Stack](README.md)
-* [Testing](testing.md)
+* [Read Me](README.md)
+* [Monotonic Stack](monotonic-stack.md)
