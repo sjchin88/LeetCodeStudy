@@ -14,4 +14,4 @@
 ## Searching
 
 * [Deep-First-Search(DFS)](searching/deep-first-search-dfs.md)
-* [Sea](searching/sea.md)
+* [Priority Queue](searching/priority-queue.md)
