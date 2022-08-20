@@ -2,12 +2,16 @@
 
 This type of problem involves counting each and every subarray of a given array.&#x20;
 
-Problems:
+Problems (from easy to hard). :
+
+2063\. Vowels of All Substrings [https://leetcode.com/problems/vowels-of-all-substrings/](https://leetcode.com/problems/vowels-of-all-substrings/)
+
+2262\. Total Appeal of A String [https://leetcode.com/problems/total-appeal-of-a-string/](https://leetcode.com/problems/total-appeal-of-a-string/)
 
 828\. Count Unique Characters of All Substrings of a Given String [https://leetcode.com/problems/count-unique-characters-of-all-substrings-of-a-given-string/](https://leetcode.com/problems/count-unique-characters-of-all-substrings-of-a-given-string/)
 
 **907.** Sum of Subarray Minimums [https://leetcode.com/problems/sum-of-subarray-minimums/](https://leetcode.com/problems/sum-of-subarray-minimums/)\
-2262\. Total Appeal of A String [https://leetcode.com/problems/total-appeal-of-a-string/](https://leetcode.com/problems/total-appeal-of-a-string/)
+
 
 Example problem description (2262).&#x20;
 
