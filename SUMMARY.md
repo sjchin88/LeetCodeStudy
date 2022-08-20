@@ -1,7 +1,7 @@
 # Table of contents
 
 * [Read Me](README.md)
-* [Transform and Conquer](transform-and-conquer/README.md)
+* [Transform and Conquer](transform-and-conquer.md)
   * [Counting Subarray](transform-and-conquer/counting-subarray.md)
 * [Monotonic Stack](testing.md)
 * [Sorting](sorting/README.md)
