@@ -10,6 +10,8 @@ Problems:&#x20;
 
 209\. Minimum Size Subarray Sum [https://leetcode.com/problems/minimum-size-subarray-sum/](https://leetcode.com/problems/minimum-size-subarray-sum/)
 
+1004\. Max Consecutive Ones III [https://leetcode.com/problems/max-consecutive-ones-iii/](https://leetcode.com/problems/max-consecutive-ones-iii/)
+
 ```java
 class Solution {
     public int minSubArrayLen(int target, int[] nums) {
