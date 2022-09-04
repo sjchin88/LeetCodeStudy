@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Read Me](README.md)
+* [Useful Java Structures](useful-java-structures.md)
 * [Dynamic Programming](dynamic-programming/README.md)
   * [Kadanes Algorithm](dynamic-programming/kadanes-algorithm.md)
 * [Two Pointers](two-pointers.md)
