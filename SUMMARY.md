@@ -18,5 +18,6 @@
 
 ## Searching
 
+* [Binary Search](searching/binary-search.md)
 * [Deep-First-Search(DFS)](searching/deep-first-search-dfs.md)
 * [Priority Queue](searching/sea.md)
