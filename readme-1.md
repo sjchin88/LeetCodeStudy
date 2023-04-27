@@ -36,5 +36,13 @@ add
 
 membership check using **in** operator
 
+list1 = list2 will return a shallow copy&#x20;
+
+list.sort() return none type
+
+list.sort(key=operator.itemgetter(0))&#x20;
+
+list.sort(key = lamda a : a\[0])   #example for lamda function
+
 
 
