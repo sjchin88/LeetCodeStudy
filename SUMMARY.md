@@ -1,9 +1,11 @@
 # Table of contents
 
 * [Read Me](README.md)
+* [Python Note](readme-1.md)
 * [Useful Java Structures](useful-java-structures.md)
 * [Dynamic Programming](dynamic-programming/README.md)
   * [Kadanes Algorithm](dynamic-programming/kadanes-algorithm.md)
+  * [Prefix Sum](dynamic-programming/prefix-sum.md)
 * [Two Pointers](two-pointers.md)
 * [Transform and Conquer](transform-and-conquer.md)
   * [Counting Subarray](transform-and-conquer/counting-subarray.md)
