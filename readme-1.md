@@ -44,5 +44,12 @@ list.sort(key=operator.itemgetter(0))&#x20;
 
 list.sort(key = lamda a : a\[0])   #example for lamda function
 
+delete last element from list, either **list.pop()** or **del list\[-1]**
 
+## Random Number
 
+import random
+
+random.randint(start, end) - return a random int from start to end (both inclusive)
+
+random.choice(list) - Returns a random element from the given sequence
