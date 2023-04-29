@@ -1,6 +1,11 @@
 # Table of contents
 
 * [Read Me](README.md)
+* [Data Structures](data-structures/README.md)
+  * [Priority Queue](data-structures/priority-queue.md)
+  * [Stack](data-structures/stack/README.md)
+    * [Monotonic Stack](data-structures/stack/monotonic-stack.md)
+  * [LinkedHashMap / OrderedDict](data-structures/linkedhashmap-ordereddict.md)
 * [Python Note](readme-1.md)
 * [Useful Java Structures](useful-java-structures.md)
 * [Dynamic Programming](dynamic-programming/README.md)
@@ -9,7 +14,6 @@
 * [Two Pointers](two-pointers.md)
 * [Transform and Conquer](transform-and-conquer.md)
   * [Counting Subarray](transform-and-conquer/counting-subarray.md)
-* [Monotonic Stack](testing.md)
 * [Sorting](sorting/README.md)
   * [The Basics](sorting/the-basics.md)
   * [Quick Sort](sorting/quick-sort.md)
@@ -22,4 +26,3 @@
 
 * [Binary Search](searching/binary-search.md)
 * [Deep-First-Search(DFS)](searching/deep-first-search-dfs.md)
-* [Priority Queue](searching/sea.md)
