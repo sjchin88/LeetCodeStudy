@@ -1,4 +1,14 @@
-# Priority Queue
+# Priority Queue / Heap
+
+## Running Time
+
+heapify = O(n)
+
+insertion/deletion = O (log n)&#x20;
+
+top = O(1)
+
+## Java
 
 Java Priority Queue implementation. [https://www.freecodecamp.org/news/priority-queue-implementation-in-java/](https://www.freecodecamp.org/news/priority-queue-implementation-in-java/)
 

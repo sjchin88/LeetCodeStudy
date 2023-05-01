@@ -2,7 +2,7 @@
 
 * [Read Me](README.md)
 * [Data Structures](data-structures/README.md)
-  * [Priority Queue](searching/sea.md)
+  * [Priority Queue / Heap](data-structures/priority-queue-heap.md)
   * [Stack](data-structures/stack/README.md)
     * [Monotonic Stack](testing.md)
   * [LinkedHashMap / OrderedDict](data-structures/linkedhashmap-ordereddict.md)

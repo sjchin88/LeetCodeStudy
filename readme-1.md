@@ -48,6 +48,8 @@ list.sort(key = lamda a : a\[0])   #example for lamda function
 
 delete last element from list, either **list.pop()** or **del list\[-1]**
 
+&#x20;**list.pop(**<mark style="color:blue;">**i**</mark>**)** - remove element at index i, if not specified, remove the last element
+
 ## Random Number
 
 import random
