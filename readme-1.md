@@ -50,6 +50,8 @@ delete last element from list, either **list.pop()** or **del list\[-1]**
 
 &#x20;**list.pop(**<mark style="color:blue;">**i**</mark>**)** - remove element at index i, if not specified, remove the last element
 
+For **tuple ,** the default comparator will compare the first element, then the second element and so forth
+
 ## Random Number
 
 import random
