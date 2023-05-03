@@ -76,6 +76,12 @@ Ord(char) – to get the ascii key value of the character
 
 Chr (value) – to get the character of the corresponding ascii key.
 
+## **ZIP**
+
+combine two lists together, example a = \[1, 2, 3], b = \[a, b, c]&#x20;
+
+list(zip (a, b)) = \[(1, a), (2, b), (3, c)]
+
 ## Python DataStructures
 
 ### HashSet()
@@ -196,5 +202,18 @@ o   Queue.popleft() >> delete an argument from the left end of the dequeue
 * heap\[0]  #return top of the list
 
 
+
+## Function
+
+```python
+def func(a, *args, b=None, **kwargs):
+    """
+    :param a: position argument
+    :param args: variable arguments (also a tuple)
+    :param b: default argument
+    :param kwargs: variable for named args (also a dict)
+    """
+    return None
+```
 
 ·      &#x20;
