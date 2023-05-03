@@ -40,15 +40,23 @@ list1 = list2 will return a shallow copy&#x20;
 
 list.sort() return none type
 
-List.sort(reverse = True) - sort the list by default key using reverse
+List.sort(reverse = True) / List.reverse()- sort the list by default key using reverse
 
 list.sort(key=operator.itemgetter(0))&#x20;
 
 list.sort(key = lamda a : a\[0])   #example for lamda function
 
+list.count(object) - count the occurrence of an object in the list, O(n)
+
+list.index(object) - return the index of the first occurrence of the object, O(n)
+
+list.extend(seq)&#x20;
+
 delete last element from list, either **list.pop()** or **del list\[-1]**
 
-&#x20;**list.pop(**<mark style="color:blue;">**i**</mark>**)** - remove element at index i, if not specified, remove the last element
+&#x20;**list.pop(**<mark style="color:blue;">**i**</mark>**)** - remove the element at index i, if not specified, remove the last element, return
+
+list.remove(obj) - remove the first occurrence of the object
 
 For **tuple ,** the default comparator will compare the first element, then the second element and so forth
 
