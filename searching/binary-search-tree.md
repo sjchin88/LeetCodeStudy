@@ -56,3 +56,50 @@ def inorder_traversal(root: Optional[TreeNode]) -> List[int]:
     # if the right branch is null, the while loop will pop the next item from the stack
     return result
 ```
+
+## Inserting new node
+
+```python
+// Some code
+def insertIntoBST(self, root: Optional[TreeNode], val: int) -> Optional[TreeNode]:
+        if not root:
+            return TreeNode(val)
+        parent = root
+        curr = root
+        while curr:
+            parent = curr
+            if curr.val < val: 
+                curr = curr.right
+            else:
+                curr = curr.left
+        if parent.val < val:
+            parent.right = TreeNode(val)
+        else:
+            parent.left = TreeNode(val)
+        return root
+```
+
+## Deleting Node
+
+```python
+// Some code
+def deleteNode(self, root: Optional[TreeNode], key: int) -> Optional[TreeNode]:
+        if not root:
+            return root
+        if root.val == key:
+            if not root.left:
+                return root.right
+            elif not root.right:
+                return root.left
+            else:
+                successor = root.right
+                while successor.left:
+                    successor = successor.left
+                root.val = successor.val
+                root.right = self.deleteNode(root.right, successor.val)
+        elif root.val < key:
+            root.right = self.deleteNode(root.right, key)
+        else:
+            root.left = self.deleteNode(root.left, key)
+        return root
+```
