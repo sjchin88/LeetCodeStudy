@@ -11,8 +11,8 @@ def search(self, nums, target):
     while start <= end:
         mid = start + (end - start)//2
         if f(mid):
-            check = mid
-            return check
+            find = mid
+            return find # if there is only one possible answer
         elif f(mid) < target:
             start = mid + 1
         else:
@@ -23,6 +23,9 @@ def search(self, nums, target):
 &#x20;  **Corner cases:**&#x20;
 
 1. len(nums) == 1, the first loop will check mid == start == end, the second loop will terminate as the start is guarantee > end
+2. What if we need to compare with the number next to mid? Example: finding the peak element. we can add the boundary check in f(mid), and by using **find** to record the previously found value, we can safely discard the search place before/after mid (including mid), if there is no other valid answer remaining, then **find will still record the valid answer found previously**.&#x20;
+
+
 
 **Practice Questions (Easy)**
 
