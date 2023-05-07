@@ -25,3 +25,11 @@ Practise:
 Practise:
 
 515 [https://www.lintcode.com/problem/515/](https://www.lintcode.com/problem/515/)
+
+## Dividing Type
+
+1. Calculate how many possible ways to divide an array
+
+Practise
+
+512 [https://www.lintcode.com/problem/512/](https://www.lintcode.com/problem/515/)
