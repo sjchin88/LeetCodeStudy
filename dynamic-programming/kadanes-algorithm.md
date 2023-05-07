@@ -18,3 +18,5 @@ Problems:
 
 
 2272\. Substring With Largest Variance (Hard) [https://leetcode.com/problems/substring-with-largest-variance/](https://leetcode.com/problems/substring-with-largest-variance/)
+
+[https://www.lintcode.com/course/42](https://www.lintcode.com/course/42)
