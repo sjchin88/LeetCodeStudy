@@ -33,3 +33,8 @@ Practise:
 Practise
 
 512 [https://www.lintcode.com/problem/512/](https://www.lintcode.com/problem/515/)
+
+## Potential Space Optimization
+
+1. For 2-D matrix dp, if the new row value only depends on the previous row value
+2. For 1-D dp, if the new position value only depends on the previous position(s)
