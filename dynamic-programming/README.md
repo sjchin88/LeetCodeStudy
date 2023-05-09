@@ -29,8 +29,11 @@ Practise:
 ## Dividing Type
 
 1. Calculate how many possible ways to divide an array
+2. To minimize the max sum of subarray by dividing an array with max k portions (note binary search of potential solution could be faster)
 
 Practise
+
+410 Split Array Largest Sum [https://leetcode.com/problems/split-array-largest-sum/](https://leetcode.com/problems/split-array-largest-sum/)
 
 512 [https://www.lintcode.com/problem/512/](https://www.lintcode.com/problem/515/)
 
