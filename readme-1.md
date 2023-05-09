@@ -46,6 +46,12 @@ list.sort(key=operator.itemgetter(0))&#x20;
 
 list.sort(key = lamda a : a\[0])   #example for lamda function
 
+### **Secondary sorting**&#x20;
+
+list.sort(key = **lamda** a : ( a\[0], a\[1] ))   #this sort first by a\[0] then by a\[1],&#x20;
+
+list.sort(key = **lamda** a : ( a\[0], <mark style="color:red;">**-**</mark> a\[1] ))  # if we want to sort a\[0] by increasing order then a\[1] in reverse order
+
 list.count(object) - count the occurrence of an object in the list, O(n)
 
 list.index(object) - return the index of the first occurrence of the object, O(n)
