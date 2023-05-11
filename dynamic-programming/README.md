@@ -35,6 +35,8 @@ Practise
 
 87 (very hard) Scrambling String [https://leetcode.com/problems/scramble-string/submissions/](https://leetcode.com/problems/scramble-string/submissions/)
 
+312 Burst Ballon [https://leetcode.com/problems/burst-balloons/submissions/](https://leetcode.com/problems/burst-balloons/submissions/)
+
 410 Split Array Largest Sum [https://leetcode.com/problems/split-array-largest-sum/](https://leetcode.com/problems/split-array-largest-sum/)
 
 512 [https://www.lintcode.com/problem/512/](https://www.lintcode.com/problem/515/)
