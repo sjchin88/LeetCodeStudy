@@ -33,6 +33,8 @@ Practise:
 
 Practise
 
+87 (very hard) Scrambling String [https://leetcode.com/problems/scramble-string/submissions/](https://leetcode.com/problems/scramble-string/submissions/)
+
 410 Split Array Largest Sum [https://leetcode.com/problems/split-array-largest-sum/](https://leetcode.com/problems/split-array-largest-sum/)
 
 512 [https://www.lintcode.com/problem/512/](https://www.lintcode.com/problem/515/)
