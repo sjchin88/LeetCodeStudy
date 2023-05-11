@@ -37,6 +37,18 @@ Practise
 
 512 [https://www.lintcode.com/problem/512/](https://www.lintcode.com/problem/515/)
 
+## Game Type
+
+Often involved two players playing a game, trying to determine the optimum strategy
+
+The outcome of optimum strategy is often  f(n) = gain - f(n - 1) , gain = gain at this step,&#x20;
+
+f(n - 1) = optimum strategy minus off the step&#x20;
+
+Practise
+
+396 [https://www.lintcode.com/problem/396/](https://www.lintcode.com/problem/396/)
+
 ## Potential Space Optimization
 
 1. For 2-D matrix dp, if the new row value only depends on the previous row value
