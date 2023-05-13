@@ -1,8 +1,4 @@
-# Two Pointers
-
-## Fast/Slow pointer (same direction)
-
-## Sliding Window (Concept)
+# Sliding Window
 
 This concept is efficient when we want to find a contiguous subarray(or substring) with specified conditions.&#x20;
 
