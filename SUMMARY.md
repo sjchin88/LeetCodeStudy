@@ -15,7 +15,7 @@
   * [KnapSack Problem](dynamic-programming/knapsack-problem.md)
   * [Manacher’s Algorithm](dynamic-programming/manachers-algorithm.md)
   * [Prefix Sum](dynamic-programming/prefix-sum.md)
-* [Two Pointers](two-pointers/README.md)
+* [Two Pointers](two-pointers.md)
   * [Pointers in opposite direction](two-pointers/pointers-in-opposite-direction.md)
   * [Fast/Slow pointer (same direction)](two-pointers/fast-slow-pointer-same-direction.md)
   * [Sliding Window](two-pointers/sliding-window.md)
