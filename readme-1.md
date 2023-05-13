@@ -24,6 +24,10 @@ str.isalpha()
 
 **str.split**(delim, <mark style="color:blue;">maxsplit = string.count(str)</mark>) - if max split is given, at most max number of split is done
 
+str.lower() -> convert all characters to lowercase
+
+str.upper() -> convert all characters to uppercase
+
 ## Sequence Operation (include list\[] , tuples ( , ) and String)
 
 indexing
@@ -211,7 +215,13 @@ o   Queue.popleft() >> delete an argument from the left end of the dequeue
 
 collections.Counters(\[_iterable-or-mapping_]) return a dict contains the occurrence counts for the elements
 
+## math
 
+math.inf -> return the maximum number
+
+math.floor(x) -> get the floor for float number x
+
+math.ceil(x) -> get the ceiling for float number x
 
 ## Function
 
