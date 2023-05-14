@@ -19,7 +19,7 @@
   * [Pointers in opposite direction](two-pointers/pointers-in-opposite-direction.md)
   * [Fast/Slow pointer (same direction)](two-pointers/fast-slow-pointer-same-direction.md)
   * [Sliding Window](two-pointers/sliding-window.md)
-  * [Monotonic stack](two-pointers/monotonic-stack.md)
+  * [Monotonic Queue/Stack](two-pointers/monotonic-queue-stack.md)
 * [Transform and Conquer](transform-and-conquer.md)
   * [Counting Subarray](transform-and-conquer/counting-subarray.md)
 * [Sorting](sorting/README.md)

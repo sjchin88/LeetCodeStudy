@@ -1,8 +1,8 @@
-# Monotonic stack
+# Monotonic Queue/Stack
 
 ## Property
 
-* All elements on the stack are strictly increasing or decreasing&#x20;
+* All elements on the queue/stack are strictly increasing or decreasing&#x20;
 * Allow finding of previous smaller/larger element in O(1) time
 * Python deque structure can be used to access the bottom (left) of the stack in O(1) -> Useful if we need to maintain and keep the order for k elements&#x20;
 
