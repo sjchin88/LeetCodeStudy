@@ -29,6 +29,7 @@
   * [Insertion Sort](sorting/insertion-sort.md)
   * [Bubble Sort](sorting/bubble-sort.md)
   * [Selection Sort](sorting/selection-sort.md)
+* [Useful Mathematics](useful-mathematics.md)
 
 ## Searching
 
