@@ -124,6 +124,10 @@ Clear the HashSet
 
 o   Hashset.clear()
 
+#### Set Operations
+
+<figure><img src=".gitbook/assets/set Operation.JPG" alt=""><figcaption></figcaption></figure>
+
 ### HashMap() / Dict()
 
 Initialize a hashmap
@@ -236,4 +240,4 @@ def func(a, *args, b=None, **kwargs):
     return None
 ```
 
-·      &#x20;
+·       C
