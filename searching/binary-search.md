@@ -63,10 +63,40 @@ Solving idea :&#x20;
 1. Convert questions to find the kth of two sorted arrays. If the total is odd, find k = total//2 + 1. If the total is even, find average of k = total //2 and k = total // 2 + 1
 2. For finding kth :&#x20;
    * Check edge cases (a at the end or b at the end or k == 1)
-   *   binary search by trying to discard half of the a or b
+   * binary search by trying to discard half of the a or b
+     * a = a\[mid]  if a\[idx\_a + k//2] else math.inf
+     * b = b\[mid]  if b\[idx\_b + k//2] else math.inf
+     * compared a and b and discard the smaller one
 
-       * a = a\[mid]  if a\[idx\_a + k//2] else math.inf
-       * b = b\[mid]  if b\[idx\_b + k//2] else math.inf
-       * compared a and b and discard smaller one
-
-       ff
+```python
+class Solution:
+    def findMedianSortedArrays(self, nums1: List[int], nums2: List[int]) -> float:
+        n = len(nums1)+len(nums2)
+        if n%2==1:
+            return self.findKth(nums1, 0, nums2, 0, n//2 + 1)
+        else:
+            return (self.findKth(nums1, 0, nums2, 0, n//2) + self.findKth(nums1, 0, nums2, 0, n//2+1))/2
+    
+    def findKth (self, nums1:List[int], aStart:int, nums2:list[int], bStart:int, k:int) ->int:
+        #base case
+        if aStart >= len(nums1):
+            return nums2[bStart+k-1]
+        elif bStart >= len(nums2):
+            return nums1[aStart+k-1]
+        elif k == 1:
+            return min(nums1[aStart], nums2[bStart])
+        
+        #Recursive case
+        midA = math.inf
+        midB = math.inf
+        if aStart+k//2-1 < len(nums1):
+            midA = nums1[aStart+k//2-1]
+            
+        if bStart+ k//2-1 < len(nums2):
+            midB = nums2[bStart+ k//2-1]
+            
+        if midA < midB:
+            return self.findKth(nums1, aStart+k//2, nums2, bStart, k-k//2)
+        else:
+            return self.findKth(nums1, aStart, nums2, bStart+k//2, k-k//2)
+```
