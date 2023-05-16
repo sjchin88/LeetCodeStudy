@@ -57,3 +57,16 @@ def search(self, nums, target):
 **Practice Questions (Hard)**
 
 4\. Median of Two Sorted Arrays [https://leetcode.com/problems/median-of-two-sorted-arrays/](https://leetcode.com/problems/median-of-two-sorted-arrays/)
+
+Solving idea :&#x20;
+
+1. Convert questions to find the kth of two sorted arrays. If the total is odd, find k = total//2 + 1. If the total is even, find average of k = total //2 and k = total // 2 + 1
+2. For finding kth :&#x20;
+   * Check edge cases (a at the end or b at the end or k == 1)
+   *   binary search by trying to discard half of the a or b
+
+       * a = a\[mid]  if a\[idx\_a + k//2] else math.inf
+       * b = b\[mid]  if b\[idx\_b + k//2] else math.inf
+       * compared a and b and discard smaller one
+
+       ff
