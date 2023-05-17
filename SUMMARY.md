@@ -35,5 +35,9 @@
 
 * [Binary Search](searching/binary-search.md)
 * [Binary Search Tree](searching/binary-search-tree.md)
-* [Breadth First Search](searching/breadth-first-search.md)
+* [Breadth First Search](searching/breadth-first-search/README.md)
+  * [Shortest Path Algorithms](searching/breadth-first-search/shortest-path-algorithms/README.md)
+    * [Bellman-Ford](searching/breadth-first-search/shortest-path-algorithms/bellman-ford.md)
+    * [Shortest Path Fast Algorithm](searching/breadth-first-search/shortest-path-algorithms/shortest-path-fast-algorithm.md)
+    * [Dijkstra’s Algorithm](searching/breadth-first-search/shortest-path-algorithms/dijkstras-algorithm.md)
 * [Deep-First-Search(DFS)](searching/deep-first-search-dfs.md)
