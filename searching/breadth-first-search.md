@@ -77,7 +77,7 @@ def bfs():
 // BFS Basic version (Java)
 public void bfs(){
     //Initialize the queue and visited set
-    Queue<Type> queue = new LinkedList<>();
+    Queue<Type> queue = new ArrayDeque<>();
     Set<Type> visited = new HashSet<>();
     
     //Put in the starting node
@@ -153,7 +153,7 @@ def bfs():
 // BFS Advance version 1 Java
 public void bfs(){
     //Initialize the queue and visited set
-    Queue<Type> queue = new LinkedList<>();
+    Queue<Type> queue = new ArrayDeque<>();
     Set<Type> visited = new HashSet<>();
     
     //Put in the starting node
@@ -228,7 +228,7 @@ def bfs():
 
 public void bfs(){
     //Initialize the queue and visited set
-    Queue<Type> queue = new LinkedList<>();
+    Queue<Type> queue = new ArrayDeque<>();
     Map<Type, Integer> distMap = new HashMap<>();
     
     //Put in the starting node
