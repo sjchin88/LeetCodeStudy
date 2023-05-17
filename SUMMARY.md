@@ -35,4 +35,5 @@
 
 * [Binary Search](searching/binary-search.md)
 * [Binary Search Tree](searching/binary-search-tree.md)
+* [Breadth First Search](searching/breadth-first-search.md)
 * [Deep-First-Search(DFS)](searching/deep-first-search-dfs.md)
