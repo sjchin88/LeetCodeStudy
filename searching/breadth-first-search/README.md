@@ -31,6 +31,17 @@
   * [https://www.lintcode.com/problem/794/](https://www.lintcode.com/problem/794/)
   * 773 Sliding Puzzle [https://leetcode.com/problems/sliding-puzzle/](https://leetcode.com/problems/sliding-puzzle/)
 
+### Use heap in place of the queue for shortest path problem
+
+* explore the extension from the known shortest path first
+* Reducing time & space complexity
+* Practice:&#x20;
+  * 499 The Maze III [https://leetcode.com/problems/the-maze-iii/](https://leetcode.com/problems/the-maze-iii/)
+    * Keys :&#x20;
+    * Store the shortest distance and **lexicographically minimum path in as a tuple in a dict.** Guarantee to keep the shortest distance or minimum path among the shortest distance
+    * Use a heap in place of a queue for bfs&#x20;
+    * Roll till the end and check the endpoint only&#x20;
+
 
 
 
