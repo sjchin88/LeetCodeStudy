@@ -4,9 +4,9 @@
 
 binary tree (or tree) problem
 
-combination problem
+combination problem - Finding all possible solutions
 
-permutation problem
+permutation problem - Finding all permutations
 
 ## Algorithm Template
 
