@@ -34,7 +34,60 @@ def dfs_backtrack(candidates, index, temp, result):
 
 ```
 
+### Preorder Traversal
 
+```python
+# Definition for a binary tree node.
+# class TreeNode:
+#    def __init__(self, val=0, left=None, right=None):
+#        self.val = val
+#        self.left = left
+#        self.right = right
+class Solution:
+    def preorder_traversal(self, root: Optional[TreeNode]) -> List[int]:
+        result = []
+        stack = []
+        stack.append(curr)
+        while stack:
+            curr = stack.pop()
+            # append curr node when it is popped
+            result.append(curr.val)
+            # put the right node into the stack first as we want it to come out 
+            # after the left node
+            if curr.right:
+                stack.append(curr.right)
+            if curr.left:
+                stack.append(curr.left)
+        return result
+```
+
+### Inorder Traversal
+
+```python
+# Definition for a binary tree node.
+# class TreeNode:
+#     def __init__(self, val=0, left=None, right=None):
+#         self.val = val
+#         self.left = left
+#         self.right = right
+class Solution:
+    def inorderTraversal(self, root: Optional[TreeNode]) -> List[int]:
+        result = []
+        stack = []
+        curr = root
+        while curr or stack:
+            # Keeping going left until the end
+            while curr:
+                stack.append(curr)
+                curr = curr.left
+            # pop the stack and append the value into results
+            curr = stack.pop()
+            result.append(curr.val)
+            # Go right once, if the right is null, next itr will skip going left and 
+            # Continue backtrack to the previous parent
+            curr = curr.right
+        return result
+```
 
 Can be done using stack or recursion
 
