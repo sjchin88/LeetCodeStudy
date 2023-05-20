@@ -1,5 +1,39 @@
 # Deep-First-Search(DFS)
 
+## Application
+
+binary tree (or tree) problem
+
+combination problem
+
+permutation problem
+
+## Algorithm Template
+
+### Back Tracking
+
+```python
+// Some code
+def dfs_backtrack(candidates, index, temp, result):
+	# found solution satisfies required condition
+	if index == len(candidates) || other conditions:
+		#record result, if the temp is list need to make a deep copy
+		result.append(temp)
+	
+	# iterate all possible candidates
+	for next_candidate in candidates:
+		#try this partial candidate solution
+		temp.append(candidate)
+		#update remaining required conditions
+		index = index + 1
+		self.dfs_backtrack(candidate, index, temp, result)
+		#back track, use pop() for fastest removal
+		temp.pop()
+
+```
+
+
+
 Can be done using stack or recursion
 
 Problems:

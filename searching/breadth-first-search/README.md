@@ -6,6 +6,7 @@
 * Topological sorting
 * Search by layer / Traveling by layer of a tree (Binary Tree)
 * Simple graph shortest path
+* Finding the longest diameter in binary / N-ary tree (use double BFS, first BFS find the first end, second BFS starting from the first end to find the second end)
 
 ## Complexity
 
