@@ -2,9 +2,11 @@
 
 ## String Operation
 
+Python string is an immutable array. Swapping characters inside will incur O(n) where n = length of String. For more efficient operation consider using array instead of string
+
 blue - optional argument, note start idx (inclusive) - end idx (exclusive)
 
-**str.join**(iterable): join all elements in the iterable with str. Example: "".join(\[1, 2]) become 12
+**str. join**(iterable): join all elements in the iterable with str. Example: "".join(\[1, 2]) become 12
 
 **str.capitalize()**
 
