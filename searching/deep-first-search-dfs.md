@@ -8,6 +8,8 @@ combination problem - Finding all possible solutions
 
 permutation problem - Finding all permutations
 
+Note if the target is just to count the number of solution/ permutation, dp could be better&#x20;
+
 ## Algorithm Template
 
 ### Back Tracking
