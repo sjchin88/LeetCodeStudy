@@ -10,6 +10,14 @@ permutation problem - Finding all permutations
 
 Note if the target is just to count the number of solution/ permutation, dp could be better&#x20;
 
+## Things to note
+
+1. Think carefully about how to store the state of the visited node (for example, the N-Queens problem)
+2. Need to consider pruning early as soon as we found the result. (for example, [https://www.lintcode.com/problem/570](https://www.lintcode.com/problem/570))
+3. Try 301 , [https://leetcode.com/problems/remove-invalid-parentheses/](https://leetcode.com/problems/remove-invalid-parentheses/)
+
+
+
 ## Algorithm Template
 
 ### Back Tracking
@@ -118,7 +126,7 @@ class Solution:
 
 Can be done using stack or recursion
 
-Problems:
+## Practice Problems
 
 
 
@@ -129,3 +137,7 @@ Problems:
 695\. Max Area of Island [https://leetcode.com/problems/max-area-of-island/](https://leetcode.com/problems/max-area-of-island/)
 
 417\. Pacific Atlantic Water Flow [https://leetcode.com/problems/pacific-atlantic-water-flow/](https://leetcode.com/problems/pacific-atlantic-water-flow/)
+
+### Hard
+
+51 N-Queens [https://leetcode.com/problems/n-queens/](https://leetcode.com/problems/n-queens/)
