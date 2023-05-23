@@ -1,4 +1,4 @@
-# Trie
+# Trie (Prefix Tree)
 
 ## **Application**
 
