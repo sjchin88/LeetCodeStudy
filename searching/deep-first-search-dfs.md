@@ -16,7 +16,20 @@ Note if the target is just to count the number of solution/ permutation, dp coul
 2. Need to consider pruning early as soon as we found the result. (for example, [https://www.lintcode.com/problem/570](https://www.lintcode.com/problem/570))
 3. Try 301 , [https://leetcode.com/problems/remove-invalid-parentheses/](https://leetcode.com/problems/remove-invalid-parentheses/)
 
+## Solving Steps
 
+1. Determine exit conditions for the DFS call
+2. Determine the possible options to loop through in one iteration
+   1. Think of the information you need. Most often is the **index of a list** to start looking for possible choices
+   2. Additional index of target list may required
+3. When using a list / set to record the previous choices, for each option of this choice
+   1. temporary add the option into the list/set,&#x20;
+   2. perform DFS on the next choice
+   3. on the previous DFS return, remove the option just now to clean the list/set for the next option for this choice
+4. Think of possible optimizations to fast up the process:
+   1. Use of Set() / Dict ()
+   2. Use of Trie&#x20;
+   3. Use of Prefix
 
 ## Algorithm Template
 
