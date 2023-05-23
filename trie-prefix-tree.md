@@ -8,6 +8,10 @@
 
 
 
+## Things to Note:
+
+1. In normal TrieNode, look to modify the variable to suit the problem (like adding a self.count for all words )
+
 ## Algorithm&#x20;
 
 ### TrieNode & Trie (Python)
