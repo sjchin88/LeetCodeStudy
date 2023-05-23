@@ -26,7 +26,7 @@ dp \[ day ] \[ used\_buy\_transaction ] \[ 1 ] = dp \[ day - 1 ] \[ used\_buy\_t
 
 set dp\[0]\[0]\[0] as 0 , and the rests as - math.inf  ( so that on day 1 the best option is to buy the stock as starting point . See illustration belows
 
-<figure><img src="../.gitbook/assets/illustration.JPG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/illustration.JPG" alt=""><figcaption></figcaption></figure>
 
 
 

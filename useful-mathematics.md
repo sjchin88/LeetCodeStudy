@@ -26,4 +26,6 @@ number of possible arrangements in a collection of items where the **order of th
 
 When orders matter
 
-Formula , P(n, r) = n! / (n - r)!
+Formula , P(n, r) = n! / (n - r)!&#x20;
+
+r = item taken for permutations
