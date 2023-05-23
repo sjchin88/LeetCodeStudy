@@ -16,4 +16,14 @@ Practise
 
 ## Combinations
 
+number of possible arrangements in a collection of items where the **order of the selection does not matter**
+
+**Formula：** C(n, k) = (n , k) = n! / ((n - k) ! \* k !)
+
+
+
 ## Permutations
+
+When orders matter
+
+Formula , P(n, r) = n! / (n - r)!
