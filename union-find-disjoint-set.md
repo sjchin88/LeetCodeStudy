@@ -67,6 +67,12 @@ class UnionFind:
             self.parents[root_x] = root_y
             self.num_sets -= 1
             self.set_sizes[root_y] = self.set_sizes[root_x] + self.set_sizes[root_y]
+    
+    def get_set_size(self, x):
+        root = self.find(x)
+        if root == null:
+            return 0
+        return self.set_sizes[self.find(x)]
         
         
 ```
