@@ -17,6 +17,8 @@ and if there is any cycle when want to add new edges
 
 ## Algorithm Template
 
+### Basic Version (Python)
+
 ```python
 # Template for union find
 class UnionFind:
@@ -56,8 +58,68 @@ class UnionFind:
         self.insert(y)
         root_x = self.find(x)
         root_y = self.find(y)
-        self.parents[root_x] = root_y
+        #Very Important to avoid self-pointing at root
+        if root_x != root_y:
+            self.parents[root_x] = root_y
         
         
+```
+
+### Basic Version (Java)
+
+```java
+// Some code
+class UnionFind(){
+    public Map<Integer, Integer> parents;
+    public UnionFind(){
+        this.parents = new HashMap<>();
+    }
+    
+    public void insert(int x){
+        if (this.parents.containsKey(x)){
+            return;
+        }
+        this.parents.put(x, null);
+    }
+    
+    public int find(int x){
+        if (!this.parents.containsKey(x)){
+            return null
+        }
+        int root = x
+        while (this.parents.get(root) != null){
+            root = this.parents.get(root);
+        }
+        
+        //update the parent along the chain to compress for next time
+        int curr = x
+        while (curr != root){
+            int oriParent = this.parents.get(curr);
+            this.parents.put(curr, root);
+            curr = oriParent;
+        }
+        return root
+    }
+    
+    public boolean isConnected(int x, int y){
+        int root_x = this.find(x);
+        int root_y = this.find(y);
+        if (root_x == null or root_y == null){
+            return false;
+        }
+        return (root_x == root_y);
+    }
+    
+    public void addEdge(int x, int y){
+        this.insert(x);
+        this.insert(y);
+        int root_x = this.find(x);
+        int root_y = this.find(y);
+        if (root_x != root_y){
+            this.parents.put(root_x, root_y);
+        }
+    }
+
+}
 ```
 
