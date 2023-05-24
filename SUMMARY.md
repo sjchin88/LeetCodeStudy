@@ -31,6 +31,7 @@
   * [Insertion Sort](sorting/insertion-sort.md)
   * [Bubble Sort](sorting/bubble-sort.md)
   * [Selection Sort](sorting/selection-sort.md)
+* [Union Find / Disjoint Set](union-find-disjoint-set.md)
 * [Useful Mathematics](useful-mathematics.md)
 
 ## Searching
