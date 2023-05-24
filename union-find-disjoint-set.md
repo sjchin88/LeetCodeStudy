@@ -24,11 +24,15 @@ and if there is any cycle when want to add new edges
 class UnionFind:
     def __init__(self):
         self.parents = {}
+        self.set_sizes = {}
+        self.num_sets = 0
     
     def insert(self, x):
         if x in self.parents:
             return
         self.parents[x] = None
+        self.set_sizes[x] = 1
+        self.num_sets += 1
     
     def find(self, x):
         if x not in self.parents:
@@ -61,6 +65,8 @@ class UnionFind:
         #Very Important to avoid self-pointing at root
         if root_x != root_y:
             self.parents[root_x] = root_y
+            self.num_sets -= 1
+            self.set_sizes[root_y] = self.set_sizes[root_x] + self.set_sizes[root_y]
         
         
 ```
