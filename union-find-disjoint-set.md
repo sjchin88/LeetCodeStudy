@@ -135,3 +135,147 @@ class UnionFind(){
 }
 ```
 
+## Practice Problem
+
+### Hard
+
+803  [https://leetcode.com/problems/bricks-falling-when-hit/submissions/](https://leetcode.com/problems/bricks-falling-when-hit/submissions/)
+
+Ideas : Use Union Find in reverse order of hit. The Union Find will include a roof point (-1, -1) for others to attach to, it will record parent and set\_size information.&#x20;
+
+First, add all the remaining bricks minus the hit bricks to the union.&#x20;
+
+Second, in reverse order, add the hit brick back into the union one by one.
+
+* Skip the addition if the hit brick is not there originally (empty hit)
+* Rotate across all four directions to merge with neighbor bricks&#x20;
+* merge with roof (-1, -1) if the hit brick is at row 0
+
+The number of brick drop is then = set\_size(roof) before\_hit - set\_size(roof) after\_hit - 1
+
+Add the hit brick back into the remain
+
+```python
+// Some code
+#Normal Union Find structure, 
+class UnionFind:
+    
+    # To avoid bugs
+    # Insert roof at the beginning
+    # Note the parent of roof may point to other points
+    def __init__(self):
+        self.parents = {}
+        self.set_size = {}
+        self.insert((-1, -1))
+    
+    def insert(self, x):
+        if x not in self.parents:
+            self.parents[x] = None
+            self.set_size[x] = 1
+    
+    def find(self, x):
+        if x not in self.parents:
+            return None
+        
+        root = x
+        while self.parents[root] != None:
+            root = self.parents[root]
+        
+        curr = x
+        while curr != root:
+            ori_parent = self.parents[curr]
+            self.parents[curr] = root
+            curr = ori_parent
+        return root
+    
+    def merge(self, x, y):
+        self.insert(x)
+        self.insert(y)
+        root_x = self.find(x)
+        root_y = self.find(y)
+        if root_x != root_y:
+            if self.set_size[root_x] > self.set_size[root_y]:
+                self.merge(y, x)
+                return 
+            self.parents[root_x] = root_y
+            self.set_size[root_y] += self.set_size[root_x]
+        
+    def get_size(self, x):
+        return self.set_size[self.find(x)]
+
+
+
+import copy
+class Solution:
+    def hitBricks(self, grid: List[List[int]], hits: List[List[int]]) -> List[int]:
+        
+        # Get the remaining bricks after hit
+        remain = copy.deepcopy(grid)
+        for row, col in hits:
+            remain[row][col] = 0
+        
+        uf = UnionFind()
+        
+        # stick the bricks to the wall or together with top and left brick
+        for r, rows in enumerate(remain):
+            for c, val in enumerate(rows):
+                if val == 1:
+                    if r == 0:
+                        uf.merge((-1, -1), (r, c))
+                    if r > 0 and remain[r-1][c] == 1:
+                        uf.merge((r, c), (r-1, c))
+                    if c > 0 and remain[r][c - 1] == 1:
+                        uf.merge((r, c), (r, c-1))
+        
+        # Starting from reverse, add the hit brick back one by one
+        ans = []
+        
+        for row, col in reversed(hits):
+            # skip if original brick is empty
+            if grid[row][col] == 0:
+                ans.append(0)
+                continue
+                
+            # get size after hit
+            after_hit = uf.get_size((-1, -1))
+
+            # iterate through possible next 
+            for brick in self.next_bricks(row, col, remain):
+                uf.merge((row, col), brick)
+            
+            # Get size before hit and add the hit brick back to remain
+            before_hit = uf.get_size((-1, -1))
+            ans.append(max(0, before_hit - after_hit - 1))
+            remain[row][col] = 1
+        
+        # remember to reverse the answer
+        return ans[::-1]
+            
+    def next_bricks(self, row, col, grid: List[List[int]]):
+        directions = [(-1, 0), (1, 0), (0, -1), (0, 1)]
+        row_limit = len(grid)
+        col_limit = len(grid[0])
+        next_brick = []
+        
+        # default to roof (-1, -1) if row == 0
+        if row == 0:
+            next_brick.append((-1, -1))
+        
+        # if next position within range and contain brick
+        for dr, dc in directions:
+            new_r = row + dr
+            new_c = col + dc
+            #print(new_r, new_c)
+            if new_r < 0 or new_r >= row_limit:
+                continue
+            if new_c < 0 or new_c >= col_limit:
+                continue
+            if grid[new_r][new_c] == 0:
+                continue
+            next_brick.append((new_r, new_c))
+
+        return next_brick
+```
+
+
+
