@@ -52,6 +52,10 @@ list.sort(key=operator.itemgetter(0))&#x20;
 
 list.sort(key = lamda a : a\[0])   #example for lamda function
 
+listA = list(listB) - return a deep copy of listB (only work for 1-D)
+
+listA = copy.deepcopy(listB) - return a deep copy of list B (work for more than 1-D)
+
 ### **Secondary sorting**&#x20;
 
 list.sort(key = **lamda** a : ( a\[0], a\[1] ))   #this sort first by a\[0] then by a\[1],&#x20;
