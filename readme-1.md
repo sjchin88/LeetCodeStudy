@@ -76,6 +76,12 @@ list.remove(obj) - remove the first occurrence of the object
 
 For **tuple ,** the default comparator will compare the first element, then the second element and so forth
 
+### Sorted(iterable)
+
+Allows sorting of any iterable (like set(), dict())
+
+The results will returned as a new list
+
 ## Random Number
 
 import random
