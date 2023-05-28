@@ -80,7 +80,11 @@ For **tuple ,** the default comparator will compare the first element, then the 
 
 Allows sorting of any iterable (like set(), dict())
 
-The results will returned as a new list
+The results will return as a new list. For dict, only the keys are sorted and returned
+
+To sort the whole dict and keep the value, use sorted(dict.items())
+
+{% embed url="https://realpython.com/sort-python-dictionary/" %}
 
 ## Random Number
 
