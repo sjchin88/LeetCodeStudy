@@ -233,7 +233,7 @@ o   Queue.popleft() >> delete an argument from the left end of the dequeue
 
 ### collections
 
-collections.Counters(\[_iterable-or-mapping_]) return a dict contains the occurrence counts for the elements
+collections.Counter(\[_iterable-or-mapping_]) return a dict contains the occurrence counts for the elements
 
 ## math
 
