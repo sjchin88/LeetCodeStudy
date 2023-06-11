@@ -118,7 +118,8 @@ Add a new key: Hashset.add(new\_key)
 
 Remove a key:
 
-o   Hashset.remove(key)
+* Hashset.remove(key)    # will return key error if key not in the set
+* Hashset.discard(key)    # will discard key if key in the set, no key error
 
 ·Check if the key is in / not in :
 
