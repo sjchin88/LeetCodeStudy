@@ -8,6 +8,7 @@
   * [LinkedHashMap / OrderedDict](data-structures/linkedhashmap-ordereddict.md)
 * [Python Note](readme-1.md)
 * [Useful Java Structures](useful-java-structures.md)
+* [Bit Manipulation](bit-manipulation.md)
 * [Dynamic Programming](dynamic-programming/README.md)
   * [Popular DP Questions](dynamic-programming/popular-dp-questions/README.md)
     * [Best Time to Buy and Sell Stock](dynamic-programming/best-time-to-buy-and-sell-stock.md)
