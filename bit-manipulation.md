@@ -14,3 +14,12 @@ If we keep on shifting the negative number to the right, we will end up with 111
 
 [https://wiki.python.org/moin/BitwiseOperators](https://wiki.python.org/moin/BitwiseOperators)
 
+## Two-complements
+
+From Wiki
+
+[https://en.wikipedia.org/wiki/Two%27s\_complement](https://en.wikipedia.org/wiki/Two's\_complement)
+
+* How to get / isolate the rightmost 1-bit : `x & (-x)`.
+* How to turn off (= set to 0) the rightmost 1-bit : `x & (x - 1)`.
+
