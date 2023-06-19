@@ -8,19 +8,19 @@ blue - optional argument, note start idx (inclusive) - end idx (exclusive)
 
 **str. join**(iterable): join all elements in the iterable with str. Example: "".join(\[1, 2]) become 12
 
-**str.capitalize()**
+**str.capitalize()  :** Upper case the first letter
 
-**str.count**(sub, <mark style="color:blue;">begin = 0, end = len(str)</mark>)
+**str.count**(sub, <mark style="color:blue;">begin = 0, end = len(str)</mark>)  - returns the number of occurrences of a substring
 
-**str.endswith**(suffix, <mark style="color:blue;">begin = 0, end = len(str)</mark>) - return true / false
+**str.endswith**(suffix, <mark style="color:blue;">begin = 0, end = len(str)</mark>) - return true / false if the str end with suffix (a string)
 
 **str.find**(sub, <mark style="color:blue;">begin = 0, end = len(str)</mark>) - return first found, if unfound, return - 1
 
 **str.index**(sub,  <mark style="color:blue;">begin = 0, end = len(str)</mark>) - like find, return ValueError when not found
 
-str.isalnum()
+**str.isalnum()**  - returns true if all characters in the string are alphanumeric
 
-str.isalpha()
+**str.isalpha()**  - returns true if all characters in the string are alphabet
 
 **str.replace**(oldsub, newsub, <mark style="color:blue;">num = string.count(str1)</mark>) - replace first num of occurrences
 
