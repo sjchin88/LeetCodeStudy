@@ -22,61 +22,72 @@ blue - optional argument, note start idx (inclusive) - end idx (exclusive)
 
 **str.isalpha()**  - returns true if all characters in the string are alphabet
 
-**str.replace**(oldsub, newsub, <mark style="color:blue;">num = string.count(str1)</mark>) - replace first num of occurrences
+**str.replace**(oldsub, newsub, <mark style="color:blue;">num = string.count(str1)</mark>) - replace first num of occurrences of oldsub to newsub, default is to replace all
 
-**str.split**(delim, <mark style="color:blue;">maxsplit = string.count(str)</mark>) - if max split is given, at most max number of split is done
+**str.split**(delim, <mark style="color:blue;">maxsplit = string.count(str)</mark>) - if max split is given, at most max number of split is done, else default is split all
 
-str.lower() -> convert all characters to lowercase
+**str.lower()** -> convert all characters to lowercase
 
-str.upper() -> convert all characters to uppercase
+**str.upper()** -> convert all characters to uppercase
 
 ## Sequence Operation (include list\[] , tuples ( , ) and String)
 
 indexing
 
+iterating the lists:
+
+* for item in list:   (directly go through each item)
+* for i, item in enumerate(list):  (go through the index and item together)
+* for x, y in list:   (unpack the item into x and y, the elements decoupled must be exactly same as each item in the list)
+* for a\_, b\_ in zip(a, b):  (parallel iteration of list a and list b)
+
 **slicing** - list\[start : end  : <mark style="color:blue;">step</mark> ] return the list elements from start to end - 1 every step
 
 add
 
-**multiplication :** \[element] \* n = \[element, element .... element(n)]
+**multiplication :** \[element] \* n = \[element, element .... element(n)]  - useful for array initialization
 
-membership check using **in** operator
+membership check using **in** operator  - running time O(n)
 
 list1 = list2 will return a shallow copy&#x20;
-
-list.sort() return none type
-
-List.sort(reverse = True) / List.reverse()- sort the list by default key using reverse
-
-list.sort(key=operator.itemgetter(0))&#x20;
-
-list.sort(key = lamda a : a\[0])   #example for lamda function
 
 listA = list(listB) - return a deep copy of listB (only work for 1-D)
 
 listA = copy.deepcopy(listB) - return a deep copy of list B (work for more than 1-D)
 
-### **Secondary sorting**&#x20;
-
-list.sort(key = **lamda** a : ( a\[0], a\[1] ))   #this sort first by a\[0] then by a\[1],&#x20;
-
-list.sort(key = **lamda** a : ( a\[0], <mark style="color:red;">**-**</mark> a\[1] ))  # if we want to sort a\[0] by increasing order then a\[1] in reverse order
-
 list.count(object) - count the occurrence of an object in the list, O(n)
 
 list.index(object) - return the index of the first occurrence of the object, O(n)
 
-list.extend(seq)&#x20;
+list.extend(seq)  - Append items from _seq (list / tuple / set)_ to the end of the array
 
 delete last element from list, either **list.pop()** or **del list\[-1]**
 
-&#x20;**list.pop(**<mark style="color:blue;">**i**</mark>**)** - remove the element at index i, if not specified, remove the last element, return
+**list.pop(**<mark style="color:blue;">**i**</mark>**)** - remove the element at index i, if not specified, remove the last element and return it
 
 list.remove(obj) - remove the first occurrence of the object
 
-For **tuple ,** the default comparator will compare the first element, then the second element and so forth
+### Sorting
+
+**list.sort(**_**\***_**, **_<mark style="color:blue;">**key=None**</mark>_<mark style="color:blue;">**,**</mark><mark style="color:blue;">** **</mark>_<mark style="color:blue;">**reverse=False**</mark>_**)** - sort the item in place, return none type
+
+List.sort(reverse = True) / List.reverse()- sort the list by default key using reverse
+
+list.sort(key=operator.itemgetter(0))&#x20;
+
+list.sort(key = **lambda** a : a\[0])   #example for lambda function
+
+For **tuple,** the default comparator will compare the first element, then the second element, and so forth
+
+### **Secondary sorting**&#x20;
+
+list.sort(key = **lambda** a : ( a\[0], a\[1] ))   #this sort first by a\[0] then by a\[1],&#x20;
+
+list.sort(key = **lambda** a : ( a\[0], <mark style="color:red;">**-**</mark> a\[1] ))  # if we want to sort a\[0] by increasing order then a\[1] in reverse order
 
 ### Sorted(iterable)
+
+**sorted(**_**iterable**_, _/_, _\*_, _<mark style="color:blue;">key=None</mark>_, _<mark style="color:blue;">reverse=False</mark>_) - Return a new sorted list from the items in _iterable_.
 
 Allows sorting of any iterable (like set(), dict())
 
@@ -96,13 +107,13 @@ random.choice(list) - Returns a random element from the given sequence
 
 ## Python tricks
 
-collections.Counter( list ) – return the dict with the elements in the list as dictionary keys, and their counts stored as dictionary values.
+
 
 Ord(char) – to get the ascii key value of the character
 
 Chr (value) – to get the character of the corresponding ascii key.
 
-## **ZIP**
+### **ZIP**
 
 combine two lists together, example a = \[1, 2, 3], b = \[a, b, c]&#x20;
 
@@ -112,34 +123,17 @@ list(zip (a, b)) = \[(1, a), (2, b), (3, c)]
 
 ### HashSet()
 
-Initialize: HashSet = set()
-
-Add a new key: Hashset.add(new\_key)
-
-Remove a key:
-
-* Hashset.remove(key)    # will return key error if key not in the set
-* Hashset.discard(key)    # will discard key if key in the set, no key error
-
-·Check if the key is in / not in :
-
-o   If key in/not in HashSet:
-
-Get the size
-
-o   Len(HashSet)
-
-Check if empty
-
-o   If len(hashset) == 0
-
-Iterate the HashSet
-
-o   For key in HashSet:
-
-Clear the HashSet
-
-o   Hashset.clear()
+* Initialize: HashSet = set()
+* Add a new key: Hashset.add(new\_key)
+* Remove a key:
+  * Hashset.remove(key)    # will return key error if key not in the set
+  * Hashset.discard(key)    # will discard key if key in the set, no key error
+* Check if the key is in / not in : If key **in/not in** HashSet:
+* Get the size :   len(HashSet)
+  * Check if empty :  if len(HashSet) == 0:
+* Iterate the HashSet:  For key in HashSet:
+* Clear the HashSet:   Hashset.clear()
+* Update from other set     HashSet.update(\*others)
 
 #### Set Operations
 
@@ -226,15 +220,17 @@ o   Queue.popleft() >> delete an argument from the left end of the dequeue
 
 * import heapq
 * heap = \[]   # a heap is a list
-* heapq.heapify(iterable)
+* heapq.heapify(iterable)    # Turn the iterable into a heap
 * heapq.heappush(heap, item)
 * heapq.heapreplace(_heap_, _item_) - Pop and return the smallest item from the _heap_, and also push the new _item_
 * heapq.heappop(heap)
 * heap\[0]  #return top of the list
+* default sorting for heap is minimum on top, to sort with maximum on top, use negative of the number
+  * Useful to find k smallest / largest elements
 
 ### collections
 
-collections.Counter(\[_iterable-or-mapping_]) return a dict contains the occurrence counts for the elements
+collections.Counter(\[_iterable-or-mapping_]) return a dict contains the occurrence counts for the elements. The elements in the list as dictionary keys, and their counts are stored as dictionary values.
 
 ## math
 
