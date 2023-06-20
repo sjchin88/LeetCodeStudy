@@ -1,7 +1,13 @@
 # Shortest Path Fast Algorithm
 
+## Key Concepts
+
+Can use priority queue in place of queue to fasten up the search
+
+## Algorithms
+
 ```python
-// Some code
+#Original
 def shortestPathFaster(S, V):
  
     # Create a hashmap to store the shortest distance
