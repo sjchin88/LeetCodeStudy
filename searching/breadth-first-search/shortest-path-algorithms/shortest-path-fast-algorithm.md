@@ -2,7 +2,31 @@
 
 ## Key Concepts
 
-Can use priority queue in place of queue to fasten up the search
+Modified from Reference: [https://www.geeksforgeeks.org/shortest-path-faster-algorithm/](https://www.geeksforgeeks.org/shortest-path-faster-algorithm/)
+
+1. Create a **hashmap / dict** to store the shortest distance of all vertex from the source vertex. Initialize this array by infinity except for **dict\[S]** = 0 where **S** is the source vertex.
+2. Create a [queue](http://www.geeksforgeeks.org/queue-data-structure/)  **Q** and push starting source vertex in it.&#x20;
+   * while Queue is not empty, do the following for each **edge**(u, v) in the graph&#x20;
+     * If dict\[v] > dict\[u] + weight of edge(u, v)
+       * dict\[v] = dict\[u] + weight of edge(u, v)
+       * if vertex v not in the queue, push the vertex v into the Queue. (need an inQueue array / set() to keep track)
+
+**Time Complexity:** \
+**Average Time Complexity:** O(|E|) \
+**Worst case Time Complexity**: O(|V|.|E|)&#x20;
+
+Can use a priority queue / min\_heap in place of the queue to fasten up the search.&#x20;
+
+1. Same as previous
+2. Create a priority queue / min\_heap and push (0, S) in it
+   * while pq/heap not empty, do the following for each edge(u, v) in the graph
+     * If dict\[v] > dict\[u] + weight of edge(u, v):
+       * dict\[v] = dict\[u] + weight of edge(u, v)
+       * push (dict\[v], v) into the pq/heap
+
+**Time Complexity:** \
+**Average Time Complexity:** O(|E| log |E|) \
+**Worst case Time Complexity**: O(|E| log |E|)&#x20;
 
 ## Algorithms
 
