@@ -1,5 +1,9 @@
 # Dijkstra’s Algorithm
 
+## Key Concepts
+
+* The time complexity remains **O(E \* LogV)** as there will be at most O(E) vertices in the priority queue and O(logE) is the same as O(logV)
+
 ```python
 // Some code
 def shortest_path(self, src: int):

@@ -15,7 +15,7 @@ Modified from Reference: [https://www.geeksforgeeks.org/shortest-path-faster-alg
 **Average Time Complexity:** O(|E|) \
 **Worst case Time Complexity**: O(|V|.|E|)&#x20;
 
-Can use a priority queue / min\_heap in place of the queue to fasten up the search.&#x20;
+Can use a priority queue / min\_heap in place of the queue to fasten up the search (which became Dijkstra algorithm with heap).&#x20;
 
 1. Same as previous
 2. Create a priority queue / min\_heap and push (0, S) in it
