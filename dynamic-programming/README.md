@@ -55,5 +55,5 @@ Practise
 
 ## Potential Space Optimization
 
-1. For 2-D matrix dp, if the new row value only depends on the previous row value
+1. For 2-D matrix dp, if the new row value only depends on the previous row value, we can use only two rows to store the results (use old and new to represent row value, and interchange old and new value during iterations of each row)
 2. For 1-D dp, if the new position value only depends on the previous position(s)
