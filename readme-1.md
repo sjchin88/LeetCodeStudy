@@ -230,7 +230,13 @@ o   Queue.popleft() >> delete an argument from the left end of the dequeue
 
 ### collections
 
-collections.Counter(\[_iterable-or-mapping_]) return a dict contains the occurrence counts for the elements. The elements in the list as dictionary keys, and their counts are stored as dictionary values.
+**collections.Counter**(\[_iterable-or-mapping_]) return a dict contains the occurrence counts for the elements. The elements in the list as dictionary keys, and their counts are stored as dictionary values.
+
+**collections.**[**`defaultdict`**](https://docs.python.org/3/library/collections.html#collections.defaultdict)**`(`**<mark style="color:blue;">**`default = None`**</mark>**`) -`** dict subclass that calls a factory function to supply missing values, default = none.&#x20;
+
+Example usage: collections.defaultdict(list)  - for each insert key which didn't exist before, default value is an empty list
+
+collections.OrderedDict()  - dict subclass that remembers the order entries were added. Useful for RLU implementation
 
 ## math
 
