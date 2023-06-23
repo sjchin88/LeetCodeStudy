@@ -1,6 +1,20 @@
 # Dynamic Programming
 
-Common Problems for DP
+## Common Problems for DP
+
+Finding if certain combinations is possible for the solution
+
+dp\[] value is true / false
+
+dp\[big problem] = dp\[small problem 1] or dp\[small problem2]
+
+Find the total number of combinations (not concern about specific solution, which mostly use backtracking (dfs)
+
+dp\[big problem] = sum ( dp\[small problem 1] .... dp\[small problem n])
+
+Find the max/min&#x20;
+
+dp\[big problem] = min / max { dp\[small problem 1] .... dp\[small problem n] }
 
 ## General Steps
 
