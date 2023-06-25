@@ -45,3 +45,12 @@ dp\[i]\[j]\[k] = min/max (dp\[i]\[j],  dp\[i]\[m]\[k - 1]  + dp\[m]\[j]\[1]  plu
  return dp[0][n - 1]
 ```
 
+With up to k-part
+
+410 Split Array Largest Sum [https://leetcode.com/problems/split-array-largest-sum/](https://leetcode.com/problems/split-array-largest-sum/)
+
+
+
+Bonus
+
+87 (very hard) Scrambling String [https://leetcode.com/problems/scramble-string/submissions/](https://leetcode.com/problems/scramble-string/submissions/)
