@@ -49,6 +49,8 @@ With up to k-part
 
 410 Split Array Largest Sum [https://leetcode.com/problems/split-array-largest-sum/](https://leetcode.com/problems/split-array-largest-sum/)
 
+Note binary search the possible answer can be more efficient for the split above
+
 
 
 Bonus
