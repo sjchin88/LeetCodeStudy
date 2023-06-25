@@ -44,28 +44,13 @@ Practise:
 
 1.
 
-Common:
 
-dp\[i]\[j] represents the max/min results obtained by performing operations on elements i to j&#x20;
-
-We need to start iterating from length of 2 to the entire length of the array,&#x20;
-
-for each length and each starting point, iterate the divider (k) from i till j
-
-```python
-//
-for length in range(2, n):
-    for i in range(n - length + 1):
-        j = i + length - 1
-        for k in range(i, j):
-            dp[i][j] = min/max (dp[i][j], dp[i][k] + dp[k + 1][j] etc)
-```
 
 Practise
 
 87 (very hard) Scrambling String [https://leetcode.com/problems/scramble-string/submissions/](https://leetcode.com/problems/scramble-string/submissions/)
 
-312 Burst Ballon [https://leetcode.com/problems/burst-balloons/submissions/](https://leetcode.com/problems/burst-balloons/submissions/)
+
 
 410 Split Array Largest Sum [https://leetcode.com/problems/split-array-largest-sum/](https://leetcode.com/problems/split-array-largest-sum/)
 

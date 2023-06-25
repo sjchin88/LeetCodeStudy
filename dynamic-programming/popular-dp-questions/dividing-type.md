@@ -20,4 +20,28 @@ In case k > 2, we need to **enumerate the divider m** from index i to j which **
 
 dp\[i]\[j]\[k] = min/max (dp\[i]\[j],  dp\[i]\[m]\[k - 1]  + dp\[m]\[j]\[1]  plus the operation cost )
 
-&#x20;
+## Practice Problems
+
+312 Burst Ballon [https://leetcode.com/problems/burst-balloons/submissions/](https://leetcode.com/problems/burst-balloons/submissions/)
+
+```python
+ # state dp[i][j] -> optimal way to burst the ballon between i + 1 and j - 1, with i , j as the nonburstable wall 
+ # initialization: we looking for max so initialize all with 0
+ dp = [[0] * n for _ in range(n)]
+        
+ # we need to enumerate the mid (last ballon to burst)
+ # Gain from last step is the left wall * last ballon value * right wall
+ # additional gain from left of ballon will be dp[i][last]
+ # additional gain from right of ballon will be dp[last][j]
+ # dp[i][j] = max(dp[i][j], nums[i] * nums[last] * nums[j]  + dp[i][last] + dp[last][j])
+ # we need the result of smaller sections first, so we start iterate with length of two (j - i == 2)
+ for length in range(2, n):
+        for i in range(n - length):
+               j = i + length
+               for last in range(i + 1, j):
+                    gain = nums[i] * nums[last] * nums[j]
+                    additional = dp[i][last] + dp[last][j]
+                    dp[i][j] = max(dp[i][j], gain + additional)
+ return dp[0][n - 1]
+```
+
