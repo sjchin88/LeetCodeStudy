@@ -42,8 +42,7 @@ Practise:
 
 ## Dividing Type
 
-1. Calculate how many possible ways to divide an array
-2. To minimize the max sum of subarray by dividing an array with max k portions (note binary search of potential solution could be faster)
+1.
 
 Common:
 

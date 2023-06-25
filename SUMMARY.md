@@ -28,6 +28,7 @@
 * [Dynamic Programming](dynamic-programming/README.md)
   * [Popular DP Questions](dynamic-programming/popular-dp-questions/README.md)
     * [Choices problem](dynamic-programming/popular-dp-questions/choices-problem.md)
+    * [Dividing Type](dynamic-programming/popular-dp-questions/dividing-type.md)
     * [Best Time to Buy and Sell Stock](dynamic-programming/best-time-to-buy-and-sell-stock.md)
     * [KnapSack Problem](dynamic-programming/knapsack-problem.md)
     * [Longest Palindrome Subsequence](dynamic-programming/longest-palindrome-subsequence.md)
