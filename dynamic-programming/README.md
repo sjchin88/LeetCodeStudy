@@ -52,13 +52,19 @@ See Popular DP questions
 
 Often involved two players playing a game, trying to determine the optimum strategy
 
-The outcome of optimum strategy is often  f(n) = gain - f(n - 1) , gain = gain at this step,&#x20;
+The outcome of optimum strategy is often  f(n) = gain - f(n - 1) ,&#x20;
+
+gain = gain at this step,&#x20;
 
 f(n - 1) = optimum strategy minus off the step&#x20;
+
+we will need to iterate from the last step&#x20;
 
 Practise
 
 396 [https://www.lintcode.com/problem/396/](https://www.lintcode.com/problem/396/)
+
+395 [https://www.lintcode.com/problem/395/description?fromId=178&\_from=collection](https://www.lintcode.com/problem/395/description?fromId=178&\_from=collection)
 
 ## Potential Space Optimization
 
