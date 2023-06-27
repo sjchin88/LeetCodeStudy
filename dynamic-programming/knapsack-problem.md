@@ -31,14 +31,24 @@ for problems where the item price is the same as the item weight, and we want to
 
 ## Derivations of the problem
 
-### Finding the number of ways to reach certain profits
+## What if
+
+1. The items can be reused in unlimited times - then for each item, we have to iterate through the state (weight/volume/area) up to the capacity - [https://www.lintcode.com/problem/440](https://www.lintcode.com/problem/440)
+2. The items can be reused but in limited times - treat each piece of duplicate items as one item in a 0-1 knapsack problem - [https://www.lintcode.com/problem/798/](https://www.lintcode.com/problem/798/)
+3.
+
+### Finding the number of ways to reach certain profits / weight
 
 In addition to the traditional knapsack, we will need to store the specific profit reached as one of the states.&#x20;
 
 * For example, dp\[p]\[w] represents the number of ways to reach profit p with the weight of w
   * The last p will store all ways to reach profit >= p
   * Transition function will be, dp\[p]\[w] = dp\[p]\[w] + dp\[p - p\[i]]\[w - w\[i]] for each item
-  * We will need to iterate from largest value down to smaller value
+  * We will need to iterate from the largest value down to the smaller value (because we had compressed the state of n items )
+* If we only need to consider weight / value/ volume
+  * dp\[state] represents number of ways to reach a particular state
+  * For each item, dp\[state] += dp \[state - item\_value]
+  * We will need to iterate from the largest value down to the smaller value (because we had compressed the state of n items )
 
 Practise:
 

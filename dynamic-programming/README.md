@@ -40,6 +40,14 @@ Practise:
 
 515 [https://www.lintcode.com/problem/515/](https://www.lintcode.com/problem/515/)
 
+Another sequence type needs some thinking,&#x20;
+
+If we can enumerate the states in certain orders, so that when we reach dp\[state] , all the previous state leading to dp\[state] has been calculated and final .
+
+Practise&#x20;
+
+LintCode; [https://www.lintcode.com/problem/398/description?fromId=178&\_from=collection](https://www.lintcode.com/problem/398/description?fromId=178&\_from=collection)
+
 ## Dividing Type
 
 See Popular DP questions
