@@ -50,6 +50,9 @@ class UnionFind:
         return root
         
     def is_connected(self, x, y):
+        #self to self is connected
+        if x == y:
+            return True
         root_x = self.find(x)
         root_y = self.find(y)
         # If either x or y not exist
@@ -114,6 +117,9 @@ class UnionFind(){
     }
     
     public boolean isConnected(int x, int y){
+        if (x == y){
+            return true
+        }
         int root_x = this.find(x);
         int root_y = this.find(y);
         if (root_x == null or root_y == null){

@@ -27,11 +27,19 @@ for problems where the item price is the same as the item weight, and we want to
 * we can compress the dp from 2-d to 1-d
 * or we just use a set to store all possible states up to item i - 1, and iterate through the possible states for new possible state with i&#x20;
 
+## Order of iterations
+
+Think about how to calculate the state required, and whether redundancy is allow
+
+For 1-d DP where the n-item is compressed (and remove), we usually want to iterate from right (largest) down to left (smallest) to avoid duplicate count.&#x20;
+
+But if the items can be used infinitely, we will iterate from left to right as normal
+
 
 
 ## Derivations of the problem
 
-## What if
+### What if
 
 1. The items can be reused in unlimited times - then for each item, we have to iterate through the state (weight/volume/area) up to the capacity - [https://www.lintcode.com/problem/440](https://www.lintcode.com/problem/440)
 2. The items can be reused but in limited times - treat each piece of duplicate items as one item in a 0-1 knapsack problem - [https://www.lintcode.com/problem/798/](https://www.lintcode.com/problem/798/)
