@@ -45,9 +45,13 @@ def find_nles(nums:List[int]) -> List[int]:
 
 ## Idea for hard question
 
+126 Max Tree : [https://www.lintcode.com/problem/126/](https://www.lintcode.com/problem/126/)
+
+Idea : Use the property of mono stack to continuously update the max of the smaller element on the left and the max of the smaller elements on the right. Because we need to keep the max element at the end use monotonically decreasing stack .
+
 1778: [https://www.lintcode.com/problem/1778/](https://www.lintcode.com/problem/1778/)
 
-We need to find the smallest of next greater/equal and the greatest of next smaller/equal element index efficiently. We need info on two dimensions, first dimension on the relative value of all elements, second dimensions on the relative idx position.&#x20;
+We need to find the smallest of next greater/equal and the grea_t_est of next smaller/equal element index efficiently. We need info on two dimensions, first dimension on the relative value of all elements, second dimensions on the relative idx position.&#x20;
 
 One way is to use the tuple of (val, idx), sorted by val from small to large and idx from small to large, iterate through the tuple list, and use a mono stack to maintain the idx as strictly decreasing. Thus if the mono stack is pop, we found the smallest of the next greater/equal for the popped idx.&#x20;
 
