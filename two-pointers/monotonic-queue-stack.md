@@ -59,3 +59,9 @@ Similar, for the greatest of next smaller/equal element. Sort the tuples by val 
 
 iterate through the tuple list, and use a mono stack to maintain the idx as strictly decreasing. Thus if the mono stack is pop (ie the idx is smaller than the current idx) , we found the smallest of the next greater/equal (which is the current idx) for the popped idx.
 
+Questions involving subarray count
+
+XOR\_SUM [https://www.lintcode.com/problem/346/](https://www.lintcode.com/problem/346/)
+
+Note: Total number of subarray with the center idx = (center - left) \* (right - center)
+
