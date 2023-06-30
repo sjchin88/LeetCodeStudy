@@ -6,6 +6,8 @@
 * Allow finding of previous smaller/larger element in O(1) time
 * Python deque structure can be used to access the bottom (left) of the stack in O(1) -> Useful if we need to maintain and keep the order for k elements&#x20;
 
+<figure><img src="../.gitbook/assets/mono stack.JPG" alt=""><figcaption><p>Key concept on monotonic stack</p></figcaption></figure>
+
 ## Use cases
 
 ### Finding the next smaller/ greater element in one pass (O (n))
