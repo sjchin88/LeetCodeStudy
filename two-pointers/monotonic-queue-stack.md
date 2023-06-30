@@ -6,6 +6,60 @@
 * Allow finding of previous smaller/larger element in O(1) time
 * Python deque structure can be used to access the bottom (left) of the stack in O(1) -> Useful if we need to maintain and keep the order for k elements&#x20;
 
+## Use cases
+
+### Finding the next smaller/ greater element in one pass (O (n))
+
+Direct and simple
+
+#### Variations
+
+Find the maximum area of a histogram
+
+Count the max area formed by 0 / 1 in a matrix (iterate every layer as base and treat the connecting cells as a histogram to find the max area)
+
+Count the sub-matrix formed by 0 / 1 in a matrix (hard question)
+
+* In general approach, we need to count the sub-matrix with each layer as the base and add them up
+* Then apply some histogram and monotonic stack properties in counting the new sub-matrix formed
+
+
+
+### Finding the subarray with mininum / maximum length satifying certain condition&#x20;
+
+Example:
+
+Find the minimum length of the subarray with sum > k
+
+Find the maximum sum for subarrays with length < k
+
+Solution:
+
+**A monotonic queue (deque) is required**&#x20;
+
+To pop the item from the left side (for items exceeding the distance) or&#x20;
+
+the right side (maintaining strictly increasing property)
+
+Often working on **prefix\_sum**&#x20;
+
+### Counting subarrays with operation on the min/max elements
+
+Example:
+
+Find the total score of subarrays with the given formula related to the minimum/maximum in the subarray.&#x20;
+
+Solutions:&#x20;
+
+* Need to work in reverse,&#x20;
+  * For each element, find out how many subarrays is having it as the minimum / maximum&#x20;
+  * aka find how much this element is contributing to the total&#x20;
+  * generally,  subarray\_count = ( curr - prev ) \* (next - curr ) &#x20;
+* Pop the stack when a new item is equal to or greater/smaller than the stack top.&#x20;
+  * Equal so that we pop and count the contribution of the stack top, it doesn't overlap with the contribution from the new item&#x20;
+
+
+
 ## Algorithm to find the previous lesser element
 
 ```python
