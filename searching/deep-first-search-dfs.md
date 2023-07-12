@@ -154,3 +154,8 @@ Can be done using stack or recursion
 ### Hard
 
 51 N-Queens [https://leetcode.com/problems/n-queens/](https://leetcode.com/problems/n-queens/)
+
+1192 Critical Connections [https://leetcode.com/problems/critical-connections-in-a-network/](https://leetcode.com/problems/critical-connections-in-a-network/)
+
+Need to detect cycles in a graph using dfs. \
+Use node2rank to record the rank of the node, if dfs reached a node with a rank lower than the predecessor, the cycle is detected. Remove all edges related to the cycle
