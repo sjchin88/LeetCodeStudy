@@ -58,3 +58,14 @@ Bonus
 87 (very hard) Scrambling String [https://leetcode.com/problems/scramble-string/submissions/](https://leetcode.com/problems/scramble-string/submissions/)
 
 dp\[len]\[i]\[j] represents if the string of length len starting with i index of the first string can be the scrambling string for the substring starting with j index of the second string
+
+1798 Cost to merge stones 1798 · [https://www.lintcode.com/problem/1798/](https://www.lintcode.com/problem/1798/)
+
+Normal way:&#x20;
+
+dp\[i]\[j]\[k]  represents the minimum cost to merge the stones from i to j into k number of group
+
+Will need to start enumerate from length of 2 to n for i,  and for each pair of i and j, enumerate the mid point so that dp\[i]\[mid]\[k - 1]  + dp\[mid + 1]\[end]\[1] is minimal
+
+Hardway:
+
