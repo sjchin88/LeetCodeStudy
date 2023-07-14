@@ -99,7 +99,13 @@ def find_nles(nums:List[int]) -> List[int]:
     return nles
 ```
 
+## Interesting Questions
+
+Construct BST from Preorder [https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/](https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/)
+
 ## Idea for hard question
+
+
 
 126 Max Tree : [https://www.lintcode.com/problem/126/](https://www.lintcode.com/problem/126/)
 
