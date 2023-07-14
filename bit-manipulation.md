@@ -4,9 +4,13 @@
 
 <table><thead><tr><th width="125">Symbol</th><th width="144.33333333333331">Operation </th><th>Effect</th></tr></thead><tbody><tr><td>~</td><td>not</td><td>0 -> 1, 1 -> 0</td></tr><tr><td>|</td><td>or</td><td></td></tr><tr><td>&#x26;</td><td>and</td><td></td></tr><tr><td>^</td><td>xor</td><td>0 + 1 -> 1, 1 + 1 -> 0, 0 + 0 -> 0</td></tr><tr><td>&#x3C;&#x3C;</td><td>shift left</td><td></td></tr><tr><td>>></td><td>shift right</td><td></td></tr></tbody></table>
 
-Python bin() built-in function return 0b + bit representation of a number
+
 
 Note:&#x20;
+
+Python bin() built-in function return 0b + bit representation of a number
+
+Python \~ work on signed int, so directly use \~ to find the invert of 1 bit will yield unexpected result, try use a ^ \~ a or a + \~ a instead.
 
 Negative numbers are written with a leading one instead of a leading zero.
 
