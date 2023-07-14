@@ -103,6 +103,18 @@ def find_nles(nums:List[int]) -> List[int]:
 
 Construct BST from Preorder [https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/](https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/)
 
+Hint:&#x20;
+
+Maintain a strictly decreasing monostack&#x20;
+
+if curr val < stack.top, attach curr val as new node to the left of the stack.top
+
+else keep popping the stack, curr val node will be the right node of the last popped node
+
+append curr val node into the stack
+
+Kept the reference to the first node (which is the root of the BST) and return
+
 ## Idea for hard question
 
 
@@ -110,6 +122,33 @@ Construct BST from Preorder [https://leetcode.com/problems/construct-binary-sear
 126 Max Tree : [https://www.lintcode.com/problem/126/](https://www.lintcode.com/problem/126/)
 
 Idea : Use the property of mono stack to continuously update the max of the smaller element on the left and the max of the smaller elements on the right. Because we need to keep the max element at the end use monotonically decreasing stack .
+
+````python
+```python
+def max_tree(self, a: List[int]) -> TreeNode:
+        # write your code here
+        if not a:
+            return None
+        n = len(a)
+        if n == 1:
+            return TreeNode(a[0])
+        
+        # maintain the nodes in a strictly decreasing monostack 
+        stack = []
+        # the max node will located at stack[0]
+        # when poping the stack during before node entry, the last node popped is the 
+        # greatest of smaller element of the left
+        # the stack top's right will then be the curr element
+        for num in a:
+            node = TreeNode(num)
+            while stack and stack[-1].val < num:
+                node.left = stack.pop()
+            if stack:
+                stack[-1].right = node
+            stack.append(node)
+        return stack[0]
+```
+````
 
 1778: [https://www.lintcode.com/problem/1778/](https://www.lintcode.com/problem/1778/)
 
