@@ -29,3 +29,13 @@ From Wiki
 * How to get / isolate the rightmost 1-bit : `x & (-x)`.
 * How to turn off (= set to 0) the rightmost 1-bit : `x & (x - 1)`.
 
+## Properties of XOR
+
+a ^ b = c implies a = b ^ c or b = a ^ c
+
+So if we have a set of prefix\_xor where prefix\_xor\[i] = 0 ^ nums\[1] ^ nums\[2] ^... ^ nums\[i - 1]
+
+We can find the xor results of numbers between i and j by prefix\_xor\[j + 1] ^ prefix\_xor\[i]&#x20;
+
+Practise 722 [https://www.lintcode.com/problem/722/](https://www.lintcode.com/problem/722/)
+
