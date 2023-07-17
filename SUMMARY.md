@@ -37,6 +37,7 @@
   * [Kadanes Algorithm](dynamic-programming/kadanes-algorithm.md)
   * [Manacher’s Algorithm](dynamic-programming/manachers-algorithm.md)
   * [Prefix Sum](dynamic-programming/prefix-sum.md)
+* [Greedy](greedy.md)
 
 ## Searching
 
