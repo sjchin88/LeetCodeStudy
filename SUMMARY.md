@@ -1,7 +1,8 @@
 # Table of contents
 
 * [Read Me](README.md)
-* [Python Note](readme-1.md)
+* [Python Note](readme-1/README.md)
+  * [General Python Programming](readme-1/general-python-programming.md)
 * [Data Structures](data-structures/README.md)
   * [Priority Queue / Heap](searching/sea.md)
   * [Stack](data-structures/stack/README.md)

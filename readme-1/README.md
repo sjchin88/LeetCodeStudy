@@ -137,7 +137,7 @@ list(zip (a, b)) = \[(1, a), (2, b), (3, c)]
 
 #### Set Operations
 
-<figure><img src=".gitbook/assets/set Operation.JPG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/set Operation.JPG" alt=""><figcaption></figcaption></figure>
 
 ### HashMap() / Dict()
 
