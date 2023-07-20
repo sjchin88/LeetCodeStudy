@@ -1,5 +1,27 @@
 # General Python Programming
 
+## Function
+
+```python
+def func(a, *args, b=None, **kwargs):
+    """
+    :param a: position argument
+    :param args: variable arguments (also a tuple, so it can be used like a tuple)
+    :param b: default argument
+    :param kwargs: variable for named args (also a dict)
+    """
+    
+    # Example to use the tuple
+    self.item_one = args[0]
+    for arg in args:
+        print(arg)
+    
+    # Similar case for the **kwargs
+    for k, v in kwargs.items():
+        print(k, v)
+    return None
+```
+
 ## Class
 
 ### \_\_hash\_\_ and \_\_equal\_\_
