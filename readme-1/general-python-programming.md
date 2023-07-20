@@ -8,3 +8,9 @@ Set() / Dict() use the object \_\_hash\_\_ and \_\_equal\_\_ method to compare i
 So if we override the \_\_hash\_\_ method, we need to override the \_\_equal\_\_ method as well
 
 [https://stackoverflow.com/questions/38430277/python-class-hash-method-and-set](https://stackoverflow.com/questions/38430277/python-class-hash-method-and-set)
+
+## Decorator in Python
+
+[https://www.programiz.com/python-programming/decorator](https://www.programiz.com/python-programming/decorator)
+
+###
