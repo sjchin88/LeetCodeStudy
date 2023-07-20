@@ -65,7 +65,11 @@ delete last element from list, either **list.pop()** or **del list\[-1]**
 
 **list.pop(**<mark style="color:blue;">**i**</mark>**)** - remove the element at index i, if not specified, remove the last element and return it
 
-list.remove(obj) - remove the first occurrence of the object
+list.remove(obj) - remove the first occurrence of the object. It raises a [`ValueError`](https://docs.python.org/3/library/exceptions.html#ValueError) if there is no such item.
+
+list.insert(i, x) insert item x at position i.&#x20;
+
+[https://docs.python.org/3/tutorial/datastructures.html](https://docs.python.org/3/tutorial/datastructures.html)
 
 ### Sorting
 
