@@ -25,9 +25,82 @@ Count the sub-matrix formed by 0 / 1 in a matrix (hard question)
 * In general approach, we need to count the sub-matrix with each layer as the base and add them up
 * Then apply some histogram and monotonic stack properties in counting the new sub-matrix formed
 
+#### Example Question
+
+1504 Count Submatrixes with all ones [https://leetcode.com/problems/count-submatrices-with-all-ones/](https://leetcode.com/problems/count-submatrices-with-all-ones/)
+
+Step 1: Way to count 1 - D array
+
+<figure><img src="../.gitbook/assets/1-D.JPG" alt="" width="325"><figcaption></figcaption></figure>
+
+```python
+# Count total submatrixes with all ones in 1-D
+length = 0, total = 0
+for i in range(len(A)):
+    if A[i] == 1:
+        length += 1
+        total += length
+    else:
+        length = 0
+```
+
+Step 2: Convert 2-D array to 1-D to use monostack
+
+<figure><img src="../.gitbook/assets/2-D to 1-D.JPG" alt=""><figcaption></figcaption></figure>
+
+Step 3: Count the submatrixed form by adding last col , with reference to property below
+
+<figure><img src="../.gitbook/assets/2-D.JPG" alt=""><figcaption></figcaption></figure>
+
+Sample Code
+
+```python
+class Solution:
+    def numSubmat(self, mat: List[List[int]]) -> int:
+        m = len(mat)
+        n = len(mat[0])
+        heights = [0] * n
+        total = 0
+        # Iterate each row, for each row iterate each col to update heights[]
+        for row in range(m):
+            for col in range(n):
+                if mat[row][col] == 1:
+                    heights[col] += 1
+                else:
+                    heights[col] = 0
+            # Count the submatrixes
+            total += self.count_sum(heights)
+        return total
+            
+    def count_sum(self, heights: List[int]) -> int:
+        """Helper function to count submatrixes"""
+        #stack keep track on prev_smaller element (idx, heights)
+        mono_stack = []
+        n = len(heights)
+        #counts[] keep the sum up till current col
+        counts = [0] * n
+        total = 0
+        for i, h in enumerate(heights):
+            #pop all larger element than current
+            while mono_stack and mono_stack[-1][1] >= h:
+                mono_stack.pop()
+            
+            if mono_stack:
+                # we got a prev_low
+                prev_idx = mono_stack[-1][0]
+                counts[i] = counts[prev_idx]
+                counts[i] += h * (i - prev_idx)
+            else:
+                # we can extend all the way to left end
+                counts[i] = h * (i + 1)
+            total += counts[i]
+            mono_stack.append((i, h))
+        return total
+```
 
 
-### Finding the subarray with mininum / maximum length satifying certain condition&#x20;
+
+### Finding the subaray with mininum / maximum length satifying certain condition&#x20;
 
 Example:
 
