@@ -10,6 +10,7 @@
   * [LinkedHashMap / OrderedDict](data-structures/linkedhashmap-ordereddict.md)
 * [Bit Manipulation](bit-manipulation.md)
 * [Two Pointers](two-pointers.md)
+  * [Jumping Pointer(s)](two-pointers/jumping-pointer-s.md)
   * [Pointers in opposite direction](two-pointers/pointers-in-opposite-direction.md)
   * [Fast/Slow pointer (same direction)](two-pointers/fast-slow-pointer-same-direction.md)
   * [Sliding Window](two-pointers/sliding-window.md)
