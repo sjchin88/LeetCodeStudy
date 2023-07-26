@@ -39,3 +39,29 @@ We can find the xor results of numbers between i and j by prefix\_xor\[j + 1] ^ 
 
 Practise 722 [https://www.lintcode.com/problem/722/](https://www.lintcode.com/problem/722/)
 
+## State Compression
+
+Interesting problem&#x20;
+
+Leetcode 2791 : [https://leetcode.com/problems/count-paths-that-can-form-a-palindrome-in-a-tree/](https://leetcode.com/problems/count-paths-that-can-form-a-palindrome-in-a-tree/)
+
+Idea:&#x20;
+
+**Storing the states:**
+
+keep the count of path with odd number of char (from 'a' to 'z') ,&#x20;
+
+Since for every character from 'a' to 'z', there is either odd or even (include 0) number of the char,&#x20;
+
+The state will have 2 \*\* 26 \~ roughly 10 \*\* 8 digits. Use binary bits for state representation.&#x20;
+
+**The hard part:**
+
+for each pair of nodes A and B, for the path from node A to root with a specific state (count of odd char from 'A' to 'z'), if there is another path from node B to root with the same state, that the path between node A and node B can form the palindrome.&#x20;
+
+What happened if the LCA of node A and node B is lower than the root? in this case since node A & B will go through same path after the LCA, any odd counts after the LCA will be evened out.&#x20;
+
+Now the last part, there could be case where a palindrome can be formed with a single odd char. To check for all possibility, simply add one char to the state for A and see if there is matching state in B. (state\_A ^= 1 << i for i in range(26))
+
+
+
