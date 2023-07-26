@@ -34,3 +34,7 @@ class Solution:
         return res
             
 ```
+
+Follow Up
+
+LeetCode 1520: [https://leetcode.com/problems/maximum-number-of-non-overlapping-substrings/](https://leetcode.com/problems/maximum-number-of-non-overlapping-substrings/)
