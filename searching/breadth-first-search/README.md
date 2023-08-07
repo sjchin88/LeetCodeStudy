@@ -7,6 +7,8 @@
 * Search by layer / Traveling by a layer of a tree (Binary Tree)
 * Simple graph shortest path
 * Finding the longest diameter in binary / N-ary tree (use double BFS, first BFS find the first end, second BFS starting from the first end to find the second end)
+* If you are working with 2-D grid / matrix, bfs is usually the better and only choice compared to dfs.&#x20;
+* Sometimes we can use binary search to set a condition and check if the condition can be met using bfs to find solution in O((n + m) log (n)) time.&#x20;
 
 ## Complexity
 

@@ -8,7 +8,29 @@ combination problem - Finding all possible solutions
 
 permutation problem - Finding all permutations
 
-Note if the target is just to count the number of solution/ permutation, dp could be better&#x20;
+finding the best combination / permutation.
+
+Note:
+
+* if the target is just to count the number of solution/ permutation, dp could be better&#x20;
+* for best combination / permutation , dp only work if there is certain restriction in the order (like contiguous subarray/substring  or subsequence. For subset, dp unlikely to work
+* Sometime we can use binary search to set for potential limit to aid in pruning.&#x20;
+
+## Complexities
+
+Time complexities = O( k ^ n )  => where&#x20;
+
+n = max number of elements of each path,&#x20;
+
+k = max possible option of each path.&#x20;
+
+Therefore if n is unbound , even with small k (like 2) , the time complexity can be very huge.&#x20;
+
+For combination problem, this is O(2 ^ n)&#x20;
+
+For permutation problem, this is O(n!)
+
+Space complexities => similar to time complexities.&#x20;
 
 ## Things to note
 
