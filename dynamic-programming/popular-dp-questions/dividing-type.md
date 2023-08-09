@@ -69,3 +69,19 @@ Will need to start enumerate from length of 2 to n for i,  and for each pair of 
 
 Hardway:
 
+
+
+### 1478 Allocate Mailboxes
+
+Problem : [https://leetcode.com/problems/allocate-mailboxes/](https://leetcode.com/problems/allocate-mailboxes/)
+
+dp ideas:&#x20;
+
+Prerequisite : houses need to be sorted
+
+State : dp\[i]\[k]  represent the minimum total distance to place k mail box in upto i&#x20;
+
+Initialize : dp\[i]\[1]  => special way to calculate the optimal solution in O(n)
+
+Transition: for k from 2 onward, we try to find the min of dp\[prev]\[k - 1] + houses\[prev+1: i + 1]\[1] (the later can be calculated using same formula used in initialize).&#x20;
+
