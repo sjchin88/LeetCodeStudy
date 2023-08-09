@@ -77,11 +77,55 @@ Problem : [https://leetcode.com/problems/allocate-mailboxes/](https://leetcode.c
 
 dp ideas:&#x20;
 
-Prerequisite : houses need to be sorted
+#### **Prerequisite**&#x20;
 
-State : dp\[i]\[k]  represent the minimum total distance to place k mail box in upto i&#x20;
+houses need to be sorted
 
-Initialize : dp\[i]\[1]  => special way to calculate the optimal solution in O(n)
+#### **State**&#x20;
 
-Transition: for k from 2 onward, we try to find the min of dp\[prev]\[k - 1] + houses\[prev+1: i + 1]\[1] (the later can be calculated using same formula used in initialize).&#x20;
+dp\[i]\[k]  represent the minimum total distance to place k mail box in upto i&#x20;
+
+#### **Transition**
+
+for k from 2 onward, we try to find the min of dp\[prev]\[k - 1] + houses\[prev+1: i + 1]\[1] (the later can be calculated using same formula used in initialize).&#x20;
+
+#### **Initialize**&#x20;
+
+dp\[i]\[1]  => special way to calculate the optimal solution in O(n)
+
+#### **Order of calculation**
+
+for each k from 2 till K,&#x20;
+
+for each i from k till N,&#x20;
+
+for each prev till i - 1
+
+#### Time complexities:&#x20;
+
+O(KNN) for the 3 for loop
+
+#### Space complexities:&#x20;
+
+O(KN)  (can be reduce to O(N) if we work backward for second for loop)
+
+#### Optimal strategy when k == 1
+
+Simply place the mail box in the middle of the houses&#x20;
+
+If odd number , then mid = n // 2
+
+if even number, then also can be mid = n // 2
+
+Now for each start and end pair (i, j) , the time to calculate the total minimum distance is O(N)
+
+thus iterating over all pairs will need O(N^3).&#x20;
+
+We can reduce the time complexities by using a dp table to store the results
+
+then, for j - i >= 2
+
+dp\[i]\[j]  = dp\[i + 1]\[j - 1] + abs(houses\[j] - houses\[mid]) + abs\[(houses\[mid] - houses\[i])
+
+
 
