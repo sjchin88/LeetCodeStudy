@@ -3,8 +3,13 @@
 ## **Application**
 
 1. Checking if the prefix/word exists in the dictionary
+   1. Fastest in finding common prefix - putting the words into the Trie one by one, and find the max/min common prefix of the new word with the previous word
 2. Perform DFS on the trie
+   1. When we want to dfs based on the prefix, to check if the prefix can lead to a word will need O(L)
+   2. But if we already at the node of previous character in the Trie, to check if the next character can lead to a word will only need O(1) time
 3. Used to optimize other algorithms (like DP) to check the prefix/word quickly
+   1. When we have a set of words with some common prefix, and we need to dp based on the word and target
+   2. Like all words that can be transformed into target with less than or equal to k operation&#x20;
 
 
 
@@ -80,3 +85,10 @@ class Trie{
 }
 ```
 
+## Practise
+
+Lintcode 1624 - common prefix
+
+Lintcode 623 - Use Trie to store common dp result and accelerate DP
+
+Lintcode 1848 - Use Trie to speed up the check for dfs
