@@ -100,8 +100,106 @@ Collections.sort(al);
 
 ## Set
 
+```java
+// Initialize
+Set<Type> set = new HashSet<>();
+
+// add member
+set.add(element);
+
+// remove member
+set.remove(element);
+set.clear()
+
+// check member
+set.contains(element);
+
+// empty and size
+set.isEmpty();
+set.size();
+```
+
 ## Map
+
+```java
+// Initialize
+Map<Type k, Type v> map = new HashMap<>();
+
+// add / modify key
+map.put(key, value);
+map.putIfAbsent(key, value);
+map.computeIfAbsent(key, mappingFunction);
+map.replace(key, newValue);
+map.replace(key, oldValue, newValue);
+
+// check / get key
+map.containsKey(key);
+map.get(key);
+map.getOrDefault(key, defaultValue);
+
+// check size
+map.isEmpty();
+map.size();
+
+// remove 
+map.remove(key);
+map.remove(key, value); 
+// remove entry for the specified key only if it is mapped to specified value
+
+//Get the set
+map.entrySet();  // all k-v pairs
+map.keySet();
+map.values();
+                                
+
+```
 
 ## Queue
 
+implemented by linkedlist
+
+```java
+// Initialize
+Queue<Type> queue = new LinkedList<>();
+
+// add
+queue.add(element); // add to last
+queue.push(element);
+queue.add(idx, element);
+queue.addAll(startIdx, collection);
+queue.addFirst(elemennt); //add to first
+queue.addLast(element);
+queue.offer(element); // add to last
+
+
+//Check and get
+queue.contains(element);
+queue.element(); // retrieve without remove the head
+queue.peek(); // same as above)
+queue.get(index);
+queue.getFirst();
+queue.getLast();
+queue.indexOf(element);
+
+queue.poll(); //first element
+queue.pop(); //last element
+
+```
+
 ## PriorityQueue
+
+```java
+// Initialize
+PriorityQueue<Type> pq = new PriorityQueue<>();
+PriorityQueue<Type> pq = new PriorityQueue<>(int initialCap, Comparator<ype> );
+
+//Add
+pq.add(element);
+pq.offer(element);
+
+//peek
+pq.peek();
+
+//retrieve
+pq.poll();
+```
