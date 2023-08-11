@@ -3,6 +3,7 @@
 * [Read Me](README.md)
 * [Python Note](readme-1/README.md)
   * [General Python Programming](readme-1/general-python-programming.md)
+* [Java Note](java-note.md)
 * [Data Structures](data-structures/README.md)
   * [Priority Queue / Heap](searching/sea.md)
   * [HashSet/Map/Dict](data-structures/hashset-map-dict.md)
