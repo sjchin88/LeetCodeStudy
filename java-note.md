@@ -216,7 +216,7 @@ Range\_search -> O(logn)
 
 ```java
 // Initialize
-TreeSet<Type> ts = new TreeSet();
+TreeSet<Type> ts = new TreeSet<>();
 
 // add
 ts.add(element);
@@ -229,4 +229,12 @@ ts.ceiling(element);
 // Returns the greatest element in this set less than or equal to the given element, 
 // or null if there is no such element.
 ts.floor(element);
+
+// Say we have a range lowerBound, upperBound
+if (ts.floor(upperBound) == null || ts.floor(upperBound) < lowerBound){
+    // no item in range due to 
+    // either no element that is less than or equal to the upperBound or 
+    // the greatest element is less than the lowerBound
+}
+
 ```
