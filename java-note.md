@@ -203,3 +203,30 @@ pq.peek();
 //retrieve
 pq.poll();
 ```
+
+## TreeSet()
+
+Time complexities:
+
+Insertion -> O(logn)
+
+Search -> O(logn)
+
+Range\_search -> O(logn)
+
+```java
+// Initialize
+TreeSet<Type> ts = new TreeSet();
+
+// add
+ts.add(element);
+
+// Range check
+// Returns the least element in this set greater than or equal to the given element, 
+// or null if there is no such element.
+ts.ceiling(element); 
+
+// Returns the greatest element in this set less than or equal to the given element, 
+// or null if there is no such element.
+ts.floor(element);
+```
