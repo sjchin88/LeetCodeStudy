@@ -30,6 +30,8 @@ blue - optional argument, note start idx (inclusive) - end idx (exclusive)
 
 **str.upper()** -> convert all characters to uppercase
 
+print("%.2f" % num) -> print num to 2 decimal place
+
 ## Sequence Operation (include list\[] , tuples ( , ) and String)
 
 indexing
