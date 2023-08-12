@@ -250,6 +250,10 @@ math.floor(x) -> get the floor for float number x
 
 math.ceil(x) -> get the ceiling for float number x
 
+round(float) -> return int number
+
+round(float, num\_of\_dec) -> return float rounded to num of decimal place
+
 ## Function
 
 ```python
