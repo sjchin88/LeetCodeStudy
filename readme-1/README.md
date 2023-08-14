@@ -149,7 +149,13 @@ list(zip (a, b)) = \[(1, a), (2, b), (3, c)]
 
 Initialize a hashmap
 
-o   Hashmap = {}
+```python
+#initialize
+Hashmap = {}
+
+# betterway
+Hashmap = collections.defaultdict(list)
+```
 
 Insert a new (key, value) pair or update the value of the existing key:
 
@@ -242,7 +248,7 @@ o   Queue.popleft() >> delete an argument from the left end of the dequeue
 
 Example usage: collections.defaultdict(list)  - for each insert key which didn't exist before, default value is an empty list
 
-collections.OrderedDict()  - dict subclass that remembers the order entries were added. Useful for RLU implementation
+collections.OrderedDict()  - dict subclass that remembers the order entries were added. Useful for LRU implementation
 
 ## math
 
