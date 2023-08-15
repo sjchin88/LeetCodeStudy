@@ -4,6 +4,8 @@
 
 Insert/Search/Delete - O(1) in most cases
 
+Limitations: Items are not sorted. Hence if we want to look for a range of values, it become O(n)
+
 ## Collisions
 
 When two items have the same hash value (or more items than hash slot - pigeonhole)

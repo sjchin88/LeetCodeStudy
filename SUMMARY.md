@@ -7,6 +7,7 @@
 * [Data Structures](data-structures/README.md)
   * [Priority Queue / Heap](searching/sea.md)
   * [HashSet/Map/Dict](data-structures/hashset-map-dict.md)
+  * [Sorted Set](data-structures/sorted-set.md)
   * [Stack](data-structures/stack/README.md)
     * [Monotonic Stack](testing.md)
   * [LinkedHashMap / OrderedDict](data-structures/linkedhashmap-ordereddict.md)

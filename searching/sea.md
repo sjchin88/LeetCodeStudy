@@ -8,6 +8,8 @@ insertion/deletion = O (log n)&#x20;
 
 top = O(1)
 
+Limitation = The rest of the items are not sorted, searching become O(n)
+
 ## Java
 
 Java Priority Queue implementation. [https://www.freecodecamp.org/news/priority-queue-implementation-in-java/](https://www.freecodecamp.org/news/priority-queue-implementation-in-java/)
