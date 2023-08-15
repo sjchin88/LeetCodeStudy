@@ -14,6 +14,8 @@ replace()
 
 split()
 
+access index at i -> string.charAt(i)
+
 toCharArray() -> return a new character array
 
 toLowerCase()
