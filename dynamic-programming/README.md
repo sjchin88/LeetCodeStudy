@@ -1,5 +1,13 @@
 # Dynamic Programming
 
+## Prerequisites for DP
+
+If you are working with arrays, then you have to work with either subarrays （contiguous part of array) or subsequences ( non contiguous, but maintain relative order of elements).
+
+Cannot work with subset
+
+
+
 ## Common Problems for DP
 
 Finding if certain combinations is possible for the solution
