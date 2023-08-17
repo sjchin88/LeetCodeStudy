@@ -1,10 +1,22 @@
 # Sliding Window
 
+## Summary
+
 This concept is efficient when we want to find a contiguous subarray(or substring) with specified conditions.&#x20;
 
-Problems:&#x20;
+Time complexities: O(n)
+
+Space complexities: O(1) / depends on additional data structure use.&#x20;
+
+## Tips
+
+If the goal is to find the longest contiguous subarray/substring, we need not decrease the size of the sliding window.&#x20;
+
+LC 424 [https://leetcode.com/problems/longest-repeating-character-replacement/](https://leetcode.com/problems/longest-repeating-character-replacement/)
 
 
+
+## Practise problems&#x20;
 
 209\. Minimum Size Subarray Sum [https://leetcode.com/problems/minimum-size-subarray-sum/](https://leetcode.com/problems/minimum-size-subarray-sum/)
 
