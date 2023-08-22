@@ -31,7 +31,66 @@ Python OrderedDict API
 
 Practise Questions (Medium)
 
-[https://www.lintcode.com/problem/685/](https://www.lintcode.com/problem/685/)
+{% embed url="https://www.lintcode.com/problem/685/" %}
+
+## LRU Implementation&#x20;
+
+Idea -> hashmap/dict to find the key - value pair in O(1)
+
+Double linked list so we can remove any node in O(1)
+
+```python
+#ListNode for double linkedlist
+class ListNode:
+    def __init__(self, key=None, val=None):
+        self.key = key
+        self.val = val
+        self.next = None
+        self.prev = None
+
+class LRUCache:
+    def __init__(self, capacity: int):
+        self.key2node = {}
+        self.head = ListNode()
+        self.tail = ListNode()
+        self.head.next = self.tail
+        self.tail.prev = self.head
+        self.capacity = capacity
+        
+    def get(self, key: int) -> int:   
+        if key not in self.key2node:
+            return -1    
+        curr_node = self.key2node[key]
+        # Move the node to the last, retrive the value
+        self.remove(curr_node)
+        self.add(curr_node)
+        return curr_node.val
+
+    def put(self, key: int, value: int) -> None:
+        if key in self.key2node:
+            curr_node = self.key2node[key]
+            self.remove(curr_node)
+        
+        new_node = ListNode(key, value)
+        self.key2node[key] = new_node
+        self.add(new_node)
+        # Remove the first node (least recently used)
+        if len(self.key2node) > self.capacity:
+            lru_node = self.head.next
+            self.remove(lru_node)
+            del self.key2node[lru_node.key]
+        
+    def add(self, node):
+        prev_end = self.tail.prev
+        prev_end.next = node
+        node.prev = prev_end
+        node.next = self.tail
+        self.tail.prev = node
+        
+    def remove(self, node):
+        node.prev.next = node.next
+        node.next.prev = node.prev
+```
 
 [^1]: all arguments are optional
 
