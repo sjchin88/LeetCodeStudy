@@ -1,6 +1,6 @@
 # Priority Queue / Heap
 
-## Running Time
+## Time Complexities
 
 heapify = O(n)
 
@@ -9,6 +9,16 @@ insertion/deletion = O (log n)&#x20;
 top = O(1)
 
 Limitation = The rest of the items are not sorted, searching become O(n)
+
+## Good for / When to use
+
+* Maintaining top k smallest / biggest element
+  * The value of the top (Kth smallest / K th biggest) can be useful
+* Finding new max / min after insert a new element in O(log k) -> k = size of heap
+  * This is ideal for working with data stream or linear scan of array
+  * sorted array can find the relative position of new items in O(log n) through binary search, but inserting them and maintain the sorted list will cost O(n)
+
+
 
 ## Java
 
@@ -24,7 +34,35 @@ Ordering: a default natural ordering unless we use a **comparator.**&#x20;
 
 {% embed url="https://www.geeksforgeeks.org/comparator-interface-java/" %}
 
-Example Problems:
+## Python
+
+```python
+# code for heap operation
+# note Python has only min_heap
+import heapq
+heap = []
+
+# heapify
+heapq.heapify(heap)
+
+# Push new item
+heapq.heappush(heap, new_item)
+
+# Pop item
+heapq.heappop(heap)
+
+# Replace item, faster than pop then push
+heapq.heapreplace(heap, new_item)
+
+# Get the top 
+heap[0]
+
+
+```
+
+## Example Problems:
+
+Leetcode Collections: [https://leetcode.com/explore/learn/card/heap/646/practices/](https://leetcode.com/explore/learn/card/heap/646/practices/)
 
 253\. Meeting Rooms II
 
@@ -45,3 +83,6 @@ Algorithms:
 4. &#x20;Remove the top and add the new meeting end time if available. Else simply add the new meeting end time (request a new room)
 5. Return the size of the heap
 
+### Hard
+
+LeetCode 2519: [https://leetcode.com/problems/count-the-number-of-k-big-indices/](https://leetcode.com/problems/count-the-number-of-k-big-indices/)
