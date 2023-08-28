@@ -135,7 +135,7 @@ class Solution:
 ### Postorder Traversal
 
 ```python
-# Use inorder traversal, but push root.left to stack first
+# Use preorder traversal, but push root.left to stack first
 # then reverse the order
 # Definition for a binary tree node.
 # class TreeNode:
