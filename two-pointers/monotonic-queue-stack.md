@@ -110,13 +110,17 @@ Find the maximum sum for subarrays with length < k
 
 Solution:
 
-**A monotonic queue (deque) is required**&#x20;
+all elements are positive integer -> sliding windows mayb suffix
+
+elements contain negative integer
+
+**A monotonic queue (deque) working on the prefix\_sum is required**&#x20;
 
 To pop the item from the left side (for items exceeding the distance) or&#x20;
 
 the right side (maintaining strictly increasing property)
 
-Often working on **prefix\_sum**&#x20;
+
 
 ### Counting subarrays with operation on the min/max elements
 
