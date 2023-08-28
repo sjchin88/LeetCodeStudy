@@ -26,6 +26,15 @@ blue - optional argument, note start idx (inclusive) - end idx (exclusive)
 
 **str.split**(delim, <mark style="color:blue;">maxsplit = string.count(str)</mark>) - if max split is given, at most max number of split is done, else default is split all
 
+```python
+#additional
+# remove tailing whitespace
+str.strip()
+# use the re and regex
+import re
+tokens = re.split(r'\s+', str)
+```
+
 **str.lower()** -> convert all characters to lowercase
 
 **str.upper()** -> convert all characters to uppercase
