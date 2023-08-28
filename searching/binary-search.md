@@ -24,7 +24,8 @@ def search(self, nums, target):
 
 1. len(nums) == 1, the first loop will check mid == start == end, the second loop will terminate as the start is guarantee > end
 2. What if we need to compare with the number next to mid? Example: finding the peak element. we can add the boundary check in f(mid), and by using **find** to record the previously found value, we can safely discard the search place before/after mid (including mid), if there is no other valid answer remaining, then **find will still record the valid answer found previously**.&#x20;
-3. The benefit of using find is if f(mid) takes O(n), this will save the time to reconfirm the f(mid) at the end compared to some other template
+3. The benefit of using find is if f(mid) takes O(n), this will save the time to reconfirm the f(mid) at the end compared to some other template.&#x20;
+4. Binary Search cannot work for rotated sorted array which contains duplicate (think of case where \[2, 2, 2, 2]
 
 
 
