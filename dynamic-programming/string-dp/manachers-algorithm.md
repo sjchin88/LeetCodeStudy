@@ -32,15 +32,15 @@ In summary, there are three potential cases when computing the palindrome length
 
 Case 1: The new position i is within the previous right bound of the found palindrome and the max\_length of the opposite position (center - i) is **smaller or equal to** the remaining distance from i to the right bound. In this case, take the max\_length of the opposite position as starting point and try to extend the palindrome length from there
 
-<figure><img src="../.gitbook/assets/manacher_case1.JPG" alt=""><figcaption><p>In this example, i = 12, previous center = 10, previous length = 7, right bound = 17, opposite position = 10 - 2 = 8, max length of the opposite center is thus 1</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/manacher_case1.JPG" alt=""><figcaption><p>In this example, i = 12, previous center = 10, previous length = 7, right bound = 17, opposite position = 10 - 2 = 8, max length of the opposite center is thus 1</p></figcaption></figure>
 
 Case 2: The new position i is within the previous right bound of the found palindrome and the max\_length of the opposite position (center - i) is **greater than** the remaining distance from i to the right bound. In this case, take the remaining distance as starting point and try to extend the palindrome length from there
 
-<figure><img src="../.gitbook/assets/manacher_case2.JPG" alt=""><figcaption><p> i = 14, right bound = 17, opposite position = 10 - 4 = 6, max length of the opposite center is thus 5, but the remaining distance to the right bound is 3, hence we start with a palindrome length of 3</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/manacher_case2.JPG" alt=""><figcaption><p> i = 14, right bound = 17, opposite position = 10 - 4 = 6, max length of the opposite center is thus 5, but the remaining distance to the right bound is 3, hence we start with a palindrome length of 3</p></figcaption></figure>
 
 Case 3: The new position i is outside the previous right bound of the found palindrome. Just start with the new position with a palindrome length of 0 and try to extend the length from there
 
-<figure><img src="../.gitbook/assets/manacher_case3.JPG" alt=""><figcaption><p> i = 18, right bound = 17</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/manacher_case3.JPG" alt=""><figcaption><p> i = 18, right bound = 17</p></figcaption></figure>
 
 After, if the right bound for palindrome string start with i is to the right of the palindrome string of previous center, update the previous center and previous right accordingly.&#x20;
 

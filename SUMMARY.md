@@ -39,9 +39,11 @@
     * [KnapSack Problem](dynamic-programming/knapsack-problem.md)
     * [Longest Palindrome Subsequence](dynamic-programming/longest-palindrome-subsequence.md)
     * [Subsequence problem](dynamic-programming/popular-dp-questions/subsequence-problem.md)
+  * [String DP](dynamic-programming/string-dp/README.md)
+    * [Horspool's Algorithm](dynamic-programming/string-dp/horspools-algorithm.md)
+    * [Manacher’s Algorithm](dynamic-programming/string-dp/manachers-algorithm.md)
   * [Binary Jumping / Lifting](dynamic-programming/binary-jumping-lifting.md)
   * [Kadanes Algorithm](dynamic-programming/kadanes-algorithm.md)
-  * [Manacher’s Algorithm](dynamic-programming/manachers-algorithm.md)
   * [Prefix Sum](dynamic-programming/prefix-sum.md)
 * [Greedy](greedy.md)
 
