@@ -281,3 +281,15 @@ public void bfs(){
 ## Practise Questions
 
 624  [https://www.lintcode.com/problem/624/](https://www.lintcode.com/problem/624/)
+
+
+
+## Other Interesting Problem
+
+Leetcode 296 [https://leetcode.com/problems/best-meeting-point/](https://leetcode.com/problems/best-meeting-point/)
+
+If we try to find the best meeting point for all friends using Manhattan distance, one possible optimization is to separate 2-D problem into 1-D, ie, we only need to&#x20;
+
+* find mid\_x such that sum of | x - mid\_x | is minimize and&#x20;
+* find mid\_y such that sum of | y - mid\_y | is minimize
+* We can group the x-coordinate together in a frequency map
