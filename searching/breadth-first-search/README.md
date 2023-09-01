@@ -292,4 +292,4 @@ If we try to find the best meeting point for all friends using Manhattan distanc
 
 * find mid\_x such that sum of | x - mid\_x | is minimize and&#x20;
 * find mid\_y such that sum of | y - mid\_y | is minimize
-* We can group the x-coordinate together in a frequency map
+* We can group the x-coordinate and y-coordinate together in a frequency map
