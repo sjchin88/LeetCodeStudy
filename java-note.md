@@ -98,6 +98,10 @@ list.toArray();
 
 // sorting
 Collections.sort(al);
+
+// Alternative sorting
+list.sort(null);    //default null comparator is normal sorting
+list.sort((int num1, int num2) -> num1 - num2); // with lambda
 ```
 
 ## Set
