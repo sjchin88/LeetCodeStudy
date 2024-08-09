@@ -57,6 +57,23 @@ def inorder_traversal(root: Optional[TreeNode]) -> List[int]:
     return result
 ```
 
+## Find k-smallest&#x20;
+
+```python
+# In order traversal, using yield and next function of python
+def solution(root, K):
+    def dfs(node):
+        if node:
+            yield from dfs(node.left)
+            yield node.value
+            yield from dfs(node.right)
+    
+    f = dfs(root)
+    for _ in range(K):
+        ans = next(f)
+    return ans
+```
+
 ## Inserting new node
 
 ```python
