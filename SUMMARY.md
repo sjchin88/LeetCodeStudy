@@ -39,6 +39,7 @@
     * [KnapSack Problem](dynamic-programming/knapsack-problem.md)
     * [Longest Palindrome Subsequence](dynamic-programming/longest-palindrome-subsequence.md)
     * [Subsequence problem](dynamic-programming/popular-dp-questions/subsequence-problem.md)
+    * [Longest Increasing Subsequence](dynamic-programming/popular-dp-questions/longest-increasing-subsequence.md)
   * [String DP](dynamic-programming/string-dp/README.md)
     * [Horspool's Algorithm](dynamic-programming/string-dp/horspools-algorithm.md)
     * [Manacher’s Algorithm](dynamic-programming/string-dp/manachers-algorithm.md)
