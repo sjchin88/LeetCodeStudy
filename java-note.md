@@ -192,7 +192,7 @@ queue.pop(); //last element
 
 ```
 
-## PriorityQueue
+## PriorityQueue (Heap)
 
 ```java
 // Initialize
