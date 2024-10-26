@@ -55,6 +55,8 @@ class Solution:
             
         # preprocessing
         new_s = "#".join('${}%'.format(s))
+        # More stable method operation on string/list
+        new_s = '#'.join('$'+s+'%')
         n = len(new_s)
         dp_len = [0] * n
         
@@ -89,3 +91,16 @@ class Solution:
         return s[(max_center - max_len)//2 : (max_center + max_len)//2]
 ```
 
+
+
+## Efficiency & Variations
+
+Time complexity is O(n) as we traverse only once.&#x20;
+
+Note that Manacher's algorithm will calculate the longest palindrome string centered around each indexes in dp\_len above.&#x20;
+
+If we have questions to repetitively check if the substring (given start and end position) is a palindrome, after preprocessing in O(n) time, each check will require only O(1) time.&#x20;
+
+Example question:
+
+Leetcode 3327: [https://leetcode.com/problems/check-if-dfs-strings-are-palindromes/](https://leetcode.com/problems/check-if-dfs-strings-are-palindromes/)
