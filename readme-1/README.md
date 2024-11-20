@@ -56,7 +56,9 @@ iterating the lists:
 
 add
 
-**multiplication :** \[element] \* n = \[element, element .... element(n)]  - useful for array initialization
+**multiplication :** \[element] \* n = \[element, element .... element(n)]  - useful for array initialization. Note if element is an address, it will be shallow copy. A better approach is to do&#x20;
+
+\[element for \_ in range(n)】
 
 membership check using **in** operator  - running time O(n)
 
