@@ -29,15 +29,15 @@ blue - optional argument, note start idx (inclusive) - end idx (exclusive)
 ```python
 #additional
 # remove tailing whitespace
-str.strip()
+new_str = old_str.strip()
 # use the re and regex
 import re
 tokens = re.split(r'\s+', str)
 ```
 
-**str.lower()** -> convert all characters to lowercase
+**str.lower()** -> convert all characters to lowercase and return&#x20;
 
-**str.upper()** -> convert all characters to uppercase
+**str.upper()** -> convert all characters to uppercase and return
 
 print("%.2f" % num) -> print num to 2 decimal place
 
@@ -76,7 +76,7 @@ list.extend(seq)  - Append items from _seq (list / tuple / set)_ to the end of t
 
 delete last element from list, either **list.pop()** or **del list\[-1]**
 
-**list.pop(**<mark style="color:blue;">**i**</mark>**)** - remove the element at index i, if not specified, remove the last element and return it
+**list.pop(**<mark style="color:blue;">**i**</mark>**)** - remove the element at index i, if not specified, remove the last element and return it. It raises an [`IndexError`](https://docs.python.org/3/library/exceptions.html#IndexError) if the list is empty or the index is outside the list range.
 
 list.remove(obj) - remove the first occurrence of the object. It raises a [`ValueError`](https://docs.python.org/3/library/exceptions.html#ValueError) if there is no such item.
 
@@ -86,7 +86,7 @@ list.insert(i, x) insert item x at position i.&#x20;
 
 ### Sorting
 
-**list.sort(**_**\***_**, **_<mark style="color:blue;">**key=None**</mark>_<mark style="color:blue;">**,**</mark><mark style="color:blue;">** **</mark>_<mark style="color:blue;">**reverse=False**</mark>_**)** - sort the item in place, return none type
+**list.sort(**_**\***_**,&#x20;**_<mark style="color:blue;">**key=None**</mark>_<mark style="color:blue;">**,**</mark><mark style="color:blue;">**&#x20;**</mark>_<mark style="color:blue;">**reverse=False**</mark>_**)** - sort the item in place, return none type
 
 List.sort(reverse = True) / List.reverse()- sort the list by default key using reverse
 
@@ -101,6 +101,10 @@ For **tuple,** the default comparator will compare the first element, then the s
 list.sort(key = **lambda** a : ( a\[0], a\[1] ))   #this sort first by a\[0] then by a\[1],&#x20;
 
 list.sort(key = **lambda** a : ( a\[0], <mark style="color:red;">**-**</mark> a\[1] ))  # if we want to sort a\[0] by increasing order then a\[1] in reverse order
+
+Note above work only for number, for str or other objects try:
+
+<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption><p>ref: <a href="https://stackoverflow.com/questions/37693373/how-to-sort-a-list-with-two-keys-but-one-in-reverse-order">https://stackoverflow.com/questions/37693373/how-to-sort-a-list-with-two-keys-but-one-in-reverse-order</a></p></figcaption></figure>
 
 ### Sorted(iterable)
 
@@ -259,7 +263,7 @@ o   Queue.popleft() >> delete an argument from the left end of the dequeue
 
 Example usage: collections.defaultdict(list)  - for each insert key which didn't exist before, default value is an empty list
 
-collections.OrderedDict()  - dict subclass that remembers the order entries were added. Useful for LRU implementation
+collections.OrderedDict()  - dict subclass that remembers the order entries that were added. Useful for LRU implementation
 
 ## math
 

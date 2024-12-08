@@ -33,6 +33,26 @@ So if we override the \_\_hash\_\_ method, we need to override the \_\_equal\_\_
 
 ## Decorator in Python
 
-[https://www.programiz.com/python-programming/decorator](https://www.programiz.com/python-programming/decorator)
+{% embed url="https://www.programiz.com/python-programming/decorator" %}
 
-###
+```python
+# Example decorators
+def decorator(func):
+    def inner():
+        print("I got decorated")
+        func()
+    return inner
+
+@decorator
+def normal():
+    print("I am normal")
+
+normal() 
+# Expected output
+I got decorated
+I am normal
+
+# When we call the normal() function, the function will passed to the decorator func
+# first, Which return the modified inner() function, and when called
+# execute the content of the inner function
+```
