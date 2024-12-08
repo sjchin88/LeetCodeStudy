@@ -46,6 +46,7 @@
   * [Binary Jumping / Lifting](dynamic-programming/binary-jumping-lifting.md)
   * [Kadanes Algorithm](dynamic-programming/kadanes-algorithm.md)
   * [Prefix Sum](dynamic-programming/prefix-sum.md)
+  * [Digit DP](dynamic-programming/digit-dp.md)
 * [Greedy](greedy.md)
 
 ## Searching
