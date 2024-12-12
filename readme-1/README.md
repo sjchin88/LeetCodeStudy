@@ -92,9 +92,22 @@ List.sort(reverse = True) / List.reverse()- sort the list by default key using r
 
 list.sort(key=operator.itemgetter(0))&#x20;
 
-list.sort(key = **lambda** a : a\[0])   #example for lambda function
+list.sort(key = **lambda** a : a\[0])   #example for lambda function.&#x20;
 
-For **tuple,** the default comparator will compare the first element, then the second element, and so forth
+Can pass key as a transformation function, then the sort will use the result for sorting, example
+
+```python
+def transform(word):
+   res = []
+   for a in word:
+     res.append(f(a))
+   return tuple(res)
+list.sort(key=tranform)
+```
+
+For **tuple,** the default comparator will compare the first element, then the second element, and so forth.&#x20;
+
+
 
 ### **Secondary sorting**&#x20;
 
