@@ -4,34 +4,38 @@
 Explanation
 {% endembed %}
 
-Key Summary
+## Typical Problem Statement
 
-0 / 1 as for each item, we have the option of not including / including it into the knapsack
+**Basic version** - given n items with weight/size in list A, and value in list V. and a backpack with weight/size of m, find the maximum value that can be pack into the backpack.&#x20;
+
+## Solution summary
+
+For each item, we have the option of not including / including it into the knapsack (0 or 1)
 
 Brute forces will result in O(2^n)&#x20;
 
 DP can often reduce the time complexity into O(n ^ x). x represent the number of states that we need to iterate through. The states required will include
 
-* **The number of items** considered thus far (Note this is not required to be stored if we can iterate the remaining states backward (from bigger value down to smaller value)
-* The weight/volume/area of the items included up to the **capacity** of the knapsack&#x20;
-* Additional parameters required
-* Note the value stored inside the dp is a state itself, most often we only store the optimal state required
-* For example, for a typical knapsack problem:&#x20;
-  * dp\[i]\[w] represents the state iterating till item i for weight w.&#x20;
-  * We can also use only dp\[w] to represent the max/min value for weight w, we still iterating through all n items, but for each iteration, we start from the right (biggest）down to the left&#x20;
-  * where dp\[w] = max(dp\[w], dp\[w - w\[i]] + p\[i])
-  * If we do left to right then the same item's value could be duplicated in calculating the bigger part
+* Example state dp\[i]\[w],&#x20;
+* **i = The number of items** considered thus far&#x20;
+* **w** = The weight/volume/area of the items included up to the **capacity** of the knapsack
+* usually start from 0 to max number of items (n + 1 state) or 0 to max capacity (ie, w + 1 state) to account for edge cases.&#x20;
+* Transition function dp\[i + 1]\[w] = max(dp\[i]\[w], dp\[i]\[w - w\[i]] + p\[i])
+
+## Optimizations
 
 for problems where the item price is the same as the item weight, and we want to find the max weight / specific weight is possible
 
 * we can compress the dp from 2-d to 1-d
-* or we just use a set to store all possible states up to item i - 1, and iterate through the possible states for new possible state with i&#x20;
+* Instead of iterating through all weight (0 to w + 1),  we just use a set to store all possible states up to item i - 1, and iterate through the possible states for new possible state with i&#x20;
 
-## Order of iterations
+### Optimization & Order of iterations
+
+* for dp\[i]\[w] , can compress 2-d array down to 1-d array like dp\[w].&#x20;
+* avoid repetition/overwrite by iterating from largest to smaller value backward. Eg, if we have w range from 0 - 10, for new state we start iterating from 10
+* where dp\[w] = max(dp\[w], dp\[w - w\[i]] + p\[i])
 
 Think about how to calculate the state required, and whether redundancy is allow
-
-For 1-d DP where the n-item is compressed (and remove), we usually want to iterate from right (largest) down to left (smallest) to avoid duplicate count.&#x20;
 
 But if the items can be used infinitely, we will iterate from left to right as normal
 
