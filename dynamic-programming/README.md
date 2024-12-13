@@ -2,7 +2,7 @@
 
 ## When to apply
 
-* Overlapping subproblems
+* Overlapping subproblems  (if no overlapping, have to use dfs with recursion, with time complexity often O(2 ^n)
 * Local optimal is not necessary equal to global optimal (if it is equal, use Greedy)
 
 ## Prerequisites for DP
