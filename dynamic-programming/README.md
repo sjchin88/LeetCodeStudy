@@ -1,10 +1,16 @@
 # Dynamic Programming
 
+## When to apply
+
+* Overlapping subproblems
+* Local optimal is not necessary equal to global optimal (if it is equal, use Greedy)
+
 ## Prerequisites for DP
 
-If you are working with arrays, then you have to work with either subarrays （contiguous part of array) or subsequences ( non contiguous, but maintain relative order of elements).
+If you are working with arrays,&#x20;
 
-Cannot work with subset
+* then you have to work with either subarrays （contiguous part of array) or subsequences ( non contiguous, but maintain relative order of elements). By breaking down the problem into smaller subproblem (like 0 to i for  0 < i <= n)
+* Cannot work with subset (Random order), as the subproblems cannot guarantee overlap
 
 
 
@@ -54,7 +60,7 @@ If we can enumerate the states in certain orders, so that when we reach dp\[stat
 
 Practise&#x20;
 
-LintCode; [https://www.lintcode.com/problem/398/description?fromId=178&\_from=collection](https://www.lintcode.com/problem/398/description?fromId=178&\_from=collection)
+LintCode; [https://www.lintcode.com/problem/398/description?fromId=178&\_from=collection](https://www.lintcode.com/problem/398/description?fromId=178&_from=collection)
 
 ## Dividing Type
 
@@ -80,7 +86,7 @@ Practise
 
 396 [https://www.lintcode.com/problem/396/](https://www.lintcode.com/problem/396/)
 
-395 [https://www.lintcode.com/problem/395/description?fromId=178&\_from=collection](https://www.lintcode.com/problem/395/description?fromId=178&\_from=collection)
+395 [https://www.lintcode.com/problem/395/description?fromId=178&\_from=collection](https://www.lintcode.com/problem/395/description?fromId=178&_from=collection)
 
 ## Potential Space Optimization
 
