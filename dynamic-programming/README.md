@@ -40,7 +40,10 @@ dp\[big problem] = min / max { dp\[small problem 1] .... dp\[small problem n] }
 
 ## Coordinate Type DP
 
-1. The state corresponds to each coordinates&#x20;
+1. The state corresponds to each coordinates (dimension of the problem)
+2. Example:&#x20;
+   1. KnapSack problem, usually is two state dp\[i]\[w]
+   2. Longest Palindrome subsequence -> two state dp\[i]\[j], i = idx on str 1, j = idx on str 2
 
 Practise:
 
