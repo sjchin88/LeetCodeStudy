@@ -29,4 +29,18 @@ Problems:
 
 2272\. Substring With Largest Variance (Hard) [https://leetcode.com/problems/substring-with-largest-variance/](https://leetcode.com/problems/substring-with-largest-variance/)
 
-[https://www.lintcode.com/course/42](https://www.lintcode.com/course/42)
+{% embed url="https://www.lintcode.com/course/42" %}
+
+## Variations
+
+Max product of subarray
+
+* Keep prev\_max, prev\_min, max\_prod values
+* For each next num in the array, there are 3 choices for curr\_max & curr\_min. Eg for curr\_max
+  * num is positive and prev\_max > 1 , max will be num \* prev\_max
+  * num is positive and prev\_max is < 1, max will be num only.&#x20;
+  * num is negative and prev\_max > 1, max will be num only
+  * num is negative and prev\_max < 1, max will be num \* prev\_max.&#x20;
+  * Update max\_prod with curr\_max
+
+[https://www.lintcode.com/course/42/learn/191/](https://www.lintcode.com/course/42/learn/191/)
