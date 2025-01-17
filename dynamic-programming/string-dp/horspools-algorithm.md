@@ -28,6 +28,8 @@ Time complexities:
 
 In the worst case, still O(nm) -> consider case where pattern = baaaaaa, with text of all a
 
+best case -> O(n + m) -
+
 ## Algorithm & Practise Problem
 
 Leetcode 28: [https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/)

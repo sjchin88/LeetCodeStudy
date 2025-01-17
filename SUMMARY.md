@@ -43,6 +43,7 @@
   * [String DP](dynamic-programming/string-dp/README.md)
     * [Horspool's Algorithm](dynamic-programming/string-dp/horspools-algorithm.md)
     * [Manacher’s Algorithm](dynamic-programming/string-dp/manachers-algorithm.md)
+    * [KMP Algorithm](dynamic-programming/string-dp/kmp-algorithm.md)
   * [Binary Jumping / Lifting](dynamic-programming/binary-jumping-lifting.md)
   * [Kadanes Algorithm](dynamic-programming/kadanes-algorithm.md)
   * [Prefix Sum](dynamic-programming/prefix-sum.md)
