@@ -45,6 +45,10 @@
     * Use a heap in place of a queue for bfs&#x20;
     * Roll till the end and check the endpoint only&#x20;
 
+### Double BFS from Start & Destination
+
+* Given start and target position, can BFS simultaneously from both.&#x20;
+
 
 
 
