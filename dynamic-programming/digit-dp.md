@@ -32,3 +32,41 @@ newTight = previousTight & (target_digit==digit[idx])
   * tight as explained early
   * substate depends, for calculating sum of digits, it will be range of possible sum for single number (0 -180 if 20 digits max).&#x20;
 * Time complexity O(idx \* tight \* state)
+
+## Example Problem & Code
+
+```python
+# Problem: https://leetcode.com/problems/number-of-digit-one/description/
+class Solution:
+    def countDigitOne(self, n: int) -> int:
+        n_str = str(n)
+        digits = [int(ch) for ch in n_str]
+
+        # cache do memoization (dp)
+        # the Time & space complexity are decided by number of states involved, 
+        # which in this case will be n(digit) * n(tight), roughtly equals to 10 * 2 etc
+        @cache
+        def count(digit, tight) -> tuple[int, int]:
+            if digit == len(digits):
+                return 0, 1
+            
+            upper_limit = 9
+            if tight:
+                upper_limit = digits[digit]
+            
+            cnt_one = 0
+            cnt_num = 0
+            for i in range(upper_limit + 1):
+                t1, tn = count(digit+1, tight & (i==digits[digit]))
+                cnt_one += t1
+                cnt_num += tn
+                if i == 1:
+                    cnt_one += tn
+            return cnt_one, cnt_num
+
+        cnt_one, cnt_num = count(0, 1)
+        return cnt_one
+```
+
+### Practise Problem:
+
