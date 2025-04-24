@@ -28,7 +28,7 @@ Each node will store&#x20;
 ## Sample Code
 
 ```python
-// Sample Python
+# Sample Python
 class STNode:
     def __init__(self, start, end, x):
         self.start = start
@@ -82,81 +82,7 @@ class SegmentTree:
             result += self.query(root.left, start, end)
         return result 
         
-// Sample Python
-class STNode:
-    def __init__(self, start, end, x, k):
-        self.start = start
-        self.end = end
-        # Here we store interval_sum, it could be anything
-        self.prod = x % k
-        self.counts = [0] * k
-        self.counts[prod] = 1
-        self.left = self.right = None
 
-class SegmentTree:
-    def __init__(self, nums, start, end, k):
-        self.root = self.construct(nums, start, end, k)
-        
-    def construct(self, nums, start, end, k):
-        if start > end:
-            return None
-        new_node = STNode(start, end, nums[start], k)
-        if start != end:
-            mid = start + (end - start) // 2
-            new_node.left = self.construct(nums, start, mid, k)
-            new_node.right = self.construct(nums, mid + 1, end, k)
-            prod = 1 
-            counts = [0] * k
-            if new_node.left:
-                prod = new_node.left.prod
-                counts = new_node.left.counts
-                #new_node.interval_sum += new_node.left.interval_sum
-            if new_node.right:
-                for val, cnt in enumerate(new_node.right.counts):
-                    counts[val * prod % k] += cnt
-                prod = (prod * new_node.right.prod) % k
-                #new_node.interval_sum += new_node.right.interval_sum
-            new_node.prod = prod
-            new_node.counts = counts
-        return new_node
-            
-    def modify(self, root, index, value, k):
-        if root.start == index and root.end == index:
-            root.prod = value % k
-            root.counts = [0] * k
-            root.counts[root.prod] = 1
-            return 
-        mid = root.start + (root.end - root.start) // 2
-        if root.start <= index <= mid:
-            self.modify(root.left, index, value, k)
-        if mid < index <= root.end:
-            self.modify(root.right, index, value, k)
-        prod = 1 
-        counts = [0] * k
-        if root.left:
-            prod = new_node.left.prod
-            counts = new_node.left.counts
-
-        if root.right:
-            for val, cnt in enumerate(new_node.right.counts):
-                counts[val * prod % k] += cnt
-            prod = (prod * new_node.right.prod) % k
-        root.prod = prod
-        root.counts = counts
-    
-    def query(self, root, start, end, x):
-        if root.start == start and root.end == end:
-            return root.counts[]
-        mid = root.start + (root.end - root.start) // 2
-        result = 0
-        if start <= mid < end:
-            result += self.query(root.left, start, mid)
-            result += self.query(root.right, mid + 1, end)
-        elif start > mid:
-            result += self.query(root.right, start, end)
-        elif end <= mid:
-            result += self.query(root.left, start, end)
-        return result 
 ```
 
 Example Problem
