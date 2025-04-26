@@ -35,7 +35,7 @@ Space complexities => similar to time complexities.&#x20;
 ## Things to note
 
 1. Think carefully about how to store the state of the visited node (for example, the N-Queens problem)
-2. Need to consider pruning early as soon as we found the result. (for example, [https://www.lintcode.com/problem/570](https://www.lintcode.com/problem/570))
+2. Need to consider pruning early as soon as we found the first result. If we are looking for optimize dfs order that can produce the best result, think if there is a way to verify if it is possible to achieve better and stop if it doesnt.  (for example, [https://www.lintcode.com/problem/570](https://www.lintcode.com/problem/570), 3530 - [https://leetcode.com/problems/maximum-profit-from-valid-topological-order-in-dag/description/](https://leetcode.com/problems/maximum-profit-from-valid-topological-order-in-dag/description/))
 3. Try 301 , [https://leetcode.com/problems/remove-invalid-parentheses/](https://leetcode.com/problems/remove-invalid-parentheses/)
 
 ## Solving Steps
