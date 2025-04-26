@@ -44,7 +44,7 @@ Sample problems:
 
 60: [https://leetcode.com/problems/permutation-sequence/description/](https://leetcode.com/problems/permutation-sequence/description/)
 
-3525: [https://leetcode.com/problems/find-x-value-of-array-ii/description/](https://leetcode.com/problems/find-x-value-of-array-ii/description/)
+3518: [https://leetcode.com/problems/smallest-palindromic-rearrangement-ii/description/](https://leetcode.com/problems/smallest-palindromic-rearrangement-ii/description/)
 
 ```python
 # sample code
