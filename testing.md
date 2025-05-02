@@ -1,10 +1,8 @@
 # Monotonic Stack
 
-496\. Next Greater Element I Visit [https://leetcode.com/problems/next-greater-element-i/](https://leetcode.com/problems/next-greater-element-i/)
 
-**907.** Sum of Subarray Minimums [https://leetcode.com/problems/sum-of-subarray-minimums/](https://leetcode.com/problems/sum-of-subarray-minimums/)
 
-2104\. Sum of Subarray Ranges [https://leetcode.com/problems/sum-of-subarray-ranges/](https://leetcode.com/problems/sum-of-subarray-ranges/)
+## Concept & Code
 
 A Monotonic stack is an ordered stack.\
 The elements in the stack are monotonically increasing/decreasing after each new element is pushed into the stack.
@@ -158,4 +156,63 @@ for(int i = 0; i < length; i++){
 }
 ```
 
+## Sample Problems
+
 2104\. Sum of Subarray Ranges [https://leetcode.com/problems/sum-of-subarray-ranges/](https://leetcode.com/problems/sum-of-subarray-ranges/)
+
+496\. Next Greater Element I Visit [https://leetcode.com/problems/next-greater-element-i/](https://leetcode.com/problems/next-greater-element-i/)
+
+**907.** Sum of Subarray Minimums [https://leetcode.com/problems/sum-of-subarray-minimums/](https://leetcode.com/problems/sum-of-subarray-minimums/)
+
+
+
+## Interesting Extension
+
+Idea,&#x20;
+
+* find largest histogram , row by row, iterate from top to bottom
+* for each new row, add the height of rows on top
+
+85. [https://leetcode.com/problems/maximal-rectangle/description/](https://leetcode.com/problems/maximal-rectangle/description/)
+
+```python
+class Solution:
+    def maximalRectangle(self, matrix: List[List[str]]) -> int:
+        def largest_rectangle(heights:List[int]):
+            max_area = 0
+            # keep a monotonic increasing stack, 
+            # when element of stack is pop(), we found the next smaller element
+            # current area with pop element as left side can be determined
+            stack = []
+            temp = list(heights)
+            temp.append(0)
+            for i, h in enumerate(temp):
+                while stack and stack[-1][0] >= h:
+                    prev_h, _ = stack.pop()
+                    if stack:
+                        prev_i = stack[-1][1] 
+                    else:
+                        prev_i = -1
+                    area = prev_h * (i - prev_i - 1)
+                    #print(i, h, prev_i, prev_h, stack)
+                    max_area = max(area, max_area)
+                stack.append((h, i))
+            #print(max_area, heights)
+            return max_area
+        max_area = 0
+        rows = len(matrix)
+        cols = len(matrix[0])
+        heights = [0] * cols
+        for r in range(rows):
+            for c in range(cols):
+                if matrix[r][c] == '1':
+                    heights[c] += 1
+                else:
+                    heights[c] = 0
+            curr_max = largest_rectangle(heights)
+            max_area = max(max_area, curr_max)
+        return max_area
+```
+
+
+
