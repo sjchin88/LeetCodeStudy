@@ -49,6 +49,10 @@ Practise:
 
 115 [https://www.lintcode.com/problem/115/](https://www.lintcode.com/problem/115/)
 
+When going from topleft to bottom right is difficult, consider working backward from bottom right to topleft.&#x20;
+
+Example question: [https://leetcode.com/problems/dungeon-game/description/](https://leetcode.com/problems/dungeon-game/description/)
+
 ## Sequence Type
 
 1. Similar to coordinate type, except that f(i) record the states up to i - 1
