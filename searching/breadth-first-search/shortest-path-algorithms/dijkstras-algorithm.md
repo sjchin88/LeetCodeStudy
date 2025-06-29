@@ -29,3 +29,7 @@ def shortest_path(self, src: int):
                     dist[v] = dist[curr] + weight
                     heapq.heappush(pq, (dist[v], v))
 ```
+
+Interesting leetcode question
+
+3594: [https://leetcode.com/problems/minimum-time-to-transport-all-individuals/description/](https://leetcode.com/problems/minimum-time-to-transport-all-individuals/description/)
