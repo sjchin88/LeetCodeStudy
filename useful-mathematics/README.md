@@ -20,7 +20,16 @@ number of possible arrangements in a collection of items where the **order of th
 
 **Formula：** C(n, k) = (n , k) = n! / ((n - k) ! \* k !)
 
+```python
+# Python has a iterative combinations() method that can 
+# print combinations 
+from itertools import combinations
 
+# Usage 
+# count is number of element to select, 
+# a, b ... can be unpack, a can be a single int, or a tuple etc. 
+for a, b... in combinations(arr, count):
+```
 
 ## Permutations
 
