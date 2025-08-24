@@ -48,7 +48,7 @@
     * [Rabin-Karp (Rolling Hash)](dynamic-programming/string-dp/rabin-karp-rolling-hash.md)
   * [Binary Jumping / Lifting](dynamic-programming/binary-jumping-lifting.md)
   * [Kadanes Algorithm](dynamic-programming/kadanes-algorithm.md)
-  * [Prefix Sum](dynamic-programming/prefix-sum.md)
+  * [Prefix Sum (Include Remainder)](dynamic-programming/prefix-sum-include-remainder.md)
   * [Digit DP](dynamic-programming/digit-dp.md)
 * [Greedy](greedy.md)
 * [Segmented Tree](segmented-tree.md)

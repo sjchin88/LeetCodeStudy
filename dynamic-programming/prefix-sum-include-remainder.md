@@ -1,4 +1,4 @@
-# Prefix Sum
+# Prefix Sum (Include Remainder)
 
 GFG Description [https://www.geeksforgeeks.org/prefix-sum-array-implementation-applications-competitive-programming/](https://www.geeksforgeeks.org/prefix-sum-array-implementation-applications-competitive-programming/)
 
@@ -45,4 +45,65 @@ if there exist a prefix\_sum = prefix\[j + 1] - target, that means there exist a
 Leetcode 560 - [https://leetcode.com/problems/subarray-sum-equals-k/](https://leetcode.com/problems/subarray-sum-equals-k/)
 
 Leetcode 1074 - [https://leetcode.com/problems/number-of-submatrices-that-sum-to-target/](https://leetcode.com/problems/number-of-submatrices-that-sum-to-target/)
+
+
+
+## Follow Up - Working with Remainder
+
+\*Need Proof
+
+Leetcode 3654 - [https://leetcode.com/problems/minimum-sum-after-divisible-sum-deletions/description/](https://leetcode.com/problems/minimum-sum-after-divisible-sum-deletions/description/)
+
+#### Idea
+
+## **Intuition** <a href="#intuition" id="intuition"></a>
+
+Use a DP to track the result,\
+`dp[prefix % k]` stores the smallest result with `prefix` sum mod `k`.
+
+## **Explanation** <a href="#explanation" id="explanation"></a>
+
+Iterates through the array,\
+maintaining an evolving sum `res`.\
+If `res` reaches a value that shares a remainder\
+with a smaller previously seen prefix sum,\
+the algorithm instantly "deletes" the difference\
+by resetting `res` to that smaller value.
+
+## **More Detail** <a href="#more-detail" id="more-detail"></a>
+
+Note that, the evolving sum `res` isn't just a running total.\
+It represents the minimum possible sum\
+of the array prefix processed so far,\
+after optimal deletions.
+
+`res = dp[res % k] = min(dp[res % k], res)`\
+This compact line is the engine of the solution:\
+It looks up the smallest past sum with the same remainder (dp\[res % k]).\
+It compares this past sum with the current `res`\
+and updates the dp memory bank with the new minimum.
+
+It replaces `res` with this minimum value,\
+which is equivalent to performing the optimal deletion.\
+The final value of `res` after the loop is the minimum possible sum for the entire array.
+
+## **Complexity** <a href="#complexity" id="complexity"></a>
+
+Time `O(n)`\
+Space `O(k)`
+
+#### Code
+
+```python
+class Solution:
+    def minArraySum(self, nums: List[int], k: int) -> int:
+        dp = [0] + [inf] * k
+        res = 0
+        for a in nums:
+            res += a
+            res = dp[res % k] = min(dp[res % k], res)
+           # print(res, dp)
+        return res
+
+```
 
