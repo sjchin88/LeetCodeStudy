@@ -8,7 +8,17 @@ The value of **prefixSum\[i]** is **arr\[0] + arr\[1] + arr\[2] . . . arr\[i]**
 
 the **sum of subarray \[i, j]** (inclusive) is **prefixSum\[j] - prefixSum\[ i - 1]**
 
-This is useful if we need to iterate through the sum of subarray for i , j in range of (0, n)
+This is useful if&#x20;
+
+* Given two position i, j  where i <= j, we want to quickly find the sum between i & j (all unclusive)
+  * whenwe need to iterate through the sum of subarray for i , j in range of (0, n)
+* Or given j, we want to quickly find out previous position i where the subarray i -> j satisfy specific conditions
+  * subarray i -> j satisfy the condition where sum == k. (find i through sum\_till\_j - k )
+  * subarray i -> j satisfy the condition where sum % k == 0 . (find i where the remainder is equal to sum\_till\_j % k, then the sum between is divisible by k).&#x20;
+  * subarray i -> j satisfy the condition where count\_a == count\_b .&#x20;
+    * find i where a tuple/number depicting relative relationship between count\_a and count\_b are equal (like a - b).&#x20;
+    * can be expand to count more than two elements.&#x20;
+* One main variant is prefix xor - [https://app.gitbook.com/o/IgtZxuKagHAbRT6VUduo/s/8nbRxs1osszpAUPt9rwm/\~/changes/241/bit-manipulation#properties-of-xor](../bit-manipulation.md#properties-of-xor)
 
 ## Practise Question
 
@@ -56,12 +66,14 @@ Leetcode 3654 - [https://leetcode.com/problems/minimum-sum-after-divisible-sum-d
 
 #### Idea
 
-## **Intuition** <a href="#intuition" id="intuition"></a>
+### **Intuition** <a href="#intuition" id="intuition"></a>
 
 Use a DP to track the result,\
 `dp[prefix % k]` stores the smallest result with `prefix` sum mod `k`.
 
-## **Explanation** <a href="#explanation" id="explanation"></a>
+### **Explanation** <a href="#explanation" id="explanation"></a>
+
+###
 
 Iterates through the array,\
 maintaining an evolving sum `res`.\
@@ -70,7 +82,7 @@ with a smaller previously seen prefix sum,\
 the algorithm instantly "deletes" the difference\
 by resetting `res` to that smaller value.
 
-## **More Detail** <a href="#more-detail" id="more-detail"></a>
+### **More Detail** <a href="#more-detail" id="more-detail"></a>
 
 Note that, the evolving sum `res` isn't just a running total.\
 It represents the minimum possible sum\
@@ -87,7 +99,7 @@ It replaces `res` with this minimum value,\
 which is equivalent to performing the optimal deletion.\
 The final value of `res` after the loop is the minimum possible sum for the entire array.
 
-## **Complexity** <a href="#complexity" id="complexity"></a>
+### **Complexity** <a href="#complexity" id="complexity"></a>
 
 Time `O(n)`\
 Space `O(k)`
