@@ -119,3 +119,8 @@ class Solution:
 
 ```
 
+
+
+## Follow Up - Prefix Sum to find balanced Substring
+
+Leetcode question: [https://leetcode.com/problems/longest-balanced-substring-ii/](https://leetcode.com/problems/longest-balanced-substring-ii/)
