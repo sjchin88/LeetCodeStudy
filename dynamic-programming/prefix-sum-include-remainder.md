@@ -1,5 +1,7 @@
 # Prefix Sum (Include Remainder)
 
+## Main Idea
+
 GFG Description [https://www.geeksforgeeks.org/prefix-sum-array-implementation-applications-competitive-programming/](https://www.geeksforgeeks.org/prefix-sum-array-implementation-applications-competitive-programming/)
 
 Idea,&#x20;
@@ -20,15 +22,19 @@ This is useful if&#x20;
     * can be expand to count more than two elements.&#x20;
 * One main variant is prefix xor - [https://app.gitbook.com/o/IgtZxuKagHAbRT6VUduo/s/8nbRxs1osszpAUPt9rwm/\~/changes/241/bit-manipulation#properties-of-xor](../bit-manipulation.md#properties-of-xor)
 
-## Practise Question
+### Practise Question
 
-**Practise Question (Easy)**
+#### **Practise Question (Easy)**
 
 [**https://www.lintcode.com/problem/138/**](https://www.lintcode.com/problem/138/)
 
 **Practise Question**&#x20;
 
 {% embed url="https://leetcode.com/discuss/interview-question/850974" %}
+
+#### Preacise Question (Medium)
+
+3728： [https://leetcode.com/problems/stable-subarrays-with-equal-boundary-and-interior-sum/description/](https://leetcode.com/problems/stable-subarrays-with-equal-boundary-and-interior-sum/description/)
 
 ## Follow Up - Prefix Sum for 2-D
 
