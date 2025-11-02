@@ -53,6 +53,7 @@
 * [Greedy](greedy.md)
 * [Segmented Tree](segmented-tree.md)
 * [Sweeping Line](sweeping-line.md)
+* [Common Mechanism](common-mechanism.md)
 
 ## Searching
 
