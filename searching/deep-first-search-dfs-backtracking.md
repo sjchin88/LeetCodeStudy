@@ -1,4 +1,4 @@
-# Deep-First-Search(DFS)
+# Deep-First-Search(DFS)/Backtracking
 
 ## Application
 
@@ -172,6 +172,8 @@ Can be done using stack or recursion
 695\. Max Area of Island [https://leetcode.com/problems/max-area-of-island/](https://leetcode.com/problems/max-area-of-island/)
 
 417\. Pacific Atlantic Water Flow [https://leetcode.com/problems/pacific-atlantic-water-flow/](https://leetcode.com/problems/pacific-atlantic-water-flow/)
+
+[https://www.lintcode.com/problem/990/](https://www.lintcode.com/problem/990/)
 
 ### Hard
 

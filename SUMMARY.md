@@ -65,4 +65,4 @@
     * [Shortest Path Fast Algorithm](searching/breadth-first-search/shortest-path-algorithms/shortest-path-fast-algorithm.md)
     * [Dijkstra’s Algorithm](searching/breadth-first-search/shortest-path-algorithms/dijkstras-algorithm.md)
   * [Topological Sort](searching/breadth-first-search/topological-sort.md)
-* [Deep-First-Search(DFS)](searching/deep-first-search-dfs.md)
+* [Deep-First-Search(DFS)/Backtracking](searching/deep-first-search-dfs-backtracking.md)
