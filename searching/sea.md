@@ -86,3 +86,15 @@ Algorithms:
 ### Hard
 
 LeetCode 2519: [https://leetcode.com/problems/count-the-number-of-k-big-indices/](https://leetcode.com/problems/count-the-number-of-k-big-indices/)
+
+{% embed url="https://leetcode.com/problems/the-skyline-problem/solutions/61261/11-line-python-solution-with-max-heap-ea-og60/" %}
+
+Intuition ⇒ break start, end , h into two pairs (start, h, end) and (end, 0, inf). Sort the list by start.&#x20;
+
+use a heap to store (-h, end) tuple.&#x20;
+
+iterate through the list
+
+* remove all tuple where end <= start&#x20;
+* if -h , push (-h, end) into the heap
+* check current max height, if curr max height be updated, add (start, current max height) to results.&#x20;
