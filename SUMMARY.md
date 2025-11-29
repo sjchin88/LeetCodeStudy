@@ -32,6 +32,7 @@
 * [Trie (Prefix Tree)](trie-prefix-tree.md)
 * [Useful Mathematics](useful-mathematics/README.md)
   * [Pascal Triangle](useful-mathematics/pascal-triangle.md)
+  * [Mod](useful-mathematics/mod.md)
 * [Dynamic Programming](dynamic-programming/README.md)
   * [Popular DP Questions](dynamic-programming/popular-dp-questions/README.md)
     * [Choices problem](dynamic-programming/popular-dp-questions/choices-problem.md)
