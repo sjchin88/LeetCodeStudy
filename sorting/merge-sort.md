@@ -35,3 +35,7 @@ def merge_sorting(a:List[int], start:int, end: int):
     return
             
 ```
+
+#### Hard Questions
+
+[https://www.lintcode.com/problem/1293/description?fromId=18&\_from=collection](https://www.lintcode.com/problem/1293/description?fromId=18&_from=collection)
