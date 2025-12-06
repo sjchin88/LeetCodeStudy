@@ -117,7 +117,7 @@ list.sort(key = **lambda** a : ( a\[0], <mark style="color:red;">**-**</mark> a\
 
 Note above work only for number, for str or other objects try:
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption><p>ref: <a href="https://stackoverflow.com/questions/37693373/how-to-sort-a-list-with-two-keys-but-one-in-reverse-order">https://stackoverflow.com/questions/37693373/how-to-sort-a-list-with-two-keys-but-one-in-reverse-order</a></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption><p>ref: <a href="https://stackoverflow.com/questions/37693373/how-to-sort-a-list-with-two-keys-but-one-in-reverse-order">https://stackoverflow.com/questions/37693373/how-to-sort-a-list-with-two-keys-but-one-in-reverse-order</a></p></figcaption></figure>
 
 ### Sorted(iterable)
 

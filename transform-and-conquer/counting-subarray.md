@@ -10,8 +10,7 @@ Problems (from easy to hard). :
 
 828\. Count Unique Characters of All Substrings of a Given String [https://leetcode.com/problems/count-unique-characters-of-all-substrings-of-a-given-string/](https://leetcode.com/problems/count-unique-characters-of-all-substrings-of-a-given-string/)
 
-**907.** Sum of Subarray Minimums (need to use monotonic stack) [https://leetcode.com/problems/sum-of-subarray-minimums/](https://leetcode.com/problems/sum-of-subarray-minimums/)\
-
+**907.** Sum of Subarray Minimums (need to use monotonic stack) [https://leetcode.com/problems/sum-of-subarray-minimums/](https://leetcode.com/problems/sum-of-subarray-minimums/)<br>
 
 Example problem description (2262).&#x20;
 

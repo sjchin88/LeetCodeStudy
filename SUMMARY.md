@@ -56,6 +56,10 @@
 * [Sweeping Line](sweeping-line.md)
 * [Common Mechanism](common-mechanism.md)
 
+## Competitive Programming
+
+* [Mo's Algorithm (SQRT)](competitive-programming/mos-algorithm-sqrt.md)
+
 ## Searching
 
 * [Binary Search](searching/binary-search.md)

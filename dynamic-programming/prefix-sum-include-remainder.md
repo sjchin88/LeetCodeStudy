@@ -42,7 +42,7 @@ To compute prefix\_sum for a matrix from (0, 0) to (x, y)
 
 prefix\[x + 1]\[y + 1] = matrix\[x]\[y] + prefix\[x + 1]\[y] + prefix\[x]\[y + 1] - prefix\[x]\[y]
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 Given prefix matrix, to compute the sum of submatrix from (x1, y1) to (x, y)
 
