@@ -87,4 +87,8 @@ class SegmentTree:
 
 Example Problem
 
-[https://leetcode.com/problems/find-x-value-of-array-ii/description/](https://leetcode.com/problems/find-x-value-of-array-ii/description/)
+{% embed url="https://leetcode.com/problems/find-x-value-of-array-ii/description/" %}
+
+## Variant - Merge Sort Tree
+
+Question: [https://leetcode.com/problems/minimum-operations-to-equalize-subarrays/description/](https://leetcode.com/problems/minimum-operations-to-equalize-subarrays/description/)
