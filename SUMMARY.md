@@ -35,6 +35,7 @@
   * [Mod + Euclid Algorithm](useful-mathematics/mod-+-euclid-algorithm.md)
   * [Prime](useful-mathematics/prime.md)
 * [Dynamic Programming](dynamic-programming/README.md)
+  * [Tree Rerooting DP](dynamic-programming/tree-rerooting-dp.md)
   * [Popular DP Questions](dynamic-programming/popular-dp-questions/README.md)
     * [Choices problem](dynamic-programming/popular-dp-questions/choices-problem.md)
     * [Dividing Type](dynamic-programming/popular-dp-questions/dividing-type.md)
