@@ -83,3 +83,7 @@ def help(lefts, temp, k, res):
         else:
             curr += next_
 ```
+
+## Fibonacci
+
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
