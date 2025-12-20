@@ -11,7 +11,7 @@ Usage - when need to&#x20;
 
 ## Key Characteristic
 
-<figure><img src=".gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
 
 Binary node tree to represent the entire array.&#x20;
 

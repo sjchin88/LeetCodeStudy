@@ -54,7 +54,9 @@
   * [Prefix Sum (Include Remainder)](dynamic-programming/prefix-sum-include-remainder.md)
   * [Digit DP](dynamic-programming/digit-dp.md)
 * [Greedy](greedy.md)
-* [Segmented Tree](segmented-tree.md)
+* [Range Sum Query & Update](range-sum-query-and-update/README.md)
+  * [Segmented Tree](range-sum-query-and-update/segmented-tree.md)
+  * [Fenwick Tree](range-sum-query-and-update/fenwick-tree.md)
 * [Sweeping Line](sweeping-line.md)
 * [Common Mechanism](common-mechanism.md)
 
