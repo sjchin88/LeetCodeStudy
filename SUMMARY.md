@@ -59,6 +59,7 @@
   * [Fenwick Tree](range-sum-query-and-update/fenwick-tree.md)
 * [Sweeping Line](sweeping-line.md)
 * [Common Mechanism](common-mechanism.md)
+* [Unclassified - Question Need some thinking](unclassified-question-need-some-thinking.md)
 
 ## Competitive Programming
 
