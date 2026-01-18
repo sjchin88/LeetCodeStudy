@@ -2,7 +2,7 @@
 
 ## Main Operations
 
-<table><thead><tr><th width="125">Symbol</th><th width="144.33333333333331">Operation </th><th>Effect</th></tr></thead><tbody><tr><td>~</td><td>not</td><td>0 -> 1, 1 -> 0</td></tr><tr><td>|</td><td>or</td><td></td></tr><tr><td>&#x26;</td><td>and</td><td></td></tr><tr><td>^</td><td>xor</td><td>0 + 1 -> 1, 1 + 1 -> 0, 0 + 0 -> 0</td></tr><tr><td>&#x3C;&#x3C;</td><td>shift left</td><td></td></tr><tr><td>>></td><td>shift right</td><td></td></tr></tbody></table>
+<table><thead><tr><th width="125">Symbol</th><th width="144.33333333333331">Operation </th><th>Effect</th></tr></thead><tbody><tr><td>~</td><td>not</td><td>0 -> 1, 1 -> 0</td></tr><tr><td>|</td><td>or</td><td></td></tr><tr><td>&#x26;</td><td>and</td><td></td></tr><tr><td>^</td><td>xor</td><td>0 + 1 -> 1, 1 + 1 -> 0, 0 + 0 -> 0</td></tr><tr><td>&#x3C;&#x3C;</td><td>shift left</td><td>&#x3C;&#x3C;1 = multiply by 2</td></tr><tr><td>>></td><td>shift right</td><td>>>1 = divide by 2</td></tr></tbody></table>
 
 
 
@@ -24,9 +24,12 @@ If we keep on shifting the negative number to the right, we will end up with 111
 
 From Wiki
 
-[https://en.wikipedia.org/wiki/Two%27s\_complement](https://en.wikipedia.org/wiki/Two's\_complement)
+[https://en.wikipedia.org/wiki/Two%27s\_complement](https://en.wikipedia.org/wiki/Two's_complement)
 
 * How to get / isolate the rightmost 1-bit : `x & (-x)`.
+
+<figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
 * How to turn off (= set to 0) the rightmost 1-bit : `x & (x - 1)`.
 
 ## Properties of XOR
@@ -62,6 +65,10 @@ for each pair of nodes A and B, for the path from node A to root with a specific
 What happened if the LCA of node A and node B is lower than the root? in this case since node A & B will go through same path after the LCA, any odd counts after the LCA will be evened out.&#x20;
 
 Now the last part, there could be case where a palindrome can be formed with a single odd char. To check for all possibility, simply add one char to the state for A and see if there is matching state in B. (state\_A ^= 1 << i for i in range(26))
+
+## Good Practice Questions
+
+[https://leetcode.com/problems/maximum-bitwise-and-after-increment-operations/description/](https://leetcode.com/problems/maximum-bitwise-and-after-increment-operations/description/)
 
 
 
