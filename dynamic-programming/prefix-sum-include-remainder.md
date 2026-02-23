@@ -20,7 +20,7 @@ This is useful if&#x20;
   * subarray i -> j satisfy the condition where count\_a == count\_b .&#x20;
     * find i where a tuple/number depicting relative relationship between count\_a and count\_b are equal (like a - b).&#x20;
     * can be expand to count more than two elements.&#x20;
-* One main variant is prefix xor - [https://app.gitbook.com/o/IgtZxuKagHAbRT6VUduo/s/8nbRxs1osszpAUPt9rwm/\~/changes/241/bit-manipulation#properties-of-xor](../bit-manipulation.md#properties-of-xor)
+* One main variant is prefix xor - [https://app.gitbook.com/o/IgtZxuKagHAbRT6VUduo/s/8nbRxs1osszpAUPt9rwm/\~/changes/241/bit-manipulation#properties-of-xor](../bit-manipulation/#properties-of-xor)
 
 ### Practise Question
 
