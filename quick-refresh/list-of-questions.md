@@ -10,6 +10,8 @@
 
 25 . [https://leetcode.com/problems/reverse-nodes-in-k-group/description/](https://leetcode.com/problems/reverse-nodes-in-k-group/description/)
 
+61 . [https://leetcode.com/problems/rotate-list/description/](https://leetcode.com/problems/rotate-list/description/)
+
 ## Binary Search
 
 Hard
@@ -36,13 +38,39 @@ Hard
 
 32 . [https://leetcode.com/problems/longest-valid-parentheses/editorial/](https://leetcode.com/problems/longest-valid-parentheses/editorial/)
 
+44 . [https://leetcode.com/problems/wildcard-matching/](https://leetcode.com/problems/wildcard-matching/)
+
+72 . [https://leetcode.com/problems/edit-distance/description/](https://leetcode.com/problems/edit-distance/description/)
+
+## Greedy (IQ Tests)
+
+BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312/](https://leetcode.com/problems/jump-game-ii/submissions/1928507312/)
+
+55 . [https://leetcode.com/problems/jump-game/description/](https://leetcode.com/problems/jump-game/description/)
+
+### Deterministic Finite Automation&#x20;
+
+65 . [https://leetcode.com/problems/valid-number/editorial/](https://leetcode.com/problems/valid-number/editorial/)
+
 ## Heap
 
 23 . [https://leetcode.com/problems/merge-k-sorted-lists/description/](https://leetcode.com/problems/merge-k-sorted-lists/description/)
 
+## Math
+
+### Permutations
+
+60 . [https://leetcode.com/problems/permutation-sequence/description/](https://leetcode.com/problems/permutation-sequence/description/)
+
 ## Monostack
 
 42 . [https://leetcode.com/problems/trapping-rain-water/description/](https://leetcode.com/problems/trapping-rain-water/description/)
+
+## Named Algorithms
+
+### Kadane's algorithm&#x20;
+
+53 . [https://leetcode.com/problems/maximum-subarray/editorial/](https://leetcode.com/problems/maximum-subarray/editorial/)
 
 ## Others
 
@@ -59,6 +87,12 @@ Hard
 ### Manacher / DP
 
 5. [https://leetcode.com/problems/longest-palindromic-substring/description/](https://leetcode.com/problems/longest-palindromic-substring/description/)
+
+
+
+## Sweeping Lines
+
+56 . [https://leetcode.com/problems/merge-intervals/description/](https://leetcode.com/problems/merge-intervals/description/)
 
 ## Two Pointers
 
