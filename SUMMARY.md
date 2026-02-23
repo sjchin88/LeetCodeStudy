@@ -11,7 +11,7 @@
   * [Stack](data-structures/stack/README.md)
     * [Monotonic Stack](testing.md)
   * [LinkedHashMap / OrderedDict](data-structures/linkedhashmap-ordereddict.md)
-* [Bit Manipulation](bit-manipulation/README.md)
+* [Bit Manipulation](bit-manipulation.md)
   * [Bit Manipulation and DP](bit-manipulation/bit-manipulation-and-dp.md)
 * [Two Pointers](two-pointers.md)
   * [Jumping Pointer(s)](two-pointers/jumping-pointer-s.md)

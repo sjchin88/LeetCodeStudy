@@ -28,7 +28,7 @@ From Wiki
 
 * How to get / isolate the rightmost 1-bit : `x & (-x)`.
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 * How to turn off (= set to 0) the rightmost 1-bit : `x & (x - 1)`.
 
