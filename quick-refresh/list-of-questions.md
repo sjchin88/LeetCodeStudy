@@ -22,6 +22,8 @@ Hard
 
 40 . [https://leetcode.com/problems/combination-sum-ii/submissions/1249075900/](https://leetcode.com/problems/combination-sum-ii/submissions/1249075900/)
 
+74 . [https://leetcode.com/problems/search-a-2d-matrix/description/](https://leetcode.com/problems/search-a-2d-matrix/description/)
+
 
 
 ## DFS (Backtracking)
