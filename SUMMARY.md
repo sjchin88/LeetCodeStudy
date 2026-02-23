@@ -61,6 +61,10 @@
 * [Common Mechanism](common-mechanism.md)
 * [Unclassified - Question Need some thinking](unclassified-question-need-some-thinking.md)
 
+## Quick Refresh
+
+* [List of Questions](quick-refresh/list-of-questions.md)
+
 ## Competitive Programming
 
 * [Mo's Algorithm (SQRT)](competitive-programming/mos-algorithm-sqrt.md)
