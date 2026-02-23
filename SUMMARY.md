@@ -72,7 +72,8 @@
 ## Searching
 
 * [Binary Search](searching/binary-search.md)
-* [Binary Search Tree](searching/binary-search-tree.md)
+* [Binary Search Tree](searching/binary-search-tree/README.md)
+  * [Tree Traversal](searching/binary-search-tree/tree-traversal.md)
 * [Breadth First Search](searching/breadth-first-search/README.md)
   * [A\* Algorithm](searching/breadth-first-search/a-algorithm.md)
   * [Shortest Path Algorithms](searching/breadth-first-search/shortest-path-algorithms/README.md)
