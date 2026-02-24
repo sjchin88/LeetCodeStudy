@@ -34,6 +34,8 @@ Hard
 
 37. [https://leetcode.com/problems/sudoku-solver/submissions/798058143/](https://leetcode.com/problems/sudoku-solver/submissions/798058143/)
 
+79 . [https://leetcode.com/problems/word-search/](https://leetcode.com/problems/word-search/)
+
 ## Dynamic Programming&#x20;
 
 10. [https://leetcode.com/problems/regular-expression-matching/description/](https://leetcode.com/problems/regular-expression-matching/description/)
@@ -67,6 +69,8 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 ## Monostack
 
 42 . [https://leetcode.com/problems/trapping-rain-water/description/](https://leetcode.com/problems/trapping-rain-water/description/)
+
+84 . [https://leetcode.com/problems/largest-rectangle-in-histogram/description/](https://leetcode.com/problems/largest-rectangle-in-histogram/description/)
 
 ## Named Algorithms
 
