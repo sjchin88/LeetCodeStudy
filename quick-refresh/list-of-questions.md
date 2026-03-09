@@ -1,16 +1,6 @@
 # List of Questions
 
-## Linked List
-
-2. [https://leetcode.com/problems/add-two-numbers/](https://leetcode.com/problems/add-two-numbers/)
-
-19 . [https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/](https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/)
-
-24 . [https://leetcode.com/problems/swap-nodes-in-pairs/description/](https://leetcode.com/problems/swap-nodes-in-pairs/description/)
-
-25 . [https://leetcode.com/problems/reverse-nodes-in-k-group/description/](https://leetcode.com/problems/reverse-nodes-in-k-group/description/)
-
-61 . [https://leetcode.com/problems/rotate-list/description/](https://leetcode.com/problems/rotate-list/description/)
+##
 
 ## Binary Search
 
@@ -23,6 +13,12 @@ Hard
 40 . [https://leetcode.com/problems/combination-sum-ii/submissions/1249075900/](https://leetcode.com/problems/combination-sum-ii/submissions/1249075900/)
 
 74 . [https://leetcode.com/problems/search-a-2d-matrix/description/](https://leetcode.com/problems/search-a-2d-matrix/description/)
+
+
+
+## Bit Operations
+
+89 . [https://leetcode.com/problems/gray-code/description/](https://leetcode.com/problems/gray-code/description/)
 
 
 
@@ -46,6 +42,8 @@ Hard
 
 72 . [https://leetcode.com/problems/edit-distance/description/](https://leetcode.com/problems/edit-distance/description/)
 
+87 . [https://leetcode.com/problems/scramble-string/description/](https://leetcode.com/problems/scramble-string/description/)
+
 ## Greedy (IQ Tests)
 
 BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312/](https://leetcode.com/problems/jump-game-ii/submissions/1928507312/)
@@ -59,6 +57,20 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 ## Heap
 
 23 . [https://leetcode.com/problems/merge-k-sorted-lists/description/](https://leetcode.com/problems/merge-k-sorted-lists/description/)
+
+## Linked List
+
+2. [https://leetcode.com/problems/add-two-numbers/](https://leetcode.com/problems/add-two-numbers/)
+
+19 . [https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/](https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/)
+
+24 . [https://leetcode.com/problems/swap-nodes-in-pairs/description/](https://leetcode.com/problems/swap-nodes-in-pairs/description/)
+
+25 . [https://leetcode.com/problems/reverse-nodes-in-k-group/description/](https://leetcode.com/problems/reverse-nodes-in-k-group/description/)
+
+61 . [https://leetcode.com/problems/rotate-list/description/](https://leetcode.com/problems/rotate-list/description/)
+
+86 . [https://leetcode.com/problems/partition-list/description/](https://leetcode.com/problems/partition-list/description/)
 
 ## Math
 

@@ -1,12 +1,20 @@
 # Monotonic Queue/Stack
 
+## Used For
+
+* Finding the previous smaller/larger element or the next smaller/larger element for all elements in the array in O(n) time.&#x20;
+  * Stored them in the array to be queried in O(1) time.
+* Maintain Local Min / Max element within a given range in O(1) time
+
+
+
 ## Property
 
 * All elements on the queue/stack are strictly increasing or decreasing&#x20;
 * Allow finding of previous smaller/larger element in O(1) time
 * Python deque structure can be used to access the bottom (left) of the stack in O(1) -> Useful if we need to maintain and keep the order for k elements&#x20;
 
-<figure><img src="../.gitbook/assets/mono stack.JPG" alt=""><figcaption><p>Key concept on monotonic stack</p></figcaption></figure>
+<figure><img src=".gitbook/assets/mono stack.JPG" alt=""><figcaption><p>Key concept on monotonic stack</p></figcaption></figure>
 
 ## Use cases
 
@@ -16,22 +24,27 @@ Direct and simple
 
 #### Variations
 
-Find the maximum area of a histogram
+Find the maximum rectangle area of a histogram array
 
-Count the max area formed by 0 / 1 in a matrix (iterate every layer as base and treat the connecting cells as a histogram to find the max area)
+Count the max rectangle area formed by 0 / 1 in a matrix&#x20;
+
+* Iterate every layer from top to bottom, keep a dp array counting the height connected to the current cell
+  * If current cell is 0, set dp\[col] = 0
+  * if current cell is 1 , set dp\[col] += 1
+* For each row iteration, count the max area of the dp array (treat it like the histogram)
 
 Count the sub-matrix formed by 0 / 1 in a matrix (hard question)
 
 * In general approach, we need to count the sub-matrix with each layer as the base and add them up
 * Then apply some histogram and monotonic stack properties in counting the new sub-matrix formed
 
-#### Example Question
+#### Example Hard Question
 
 1504 Count Submatrixes with all ones [https://leetcode.com/problems/count-submatrices-with-all-ones/](https://leetcode.com/problems/count-submatrices-with-all-ones/)
 
 Step 1: Way to count 1 - D array
 
-<figure><img src="../.gitbook/assets/1-D.JPG" alt="" width="325"><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/1-D.JPG" alt="" width="325"><figcaption></figcaption></figure>
 
 ```python
 # Count total submatrixes with all ones in 1-D
@@ -46,11 +59,11 @@ for i in range(len(A)):
 
 Step 2: Convert 2-D array to 1-D to use monostack
 
-<figure><img src="../.gitbook/assets/2-D to 1-D.JPG" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/2-D to 1-D.JPG" alt=""><figcaption></figcaption></figure>
 
 Step 3: Count the submatrixed form by adding last col , with reference to property below
 
-<figure><img src="../.gitbook/assets/2-D.JPG" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/2-D.JPG" alt=""><figcaption></figcaption></figure>
 
 Sample Code
 

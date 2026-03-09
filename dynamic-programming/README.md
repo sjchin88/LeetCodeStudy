@@ -1,10 +1,12 @@
 # Dynamic Programming
 
-## When to apply
+## When to apply (How do you know is DP)
 
 * Searching for optimum combination
 * Overlapping subproblems  (if no overlapping, have to use dfs with recursion, with time complexity often O(2 ^n)
 * Local optimal is not necessary equal to global optimal (if it is equal, use Greedy)
+* Start with brute force process and realize the result can be cached (memoization)
+  * [https://leetcode.com/problems/scramble-string/description/](https://leetcode.com/problems/scramble-string/description/)
 
 ## Prerequisites for DP
 
