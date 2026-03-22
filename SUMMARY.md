@@ -66,6 +66,7 @@
 ## Quick Refresh
 
 * [List of Questions](quick-refresh/list-of-questions.md)
+* [Absolutely nuts](quick-refresh/absolutely-nuts.md)
 
 ## Competitive Programming
 
