@@ -152,6 +152,10 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 
 
 
+## Stacks
+
+150 . [https://leetcode.com/problems/evaluate-reverse-polish-notation/description/](https://leetcode.com/problems/evaluate-reverse-polish-notation/description/)
+
 ## String
 
 ### Manacher / DP
