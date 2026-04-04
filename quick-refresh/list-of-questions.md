@@ -102,6 +102,10 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 
 86 . [https://leetcode.com/problems/partition-list/description/](https://leetcode.com/problems/partition-list/description/)
 
+## LRU Cache
+
+[https://leetcode.com/problems/lru-cache/](https://leetcode.com/problems/lru-cache/)
+
 ## Math
 
 ### Permutations
@@ -134,9 +138,11 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 
 
 
-Random&#x20;
+### Random&#x20;
 
 138 . [https://leetcode.com/problems/copy-list-with-random-pointer/description/](https://leetcode.com/problems/copy-list-with-random-pointer/description/)
+
+143 . [https://leetcode.com/problems/reorder-list/description/](https://leetcode.com/problems/reorder-list/description/)
 
 ## String
 
@@ -159,6 +165,10 @@ Random&#x20;
 31 . [https://leetcode.com/problems/next-permutation/description/](https://leetcode.com/problems/next-permutation/description/)
 
 76 . [https://leetcode.com/problems/minimum-window-substring/description/](https://leetcode.com/problems/minimum-window-substring/description/)
+
+### Same Direction Traversal
+
+142 . [https://leetcode.com/problems/linked-list-cycle-ii/description/](https://leetcode.com/problems/linked-list-cycle-ii/description/)
 
 ## TrieNode
 
