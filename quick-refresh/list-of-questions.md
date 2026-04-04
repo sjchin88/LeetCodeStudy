@@ -144,6 +144,8 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 
 143 . [https://leetcode.com/problems/reorder-list/description/](https://leetcode.com/problems/reorder-list/description/)
 
+147 . [https://leetcode.com/problems/insertion-sort-list/description/](https://leetcode.com/problems/insertion-sort-list/description/)
+
 ## String
 
 ### Manacher / DP
