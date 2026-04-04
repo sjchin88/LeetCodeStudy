@@ -102,6 +102,10 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 
 86 . [https://leetcode.com/problems/partition-list/description/](https://leetcode.com/problems/partition-list/description/)
 
+147 . Insert sort [https://leetcode.com/problems/insertion-sort-list/description/](https://leetcode.com/problems/insertion-sort-list/description/)
+
+148 . Merge sort - [https://leetcode.com/problems/sort-list/description/](https://leetcode.com/problems/sort-list/description/)
+
 ## LRU Cache
 
 [https://leetcode.com/problems/lru-cache/](https://leetcode.com/problems/lru-cache/)
@@ -144,7 +148,7 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 
 143 . [https://leetcode.com/problems/reorder-list/description/](https://leetcode.com/problems/reorder-list/description/)
 
-147 . [https://leetcode.com/problems/insertion-sort-list/description/](https://leetcode.com/problems/insertion-sort-list/description/)
+
 
 ## String
 
