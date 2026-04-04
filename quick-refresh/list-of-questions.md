@@ -112,6 +112,8 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 
 ## Math
 
+149 . Gradient [https://leetcode.com/problems/max-points-on-a-line/submissions/](https://leetcode.com/problems/max-points-on-a-line/submissions/)
+
 ### Permutations
 
 60 . [https://leetcode.com/problems/permutation-sequence/description/](https://leetcode.com/problems/permutation-sequence/description/)
