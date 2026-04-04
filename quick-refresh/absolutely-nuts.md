@@ -1,3 +1,5 @@
 # Absolutely nuts
 
-[https://leetcode.com/problems/unique-binary-search-trees/description/](https://leetcode.com/problems/unique-binary-search-trees/description/)
+{% embed url="https://leetcode.com/problems/unique-binary-search-trees/description/" %}
+
+134 . [https://leetcode.com/problems/gas-station/description/](https://leetcode.com/problems/gas-station/description/)

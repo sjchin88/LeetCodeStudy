@@ -28,6 +28,8 @@ Hard
 
 89 . [https://leetcode.com/problems/gray-code/description/](https://leetcode.com/problems/gray-code/description/)
 
+137 . [https://leetcode.com/problems/single-number-ii/description/](https://leetcode.com/problems/single-number-ii/description/)
+
 
 
 ## BFS
@@ -35,6 +37,8 @@ Hard
 127 . Double BFS - [https://leetcode.com/problems/word-ladder/description/](https://leetcode.com/problems/word-ladder/description/)
 
 130 . 2D grid - [https://leetcode.com/problems/surrounded-regions/](https://leetcode.com/problems/surrounded-regions/)
+
+133 . [https://leetcode.com/problems/clone-graph/description/](https://leetcode.com/problems/clone-graph/description/)
 
 
 
@@ -67,6 +71,8 @@ Hard
 87 . [https://leetcode.com/problems/scramble-string/description/](https://leetcode.com/problems/scramble-string/description/)
 
 97 . [https://leetcode.com/problems/interleaving-string/description/](https://leetcode.com/problems/interleaving-string/description/)
+
+132 . [https://leetcode.com/problems/palindrome-partitioning-ii/description/](https://leetcode.com/problems/palindrome-partitioning-ii/description/)
 
 ## Greedy (IQ Tests)
 
@@ -126,6 +132,12 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 
 41 . [https://leetcode.com/problems/first-missing-positive/description/](https://leetcode.com/problems/first-missing-positive/description/)
 
+
+
+Random&#x20;
+
+138 . [https://leetcode.com/problems/copy-list-with-random-pointer/description/](https://leetcode.com/problems/copy-list-with-random-pointer/description/)
+
 ## String
 
 ### Manacher / DP
@@ -147,3 +159,7 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 31 . [https://leetcode.com/problems/next-permutation/description/](https://leetcode.com/problems/next-permutation/description/)
 
 76 . [https://leetcode.com/problems/minimum-window-substring/description/](https://leetcode.com/problems/minimum-window-substring/description/)
+
+## TrieNode
+
+[https://leetcode.com/problems/word-break-ii/description/](https://leetcode.com/problems/word-break-ii/description/)
