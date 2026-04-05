@@ -82,6 +82,8 @@ Hard
 
 132 . [https://leetcode.com/problems/palindrome-partitioning-ii/description/](https://leetcode.com/problems/palindrome-partitioning-ii/description/)
 
+188 . [https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/description/](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/description/)
+
 ## Greedy (IQ Tests)
 
 BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312/](https://leetcode.com/problems/jump-game-ii/submissions/1928507312/)
@@ -91,6 +93,10 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 ### Deterministic Finite Automation&#x20;
 
 65 . [https://leetcode.com/problems/valid-number/editorial/](https://leetcode.com/problems/valid-number/editorial/)
+
+## Hashing (Rabin Karp)
+
+187 . Rabin Karp [https://leetcode.com/problems/repeated-dna-sequences/](https://leetcode.com/problems/repeated-dna-sequences/)
 
 ## Heap
 
@@ -154,7 +160,7 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 
 
 
-### Random&#x20;
+### Random Trick
 
 138 . [https://leetcode.com/problems/copy-list-with-random-pointer/description/](https://leetcode.com/problems/copy-list-with-random-pointer/description/)
 
@@ -162,7 +168,9 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 
 152 . [https://leetcode.com/problems/maximum-product-subarray/description/](https://leetcode.com/problems/maximum-product-subarray/description/)
 
+179 . Sort by str \* 10 to compare "9" and "98" [https://leetcode.com/problems/largest-number/description/](https://leetcode.com/problems/largest-number/description/)
 
+189 . Try inplace - [https://leetcode.com/problems/rotate-array/description/](https://leetcode.com/problems/rotate-array/description/)
 
 ## Sorting
 
