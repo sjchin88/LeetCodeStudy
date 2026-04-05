@@ -38,6 +38,8 @@ with duplicate (hard and not necessary) - [https://leetcode.com/problems/find-mi
 
 137 . [https://leetcode.com/problems/single-number-ii/description/](https://leetcode.com/problems/single-number-ii/description/)
 
+201 . Keep shifting left and right by 1 bit, stop when left == right [https://leetcode.com/problems/bitwise-and-of-numbers-range/description/](https://leetcode.com/problems/bitwise-and-of-numbers-range/description/)
+
 
 
 ## BFS
@@ -65,6 +67,8 @@ Hard
 113 . [https://leetcode.com/problems/path-sum-ii/](https://leetcode.com/problems/path-sum-ii/)
 
 126 . [https://leetcode.com/problems/word-ladder-ii/description/](https://leetcode.com/problems/word-ladder-ii/description/)
+
+207 . DFS + Topological sort [https://leetcode.com/problems/course-schedule/description/](https://leetcode.com/problems/course-schedule/description/)
 
 ## Dynamic Programming&#x20;
 
@@ -129,6 +133,8 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 149 . Gradient [https://leetcode.com/problems/max-points-on-a-line/submissions/](https://leetcode.com/problems/max-points-on-a-line/submissions/)
 
 166 . [https://leetcode.com/problems/fraction-to-recurring-decimal/description/](https://leetcode.com/problems/fraction-to-recurring-decimal/description/)
+
+204 . Sieve of Eratosthenes to find primes, [https://leetcode.com/problems/count-primes/description/](https://leetcode.com/problems/count-primes/description/)
 
 ### Permutations
 
@@ -209,6 +215,8 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 ### Same Direction Traversal
 
 142 . [https://leetcode.com/problems/linked-list-cycle-ii/description/](https://leetcode.com/problems/linked-list-cycle-ii/description/)
+
+209 . Keep interval with specific conditions [https://leetcode.com/problems/minimum-size-subarray-sum/description/](https://leetcode.com/problems/minimum-size-subarray-sum/description/)
 
 ## TrieNode
 
