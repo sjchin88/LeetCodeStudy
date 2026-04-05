@@ -70,5 +70,25 @@ Now the last part, there could be case where a palindrome can be formed with a s
 
 [https://leetcode.com/problems/maximum-bitwise-and-after-increment-operations/description/](https://leetcode.com/problems/maximum-bitwise-and-after-increment-operations/description/)
 
+## Tricks
+
+### For addition
+
+```python
+// Some code
+def sum(x: int, y: int)->int:
+    # x will store output 
+    # y stores carry 
+    # Example 111 1111
+    # first iteration -> sum = 1000, carry = 1110
+    # sec iteration sum = 0110, carry = 10000
+    # next iteration sum = 10110 , carry = 0
+    while y != 0:
+        sum = x ^ y # sum without carry 
+        carry = (x & y) << 1 
+        x, y = sum, carry
+    return x 
+```
+
 
 
