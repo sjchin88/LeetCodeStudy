@@ -10,9 +10,15 @@ Hard
 
 33 . [https://leetcode.com/problems/search-in-rotated-sorted-array/description/](https://leetcode.com/problems/search-in-rotated-sorted-array/description/)
 
+153 . [https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/description/](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/description/)
+
 40 . [https://leetcode.com/problems/combination-sum-ii/submissions/1249075900/](https://leetcode.com/problems/combination-sum-ii/submissions/1249075900/)
 
 74 . [https://leetcode.com/problems/search-a-2d-matrix/description/](https://leetcode.com/problems/search-a-2d-matrix/description/)
+
+162 . [https://leetcode.com/problems/find-peak-element/](https://leetcode.com/problems/find-peak-element/)
+
+with duplicate (hard and not necessary) - [https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/editorial/](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/editorial/)
 
 ## Binary (Search) Tree
 
@@ -23,6 +29,8 @@ Hard
 106 . [https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/description/](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/description/)
 
 124 . [https://leetcode.com/problems/binary-tree-maximum-path-sum/description/](https://leetcode.com/problems/binary-tree-maximum-path-sum/description/)
+
+173 . Inorder - [https://leetcode.com/problems/binary-search-tree-iterator/description/](https://leetcode.com/problems/binary-search-tree-iterator/description/)
 
 ## Bit Operations
 
@@ -114,6 +122,8 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 
 149 . Gradient [https://leetcode.com/problems/max-points-on-a-line/submissions/](https://leetcode.com/problems/max-points-on-a-line/submissions/)
 
+166 . [https://leetcode.com/problems/fraction-to-recurring-decimal/description/](https://leetcode.com/problems/fraction-to-recurring-decimal/description/)
+
 ### Permutations
 
 60 . [https://leetcode.com/problems/permutation-sequence/description/](https://leetcode.com/problems/permutation-sequence/description/)
@@ -150,11 +160,21 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 
 143 . [https://leetcode.com/problems/reorder-list/description/](https://leetcode.com/problems/reorder-list/description/)
 
+152 . [https://leetcode.com/problems/maximum-product-subarray/description/](https://leetcode.com/problems/maximum-product-subarray/description/)
 
+
+
+## Sorting
+
+### Radix Sort / Bucket Sort
+
+164 . [https://leetcode.com/problems/maximum-gap/](https://leetcode.com/problems/maximum-gap/)
 
 ## Stacks
 
 150 . [https://leetcode.com/problems/evaluate-reverse-polish-notation/description/](https://leetcode.com/problems/evaluate-reverse-polish-notation/description/)
+
+155 , [https://leetcode.com/problems/min-stack/description](https://leetcode.com/problems/min-stack/description/)
 
 ## String
 
