@@ -106,6 +106,8 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 
 23 . [https://leetcode.com/problems/merge-k-sorted-lists/description/](https://leetcode.com/problems/merge-k-sorted-lists/description/)
 
+218 . [https://leetcode.com/problems/the-skyline-problem/description/](https://leetcode.com/problems/the-skyline-problem/description/)
+
 ## Linked List
 
 2. [https://leetcode.com/problems/add-two-numbers/](https://leetcode.com/problems/add-two-numbers/)
@@ -178,11 +180,21 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 
 189 . Try inplace - [https://leetcode.com/problems/rotate-array/description/](https://leetcode.com/problems/rotate-array/description/)
 
+## Rolling Hash
+
+214. Also KMP / Manacher [https://leetcode.com/problems/shortest-palindrome/description/](https://leetcode.com/problems/shortest-palindrome/description/)
+
 ## Sorting
+
+### Quick Sort&#x20;
+
+215 . Quick Select -[https://leetcode.com/problems/kth-largest-element-in-an-array/description/](https://leetcode.com/problems/kth-largest-element-in-an-array/description/)
 
 ### Radix Sort / Bucket Sort
 
 164 . [https://leetcode.com/problems/maximum-gap/](https://leetcode.com/problems/maximum-gap/)
+
+220 . Bucket search [https://leetcode.com/problems/contains-duplicate-iii/description/](https://leetcode.com/problems/contains-duplicate-iii/description/)
 
 ## Stacks
 
@@ -220,4 +232,6 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 
 ## TrieNode
 
-[https://leetcode.com/problems/word-break-ii/description/](https://leetcode.com/problems/word-break-ii/description/)
+{% embed url="https://leetcode.com/problems/word-break-ii/description/" %}
+
+112 . Trie + DFS [https://leetcode.com/problems/word-search-ii/description/](https://leetcode.com/problems/word-search-ii/description/)
