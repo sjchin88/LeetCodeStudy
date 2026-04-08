@@ -20,6 +20,8 @@ Hard
 
 with duplicate (hard and not necessary) - [https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/editorial/](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/editorial/)
 
+240 . 2D - [https://leetcode.com/problems/search-a-2d-matrix-ii/submissions/1033592352/](https://leetcode.com/problems/search-a-2d-matrix-ii/submissions/1033592352/)
+
 ## Binary (Search) Tree
 
 99 . [https://leetcode.com/problems/recover-binary-search-tree/description/](https://leetcode.com/problems/recover-binary-search-tree/description/)
@@ -31,6 +33,12 @@ with duplicate (hard and not necessary) - [https://leetcode.com/problems/find-mi
 124 . [https://leetcode.com/problems/binary-tree-maximum-path-sum/description/](https://leetcode.com/problems/binary-tree-maximum-path-sum/description/)
 
 173 . Inorder - [https://leetcode.com/problems/binary-search-tree-iterator/description/](https://leetcode.com/problems/binary-search-tree-iterator/description/)
+
+230 . Kth element - [https://leetcode.com/problems/kth-smallest-element-in-a-bst/description/](https://leetcode.com/problems/kth-smallest-element-in-a-bst/description/)
+
+235 . Lowest Common Ancestor - [https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/description/](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/description/)
+
+236 - LCA [https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/description/](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/description/)
 
 ## Bit Operations
 
@@ -87,6 +95,10 @@ Hard
 132 . [https://leetcode.com/problems/palindrome-partitioning-ii/description/](https://leetcode.com/problems/palindrome-partitioning-ii/description/)
 
 188 . [https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/description/](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/description/)
+
+### Digit DP
+
+233 . [https://leetcode.com/problems/number-of-digit-one/description/](https://leetcode.com/problems/number-of-digit-one/description/)
 
 ## Greedy (IQ Tests)
 
@@ -150,6 +162,8 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 
 85 . [https://leetcode.com/problems/maximal-rectangle/description/](https://leetcode.com/problems/maximal-rectangle/description/)
 
+239. Sliding window max - [https://leetcode.com/problems/sliding-window-maximum/description/](https://leetcode.com/problems/sliding-window-maximum/description/)
+
 ## Named Algorithms
 
 ### Kadane's algorithm&#x20;
@@ -161,6 +175,12 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 ### 2D compression to 1D
 
 36 . [https://leetcode.com/problems/valid-sudoku/description/](https://leetcode.com/problems/valid-sudoku/description/)
+
+### Boyer-Moore Voting Algorithm <a href="#approach-7-boyer-moore-voting-algorithm" id="approach-7-boyer-moore-voting-algorithm"></a>
+
+169. [https://leetcode.com/problems/majority-element/editorial](https://leetcode.com/problems/majority-element/editorial/)/
+
+229 . [https://leetcode.com/problems/majority-element-ii/editorial/](https://leetcode.com/problems/majority-element-ii/editorial/)
 
 ### Inplace Array Manipulation
 
@@ -179,6 +199,8 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 179 . Sort by str \* 10 to compare "9" and "98" [https://leetcode.com/problems/largest-number/description/](https://leetcode.com/problems/largest-number/description/)
 
 189 . Try inplace - [https://leetcode.com/problems/rotate-array/description/](https://leetcode.com/problems/rotate-array/description/)
+
+223 . Two rectangle overlap - [https://leetcode.com/problems/rectangle-area/description/](https://leetcode.com/problems/rectangle-area/description/)
 
 ## Rolling Hash
 
@@ -201,6 +223,10 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 150 . [https://leetcode.com/problems/evaluate-reverse-polish-notation/description/](https://leetcode.com/problems/evaluate-reverse-polish-notation/description/)
 
 155 , [https://leetcode.com/problems/min-stack/description](https://leetcode.com/problems/min-stack/description/)
+
+224 . + - [https://leetcode.com/problems/basic-calculator/description/](https://leetcode.com/problems/basic-calculator/description/)
+
+227 . [https://leetcode.com/problems/basic-calculator-ii/editorial/](https://leetcode.com/problems/basic-calculator-ii/editorial/)
 
 ## String
 
