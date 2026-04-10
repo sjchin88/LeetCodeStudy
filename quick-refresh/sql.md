@@ -7,3 +7,5 @@
 178 . [https://leetcode.com/problems/rank-scores/description/](https://leetcode.com/problems/rank-scores/description/)
 
 180 . [https://leetcode.com/problems/consecutive-numbers/description/](https://leetcode.com/problems/consecutive-numbers/description/)
+
+262 . [https://leetcode.com/problems/trips-and-users/description/](https://leetcode.com/problems/trips-and-users/description/)

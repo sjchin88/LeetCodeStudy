@@ -48,6 +48,10 @@ with duplicate (hard and not necessary) - [https://leetcode.com/problems/find-mi
 
 201 . Keep shifting left and right by 1 bit, stop when left == right [https://leetcode.com/problems/bitwise-and-of-numbers-range/description/](https://leetcode.com/problems/bitwise-and-of-numbers-range/description/)
 
+260 . [https://leetcode.com/problems/single-number-iii/description/](https://leetcode.com/problems/single-number-iii/description/)
+
+267 . With Python Permutation - [https://leetcode.com/problems/palindrome-permutation-ii/description/](https://leetcode.com/problems/palindrome-permutation-ii/description/)
+
 
 
 ## BFS
@@ -58,7 +62,9 @@ with duplicate (hard and not necessary) - [https://leetcode.com/problems/find-mi
 
 133 . [https://leetcode.com/problems/clone-graph/description/](https://leetcode.com/problems/clone-graph/description/)
 
+&#x20;261 . BFS + Graph =[https://leetcode.com/problems/graph-valid-tree/description/](https://leetcode.com/problems/graph-valid-tree/description/)
 
+269 . Topo + BFS [https://leetcode.com/problems/alien-dictionary/description/](https://leetcode.com/problems/alien-dictionary/description/)
 
 ## DFS (Backtracking)
 
@@ -77,6 +83,8 @@ Hard
 126 . [https://leetcode.com/problems/word-ladder-ii/description/](https://leetcode.com/problems/word-ladder-ii/description/)
 
 207 . DFS + Topological sort [https://leetcode.com/problems/course-schedule/description/](https://leetcode.com/problems/course-schedule/description/)
+
+261 .
 
 ## Dynamic Programming&#x20;
 
@@ -163,6 +171,8 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 85 . [https://leetcode.com/problems/maximal-rectangle/description/](https://leetcode.com/problems/maximal-rectangle/description/)
 
 239. Sliding window max - [https://leetcode.com/problems/sliding-window-maximum/description/](https://leetcode.com/problems/sliding-window-maximum/description/)
+
+255 . Preorder of BST - [https://leetcode.com/problems/verify-preorder-sequence-in-binary-search-tree/description/](https://leetcode.com/problems/verify-preorder-sequence-in-binary-search-tree/description/)
 
 ## Named Algorithms
 
