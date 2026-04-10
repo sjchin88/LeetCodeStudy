@@ -22,6 +22,10 @@ with duplicate (hard and not necessary) - [https://leetcode.com/problems/find-mi
 
 240 . 2D - [https://leetcode.com/problems/search-a-2d-matrix-ii/submissions/1033592352/](https://leetcode.com/problems/search-a-2d-matrix-ii/submissions/1033592352/)
 
+275 . H index - [https://leetcode.com/problems/h-index-ii/description/](https://leetcode.com/problems/h-index-ii/description/)
+
+
+
 ## Binary (Search) Tree
 
 99 . [https://leetcode.com/problems/recover-binary-search-tree/description/](https://leetcode.com/problems/recover-binary-search-tree/description/)
@@ -39,6 +43,8 @@ with duplicate (hard and not necessary) - [https://leetcode.com/problems/find-mi
 235 . Lowest Common Ancestor - [https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/description/](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/description/)
 
 236 - LCA [https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/description/](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/description/)
+
+272 - Inorder traversal [https://leetcode.com/problems/closest-binary-search-tree-value-ii/description/](https://leetcode.com/problems/closest-binary-search-tree-value-ii/description/)
 
 ## Bit Operations
 
@@ -104,6 +110,8 @@ Hard
 
 188 . [https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/description/](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/description/)
 
+276 . [https://leetcode.com/problems/paint-fence/description/](https://leetcode.com/problems/paint-fence/description/)
+
 ### Digit DP
 
 233 . [https://leetcode.com/problems/number-of-digit-one/description/](https://leetcode.com/problems/number-of-digit-one/description/)
@@ -113,6 +121,8 @@ Hard
 BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312/](https://leetcode.com/problems/jump-game-ii/submissions/1928507312/)
 
 55 . [https://leetcode.com/problems/jump-game/description/](https://leetcode.com/problems/jump-game/description/)
+
+280 . [https://leetcode.com/problems/wiggle-sort/description/](https://leetcode.com/problems/wiggle-sort/description/)
 
 ### Deterministic Finite Automation&#x20;
 
@@ -211,6 +221,10 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 189 . Try inplace - [https://leetcode.com/problems/rotate-array/description/](https://leetcode.com/problems/rotate-array/description/)
 
 223 . Two rectangle overlap - [https://leetcode.com/problems/rectangle-area/description/](https://leetcode.com/problems/rectangle-area/description/)
+
+277 . Logic - [https://leetcode.com/problems/find-the-celebrity/](https://leetcode.com/problems/find-the-celebrity/)
+
+279 . Perfect squares - [https://leetcode.com/problems/perfect-squares/description/](https://leetcode.com/problems/perfect-squares/description/)
 
 ## Rolling Hash
 
