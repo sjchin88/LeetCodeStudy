@@ -112,6 +112,8 @@ Hard
 
 276 . [https://leetcode.com/problems/paint-fence/description/](https://leetcode.com/problems/paint-fence/description/)
 
+241 . [https://leetcode.com/problems/different-ways-to-add-parentheses/description/](https://leetcode.com/problems/different-ways-to-add-parentheses/description/)
+
 ### Digit DP
 
 233 . [https://leetcode.com/problems/number-of-digit-one/description/](https://leetcode.com/problems/number-of-digit-one/description/)
@@ -279,6 +281,10 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 142 . [https://leetcode.com/problems/linked-list-cycle-ii/description/](https://leetcode.com/problems/linked-list-cycle-ii/description/)
 
 209 . Keep interval with specific conditions [https://leetcode.com/problems/minimum-size-subarray-sum/description/](https://leetcode.com/problems/minimum-size-subarray-sum/description/)
+
+244 . Dict + 2 pointer - [https://leetcode.com/problems/shortest-word-distance-ii/description/](https://leetcode.com/problems/shortest-word-distance-ii/description/)
+
+245 . [https://leetcode.com/problems/shortest-word-distance-iii/description/](https://leetcode.com/problems/shortest-word-distance-iii/description/)
 
 ## TrieNode
 
