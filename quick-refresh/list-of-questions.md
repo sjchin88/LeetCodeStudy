@@ -46,6 +46,8 @@ with duplicate (hard and not necessary) - [https://leetcode.com/problems/find-mi
 
 272 - Inorder traversal [https://leetcode.com/problems/closest-binary-search-tree-value-ii/description/](https://leetcode.com/problems/closest-binary-search-tree-value-ii/description/)
 
+285 . Inorder successor - [https://leetcode.com/problems/inorder-successor-in-bst/editorial/](https://leetcode.com/problems/inorder-successor-in-bst/editorial/)
+
 ## Bit Operations
 
 89 . [https://leetcode.com/problems/gray-code/description/](https://leetcode.com/problems/gray-code/description/)
@@ -90,7 +92,11 @@ Hard
 
 207 . DFS + Topological sort [https://leetcode.com/problems/course-schedule/description/](https://leetcode.com/problems/course-schedule/description/)
 
-261 .
+291 . with hashmap -[https://leetcode.com/problems/word-pattern-ii/description/](https://leetcode.com/problems/word-pattern-ii/description/)
+
+Unnecessary Hard
+
+282 . [https://leetcode.com/problems/expression-add-operators/description/](https://leetcode.com/problems/expression-add-operators/description/)
 
 ## Dynamic Programming&#x20;
 
@@ -228,6 +234,8 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 
 279 . Perfect squares - [https://leetcode.com/problems/perfect-squares/description/](https://leetcode.com/problems/perfect-squares/description/)
 
+289 . Use different number to represent state -[https://leetcode.com/problems/game-of-life/description/](https://leetcode.com/problems/game-of-life/description/)
+
 ## Rolling Hash
 
 214. Also KMP / Manacher [https://leetcode.com/problems/shortest-palindrome/description/](https://leetcode.com/problems/shortest-palindrome/description/)
@@ -278,13 +286,21 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 
 ### Same Direction Traversal
 
-142 . [https://leetcode.com/problems/linked-list-cycle-ii/description/](https://leetcode.com/problems/linked-list-cycle-ii/description/)
+
 
 209 . Keep interval with specific conditions [https://leetcode.com/problems/minimum-size-subarray-sum/description/](https://leetcode.com/problems/minimum-size-subarray-sum/description/)
 
 244 . Dict + 2 pointer - [https://leetcode.com/problems/shortest-word-distance-ii/description/](https://leetcode.com/problems/shortest-word-distance-ii/description/)
 
 245 . [https://leetcode.com/problems/shortest-word-distance-iii/description/](https://leetcode.com/problems/shortest-word-distance-iii/description/)
+
+
+
+#### Fast and Slow Pointer
+
+142 . [https://leetcode.com/problems/linked-list-cycle-ii/description/](https://leetcode.com/problems/linked-list-cycle-ii/description/)
+
+287 . Floyd Algorithm [https://leetcode.com/problems/find-the-duplicate-number/description/](https://leetcode.com/problems/find-the-duplicate-number/description/)
 
 ## TrieNode
 
