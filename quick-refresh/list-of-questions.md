@@ -26,6 +26,8 @@ with duplicate (hard and not necessary) - [https://leetcode.com/problems/find-mi
 
 300 . Use binary search to maintain a sequence - [https://leetcode.com/problems/longest-increasing-subsequence/description/](https://leetcode.com/problems/longest-increasing-subsequence/description/)
 
+302 . 2D to 1D binary search - [https://leetcode.com/problems/smallest-rectangle-enclosing-black-pixels/description/](https://leetcode.com/problems/smallest-rectangle-enclosing-black-pixels/description/)
+
 ## Binary (Search) Tree
 
 99 . [https://leetcode.com/problems/recover-binary-search-tree/description/](https://leetcode.com/problems/recover-binary-search-tree/description/)
@@ -74,6 +76,8 @@ with duplicate (hard and not necessary) - [https://leetcode.com/problems/find-mi
 
 269 . Topo + BFS [https://leetcode.com/problems/alien-dictionary/description/](https://leetcode.com/problems/alien-dictionary/description/)
 
+310 , Toposort - [https://leetcode.com/problems/minimum-height-trees/description/](https://leetcode.com/problems/minimum-height-trees/description/)
+
 ## DFS (Backtracking)
 
 17. [https://leetcode.com/problems/letter-combinations-of-a-phone-number/description/](https://leetcode.com/problems/letter-combinations-of-a-phone-number/description/)
@@ -97,6 +101,8 @@ Hard
 Unnecessary Hard
 
 282 . [https://leetcode.com/problems/expression-add-operators/description/](https://leetcode.com/problems/expression-add-operators/description/)
+
+301 . With Pruning - [https://leetcode.com/problems/remove-invalid-parentheses/description/](https://leetcode.com/problems/remove-invalid-parentheses/description/)
 
 ## Dynamic Programming&#x20;
 
@@ -122,7 +128,7 @@ Unnecessary Hard
 
 294 . DP [https://leetcode.com/problems/flip-game-ii/description/](https://leetcode.com/problems/flip-game-ii/description/)
 
-
+309 . DP with state machine - [https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/description/](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/description/)
 
 ### Digit DP
 
@@ -244,9 +250,21 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 
 296 . Find median - [https://leetcode.com/problems/best-meeting-point/description/](https://leetcode.com/problems/best-meeting-point/description/)
 
+## Prefix\_sum
+
+304 . 2D - [https://leetcode.com/problems/range-sum-query-2d-immutable/description/](https://leetcode.com/problems/range-sum-query-2d-immutable/description/)
+
 ## Rolling Hash
 
 214. Also KMP / Manacher [https://leetcode.com/problems/shortest-palindrome/description/](https://leetcode.com/problems/shortest-palindrome/description/)
+
+## Segment Tree/ SQRT Decomposition
+
+307 . [https://leetcode.com/problems/range-sum-query-mutable/description/](https://leetcode.com/problems/range-sum-query-mutable/description/)
+
+### Binary Index Tree / Fenwick Tree
+
+308 . [https://leetcode.com/problems/range-sum-query-2d-mutable/description/](https://leetcode.com/problems/range-sum-query-2d-mutable/description/)
 
 ## Sorting
 
@@ -315,3 +333,9 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 {% embed url="https://leetcode.com/problems/word-break-ii/description/" %}
 
 112 . Trie + DFS [https://leetcode.com/problems/word-search-ii/description/](https://leetcode.com/problems/word-search-ii/description/)
+
+
+
+## Union Find
+
+305 . Alternative is BFS with memory - [https://leetcode.com/problems/number-of-islands-ii/description/](https://leetcode.com/problems/number-of-islands-ii/description/)
