@@ -24,7 +24,7 @@ with duplicate (hard and not necessary) - [https://leetcode.com/problems/find-mi
 
 275 . H index - [https://leetcode.com/problems/h-index-ii/description/](https://leetcode.com/problems/h-index-ii/description/)
 
-
+300 . Use binary search to maintain a sequence - [https://leetcode.com/problems/longest-increasing-subsequence/description/](https://leetcode.com/problems/longest-increasing-subsequence/description/)
 
 ## Binary (Search) Tree
 
@@ -120,6 +120,10 @@ Unnecessary Hard
 
 241 . [https://leetcode.com/problems/different-ways-to-add-parentheses/description/](https://leetcode.com/problems/different-ways-to-add-parentheses/description/)
 
+294 . DP [https://leetcode.com/problems/flip-game-ii/description/](https://leetcode.com/problems/flip-game-ii/description/)
+
+
+
 ### Digit DP
 
 233 . [https://leetcode.com/problems/number-of-digit-one/description/](https://leetcode.com/problems/number-of-digit-one/description/)
@@ -145,6 +149,8 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 23 . [https://leetcode.com/problems/merge-k-sorted-lists/description/](https://leetcode.com/problems/merge-k-sorted-lists/description/)
 
 218 . [https://leetcode.com/problems/the-skyline-problem/description/](https://leetcode.com/problems/the-skyline-problem/description/)
+
+295 . Use 2 heap for median - [https://leetcode.com/problems/find-median-from-data-stream/description/](https://leetcode.com/problems/find-median-from-data-stream/description/)
 
 ## Linked List
 
@@ -235,6 +241,8 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 279 . Perfect squares - [https://leetcode.com/problems/perfect-squares/description/](https://leetcode.com/problems/perfect-squares/description/)
 
 289 . Use different number to represent state -[https://leetcode.com/problems/game-of-life/description/](https://leetcode.com/problems/game-of-life/description/)
+
+296 . Find median - [https://leetcode.com/problems/best-meeting-point/description/](https://leetcode.com/problems/best-meeting-point/description/)
 
 ## Rolling Hash
 
