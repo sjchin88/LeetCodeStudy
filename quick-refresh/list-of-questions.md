@@ -50,6 +50,10 @@ with duplicate (hard and not necessary) - [https://leetcode.com/problems/find-mi
 
 285 . Inorder successor - [https://leetcode.com/problems/inorder-successor-in-bst/editorial/](https://leetcode.com/problems/inorder-successor-in-bst/editorial/)
 
+331 . In and Out Degree - [https://leetcode.com/problems/verify-preorder-serialization-of-a-binary-tree/description/](https://leetcode.com/problems/verify-preorder-serialization-of-a-binary-tree/description/)
+
+
+
 ## Bit Operations
 
 89 . [https://leetcode.com/problems/gray-code/description/](https://leetcode.com/problems/gray-code/description/)
@@ -108,6 +112,8 @@ Unnecessary Hard
 
 320 . Find all combo (work for bit) - [https://leetcode.com/problems/generalized-abbreviation/description/](https://leetcode.com/problems/generalized-abbreviation/description/)
 
+332. Greedy DFS for Eulerian Path - [https://leetcode.com/problems/reconstruct-itinerary/description/](https://leetcode.com/problems/reconstruct-itinerary/description/)
+
 ## Dynamic Programming&#x20;
 
 10. [https://leetcode.com/problems/regular-expression-matching/description/](https://leetcode.com/problems/regular-expression-matching/description/)
@@ -140,6 +146,10 @@ Unnecessary Hard
 
 233 . [https://leetcode.com/problems/number-of-digit-one/description/](https://leetcode.com/problems/number-of-digit-one/description/)
 
+### Coin DP
+
+322 . [https://leetcode.com/problems/coin-change/description/](https://leetcode.com/problems/coin-change/description/)
+
 
 
 ### Ugly Number (Iteration)
@@ -148,15 +158,29 @@ Unnecessary Hard
 
 313 . [https://leetcode.com/problems/super-ugly-number/description/](https://leetcode.com/problems/super-ugly-number/description/)
 
+
+
+### Combo
+
+329. DP + Heap  [https://leetcode.com/problems/longest-increasing-path-in-a-matrix/description/](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/description/)
+
 ## Greedy (IQ Tests)
 
 BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312/](https://leetcode.com/problems/jump-game-ii/submissions/1928507312/)
 
 55 . [https://leetcode.com/problems/jump-game/description/](https://leetcode.com/problems/jump-game/description/)
 
-280 . [https://leetcode.com/problems/wiggle-sort/description/](https://leetcode.com/problems/wiggle-sort/description/)
+
 
 316 . [https://leetcode.com/problems/remove-duplicate-letters/description/](https://leetcode.com/problems/remove-duplicate-letters/description/)
+
+330 . Find miss number -[https://leetcode.com/problems/patching-array/description/](https://leetcode.com/problems/patching-array/description/)
+
+### Wigger Sort
+
+280 . [https://leetcode.com/problems/wiggle-sort/description/](https://leetcode.com/problems/wiggle-sort/description/)
+
+324 . [https://leetcode.com/problems/wiggle-sort-ii/description/](https://leetcode.com/problems/wiggle-sort-ii/description/)
 
 ### Deterministic Finite Automation&#x20;
 
@@ -268,13 +292,17 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 
 279 . Perfect squares - [https://leetcode.com/problems/perfect-squares/description/](https://leetcode.com/problems/perfect-squares/description/)
 
-289 . Use different number to represent state -[https://leetcode.com/problems/game-of-life/description/](https://leetcode.com/problems/game-of-life/description/)
+289 . Use a different number to represent state -[https://leetcode.com/problems/game-of-life/description/](https://leetcode.com/problems/game-of-life/description/)
 
 296 . Find median - [https://leetcode.com/problems/best-meeting-point/description/](https://leetcode.com/problems/best-meeting-point/description/)
 
 ## Prefix\_sum
 
 304 . 2D - [https://leetcode.com/problems/range-sum-query-2d-immutable/description/](https://leetcode.com/problems/range-sum-query-2d-immutable/description/)
+
+325 . [https://leetcode.com/problems/maximum-size-subarray-sum-equals-k/description/](https://leetcode.com/problems/maximum-size-subarray-sum-equals-k/description/)
+
+327 . Prefix + Other Combo [https://leetcode.com/problems/count-of-range-sum/description/](https://leetcode.com/problems/count-of-range-sum/description/)
 
 ## Rolling Hash
 
