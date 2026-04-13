@@ -130,9 +130,19 @@ Unnecessary Hard
 
 309 . DP with state machine - [https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/description/](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/description/)
 
+312 . [https://leetcode.com/problems/burst-balloons/description/](https://leetcode.com/problems/burst-balloons/description/)
+
 ### Digit DP
 
 233 . [https://leetcode.com/problems/number-of-digit-one/description/](https://leetcode.com/problems/number-of-digit-one/description/)
+
+
+
+### Ugly Number (Iteration)
+
+264 . [https://leetcode.com/problems/ugly-number-ii/editorial/](https://leetcode.com/problems/ugly-number-ii/editorial/)
+
+313 . [https://leetcode.com/problems/super-ugly-number/description/](https://leetcode.com/problems/super-ugly-number/description/)
 
 ## Greedy (IQ Tests)
 
@@ -141,6 +151,8 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 55 . [https://leetcode.com/problems/jump-game/description/](https://leetcode.com/problems/jump-game/description/)
 
 280 . [https://leetcode.com/problems/wiggle-sort/description/](https://leetcode.com/problems/wiggle-sort/description/)
+
+316 . [https://leetcode.com/problems/remove-duplicate-letters/description/](https://leetcode.com/problems/remove-duplicate-letters/description/)
 
 ### Deterministic Finite Automation&#x20;
 
@@ -267,6 +279,8 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 ### Binary Index Tree / Fenwick Tree
 
 308 . [https://leetcode.com/problems/range-sum-query-2d-mutable/description/](https://leetcode.com/problems/range-sum-query-2d-mutable/description/)
+
+315 . [https://leetcode.com/problems/count-of-smaller-numbers-after-self/description/](https://leetcode.com/problems/count-of-smaller-numbers-after-self/description/)
 
 ## Sorting
 
