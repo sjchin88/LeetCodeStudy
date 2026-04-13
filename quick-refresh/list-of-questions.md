@@ -224,6 +224,8 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 
 255 . Preorder of BST - [https://leetcode.com/problems/verify-preorder-sequence-in-binary-search-tree/description/](https://leetcode.com/problems/verify-preorder-sequence-in-binary-search-tree/description/)
 
+321 . Max subsequent with monostack + greedy merge - [https://leetcode.com/problems/create-maximum-number/description/](https://leetcode.com/problems/create-maximum-number/description/)
+
 ## Named Algorithms
 
 ### Kadane's algorithm&#x20;
