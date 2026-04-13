@@ -62,6 +62,8 @@ with duplicate (hard and not necessary) - [https://leetcode.com/problems/find-mi
 
 267 . With Python Permutation - [https://leetcode.com/problems/palindrome-permutation-ii/description/](https://leetcode.com/problems/palindrome-permutation-ii/description/)
 
+318 . For character - [https://leetcode.com/problems/maximum-product-of-word-lengths/description/](https://leetcode.com/problems/maximum-product-of-word-lengths/description/)
+
 
 
 ## BFS
@@ -103,6 +105,8 @@ Unnecessary Hard
 282 . [https://leetcode.com/problems/expression-add-operators/description/](https://leetcode.com/problems/expression-add-operators/description/)
 
 301 . With Pruning - [https://leetcode.com/problems/remove-invalid-parentheses/description/](https://leetcode.com/problems/remove-invalid-parentheses/description/)
+
+320 . Find all combo (work for bit) - [https://leetcode.com/problems/generalized-abbreviation/description/](https://leetcode.com/problems/generalized-abbreviation/description/)
 
 ## Dynamic Programming&#x20;
 
@@ -201,6 +205,8 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 204 . Sieve of Eratosthenes to find primes, [https://leetcode.com/problems/count-primes/description/](https://leetcode.com/problems/count-primes/description/)
 
 311 . Matrix Multiplication - [https://leetcode.com/problems/sparse-matrix-multiplication/description/](https://leetcode.com/problems/sparse-matrix-multiplication/description/)
+
+319 . [https://leetcode.com/problems/bulb-switcher/description/](https://leetcode.com/problems/bulb-switcher/description/)
 
 ### Permutations
 
