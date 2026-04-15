@@ -12,6 +12,8 @@ Tedious
 
 297 . [https://leetcode.com/problems/serialize-and-deserialize-binary-tree/description/](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/description/)
 
+348 . Tictactoe [https://leetcode.com/problems/design-tic-tac-toe/description/](https://leetcode.com/problems/design-tic-tac-toe/description/)
+
 ## Recursion
 
 247 . [https://leetcode.com/problems/strobogrammatic-number-ii/description/](https://leetcode.com/problems/strobogrammatic-number-ii/description/)

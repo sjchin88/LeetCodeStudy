@@ -296,6 +296,8 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 
 296 . Find median - [https://leetcode.com/problems/best-meeting-point/description/](https://leetcode.com/problems/best-meeting-point/description/)
 
+335 . Math Check - [https://leetcode.com/problems/self-crossing/description/](https://leetcode.com/problems/self-crossing/description/)
+
 ## Prefix\_sum
 
 304 . 2D - [https://leetcode.com/problems/range-sum-query-2d-immutable/description/](https://leetcode.com/problems/range-sum-query-2d-immutable/description/)
@@ -385,6 +387,8 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 {% embed url="https://leetcode.com/problems/word-break-ii/description/" %}
 
 112 . Trie + DFS [https://leetcode.com/problems/word-search-ii/description/](https://leetcode.com/problems/word-search-ii/description/)
+
+336 . [https://leetcode.com/problems/palindrome-pairs/description/](https://leetcode.com/problems/palindrome-pairs/description/)
 
 
 
