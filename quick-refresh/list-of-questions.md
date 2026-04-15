@@ -142,6 +142,8 @@ Unnecessary Hard
 
 312 . [https://leetcode.com/problems/burst-balloons/description/](https://leetcode.com/problems/burst-balloons/description/)
 
+351 . with backtracking - [https://leetcode.com/problems/android-unlock-patterns/description/](https://leetcode.com/problems/android-unlock-patterns/description/)
+
 ### Digit DP
 
 233 . [https://leetcode.com/problems/number-of-digit-one/description/](https://leetcode.com/problems/number-of-digit-one/description/)
