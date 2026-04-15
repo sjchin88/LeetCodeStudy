@@ -24,7 +24,7 @@ with duplicate (hard and not necessary) - [https://leetcode.com/problems/find-mi
 
 275 . H index - [https://leetcode.com/problems/h-index-ii/description/](https://leetcode.com/problems/h-index-ii/description/)
 
-300 . Use binary search to maintain a sequence - [https://leetcode.com/problems/longest-increasing-subsequence/description/](https://leetcode.com/problems/longest-increasing-subsequence/description/)
+
 
 302 . 2D to 1D binary search - [https://leetcode.com/problems/smallest-rectangle-enclosing-black-pixels/description/](https://leetcode.com/problems/smallest-rectangle-enclosing-black-pixels/description/)
 
@@ -218,6 +218,14 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 
 148 . Merge sort - [https://leetcode.com/problems/sort-list/description/](https://leetcode.com/problems/sort-list/description/)
 
+
+
+## Longest Increasing Subsequence (Russia Doll)
+
+300 . Use binary search to maintain a sequence - [https://leetcode.com/problems/longest-increasing-subsequence/description/](https://leetcode.com/problems/longest-increasing-subsequence/description/)
+
+354 . sort + lis - [https://leetcode.com/problems/russian-doll-envelopes/description/](https://leetcode.com/problems/russian-doll-envelopes/description/)
+
 ## LRU Cache
 
 [https://leetcode.com/problems/lru-cache/](https://leetcode.com/problems/lru-cache/)
@@ -299,6 +307,12 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 296 . Find median - [https://leetcode.com/problems/best-meeting-point/description/](https://leetcode.com/problems/best-meeting-point/description/)
 
 335 . Math Check - [https://leetcode.com/problems/self-crossing/description/](https://leetcode.com/problems/self-crossing/description/)
+
+356 , hash set - [https://leetcode.com/problems/line-reflection/description/](https://leetcode.com/problems/line-reflection/description/)
+
+## OrderedDict / SortedSet
+
+352 . [https://leetcode.com/problems/data-stream-as-disjoint-intervals/description/](https://leetcode.com/problems/data-stream-as-disjoint-intervals/description/)
 
 ## Prefix\_sum
 
