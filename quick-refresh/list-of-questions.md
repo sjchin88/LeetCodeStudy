@@ -178,6 +178,8 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 
 330 . Find miss number -[https://leetcode.com/problems/patching-array/description/](https://leetcode.com/problems/patching-array/description/)
 
+358 . PQ - [https://leetcode.com/problems/rearrange-string-k-distance-apart/description/](https://leetcode.com/problems/rearrange-string-k-distance-apart/description/)
+
 ### Wigger Sort
 
 280 . [https://leetcode.com/problems/wiggle-sort/description/](https://leetcode.com/problems/wiggle-sort/description/)
@@ -242,9 +244,15 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 
 319 . [https://leetcode.com/problems/bulb-switcher/description/](https://leetcode.com/problems/bulb-switcher/description/)
 
+
+
+360 . [https://leetcode.com/problems/sort-transformed-array/description/](https://leetcode.com/problems/sort-transformed-array/description/)
+
 ### Permutations
 
 60 . [https://leetcode.com/problems/permutation-sequence/description/](https://leetcode.com/problems/permutation-sequence/description/)
+
+357 . [https://leetcode.com/problems/count-numbers-with-unique-digits/description/](https://leetcode.com/problems/count-numbers-with-unique-digits/description/)
 
 ## Monostack
 
