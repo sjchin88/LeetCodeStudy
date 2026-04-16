@@ -52,6 +52,8 @@ with duplicate (hard and not necessary) - [https://leetcode.com/problems/find-mi
 
 331 . In and Out Degree - [https://leetcode.com/problems/verify-preorder-serialization-of-a-binary-tree/description/](https://leetcode.com/problems/verify-preorder-serialization-of-a-binary-tree/description/)
 
+366 . [https://leetcode.com/problems/find-leaves-of-binary-tree/description/](https://leetcode.com/problems/find-leaves-of-binary-tree/description/)
+
 
 
 ## Bit Operations
@@ -114,6 +116,8 @@ Unnecessary Hard
 
 332. Greedy DFS for Eulerian Path - [https://leetcode.com/problems/reconstruct-itinerary/description/](https://leetcode.com/problems/reconstruct-itinerary/description/)
 
+365 . [https://leetcode.com/problems/water-and-jug-problem/description/](https://leetcode.com/problems/water-and-jug-problem/description/)
+
 ## Dynamic Programming&#x20;
 
 10. [https://leetcode.com/problems/regular-expression-matching/description/](https://leetcode.com/problems/regular-expression-matching/description/)
@@ -143,6 +147,10 @@ Unnecessary Hard
 312 . [https://leetcode.com/problems/burst-balloons/description/](https://leetcode.com/problems/burst-balloons/description/)
 
 351 . with backtracking - [https://leetcode.com/problems/android-unlock-patterns/description/](https://leetcode.com/problems/android-unlock-patterns/description/)
+
+361 , [https://leetcode.com/problems/bomb-enemy/description/](https://leetcode.com/problems/bomb-enemy/description/)
+
+368 . [https://leetcode.com/problems/largest-divisible-subset/description/](https://leetcode.com/problems/largest-divisible-subset/description/)
 
 ### Digit DP
 
@@ -248,6 +256,10 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 
 360 . [https://leetcode.com/problems/sort-transformed-array/description/](https://leetcode.com/problems/sort-transformed-array/description/)
 
+### Modulus Operation
+
+372 . Super pow [https://leetcode.com/problems/super-pow/description/](https://leetcode.com/problems/super-pow/description/)
+
 ### Permutations
 
 60 . [https://leetcode.com/problems/permutation-sequence/description/](https://leetcode.com/problems/permutation-sequence/description/)
@@ -273,6 +285,8 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 ### Kadane's algorithm&#x20;
 
 53 . [https://leetcode.com/problems/maximum-subarray/editorial/](https://leetcode.com/problems/maximum-subarray/editorial/)
+
+363 . Or Prefix sum [https://leetcode.com/problems/max-sum-of-rectangle-no-larger-than-k/description/](https://leetcode.com/problems/max-sum-of-rectangle-no-larger-than-k/description/)
 
 ## Others
 
