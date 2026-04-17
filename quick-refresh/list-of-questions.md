@@ -28,6 +28,8 @@ with duplicate (hard and not necessary) - [https://leetcode.com/problems/find-mi
 
 302 . 2D to 1D binary search - [https://leetcode.com/problems/smallest-rectangle-enclosing-black-pixels/description/](https://leetcode.com/problems/smallest-rectangle-enclosing-black-pixels/description/)
 
+378 . [https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/description/](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/description/)
+
 ## Binary (Search) Tree
 
 99 . [https://leetcode.com/problems/recover-binary-search-tree/description/](https://leetcode.com/problems/recover-binary-search-tree/description/)
@@ -194,6 +196,8 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 
 324 . [https://leetcode.com/problems/wiggle-sort-ii/description/](https://leetcode.com/problems/wiggle-sort-ii/description/)
 
+376 , [https://leetcode.com/problems/wiggle-subsequence/description/](https://leetcode.com/problems/wiggle-subsequence/description/)
+
 ### Deterministic Finite Automation&#x20;
 
 65 . [https://leetcode.com/problems/valid-number/editorial/](https://leetcode.com/problems/valid-number/editorial/)
@@ -331,6 +335,8 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 335 . Math Check - [https://leetcode.com/problems/self-crossing/description/](https://leetcode.com/problems/self-crossing/description/)
 
 356 , hash set - [https://leetcode.com/problems/line-reflection/description/](https://leetcode.com/problems/line-reflection/description/)
+
+380 . Dict + Array, move to back [https://leetcode.com/problems/insert-delete-getrandom-o1/description/](https://leetcode.com/problems/insert-delete-getrandom-o1/description/)
 
 ## OrderedDict / SortedSet
 
