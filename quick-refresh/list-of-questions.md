@@ -30,6 +30,12 @@ with duplicate (hard and not necessary) - [https://leetcode.com/problems/find-mi
 
 378 . [https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/description/](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/description/)
 
+
+
+### Binary Search Result Range
+
+410 . [https://leetcode.com/problems/split-array-largest-sum/description/](https://leetcode.com/problems/split-array-largest-sum/description/)
+
 ## Binary (Search) Tree
 
 99 . [https://leetcode.com/problems/recover-binary-search-tree/description/](https://leetcode.com/problems/recover-binary-search-tree/description/)
@@ -71,6 +77,8 @@ with duplicate (hard and not necessary) - [https://leetcode.com/problems/find-mi
 267 . With Python Permutation - [https://leetcode.com/problems/palindrome-permutation-ii/description/](https://leetcode.com/problems/palindrome-permutation-ii/description/)
 
 318 . For character - [https://leetcode.com/problems/maximum-product-of-word-lengths/description/](https://leetcode.com/problems/maximum-product-of-word-lengths/description/)
+
+393 . [https://leetcode.com/problems/utf-8-validation/description/](https://leetcode.com/problems/utf-8-validation/description/)
 
 
 
@@ -122,6 +130,8 @@ Unnecessary Hard
 
 386 , [https://leetcode.com/problems/lexicographical-numbers/description/](https://leetcode.com/problems/lexicographical-numbers/description/)
 
+399 . Graph or Union Find [https://leetcode.com/problems/evaluate-division/description/](https://leetcode.com/problems/evaluate-division/description/)
+
 ## Dynamic Programming&#x20;
 
 10. [https://leetcode.com/problems/regular-expression-matching/description/](https://leetcode.com/problems/regular-expression-matching/description/)
@@ -155,6 +165,10 @@ Unnecessary Hard
 361 , [https://leetcode.com/problems/bomb-enemy/description/](https://leetcode.com/problems/bomb-enemy/description/)
 
 368 . [https://leetcode.com/problems/largest-divisible-subset/description/](https://leetcode.com/problems/largest-divisible-subset/description/)
+
+396 . Sliding formula for max rotation problem - [https://leetcode.com/problems/rotate-function/description/](https://leetcode.com/problems/rotate-function/description/)
+
+403 . [https://leetcode.com/problems/frog-jump/description/](https://leetcode.com/problems/frog-jump/description/)
 
 ### Digit DP
 
@@ -190,7 +204,9 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 
 330 . Find miss number -[https://leetcode.com/problems/patching-array/description/](https://leetcode.com/problems/patching-array/description/)
 
-358 . PQ - [https://leetcode.com/problems/rearrange-string-k-distance-apart/description/](https://leetcode.com/problems/rearrange-string-k-distance-apart/description/)
+358 . PQ - [https://leetcode.com/problems/rearrange-string-k-distance-apart/description/](https://leetcode.com/problems/rearrange-string-k-distance-apart/description/)&#x20;
+
+406 . Simply sort will do - [https://leetcode.com/problems/queue-reconstruction-by-height/description/](https://leetcode.com/problems/queue-reconstruction-by-height/description/)
 
 ### Wigger Sort
 
@@ -208,13 +224,17 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 
 187 . Rabin Karp [https://leetcode.com/problems/repeated-dna-sequences/](https://leetcode.com/problems/repeated-dna-sequences/)
 
-## Heap
+## Heap (Priority Queue)
 
 23 . [https://leetcode.com/problems/merge-k-sorted-lists/description/](https://leetcode.com/problems/merge-k-sorted-lists/description/)
 
 218 . [https://leetcode.com/problems/the-skyline-problem/description/](https://leetcode.com/problems/the-skyline-problem/description/)
 
 295 . Use 2 heap for median - [https://leetcode.com/problems/find-median-from-data-stream/description/](https://leetcode.com/problems/find-median-from-data-stream/description/)
+
+407 . Hard combo - heap + PQ - [https://leetcode.com/problems/trapping-rain-water-ii/description/](https://leetcode.com/problems/trapping-rain-water-ii/description/)
+
+
 
 ## Linked List
 
@@ -285,6 +305,8 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 255 . Preorder of BST - [https://leetcode.com/problems/verify-preorder-sequence-in-binary-search-tree/description/](https://leetcode.com/problems/verify-preorder-sequence-in-binary-search-tree/description/)
 
 321 . Max subsequent with monostack + greedy merge - [https://leetcode.com/problems/create-maximum-number/description/](https://leetcode.com/problems/create-maximum-number/description/)
+
+402 . Practise - [https://leetcode.com/problems/remove-k-digits/description/](https://leetcode.com/problems/remove-k-digits/description/)
 
 ## Named Algorithms
 
