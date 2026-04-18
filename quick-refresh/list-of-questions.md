@@ -120,6 +120,8 @@ Unnecessary Hard
 
 365 . [https://leetcode.com/problems/water-and-jug-problem/description/](https://leetcode.com/problems/water-and-jug-problem/description/)
 
+386 , [https://leetcode.com/problems/lexicographical-numbers/description/](https://leetcode.com/problems/lexicographical-numbers/description/)
+
 ## Dynamic Programming&#x20;
 
 10. [https://leetcode.com/problems/regular-expression-matching/description/](https://leetcode.com/problems/regular-expression-matching/description/)
@@ -349,6 +351,10 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 325 . [https://leetcode.com/problems/maximum-size-subarray-sum-equals-k/description/](https://leetcode.com/problems/maximum-size-subarray-sum-equals-k/description/)
 
 327 . Prefix + Other Combo [https://leetcode.com/problems/count-of-range-sum/description/](https://leetcode.com/problems/count-of-range-sum/description/)
+
+## Recursion
+
+390 . [https://leetcode.com/problems/elimination-game/description/](https://leetcode.com/problems/elimination-game/description/)
 
 ## Rolling Hash
 
