@@ -8,7 +8,11 @@
 
 391 . perfect rectangle - [https://leetcode.com/problems/perfect-rectangle/description/](https://leetcode.com/problems/perfect-rectangle/description/)
 
+420 . [https://leetcode.com/problems/strong-password-checker/description/](https://leetcode.com/problems/strong-password-checker/description/)
 
+423 . Bad Description [https://leetcode.com/problems/reconstruct-original-digits-from-english/description/](https://leetcode.com/problems/reconstruct-original-digits-from-english/description/)&#x20;
+
+428 . [https://leetcode.com/problems/serialize-and-deserialize-n-ary-tree/description/](https://leetcode.com/problems/serialize-and-deserialize-n-ary-tree/description/)
 
 Tedious
 

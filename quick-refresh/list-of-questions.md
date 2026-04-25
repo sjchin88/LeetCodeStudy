@@ -46,7 +46,7 @@ with duplicate (hard and not necessary) - [https://leetcode.com/problems/find-mi
 
 124 . [https://leetcode.com/problems/binary-tree-maximum-path-sum/description/](https://leetcode.com/problems/binary-tree-maximum-path-sum/description/)
 
-173 . Inorder - [https://leetcode.com/problems/binary-search-tree-iterator/description/](https://leetcode.com/problems/binary-search-tree-iterator/description/)
+
 
 230 . Kth element - [https://leetcode.com/problems/kth-smallest-element-in-a-bst/description/](https://leetcode.com/problems/kth-smallest-element-in-a-bst/description/)
 
@@ -54,15 +54,21 @@ with duplicate (hard and not necessary) - [https://leetcode.com/problems/find-mi
 
 236 - LCA [https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/description/](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/description/)
 
-272 - Inorder traversal [https://leetcode.com/problems/closest-binary-search-tree-value-ii/description/](https://leetcode.com/problems/closest-binary-search-tree-value-ii/description/)
 
-285 . Inorder successor - [https://leetcode.com/problems/inorder-successor-in-bst/editorial/](https://leetcode.com/problems/inorder-successor-in-bst/editorial/)
 
 331 . In and Out Degree - [https://leetcode.com/problems/verify-preorder-serialization-of-a-binary-tree/description/](https://leetcode.com/problems/verify-preorder-serialization-of-a-binary-tree/description/)
 
 366 . [https://leetcode.com/problems/find-leaves-of-binary-tree/description/](https://leetcode.com/problems/find-leaves-of-binary-tree/description/)
 
+### Inorder traversal
 
+173 . Inorder - [https://leetcode.com/problems/binary-search-tree-iterator/description/](https://leetcode.com/problems/binary-search-tree-iterator/description/)
+
+272 - Inorder traversal [https://leetcode.com/problems/closest-binary-search-tree-value-ii/description/](https://leetcode.com/problems/closest-binary-search-tree-value-ii/description/)
+
+285 . Inorder successor - [https://leetcode.com/problems/inorder-successor-in-bst/editorial/](https://leetcode.com/problems/inorder-successor-in-bst/editorial/)
+
+426 . [https://leetcode.com/problems/convert-binary-search-tree-to-sorted-doubly-linked-list/description/](https://leetcode.com/problems/convert-binary-search-tree-to-sorted-doubly-linked-list/description/)
 
 ## Bit Operations
 
@@ -260,6 +266,8 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 
 148 . Merge sort - [https://leetcode.com/problems/sort-list/description/](https://leetcode.com/problems/sort-list/description/)
 
+430 . [https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list/description/](https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list/description/)
+
 
 
 ## Longest Increasing Subsequence (Russia Doll)
@@ -452,6 +460,8 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 
 245 . [https://leetcode.com/problems/shortest-word-distance-iii/description/](https://leetcode.com/problems/shortest-word-distance-iii/description/)
 
+424 . Sliding window - [https://leetcode.com/problems/longest-repeating-character-replacement/description/](https://leetcode.com/problems/longest-repeating-character-replacement/description/)
+
 
 
 #### Fast and Slow Pointer
@@ -467,6 +477,10 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 112 . Trie + DFS [https://leetcode.com/problems/word-search-ii/description/](https://leetcode.com/problems/word-search-ii/description/)
 
 336 . [https://leetcode.com/problems/palindrome-pairs/description/](https://leetcode.com/problems/palindrome-pairs/description/)
+
+421 . with bits - [https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array/description/](https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array/description/)
+
+425 , with backtracking - [https://leetcode.com/problems/word-squares/description/](https://leetcode.com/problems/word-squares/description/)
 
 
 
