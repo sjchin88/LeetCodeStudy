@@ -80,7 +80,7 @@ with duplicate (hard and not necessary) - [https://leetcode.com/problems/find-mi
 
 393 . [https://leetcode.com/problems/utf-8-validation/description/](https://leetcode.com/problems/utf-8-validation/description/)
 
-
+411 . [https://leetcode.com/problems/minimum-unique-word-abbreviation/description/](https://leetcode.com/problems/minimum-unique-word-abbreviation/description/)
 
 ## BFS
 
@@ -95,6 +95,8 @@ with duplicate (hard and not necessary) - [https://leetcode.com/problems/find-mi
 269 . Topo + BFS [https://leetcode.com/problems/alien-dictionary/description/](https://leetcode.com/problems/alien-dictionary/description/)
 
 310 , Toposort - [https://leetcode.com/problems/minimum-height-trees/description/](https://leetcode.com/problems/minimum-height-trees/description/)
+
+417 . Just do two BFS from edge - [https://leetcode.com/problems/pacific-atlantic-water-flow/description/](https://leetcode.com/problems/pacific-atlantic-water-flow/description/)
 
 ## DFS (Backtracking)
 
@@ -169,6 +171,10 @@ Unnecessary Hard
 396 . Sliding formula for max rotation problem - [https://leetcode.com/problems/rotate-function/description/](https://leetcode.com/problems/rotate-function/description/)
 
 403 . [https://leetcode.com/problems/frog-jump/description/](https://leetcode.com/problems/frog-jump/description/)
+
+416 . Bucket DP/Coin Sum - [https://leetcode.com/problems/partition-equal-subset-sum/description/](https://leetcode.com/problems/partition-equal-subset-sum/description/)
+
+418 . [https://leetcode.com/problems/sentence-screen-fitting/description/](https://leetcode.com/problems/sentence-screen-fitting/description/)
 
 ### Digit DP
 
