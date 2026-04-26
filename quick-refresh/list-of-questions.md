@@ -70,6 +70,18 @@ with duplicate (hard and not necessary) - [https://leetcode.com/problems/find-mi
 
 426 . [https://leetcode.com/problems/convert-binary-search-tree-to-sorted-doubly-linked-list/description/](https://leetcode.com/problems/convert-binary-search-tree-to-sorted-doubly-linked-list/description/)
 
+### Nary Tree Structure
+
+431 . [https://leetcode.com/problems/encode-n-ary-tree-to-binary-tree/description/](https://leetcode.com/problems/encode-n-ary-tree-to-binary-tree/description/)
+
+### PostOrder Traversal
+
+449 . [https://leetcode.com/problems/serialize-and-deserialize-bst/description/](https://leetcode.com/problems/serialize-and-deserialize-bst/description/)
+
+### Traversal
+
+450 . [https://leetcode.com/problems/delete-node-in-a-bst/description/](https://leetcode.com/problems/delete-node-in-a-bst/description/)
+
 ## Bit Operations
 
 89 . [https://leetcode.com/problems/gray-code/description/](https://leetcode.com/problems/gray-code/description/)
@@ -182,6 +194,8 @@ Unnecessary Hard
 
 418 . [https://leetcode.com/problems/sentence-screen-fitting/description/](https://leetcode.com/problems/sentence-screen-fitting/description/)
 
+446 . [https://leetcode.com/problems/arithmetic-slices-ii-subsequence/description/](https://leetcode.com/problems/arithmetic-slices-ii-subsequence/description/)
+
 ### Digit DP
 
 233 . [https://leetcode.com/problems/number-of-digit-one/description/](https://leetcode.com/problems/number-of-digit-one/description/)
@@ -220,6 +234,8 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 
 406 . Simply sort will do - [https://leetcode.com/problems/queue-reconstruction-by-height/description/](https://leetcode.com/problems/queue-reconstruction-by-height/description/)
 
+453 . [https://leetcode.com/problems/minimum-moves-to-equal-array-elements/description/](https://leetcode.com/problems/minimum-moves-to-equal-array-elements/description/)
+
 ### Wigger Sort
 
 280 . [https://leetcode.com/problems/wiggle-sort/description/](https://leetcode.com/problems/wiggle-sort/description/)
@@ -248,6 +264,12 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 
 
 
+## In-place Manipulation
+
+### Array&#x20;
+
+442 . [https://leetcode.com/problems/find-all-duplicates-in-an-array/description/](https://leetcode.com/problems/find-all-duplicates-in-an-array/description/)
+
 ## Linked List
 
 2. [https://leetcode.com/problems/add-two-numbers/](https://leetcode.com/problems/add-two-numbers/)
@@ -266,9 +288,13 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 
 148 . Merge sort - [https://leetcode.com/problems/sort-list/description/](https://leetcode.com/problems/sort-list/description/)
 
+
+
+### Double linked list
+
 430 . [https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list/description/](https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list/description/)
 
-
+432 . With Hashing - [https://leetcode.com/problems/all-oone-data-structure/description/](https://leetcode.com/problems/all-oone-data-structure/description/)
 
 ## Longest Increasing Subsequence (Russia Doll)
 
@@ -380,6 +406,10 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 
 352 . [https://leetcode.com/problems/data-stream-as-disjoint-intervals/description/](https://leetcode.com/problems/data-stream-as-disjoint-intervals/description/)
 
+## Points Operation
+
+447 . Distance hashing & Combo [https://leetcode.com/problems/number-of-boomerangs/description/](https://leetcode.com/problems/number-of-boomerangs/description/)
+
 ## Prefix\_sum
 
 304 . 2D - [https://leetcode.com/problems/range-sum-query-2d-immutable/description/](https://leetcode.com/problems/range-sum-query-2d-immutable/description/)
@@ -387,6 +417,8 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 325 . [https://leetcode.com/problems/maximum-size-subarray-sum-equals-k/description/](https://leetcode.com/problems/maximum-size-subarray-sum-equals-k/description/)
 
 327 . Prefix + Other Combo [https://leetcode.com/problems/count-of-range-sum/description/](https://leetcode.com/problems/count-of-range-sum/description/)
+
+440 . Prefix tree - [https://leetcode.com/problems/k-th-smallest-in-lexicographical-order/description/](https://leetcode.com/problems/k-th-smallest-in-lexicographical-order/description/)
 
 ## Recursion
 
@@ -428,6 +460,8 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 
 227 . [https://leetcode.com/problems/basic-calculator-ii/editorial/](https://leetcode.com/problems/basic-calculator-ii/editorial/)
 
+439 . [https://leetcode.com/problems/ternary-expression-parser/description/](https://leetcode.com/problems/ternary-expression-parser/description/)
+
 ## String
 
 ### Manacher / DP
@@ -461,6 +495,8 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 245 . [https://leetcode.com/problems/shortest-word-distance-iii/description/](https://leetcode.com/problems/shortest-word-distance-iii/description/)
 
 424 . Sliding window - [https://leetcode.com/problems/longest-repeating-character-replacement/description/](https://leetcode.com/problems/longest-repeating-character-replacement/description/)
+
+438 . Sliding window - [https://leetcode.com/problems/find-all-anagrams-in-a-string/description/](https://leetcode.com/problems/find-all-anagrams-in-a-string/description/)
 
 
 
