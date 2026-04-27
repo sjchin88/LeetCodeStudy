@@ -100,6 +100,12 @@ with duplicate (hard and not necessary) - [https://leetcode.com/problems/find-mi
 
 411 . [https://leetcode.com/problems/minimum-unique-word-abbreviation/description/](https://leetcode.com/problems/minimum-unique-word-abbreviation/description/)
 
+477 . [https://leetcode.com/problems/total-hamming-distance/description/](https://leetcode.com/problems/total-hamming-distance/description/)
+
+### Quantum Bit
+
+458 . [https://leetcode.com/problems/poor-pigs/description/](https://leetcode.com/problems/poor-pigs/description/)
+
 ## BFS
 
 127 . Double BFS - [https://leetcode.com/problems/word-ladder/description/](https://leetcode.com/problems/word-ladder/description/)
@@ -196,15 +202,31 @@ Unnecessary Hard
 
 446 . [https://leetcode.com/problems/arithmetic-slices-ii-subsequence/description/](https://leetcode.com/problems/arithmetic-slices-ii-subsequence/description/)
 
-### Digit DP
+467 . [https://leetcode.com/problems/unique-substrings-in-wraparound-string/description/](https://leetcode.com/problems/unique-substrings-in-wraparound-string/description/)
 
-233 . [https://leetcode.com/problems/number-of-digit-one/description/](https://leetcode.com/problems/number-of-digit-one/description/)
+471 . [https://leetcode.com/problems/encode-string-with-shortest-length/description/](https://leetcode.com/problems/encode-string-with-shortest-length/description/)
+
+473 . DP + Bit + Backtrack  [https://leetcode.com/problems/matchsticks-to-square/description/](https://leetcode.com/problems/matchsticks-to-square/description/)
+
+474 . [https://leetcode.com/problems/ones-and-zeroes/description/](https://leetcode.com/problems/ones-and-zeroes/description/)
 
 ### Coin DP
 
 322 . [https://leetcode.com/problems/coin-change/description/](https://leetcode.com/problems/coin-change/description/)
 
+465 . How many group sum is 0 [https://leetcode.com/problems/optimal-account-balancing/editorial/](https://leetcode.com/problems/optimal-account-balancing/editorial/)
 
+### Digit DP
+
+233 . [https://leetcode.com/problems/number-of-digit-one/description/](https://leetcode.com/problems/number-of-digit-one/description/)
+
+###
+
+
+
+### N Players Game Theory DP
+
+464 . [https://leetcode.com/problems/can-i-win/description/](https://leetcode.com/problems/can-i-win/description/)
 
 ### Ugly Number (Iteration)
 
@@ -262,7 +284,7 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 
 407 . Hard combo - heap + PQ - [https://leetcode.com/problems/trapping-rain-water-ii/description/](https://leetcode.com/problems/trapping-rain-water-ii/description/)
 
-
+480 . Or bisect - [https://leetcode.com/problems/sliding-window-median/description/](https://leetcode.com/problems/sliding-window-median/description/)
 
 ## In-place Manipulation
 
@@ -302,6 +324,12 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 
 354 . sort + lis - [https://leetcode.com/problems/russian-doll-envelopes/description/](https://leetcode.com/problems/russian-doll-envelopes/description/)
 
+
+
+## LFU Cache
+
+460 . [https://leetcode.com/problems/lfu-cache/](https://leetcode.com/problems/lfu-cache/)
+
 ## LRU Cache
 
 [https://leetcode.com/problems/lru-cache/](https://leetcode.com/problems/lru-cache/)
@@ -322,6 +350,8 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 
 360 . [https://leetcode.com/problems/sort-transformed-array/description/](https://leetcode.com/problems/sort-transformed-array/description/)
 
+478 , [https://leetcode.com/problems/generate-random-point-in-a-circle/description/](https://leetcode.com/problems/generate-random-point-in-a-circle/description/)
+
 ### Modulus Operation
 
 372 . Super pow [https://leetcode.com/problems/super-pow/description/](https://leetcode.com/problems/super-pow/description/)
@@ -331,6 +361,12 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 60 . [https://leetcode.com/problems/permutation-sequence/description/](https://leetcode.com/problems/permutation-sequence/description/)
 
 357 . [https://leetcode.com/problems/count-numbers-with-unique-digits/description/](https://leetcode.com/problems/count-numbers-with-unique-digits/description/)
+
+
+
+### Pigeon Holes Principle
+
+466 . [https://leetcode.com/problems/count-the-repetitions/description/](https://leetcode.com/problems/count-the-repetitions/description/)
 
 ## Monostack
 
@@ -406,9 +442,11 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 
 352 . [https://leetcode.com/problems/data-stream-as-disjoint-intervals/description/](https://leetcode.com/problems/data-stream-as-disjoint-intervals/description/)
 
-## Points Operation
+## Points Operation (2D Map)
 
 447 . Distance hashing & Combo [https://leetcode.com/problems/number-of-boomerangs/description/](https://leetcode.com/problems/number-of-boomerangs/description/)
+
+469 - [https://leetcode.com/problems/convex-polygon/description/](https://leetcode.com/problems/convex-polygon/description/)
 
 ## Prefix\_sum
 
@@ -462,6 +500,8 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 
 439 . [https://leetcode.com/problems/ternary-expression-parser/description/](https://leetcode.com/problems/ternary-expression-parser/description/)
 
+456 . [https://leetcode.com/problems/132-pattern/description/](https://leetcode.com/problems/132-pattern/description/)
+
 ## String
 
 ### Manacher / DP
@@ -500,11 +540,13 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 
 
 
-#### Fast and Slow Pointer
+### Fast and Slow Pointer
 
 142 . [https://leetcode.com/problems/linked-list-cycle-ii/description/](https://leetcode.com/problems/linked-list-cycle-ii/description/)
 
 287 . Floyd Algorithm [https://leetcode.com/problems/find-the-duplicate-number/description/](https://leetcode.com/problems/find-the-duplicate-number/description/)
+
+457 . [https://leetcode.com/problems/circular-array-loop/description/](https://leetcode.com/problems/circular-array-loop/description/)
 
 ## TrieNode
 
@@ -517,6 +559,8 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 421 . with bits - [https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array/description/](https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array/description/)
 
 425 , with backtracking - [https://leetcode.com/problems/word-squares/description/](https://leetcode.com/problems/word-squares/description/)
+
+472 . [https://leetcode.com/problems/concatenated-words/description/](https://leetcode.com/problems/concatenated-words/description/)
 
 
 
