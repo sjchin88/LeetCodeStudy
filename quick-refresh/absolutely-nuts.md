@@ -14,7 +14,7 @@
 
 428 . [https://leetcode.com/problems/serialize-and-deserialize-n-ary-tree/description/](https://leetcode.com/problems/serialize-and-deserialize-n-ary-tree/description/)
 
-Tedious
+## Tedious
 
 297 . [https://leetcode.com/problems/serialize-and-deserialize-binary-tree/description/](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/description/)
 
@@ -23,6 +23,8 @@ Tedious
 388 . [https://leetcode.com/problems/longest-absolute-file-path/description/](https://leetcode.com/problems/longest-absolute-file-path/description/)
 
 479 , [https://leetcode.com/problems/largest-palindrome-product/description/](https://leetcode.com/problems/largest-palindrome-product/description/)
+
+498 . [https://leetcode.com/problems/diagonal-traverse/description/](https://leetcode.com/problems/diagonal-traverse/description/)
 
 ## Recursion
 

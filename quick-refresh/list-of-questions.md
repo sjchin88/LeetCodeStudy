@@ -70,6 +70,8 @@ with duplicate (hard and not necessary) - [https://leetcode.com/problems/find-mi
 
 426 . [https://leetcode.com/problems/convert-binary-search-tree-to-sorted-doubly-linked-list/description/](https://leetcode.com/problems/convert-binary-search-tree-to-sorted-doubly-linked-list/description/)
 
+510 . [https://leetcode.com/problems/inorder-successor-in-bst-ii/description/](https://leetcode.com/problems/inorder-successor-in-bst-ii/description/)
+
 ### Nary Tree Structure
 
 431 . [https://leetcode.com/problems/encode-n-ary-tree-to-binary-tree/description/](https://leetcode.com/problems/encode-n-ary-tree-to-binary-tree/description/)
@@ -158,6 +160,10 @@ Unnecessary Hard
 
 399 . Graph or Union Find [https://leetcode.com/problems/evaluate-division/description/](https://leetcode.com/problems/evaluate-division/description/)
 
+489 . Spiral backtracking [https://leetcode.com/problems/robot-room-cleaner/description/](https://leetcode.com/problems/robot-room-cleaner/description/)
+
+490 . Ball rolling -[https://leetcode.com/problems/the-maze/description/](https://leetcode.com/problems/the-maze/description/)
+
 ## Dynamic Programming&#x20;
 
 10. [https://leetcode.com/problems/regular-expression-matching/description/](https://leetcode.com/problems/regular-expression-matching/description/)
@@ -216,6 +222,12 @@ Unnecessary Hard
 
 465 . How many group sum is 0 [https://leetcode.com/problems/optimal-account-balancing/editorial/](https://leetcode.com/problems/optimal-account-balancing/editorial/)
 
+
+
+### DFS (Backtracking) -> DP
+
+488 . [https://leetcode.com/problems/zuma-game/description/](https://leetcode.com/problems/zuma-game/description/)
+
 ### Digit DP
 
 233 . [https://leetcode.com/problems/number-of-digit-one/description/](https://leetcode.com/problems/number-of-digit-one/description/)
@@ -228,6 +240,8 @@ Unnecessary Hard
 
 464 . [https://leetcode.com/problems/can-i-win/description/](https://leetcode.com/problems/can-i-win/description/)
 
+486 . [https://leetcode.com/problems/predict-the-winner/description/](https://leetcode.com/problems/predict-the-winner/description/)
+
 ### Ugly Number (Iteration)
 
 264 . [https://leetcode.com/problems/ugly-number-ii/editorial/](https://leetcode.com/problems/ugly-number-ii/editorial/)
@@ -239,6 +253,12 @@ Unnecessary Hard
 ### Combo
 
 329. DP + Heap  [https://leetcode.com/problems/longest-increasing-path-in-a-matrix/description/](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/description/)
+
+## Graph Algorithm
+
+### Dijkstra <a href="#approach-dijkstras" id="approach-dijkstras"></a>
+
+499 . [https://leetcode.com/problems/the-maze-iii/description/](https://leetcode.com/problems/the-maze-iii/description/)
 
 ## Greedy (IQ Tests)
 
@@ -257,6 +277,8 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 406 . Simply sort will do - [https://leetcode.com/problems/queue-reconstruction-by-height/description/](https://leetcode.com/problems/queue-reconstruction-by-height/description/)
 
 453 . [https://leetcode.com/problems/minimum-moves-to-equal-array-elements/description/](https://leetcode.com/problems/minimum-moves-to-equal-array-elements/description/)
+
+484 . Using stack [https://leetcode.com/problems/find-permutation/description/](https://leetcode.com/problems/find-permutation/description/)
 
 ### Wigger Sort
 
@@ -384,6 +406,8 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 
 402 . Practise - [https://leetcode.com/problems/remove-k-digits/description/](https://leetcode.com/problems/remove-k-digits/description/)
 
+503 . Next greater e with circular - [https://leetcode.com/problems/next-greater-element-ii/description/](https://leetcode.com/problems/next-greater-element-ii/description/)
+
 ## Named Algorithms
 
 ### Kadane's algorithm&#x20;
@@ -438,15 +462,19 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 
 380 . Dict + Array, move to back [https://leetcode.com/problems/insert-delete-getrandom-o1/description/](https://leetcode.com/problems/insert-delete-getrandom-o1/description/)
 
-## OrderedDict / SortedSet
+## OrderedDict / SortedSet / Bisect
 
 352 . [https://leetcode.com/problems/data-stream-as-disjoint-intervals/description/](https://leetcode.com/problems/data-stream-as-disjoint-intervals/description/)
+
+493 . [https://leetcode.com/problems/reverse-pairs/description/](https://leetcode.com/problems/reverse-pairs/description/)
 
 ## Points Operation (2D Map)
 
 447 . Distance hashing & Combo [https://leetcode.com/problems/number-of-boomerangs/description/](https://leetcode.com/problems/number-of-boomerangs/description/)
 
 469 - [https://leetcode.com/problems/convex-polygon/description/](https://leetcode.com/problems/convex-polygon/description/)
+
+497 , Prefix + Binary search - [https://leetcode.com/problems/random-point-in-non-overlapping-rectangles/description/](https://leetcode.com/problems/random-point-in-non-overlapping-rectangles/description/)
 
 ## Prefix\_sum
 
