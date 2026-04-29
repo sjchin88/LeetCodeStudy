@@ -30,6 +30,8 @@ with duplicate (hard and not necessary) - [https://leetcode.com/problems/find-mi
 
 378 . [https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/description/](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/description/)
 
+540 . [https://leetcode.com/problems/single-element-in-a-sorted-array/description/](https://leetcode.com/problems/single-element-in-a-sorted-array/description/)
+
 
 
 ### Binary Search Result Range
@@ -71,6 +73,8 @@ with duplicate (hard and not necessary) - [https://leetcode.com/problems/find-mi
 426 . [https://leetcode.com/problems/convert-binary-search-tree-to-sorted-doubly-linked-list/description/](https://leetcode.com/problems/convert-binary-search-tree-to-sorted-doubly-linked-list/description/)
 
 510 . [https://leetcode.com/problems/inorder-successor-in-bst-ii/description/](https://leetcode.com/problems/inorder-successor-in-bst-ii/description/)
+
+538 . [https://leetcode.com/problems/convert-bst-to-greater-tree/submissions/942862400/](https://leetcode.com/problems/convert-bst-to-greater-tree/submissions/942862400/)
 
 ### Nary Tree Structure
 
@@ -216,6 +220,8 @@ Unnecessary Hard
 
 474 . [https://leetcode.com/problems/ones-and-zeroes/description/](https://leetcode.com/problems/ones-and-zeroes/description/)
 
+516 , Longest Palindrome Subsequence [https://leetcode.com/problems/longest-palindromic-subsequence/description/](https://leetcode.com/problems/longest-palindromic-subsequence/description/)
+
 ### Coin DP
 
 322 . [https://leetcode.com/problems/coin-change/description/](https://leetcode.com/problems/coin-change/description/)
@@ -227,6 +233,8 @@ Unnecessary Hard
 ### DFS (Backtracking) -> DP
 
 488 . [https://leetcode.com/problems/zuma-game/description/](https://leetcode.com/problems/zuma-game/description/)
+
+526 , [https://leetcode.com/problems/beautiful-arrangement/description/](https://leetcode.com/problems/beautiful-arrangement/description/)
 
 ### Digit DP
 
@@ -254,11 +262,21 @@ Unnecessary Hard
 
 329. DP + Heap  [https://leetcode.com/problems/longest-increasing-path-in-a-matrix/description/](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/description/)
 
+## Function/Class Implementation
+
+519 . Random Matrix [https://leetcode.com/problems/random-flip-matrix/description/](https://leetcode.com/problems/random-flip-matrix/description/)
+
+528 , Prefix + Binary Search [https://leetcode.com/problems/random-pick-with-weight/description/](https://leetcode.com/problems/random-pick-with-weight/description/)
+
+535 . Tiny url [https://leetcode.com/problems/encode-and-decode-tinyurl/description/](https://leetcode.com/problems/encode-and-decode-tinyurl/description/)
+
 ## Graph Algorithm
 
 ### Dijkstra <a href="#approach-dijkstras" id="approach-dijkstras"></a>
 
 499 . [https://leetcode.com/problems/the-maze-iii/description/](https://leetcode.com/problems/the-maze-iii/description/)
+
+514 . Or DP -[https://leetcode.com/problems/freedom-trail/description/](https://leetcode.com/problems/freedom-trail/description/)
 
 ## Greedy (IQ Tests)
 
@@ -279,6 +297,8 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 453 . [https://leetcode.com/problems/minimum-moves-to-equal-array-elements/description/](https://leetcode.com/problems/minimum-moves-to-equal-array-elements/description/)
 
 484 . Using stack [https://leetcode.com/problems/find-permutation/description/](https://leetcode.com/problems/find-permutation/description/)
+
+517 , [https://leetcode.com/problems/super-washing-machines/description/](https://leetcode.com/problems/super-washing-machines/description/)
 
 ### Wigger Sort
 
@@ -378,6 +398,8 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 
 372 . Super pow [https://leetcode.com/problems/super-pow/description/](https://leetcode.com/problems/super-pow/description/)
 
+523 . With Prefix sum [https://leetcode.com/problems/continuous-subarray-sum/description/](https://leetcode.com/problems/continuous-subarray-sum/description/)
+
 ### Permutations
 
 60 . [https://leetcode.com/problems/permutation-sequence/description/](https://leetcode.com/problems/permutation-sequence/description/)
@@ -461,6 +483,10 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 356 , hash set - [https://leetcode.com/problems/line-reflection/description/](https://leetcode.com/problems/line-reflection/description/)
 
 380 . Dict + Array, move to back [https://leetcode.com/problems/insert-delete-getrandom-o1/description/](https://leetcode.com/problems/insert-delete-getrandom-o1/description/)
+
+522 . [https://leetcode.com/problems/longest-uncommon-subsequence-ii/description/](https://leetcode.com/problems/longest-uncommon-subsequence-ii/description/)
+
+533 . [https://leetcode.com/problems/lonely-pixel-ii/description/](https://leetcode.com/problems/lonely-pixel-ii/description/)
 
 ## OrderedDict / SortedSet / Bisect
 
@@ -589,6 +615,8 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 425 , with backtracking - [https://leetcode.com/problems/word-squares/description/](https://leetcode.com/problems/word-squares/description/)
 
 472 . [https://leetcode.com/problems/concatenated-words/description/](https://leetcode.com/problems/concatenated-words/description/)
+
+527 . Greedy or Least Common Prefix [https://leetcode.com/problems/word-abbreviation/description/](https://leetcode.com/problems/word-abbreviation/description/)
 
 
 
