@@ -222,6 +222,14 @@ Unnecessary Hard
 
 516 , Longest Palindrome Subsequence [https://leetcode.com/problems/longest-palindromic-subsequence/description/](https://leetcode.com/problems/longest-palindromic-subsequence/description/)
 
+546 . [https://leetcode.com/problems/remove-boxes/description/](https://leetcode.com/problems/remove-boxes/description/)
+
+553 . [https://leetcode.com/problems/optimal-division/description/](https://leetcode.com/problems/optimal-division/description/)
+
+568 . [https://leetcode.com/problems/maximum-vacation-days/description/](https://leetcode.com/problems/maximum-vacation-days/description/)
+
+576 . [https://leetcode.com/problems/out-of-boundary-paths/editorial/](https://leetcode.com/problems/out-of-boundary-paths/editorial/)
+
 ### Coin DP
 
 322 . [https://leetcode.com/problems/coin-change/description/](https://leetcode.com/problems/coin-change/description/)
@@ -300,6 +308,12 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 
 517 , [https://leetcode.com/problems/super-washing-machines/description/](https://leetcode.com/problems/super-washing-machines/description/)
 
+555 . [https://leetcode.com/problems/split-concatenated-strings/solutions/101800/python-straightforward-with-explanation-vnp8l/](https://leetcode.com/problems/split-concatenated-strings/solutions/101800/python-straightforward-with-explanation-vnp8l/)
+
+564 . [https://leetcode.com/problems/find-the-closest-palindrome/description/](https://leetcode.com/problems/find-the-closest-palindrome/description/)
+
+573 . [https://leetcode.com/problems/squirrel-simulation/description/](https://leetcode.com/problems/squirrel-simulation/description/)
+
 ### Wigger Sort
 
 280 . [https://leetcode.com/problems/wiggle-sort/description/](https://leetcode.com/problems/wiggle-sort/description/)
@@ -333,6 +347,10 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 ### Array&#x20;
 
 442 . [https://leetcode.com/problems/find-all-duplicates-in-an-array/description/](https://leetcode.com/problems/find-all-duplicates-in-an-array/description/)
+
+## Lexicographically Next
+
+556 .. [https://leetcode.com/problems/next-greater-element-iii/description/](https://leetcode.com/problems/next-greater-element-iii/description/)
 
 ## Linked List
 
@@ -512,6 +530,8 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 
 440 . Prefix tree - [https://leetcode.com/problems/k-th-smallest-in-lexicographical-order/description/](https://leetcode.com/problems/k-th-smallest-in-lexicographical-order/description/)
 
+560 . Subarray sum [https://leetcode.com/problems/subarray-sum-equals-k/description/](https://leetcode.com/problems/subarray-sum-equals-k/description/)
+
 ## Recursion
 
 390 . [https://leetcode.com/problems/elimination-game/description/](https://leetcode.com/problems/elimination-game/description/)
@@ -542,6 +562,10 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 
 220 . Bucket search [https://leetcode.com/problems/contains-duplicate-iii/description/](https://leetcode.com/problems/contains-duplicate-iii/description/)
 
+
+
+Find Lexig
+
 ## Stacks
 
 150 . [https://leetcode.com/problems/evaluate-reverse-polish-notation/description/](https://leetcode.com/problems/evaluate-reverse-polish-notation/description/)
@@ -555,6 +579,8 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 439 . [https://leetcode.com/problems/ternary-expression-parser/description/](https://leetcode.com/problems/ternary-expression-parser/description/)
 
 456 . [https://leetcode.com/problems/132-pattern/description/](https://leetcode.com/problems/132-pattern/description/)
+
+581 , [https://leetcode.com/problems/shortest-unsorted-continuous-subarray/description/](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/description/)
 
 ## String
 
