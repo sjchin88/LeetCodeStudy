@@ -278,6 +278,8 @@ Unnecessary Hard
 
 535 . Tiny url [https://leetcode.com/problems/encode-and-decode-tinyurl/description/](https://leetcode.com/problems/encode-and-decode-tinyurl/description/)
 
+588 . [https://leetcode.com/problems/design-in-memory-file-system/description/](https://leetcode.com/problems/design-in-memory-file-system/description/)
+
 ## Graph Algorithm
 
 ### Dijkstra <a href="#approach-dijkstras" id="approach-dijkstras"></a>
@@ -285,6 +287,10 @@ Unnecessary Hard
 499 . [https://leetcode.com/problems/the-maze-iii/description/](https://leetcode.com/problems/the-maze-iii/description/)
 
 514 . Or DP -[https://leetcode.com/problems/freedom-trail/description/](https://leetcode.com/problems/freedom-trail/description/)
+
+### Jarvis Algorithm / Graham Scan
+
+587 . [https://leetcode.com/problems/erect-the-fence/description/](https://leetcode.com/problems/erect-the-fence/description/)
 
 ## Greedy (IQ Tests)
 
