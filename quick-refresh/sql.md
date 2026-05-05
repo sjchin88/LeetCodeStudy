@@ -21,3 +21,7 @@
 571 , [https://leetcode.com/problems/find-median-given-frequency-of-numbers/description/](https://leetcode.com/problems/find-median-given-frequency-of-numbers/description/)
 
 579 . [https://leetcode.com/problems/find-cumulative-salary-of-an-employee/description/](https://leetcode.com/problems/find-cumulative-salary-of-an-employee/description/)
+
+615 [https://leetcode.com/problems/average-salary-departments-vs-company/description/](https://leetcode.com/problems/average-salary-departments-vs-company/description/)
+
+618 . [https://leetcode.com/problems/students-report-by-geography/description/](https://leetcode.com/problems/students-report-by-geography/description/)

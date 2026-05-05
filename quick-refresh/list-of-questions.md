@@ -230,6 +230,8 @@ Unnecessary Hard
 
 576 . [https://leetcode.com/problems/out-of-boundary-paths/editorial/](https://leetcode.com/problems/out-of-boundary-paths/editorial/)
 
+629 . [https://leetcode.com/problems/k-inverse-pairs-array/description/](https://leetcode.com/problems/k-inverse-pairs-array/description/)
+
 ### Coin DP
 
 322 . [https://leetcode.com/problems/coin-change/description/](https://leetcode.com/problems/coin-change/description/)
@@ -279,6 +281,10 @@ Unnecessary Hard
 535 . Tiny url [https://leetcode.com/problems/encode-and-decode-tinyurl/description/](https://leetcode.com/problems/encode-and-decode-tinyurl/description/)
 
 588 . [https://leetcode.com/problems/design-in-memory-file-system/description/](https://leetcode.com/problems/design-in-memory-file-system/description/)
+
+621 . [https://leetcode.com/problems/design-circular-queue/description/](https://leetcode.com/problems/design-circular-queue/description/)
+
+631 . [https://leetcode.com/problems/design-excel-sum-formula/description/](https://leetcode.com/problems/design-excel-sum-formula/description/)
 
 ## Graph Algorithm
 
@@ -347,6 +353,12 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 407 . Hard combo - heap + PQ - [https://leetcode.com/problems/trapping-rain-water-ii/description/](https://leetcode.com/problems/trapping-rain-water-ii/description/)
 
 480 . Or bisect - [https://leetcode.com/problems/sliding-window-median/description/](https://leetcode.com/problems/sliding-window-median/description/)
+
+621 . [https://leetcode.com/problems/task-scheduler/description/](https://leetcode.com/problems/task-scheduler/description/)
+
+630 . Max Heap, maintain heap size -[https://leetcode.com/problems/course-schedule-iii/description/](https://leetcode.com/problems/course-schedule-iii/description/)
+
+632 . [https://leetcode.com/problems/smallest-range-covering-elements-from-k-lists/description/](https://leetcode.com/problems/smallest-range-covering-elements-from-k-lists/description/)
 
 ## In-place Manipulation
 
@@ -649,6 +661,8 @@ Find Lexig
 472 . [https://leetcode.com/problems/concatenated-words/description/](https://leetcode.com/problems/concatenated-words/description/)
 
 527 . Greedy or Least Common Prefix [https://leetcode.com/problems/word-abbreviation/description/](https://leetcode.com/problems/word-abbreviation/description/)
+
+616 . [https://leetcode.com/problems/add-bold-tag-in-string/description/](https://leetcode.com/problems/add-bold-tag-in-string/description/)
 
 
 
