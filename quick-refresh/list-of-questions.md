@@ -32,11 +32,15 @@ with duplicate (hard and not necessary) - [https://leetcode.com/problems/find-mi
 
 540 . [https://leetcode.com/problems/single-element-in-a-sorted-array/description/](https://leetcode.com/problems/single-element-in-a-sorted-array/description/)
 
+658 . [https://leetcode.com/problems/find-k-closest-elements/description/](https://leetcode.com/problems/find-k-closest-elements/description/)
+
 
 
 ### Binary Search Result Range
 
 410 . [https://leetcode.com/problems/split-array-largest-sum/description/](https://leetcode.com/problems/split-array-largest-sum/description/)
+
+644 . Iterate with k interval, use min\_sum to keep track of minimal encounter [https://leetcode.com/problems/maximum-average-subarray-ii/description/](https://leetcode.com/problems/maximum-average-subarray-ii/description/)
 
 ## Binary (Search) Tree
 
@@ -87,6 +91,8 @@ with duplicate (hard and not necessary) - [https://leetcode.com/problems/find-mi
 ### Traversal
 
 450 . [https://leetcode.com/problems/delete-node-in-a-bst/description/](https://leetcode.com/problems/delete-node-in-a-bst/description/)
+
+652 . [https://leetcode.com/problems/find-duplicate-subtrees/editorial/](https://leetcode.com/problems/find-duplicate-subtrees/editorial/)
 
 ## Bit Operations
 
@@ -232,6 +238,12 @@ Unnecessary Hard
 
 629 . [https://leetcode.com/problems/k-inverse-pairs-array/description/](https://leetcode.com/problems/k-inverse-pairs-array/description/)
 
+634 . [https://leetcode.com/problems/find-the-derangement-of-an-array/description/](https://leetcode.com/problems/find-the-derangement-of-an-array/description/)
+
+639 . [https://leetcode.com/problems/decode-ways-ii/description/](https://leetcode.com/problems/decode-ways-ii/description/)
+
+656 . [https://leetcode.com/problems/coin-path/description/](https://leetcode.com/problems/coin-path/description/)
+
 ### Coin DP
 
 322 . [https://leetcode.com/problems/coin-change/description/](https://leetcode.com/problems/coin-change/description/)
@@ -286,6 +298,10 @@ Unnecessary Hard
 
 631 . [https://leetcode.com/problems/design-excel-sum-formula/description/](https://leetcode.com/problems/design-excel-sum-formula/description/)
 
+635 . [https://leetcode.com/problems/design-log-storage-system/description/](https://leetcode.com/problems/design-log-storage-system/description/)
+
+641 . [https://leetcode.com/problems/design-circular-deque/description/](https://leetcode.com/problems/design-circular-deque/description/)
+
 ## Graph Algorithm
 
 ### Dijkstra <a href="#approach-dijkstras" id="approach-dijkstras"></a>
@@ -325,6 +341,8 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 564 . [https://leetcode.com/problems/find-the-closest-palindrome/description/](https://leetcode.com/problems/find-the-closest-palindrome/description/)
 
 573 . [https://leetcode.com/problems/squirrel-simulation/description/](https://leetcode.com/problems/squirrel-simulation/description/)
+
+659 . [https://leetcode.com/problems/split-array-into-consecutive-subsequences/description/](https://leetcode.com/problems/split-array-into-consecutive-subsequences/description/)
 
 ### Wigger Sort
 
@@ -435,6 +453,8 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 372 . Super pow [https://leetcode.com/problems/super-pow/description/](https://leetcode.com/problems/super-pow/description/)
 
 523 . With Prefix sum [https://leetcode.com/problems/continuous-subarray-sum/description/](https://leetcode.com/problems/continuous-subarray-sum/description/)
+
+660 . base 9 [https://leetcode.com/problems/remove-9/description/](https://leetcode.com/problems/remove-9/description/)
 
 ### Permutations
 
@@ -554,6 +574,10 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 
 390 . [https://leetcode.com/problems/elimination-game/description/](https://leetcode.com/problems/elimination-game/description/)
 
+638 . Or DP [https://leetcode.com/problems/shopping-offers/description/](https://leetcode.com/problems/shopping-offers/description/)
+
+655 . [https://leetcode.com/problems/print-binary-tree/description/](https://leetcode.com/problems/print-binary-tree/description/)
+
 ## Rolling Hash
 
 214. Also KMP / Manacher [https://leetcode.com/problems/shortest-palindrome/description/](https://leetcode.com/problems/shortest-palindrome/description/)
@@ -600,13 +624,21 @@ Find Lexig
 
 581 , [https://leetcode.com/problems/shortest-unsorted-continuous-subarray/description/](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/description/)
 
+### Stacks for Tree
+
+654 . [https://leetcode.com/problems/maximum-binary-tree/description/](https://leetcode.com/problems/maximum-binary-tree/description/)
+
 ## String
 
 ### Manacher / DP
 
 5. [https://leetcode.com/problems/longest-palindromic-substring/description/](https://leetcode.com/problems/longest-palindromic-substring/description/)
 
+647 , [https://leetcode.com/problems/palindromic-substrings/description/](https://leetcode.com/problems/palindromic-substrings/description/)
 
+### Regex
+
+640 . [https://leetcode.com/problems/solve-the-equation/description/](https://leetcode.com/problems/solve-the-equation/description/)
 
 ## Sweeping Lines
 
@@ -663,6 +695,10 @@ Find Lexig
 527 . Greedy or Least Common Prefix [https://leetcode.com/problems/word-abbreviation/description/](https://leetcode.com/problems/word-abbreviation/description/)
 
 616 . [https://leetcode.com/problems/add-bold-tag-in-string/description/](https://leetcode.com/problems/add-bold-tag-in-string/description/)
+
+642 . [https://leetcode.com/problems/design-search-autocomplete-system/](https://leetcode.com/problems/design-search-autocomplete-system/)
+
+648 . [https://leetcode.com/problems/replace-words/description/](https://leetcode.com/problems/replace-words/description/)
 
 
 
