@@ -184,6 +184,8 @@ Unnecessary Hard
 
 663 . [https://leetcode.com/problems/equal-tree-partition/description/](https://leetcode.com/problems/equal-tree-partition/description/)
 
+679 . [https://leetcode.com/problems/24-game/description/](https://leetcode.com/problems/24-game/description/)
+
 ## Dynamic Programming&#x20;
 
 10. [https://leetcode.com/problems/regular-expression-matching/description/](https://leetcode.com/problems/regular-expression-matching/description/)
@@ -328,6 +330,10 @@ Unnecessary Hard
 
 587 . [https://leetcode.com/problems/erect-the-fence/description/](https://leetcode.com/problems/erect-the-fence/description/)
 
+### Hadlock algorithm (A+)
+
+675 .[https://leetcode.com/problems/cut-off-trees-for-golf-event/description/](https://leetcode.com/problems/cut-off-trees-for-golf-event/description/)
+
 ## Greedy (IQ Tests)
 
 BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312/](https://leetcode.com/problems/jump-game-ii/submissions/1928507312/)
@@ -359,6 +365,8 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 659 . [https://leetcode.com/problems/split-array-into-consecutive-subsequences/description/](https://leetcode.com/problems/split-array-into-consecutive-subsequences/description/)
 
 667 . [https://leetcode.com/problems/beautiful-arrangement-ii/description/](https://leetcode.com/problems/beautiful-arrangement-ii/description/)
+
+681 . [https://leetcode.com/problems/next-closest-time/description/](https://leetcode.com/problems/next-closest-time/description/)
 
 ### Wigger Sort
 
@@ -648,6 +656,8 @@ Find Lexig
 
 581 , [https://leetcode.com/problems/shortest-unsorted-continuous-subarray/description/](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/description/)
 
+678 . [https://leetcode.com/problems/valid-parenthesis-string/](https://leetcode.com/problems/valid-parenthesis-string/)
+
 ### Stacks for Tree
 
 654 . [https://leetcode.com/problems/maximum-binary-tree/description/](https://leetcode.com/problems/maximum-binary-tree/description/)
@@ -723,6 +733,10 @@ Find Lexig
 642 . [https://leetcode.com/problems/design-search-autocomplete-system/](https://leetcode.com/problems/design-search-autocomplete-system/)
 
 648 . [https://leetcode.com/problems/replace-words/description/](https://leetcode.com/problems/replace-words/description/)
+
+676 . [https://leetcode.com/problems/implement-magic-dictionary/](https://leetcode.com/problems/implement-magic-dictionary/)
+
+677 . [https://leetcode.com/problems/map-sum-pairs/description/](https://leetcode.com/problems/map-sum-pairs/description/)
 
 
 
