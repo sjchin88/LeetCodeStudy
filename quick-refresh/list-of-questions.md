@@ -114,6 +114,8 @@ with duplicate (hard and not necessary) - [https://leetcode.com/problems/find-mi
 
 477 . [https://leetcode.com/problems/total-hamming-distance/description/](https://leetcode.com/problems/total-hamming-distance/description/)
 
+600 . and DP [https://leetcode.com/problems/non-negative-integers-without-consecutive-ones/description/](https://leetcode.com/problems/non-negative-integers-without-consecutive-ones/description/)
+
 ### Quantum Bit
 
 458 . [https://leetcode.com/problems/poor-pigs/description/](https://leetcode.com/problems/poor-pigs/description/)
@@ -558,6 +560,8 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 
 497 , Prefix + Binary search - [https://leetcode.com/problems/random-point-in-non-overlapping-rectangles/description/](https://leetcode.com/problems/random-point-in-non-overlapping-rectangles/description/)
 
+593 . [https://leetcode.com/problems/valid-square/description/](https://leetcode.com/problems/valid-square/description/)
+
 ## Prefix\_sum
 
 304 . 2D - [https://leetcode.com/problems/range-sum-query-2d-immutable/description/](https://leetcode.com/problems/range-sum-query-2d-immutable/description/)
@@ -577,6 +581,12 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 638 . Or DP [https://leetcode.com/problems/shopping-offers/description/](https://leetcode.com/problems/shopping-offers/description/)
 
 655 . [https://leetcode.com/problems/print-binary-tree/description/](https://leetcode.com/problems/print-binary-tree/description/)
+
+## Regex
+
+591 . [https://leetcode.com/problems/tag-validator/description/](https://leetcode.com/problems/tag-validator/description/)
+
+592 . [https://leetcode.com/problems/fraction-addition-and-subtraction/description/](https://leetcode.com/problems/fraction-addition-and-subtraction/description/)
 
 ## Rolling Hash
 

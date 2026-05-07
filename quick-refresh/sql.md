@@ -25,3 +25,5 @@
 615 [https://leetcode.com/problems/average-salary-departments-vs-company/description/](https://leetcode.com/problems/average-salary-departments-vs-company/description/)
 
 618 . [https://leetcode.com/problems/students-report-by-geography/description/](https://leetcode.com/problems/students-report-by-geography/description/)
+
+601 . [https://leetcode.com/problems/human-traffic-of-stadium/description/](https://leetcode.com/problems/human-traffic-of-stadium/description/)
