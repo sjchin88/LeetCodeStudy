@@ -34,6 +34,8 @@ with duplicate (hard and not necessary) - [https://leetcode.com/problems/find-mi
 
 658 . [https://leetcode.com/problems/find-k-closest-elements/description/](https://leetcode.com/problems/find-k-closest-elements/description/)
 
+668 . [https://leetcode.com/problems/kth-smallest-number-in-multiplication-table/description/](https://leetcode.com/problems/kth-smallest-number-in-multiplication-table/description/)
+
 
 
 ### Binary Search Result Range
@@ -65,6 +67,8 @@ with duplicate (hard and not necessary) - [https://leetcode.com/problems/find-mi
 331 . In and Out Degree - [https://leetcode.com/problems/verify-preorder-serialization-of-a-binary-tree/description/](https://leetcode.com/problems/verify-preorder-serialization-of-a-binary-tree/description/)
 
 366 . [https://leetcode.com/problems/find-leaves-of-binary-tree/description/](https://leetcode.com/problems/find-leaves-of-binary-tree/description/)
+
+669 . [https://leetcode.com/problems/trim-a-binary-search-tree/description/](https://leetcode.com/problems/trim-a-binary-search-tree/description/)
 
 ### Inorder traversal
 
@@ -136,6 +140,8 @@ with duplicate (hard and not necessary) - [https://leetcode.com/problems/find-mi
 
 417 . Just do two BFS from edge - [https://leetcode.com/problems/pacific-atlantic-water-flow/description/](https://leetcode.com/problems/pacific-atlantic-water-flow/description/)
 
+662 . [https://leetcode.com/problems/maximum-width-of-binary-tree/description/](https://leetcode.com/problems/maximum-width-of-binary-tree/description/)
+
 ## DFS (Backtracking)
 
 17. [https://leetcode.com/problems/letter-combinations-of-a-phone-number/description/](https://leetcode.com/problems/letter-combinations-of-a-phone-number/description/)
@@ -175,6 +181,8 @@ Unnecessary Hard
 489 . Spiral backtracking [https://leetcode.com/problems/robot-room-cleaner/description/](https://leetcode.com/problems/robot-room-cleaner/description/)
 
 490 . Ball rolling -[https://leetcode.com/problems/the-maze/description/](https://leetcode.com/problems/the-maze/description/)
+
+663 . [https://leetcode.com/problems/equal-tree-partition/description/](https://leetcode.com/problems/equal-tree-partition/description/)
 
 ## Dynamic Programming&#x20;
 
@@ -245,6 +253,10 @@ Unnecessary Hard
 639 . [https://leetcode.com/problems/decode-ways-ii/description/](https://leetcode.com/problems/decode-ways-ii/description/)
 
 656 . [https://leetcode.com/problems/coin-path/description/](https://leetcode.com/problems/coin-path/description/)
+
+664 . [https://leetcode.com/problems/strange-printer/description/](https://leetcode.com/problems/strange-printer/description/)
+
+673 . [https://leetcode.com/problems/number-of-longest-increasing-subsequence/description/](https://leetcode.com/problems/number-of-longest-increasing-subsequence/description/)
 
 ### Coin DP
 
@@ -345,6 +357,8 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 573 . [https://leetcode.com/problems/squirrel-simulation/description/](https://leetcode.com/problems/squirrel-simulation/description/)
 
 659 . [https://leetcode.com/problems/split-array-into-consecutive-subsequences/description/](https://leetcode.com/problems/split-array-into-consecutive-subsequences/description/)
+
+667 . [https://leetcode.com/problems/beautiful-arrangement-ii/description/](https://leetcode.com/problems/beautiful-arrangement-ii/description/)
 
 ### Wigger Sort
 
