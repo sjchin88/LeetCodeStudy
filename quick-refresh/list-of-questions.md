@@ -98,6 +98,8 @@ with duplicate (hard and not necessary) - [https://leetcode.com/problems/find-mi
 
 652 . [https://leetcode.com/problems/find-duplicate-subtrees/editorial/](https://leetcode.com/problems/find-duplicate-subtrees/editorial/)
 
+687 . [https://leetcode.com/problems/longest-univalue-path/description/](https://leetcode.com/problems/longest-univalue-path/description/)
+
 ## Bit Operations
 
 89 . [https://leetcode.com/problems/gray-code/description/](https://leetcode.com/problems/gray-code/description/)
@@ -186,6 +188,9 @@ Unnecessary Hard
 
 679 . [https://leetcode.com/problems/24-game/description/](https://leetcode.com/problems/24-game/description/)
 
+684 . Or Disjointed Set Union - [https://leetcode.com/problems/redundant-connection/description/](https://leetcode.com/problems/redundant-connection/description/)\
+685 . [https://leetcode.com/problems/redundant-connection-ii/editorial/](https://leetcode.com/problems/redundant-connection-ii/editorial/)
+
 ## Dynamic Programming&#x20;
 
 10. [https://leetcode.com/problems/regular-expression-matching/description/](https://leetcode.com/problems/regular-expression-matching/description/)
@@ -259,6 +264,10 @@ Unnecessary Hard
 664 . [https://leetcode.com/problems/strange-printer/description/](https://leetcode.com/problems/strange-printer/description/)
 
 673 . [https://leetcode.com/problems/number-of-longest-increasing-subsequence/description/](https://leetcode.com/problems/number-of-longest-increasing-subsequence/description/)
+
+688 , [https://leetcode.com/problems/knight-probability-in-chessboard/description/](https://leetcode.com/problems/knight-probability-in-chessboard/description/)
+
+691 . [https://leetcode.com/problems/stickers-to-spell-word/description/](https://leetcode.com/problems/stickers-to-spell-word/description/)
 
 ### Coin DP
 
@@ -610,9 +619,11 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 
 592 . [https://leetcode.com/problems/fraction-addition-and-subtraction/description/](https://leetcode.com/problems/fraction-addition-and-subtraction/description/)
 
-## Rolling Hash
+## Rolling Hash (Rabin Karp)
 
 214. Also KMP / Manacher [https://leetcode.com/problems/shortest-palindrome/description/](https://leetcode.com/problems/shortest-palindrome/description/)
+
+686 . [https://leetcode.com/problems/repeated-string-match/description/](https://leetcode.com/problems/repeated-string-match/description/)
 
 ## Segment Tree/ SQRT Decomposition
 
@@ -698,9 +709,15 @@ Find Lexig
 
 245 . [https://leetcode.com/problems/shortest-word-distance-iii/description/](https://leetcode.com/problems/shortest-word-distance-iii/description/)
 
+### Sliding Window
+
 424 . Sliding window - [https://leetcode.com/problems/longest-repeating-character-replacement/description/](https://leetcode.com/problems/longest-repeating-character-replacement/description/)
 
 438 . Sliding window - [https://leetcode.com/problems/find-all-anagrams-in-a-string/description/](https://leetcode.com/problems/find-all-anagrams-in-a-string/description/)
+
+683 . [https://leetcode.com/problems/k-empty-slots/description/](https://leetcode.com/problems/k-empty-slots/description/)
+
+689 . [https://leetcode.com/problems/maximum-sum-of-3-non-overlapping-subarrays/description/](https://leetcode.com/problems/maximum-sum-of-3-non-overlapping-subarrays/description/)
 
 
 
