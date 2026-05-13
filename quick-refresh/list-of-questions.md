@@ -144,6 +144,8 @@ with duplicate (hard and not necessary) - [https://leetcode.com/problems/find-mi
 
 662 . [https://leetcode.com/problems/maximum-width-of-binary-tree/description/](https://leetcode.com/problems/maximum-width-of-binary-tree/description/)
 
+737 . [https://leetcode.com/problems/sentence-similarity-ii/description/](https://leetcode.com/problems/sentence-similarity-ii/description/)
+
 ## DFS (Backtracking)
 
 17. [https://leetcode.com/problems/letter-combinations-of-a-phone-number/description/](https://leetcode.com/problems/letter-combinations-of-a-phone-number/description/)
@@ -269,6 +271,8 @@ Unnecessary Hard
 
 691 . [https://leetcode.com/problems/stickers-to-spell-word/description/](https://leetcode.com/problems/stickers-to-spell-word/description/)
 
+730 , [https://leetcode.com/problems/count-different-palindromic-subsequences/description/](https://leetcode.com/problems/count-different-palindromic-subsequences/description/)
+
 ### Coin DP
 
 322 . [https://leetcode.com/problems/coin-change/description/](https://leetcode.com/problems/coin-change/description/)
@@ -376,6 +380,8 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 667 . [https://leetcode.com/problems/beautiful-arrangement-ii/description/](https://leetcode.com/problems/beautiful-arrangement-ii/description/)
 
 681 . [https://leetcode.com/problems/next-closest-time/description/](https://leetcode.com/problems/next-closest-time/description/)
+
+738 . [https://leetcode.com/problems/monotone-increasing-digits/description/](https://leetcode.com/problems/monotone-increasing-digits/description/)
 
 ### Wigger Sort
 
@@ -583,6 +589,10 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 
 493 . [https://leetcode.com/problems/reverse-pairs/description/](https://leetcode.com/problems/reverse-pairs/description/)
 
+729 . [https://leetcode.com/problems/my-calendar-i/description/](https://leetcode.com/problems/my-calendar-i/description/)
+
+731 . [https://leetcode.com/problems/my-calendar-ii/description/](https://leetcode.com/problems/my-calendar-ii/description/)
+
 ## Points Operation (2D Map)
 
 447 . Distance hashing & Combo [https://leetcode.com/problems/number-of-boomerangs/description/](https://leetcode.com/problems/number-of-boomerangs/description/)
@@ -628,6 +638,8 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 ## Segment Tree/ SQRT Decomposition
 
 307 . [https://leetcode.com/problems/range-sum-query-mutable/description/](https://leetcode.com/problems/range-sum-query-mutable/description/)
+
+732 , [https://leetcode.com/problems/my-calendar-iii/description/](https://leetcode.com/problems/my-calendar-iii/description/)
 
 ### Binary Index Tree / Fenwick Tree
 
@@ -719,6 +731,8 @@ Find Lexig
 
 689 . [https://leetcode.com/problems/maximum-sum-of-3-non-overlapping-subarrays/description/](https://leetcode.com/problems/maximum-sum-of-3-non-overlapping-subarrays/description/)
 
+727 , [https://leetcode.com/problems/minimum-window-subsequence/description/](https://leetcode.com/problems/minimum-window-subsequence/description/)
+
 
 
 ### Fast and Slow Pointer
@@ -760,3 +774,5 @@ Find Lexig
 ## Union Find
 
 305 . Alternative is BFS with memory - [https://leetcode.com/problems/number-of-islands-ii/description/](https://leetcode.com/problems/number-of-islands-ii/description/)
+
+721 . [https://leetcode.com/problems/accounts-merge/submissions/2001831302/](https://leetcode.com/problems/accounts-merge/submissions/2001831302/)
