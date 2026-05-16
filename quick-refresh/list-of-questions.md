@@ -128,6 +128,8 @@ with duplicate (hard and not necessary) - [https://leetcode.com/problems/find-mi
 
 784 . binary mask - [https://leetcode.com/problems/letter-case-permutation/description/](https://leetcode.com/problems/letter-case-permutation/description/)
 
+810 . [https://leetcode.com/problems/chalkboard-xor-game/description/](https://leetcode.com/problems/chalkboard-xor-game/description/)
+
 ### Quantum Bit
 
 458 . [https://leetcode.com/problems/poor-pigs/description/](https://leetcode.com/problems/poor-pigs/description/)
@@ -289,11 +291,17 @@ Unnecessary Hard
 
 764 . [https://leetcode.com/problems/largest-plus-sign/description/](https://leetcode.com/problems/largest-plus-sign/description/)
 
+801 . [https://leetcode.com/problems/minimum-swaps-to-make-sequences-increasing/description/](https://leetcode.com/problems/minimum-swaps-to-make-sequences-increasing/description/)
+
+808 . [https://leetcode.com/problems/soup-servings/description/](https://leetcode.com/problems/soup-servings/description/)
+
 ### Coin DP
 
 322 . [https://leetcode.com/problems/coin-change/description/](https://leetcode.com/problems/coin-change/description/)
 
 465 . How many group sum is 0 [https://leetcode.com/problems/optimal-account-balancing/editorial/](https://leetcode.com/problems/optimal-account-balancing/editorial/)
+
+805 , [https://leetcode.com/problems/split-array-with-same-average/description/](https://leetcode.com/problems/split-array-with-same-average/description/)
 
 
 
@@ -836,3 +844,5 @@ Find Lexig
 305 . Alternative is BFS with memory - [https://leetcode.com/problems/number-of-islands-ii/description/](https://leetcode.com/problems/number-of-islands-ii/description/)
 
 721 . [https://leetcode.com/problems/accounts-merge/submissions/2001831302/](https://leetcode.com/problems/accounts-merge/submissions/2001831302/)
+
+803 . [https://leetcode.com/problems/bricks-falling-when-hit/description/](https://leetcode.com/problems/bricks-falling-when-hit/description/)
