@@ -14,6 +14,8 @@
 
 428 . [https://leetcode.com/problems/serialize-and-deserialize-n-ary-tree/description/](https://leetcode.com/problems/serialize-and-deserialize-n-ary-tree/description/)
 
+770 . [https://leetcode.com/problems/basic-calculator-iv/description/](https://leetcode.com/problems/basic-calculator-iv/description/)
+
 ## Tedious
 
 297 . [https://leetcode.com/problems/serialize-and-deserialize-binary-tree/description/](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/description/)
@@ -41,4 +43,10 @@
 247 . [https://leetcode.com/problems/strobogrammatic-number-ii/description/](https://leetcode.com/problems/strobogrammatic-number-ii/description/)
 
 248 . [https://leetcode.com/problems/strobogrammatic-number-iii/description/](https://leetcode.com/problems/strobogrammatic-number-iii/description/)
+
+
+
+## **Hierholzer's Algorithm**
+
+**753 .** [**https://leetcode.com/problems/cracking-the-safe/description/**](https://leetcode.com/problems/cracking-the-safe/description/)
 

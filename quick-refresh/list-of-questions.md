@@ -36,6 +36,8 @@ with duplicate (hard and not necessary) - [https://leetcode.com/problems/find-mi
 
 668 . [https://leetcode.com/problems/kth-smallest-number-in-multiplication-table/description/](https://leetcode.com/problems/kth-smallest-number-in-multiplication-table/description/)
 
+786 , [https://leetcode.com/problems/k-th-smallest-prime-fraction/description/](https://leetcode.com/problems/k-th-smallest-prime-fraction/description/)
+
 
 
 ### Binary Search Result Range
@@ -100,6 +102,8 @@ with duplicate (hard and not necessary) - [https://leetcode.com/problems/find-mi
 
 687 . [https://leetcode.com/problems/longest-univalue-path/description/](https://leetcode.com/problems/longest-univalue-path/description/)
 
+776 . [https://leetcode.com/problems/split-bst/description/](https://leetcode.com/problems/split-bst/description/)
+
 ## Bit Operations
 
 89 . [https://leetcode.com/problems/gray-code/description/](https://leetcode.com/problems/gray-code/description/)
@@ -121,6 +125,8 @@ with duplicate (hard and not necessary) - [https://leetcode.com/problems/find-mi
 477 . [https://leetcode.com/problems/total-hamming-distance/description/](https://leetcode.com/problems/total-hamming-distance/description/)
 
 600 . and DP [https://leetcode.com/problems/non-negative-integers-without-consecutive-ones/description/](https://leetcode.com/problems/non-negative-integers-without-consecutive-ones/description/)
+
+784 . binary mask - [https://leetcode.com/problems/letter-case-permutation/description/](https://leetcode.com/problems/letter-case-permutation/description/)
 
 ### Quantum Bit
 
@@ -145,6 +151,10 @@ with duplicate (hard and not necessary) - [https://leetcode.com/problems/find-mi
 662 . [https://leetcode.com/problems/maximum-width-of-binary-tree/description/](https://leetcode.com/problems/maximum-width-of-binary-tree/description/)
 
 737 . [https://leetcode.com/problems/sentence-similarity-ii/description/](https://leetcode.com/problems/sentence-similarity-ii/description/)
+
+752 . [https://leetcode.com/problems/open-the-lock/description/](https://leetcode.com/problems/open-the-lock/description/)
+
+773 . [https://leetcode.com/problems/sliding-puzzle/description/](https://leetcode.com/problems/sliding-puzzle/description/)
 
 ## DFS (Backtracking)
 
@@ -192,6 +202,10 @@ Unnecessary Hard
 
 684 . Or Disjointed Set Union - [https://leetcode.com/problems/redundant-connection/description/](https://leetcode.com/problems/redundant-connection/description/)\
 685 . [https://leetcode.com/problems/redundant-connection-ii/editorial/](https://leetcode.com/problems/redundant-connection-ii/editorial/)
+
+756 . [https://leetcode.com/problems/pyramid-transition-matrix/description/](https://leetcode.com/problems/pyramid-transition-matrix/description/)
+
+777 .[https://leetcode.com/problems/swap-adjacent-in-lr-string/description/](https://leetcode.com/problems/swap-adjacent-in-lr-string/description/)
 
 ## Dynamic Programming&#x20;
 
@@ -273,6 +287,8 @@ Unnecessary Hard
 
 730 , [https://leetcode.com/problems/count-different-palindromic-subsequences/description/](https://leetcode.com/problems/count-different-palindromic-subsequences/description/)
 
+764 . [https://leetcode.com/problems/largest-plus-sign/description/](https://leetcode.com/problems/largest-plus-sign/description/)
+
 ### Coin DP
 
 322 . [https://leetcode.com/problems/coin-change/description/](https://leetcode.com/problems/coin-change/description/)
@@ -290,6 +306,8 @@ Unnecessary Hard
 ### Digit DP
 
 233 . [https://leetcode.com/problems/number-of-digit-one/description/](https://leetcode.com/problems/number-of-digit-one/description/)
+
+788 . [https://leetcode.com/problems/rotated-digits/description/](https://leetcode.com/problems/rotated-digits/description/)
 
 ###
 
@@ -333,11 +351,15 @@ Unnecessary Hard
 
 ## Graph Algorithm
 
+785 . Use coloring -[https://leetcode.com/problems/is-graph-bipartite/description/](https://leetcode.com/problems/is-graph-bipartite/description/)
+
 ### Dijkstra <a href="#approach-dijkstras" id="approach-dijkstras"></a>
 
 499 . [https://leetcode.com/problems/the-maze-iii/description/](https://leetcode.com/problems/the-maze-iii/description/)
 
 514 . Or DP -[https://leetcode.com/problems/freedom-trail/description/](https://leetcode.com/problems/freedom-trail/description/)
+
+787 . Or Bellman ford
 
 ### Jarvis Algorithm / Graham Scan
 
@@ -383,6 +405,24 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 
 738 . [https://leetcode.com/problems/monotone-increasing-digits/description/](https://leetcode.com/problems/monotone-increasing-digits/description/)
 
+755 .[https://leetcode.com/problems/pour-water/description/](https://leetcode.com/problems/pour-water/description/)
+
+757 . [https://leetcode.com/problems/set-intersection-size-at-least-two/description/](https://leetcode.com/problems/set-intersection-size-at-least-two/description/)
+
+763 . [https://leetcode.com/problems/partition-labels/description/](https://leetcode.com/problems/partition-labels/description/)
+
+765 . [https://leetcode.com/problems/couples-holding-hands/description/](https://leetcode.com/problems/couples-holding-hands/description/)
+
+769 . [https://leetcode.com/problems/max-chunks-to-make-sorted/description/](https://leetcode.com/problems/max-chunks-to-make-sorted/description/)
+
+775 . [https://leetcode.com/problems/global-and-local-inversions/description/](https://leetcode.com/problems/global-and-local-inversions/description/)
+
+782 . [https://leetcode.com/problems/transform-to-chessboard/description/](https://leetcode.com/problems/transform-to-chessboard/description/)
+
+792 . Better than binary search possible [https://leetcode.com/problems/number-of-matching-subsequences/description/](https://leetcode.com/problems/number-of-matching-subsequences/description/)
+
+798 . At which point the current values will loose point - [https://leetcode.com/problems/smallest-rotation-with-highest-score/description/](https://leetcode.com/problems/smallest-rotation-with-highest-score/description/)
+
 ### Wigger Sort
 
 280 . [https://leetcode.com/problems/wiggle-sort/description/](https://leetcode.com/problems/wiggle-sort/description/)
@@ -416,6 +456,8 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 630 . Max Heap, maintain heap size -[https://leetcode.com/problems/course-schedule-iii/description/](https://leetcode.com/problems/course-schedule-iii/description/)
 
 632 . [https://leetcode.com/problems/smallest-range-covering-elements-from-k-lists/description/](https://leetcode.com/problems/smallest-range-covering-elements-from-k-lists/description/)
+
+778 . [https://leetcode.com/problems/swim-in-rising-water/description/](https://leetcode.com/problems/swim-in-rising-water/description/)
 
 ## In-place Manipulation
 
@@ -487,6 +529,10 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 
 478 , [https://leetcode.com/problems/generate-random-point-in-a-circle/description/](https://leetcode.com/problems/generate-random-point-in-a-circle/description/)
 
+754 . [https://leetcode.com/problems/reach-a-number/description/](https://leetcode.com/problems/reach-a-number/description/)
+
+795 . Counting formula, lower & upper bound [https://leetcode.com/problems/number-of-subarrays-with-bounded-maximum/description/](https://leetcode.com/problems/number-of-subarrays-with-bounded-maximum/description/)
+
 ### Modulus Operation
 
 372 . Super pow [https://leetcode.com/problems/super-pow/description/](https://leetcode.com/problems/super-pow/description/)
@@ -494,6 +540,8 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 523 . With Prefix sum [https://leetcode.com/problems/continuous-subarray-sum/description/](https://leetcode.com/problems/continuous-subarray-sum/description/)
 
 660 . base 9 [https://leetcode.com/problems/remove-9/description/](https://leetcode.com/problems/remove-9/description/)
+
+780 . [https://leetcode.com/problems/reaching-points/description/](https://leetcode.com/problems/reaching-points/description/)
 
 ### Permutations
 
@@ -623,6 +671,8 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 
 655 . [https://leetcode.com/problems/print-binary-tree/description/](https://leetcode.com/problems/print-binary-tree/description/)
 
+761 . [https://leetcode.com/problems/special-binary-string/description/](https://leetcode.com/problems/special-binary-string/description/)
+
 ## Regex
 
 591 . [https://leetcode.com/problems/tag-validator/description/](https://leetcode.com/problems/tag-validator/description/)
@@ -646,6 +696,10 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 308 . [https://leetcode.com/problems/range-sum-query-2d-mutable/description/](https://leetcode.com/problems/range-sum-query-2d-mutable/description/)
 
 315 . [https://leetcode.com/problems/count-of-smaller-numbers-after-self/description/](https://leetcode.com/problems/count-of-smaller-numbers-after-self/description/)
+
+## Simulation
+
+799 . [https://leetcode.com/problems/champagne-tower/description/](https://leetcode.com/problems/champagne-tower/description/)
 
 ## Sorting
 
@@ -681,6 +735,8 @@ Find Lexig
 
 678 . [https://leetcode.com/problems/valid-parenthesis-string/](https://leetcode.com/problems/valid-parenthesis-string/)
 
+772 . [https://leetcode.com/problems/basic-calculator-iii/description/](https://leetcode.com/problems/basic-calculator-iii/description/)
+
 ### Stacks for Tree
 
 654 . [https://leetcode.com/problems/maximum-binary-tree/description/](https://leetcode.com/problems/maximum-binary-tree/description/)
@@ -700,6 +756,8 @@ Find Lexig
 ## Sweeping Lines
 
 56 . [https://leetcode.com/problems/merge-intervals/description/](https://leetcode.com/problems/merge-intervals/description/)
+
+760 . [https://leetcode.com/problems/employee-free-time/description/](https://leetcode.com/problems/employee-free-time/description/)
 
 ## Two Pointers
 
@@ -732,6 +790,8 @@ Find Lexig
 689 . [https://leetcode.com/problems/maximum-sum-of-3-non-overlapping-subarrays/description/](https://leetcode.com/problems/maximum-sum-of-3-non-overlapping-subarrays/description/)
 
 727 , [https://leetcode.com/problems/minimum-window-subsequence/description/](https://leetcode.com/problems/minimum-window-subsequence/description/)
+
+768 . [https://leetcode.com/problems/max-chunks-to-make-sorted-ii/description/](https://leetcode.com/problems/max-chunks-to-make-sorted-ii/description/)
 
 
 
