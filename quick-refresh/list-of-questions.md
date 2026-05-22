@@ -134,6 +134,10 @@ with duplicate (hard and not necessary) - [https://leetcode.com/problems/find-mi
 
 810 . [https://leetcode.com/problems/chalkboard-xor-game/description/](https://leetcode.com/problems/chalkboard-xor-game/description/)
 
+750 . [https://leetcode.com/problems/number-of-corner-rectangles/description/](https://leetcode.com/problems/number-of-corner-rectangles/description/)
+
+751 , [https://leetcode.com/problems/ip-to-cidr/description/](https://leetcode.com/problems/ip-to-cidr/description/)
+
 ### Quantum Bit
 
 458 . [https://leetcode.com/problems/poor-pigs/description/](https://leetcode.com/problems/poor-pigs/description/)
@@ -214,6 +218,8 @@ Unnecessary Hard
 777 .[https://leetcode.com/problems/swap-adjacent-in-lr-string/description/](https://leetcode.com/problems/swap-adjacent-in-lr-string/description/)
 
 698 . Can use bit mask - [https://leetcode.com/problems/partition-to-k-equal-sum-subsets/description/](https://leetcode.com/problems/partition-to-k-equal-sum-subsets/description/)
+
+749 . [https://leetcode.com/problems/contain-virus/description/](https://leetcode.com/problems/contain-virus/description/)
 
 ## Dynamic Programming&#x20;
 
@@ -305,6 +311,8 @@ Unnecessary Hard
 
 714 . [https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/description/](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/description/)
 
+741 . [https://leetcode.com/problems/cherry-pickup/description/](https://leetcode.com/problems/cherry-pickup/description/)
+
 ### Coin DP
 
 322 . [https://leetcode.com/problems/coin-change/description/](https://leetcode.com/problems/coin-change/description/)
@@ -386,6 +394,8 @@ Unnecessary Hard
 514 . Or DP -[https://leetcode.com/problems/freedom-trail/description/](https://leetcode.com/problems/freedom-trail/description/)
 
 787 . Or Bellman ford
+
+743 . [https://leetcode.com/problems/network-delay-time/description/](https://leetcode.com/problems/network-delay-time/description/)
 
 ### Jarvis Algorithm / Graham Scan
 
@@ -862,6 +872,8 @@ Find Lexig
 676 . [https://leetcode.com/problems/implement-magic-dictionary/](https://leetcode.com/problems/implement-magic-dictionary/)
 
 677 . [https://leetcode.com/problems/map-sum-pairs/description/](https://leetcode.com/problems/map-sum-pairs/description/)
+
+745 . Paired trie - [https://leetcode.com/problems/prefix-and-suffix-search/description/](https://leetcode.com/problems/prefix-and-suffix-search/description/)
 
 720 . [https://leetcode.com/problems/longest-word-in-dictionary/description/](https://leetcode.com/problems/longest-word-in-dictionary/description/)
 
