@@ -108,6 +108,10 @@ with duplicate (hard and not necessary) - [https://leetcode.com/problems/find-mi
 
 701 . [https://leetcode.com/problems/insert-into-a-binary-search-tree/description/](https://leetcode.com/problems/insert-into-a-binary-search-tree/description/)
 
+### Distance between Each Node
+
+834 . Subtree sum - [https://leetcode.com/problems/sum-of-distances-in-tree/description/](https://leetcode.com/problems/sum-of-distances-in-tree/description/)
+
 ## Bit Operations
 
 89 . [https://leetcode.com/problems/gray-code/description/](https://leetcode.com/problems/gray-code/description/)
@@ -573,6 +577,12 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 
 795 . Counting formula, lower & upper bound [https://leetcode.com/problems/number-of-subarrays-with-bounded-maximum/description/](https://leetcode.com/problems/number-of-subarrays-with-bounded-maximum/description/)
 
+829 . [https://leetcode.com/problems/consecutive-numbers-sum/description/](https://leetcode.com/problems/consecutive-numbers-sum/description/)
+
+### Matrix
+
+835 . [https://leetcode.com/problems/image-overlap/description/](https://leetcode.com/problems/image-overlap/description/)
+
 ### Modulus Operation
 
 372 . Super pow [https://leetcode.com/problems/super-pow/description/](https://leetcode.com/problems/super-pow/description/)
@@ -807,6 +817,12 @@ Find Lexig
 
 760 . [https://leetcode.com/problems/employee-free-time/description/](https://leetcode.com/problems/employee-free-time/description/)
 
+## Transform and Conquer
+
+828 . How many ways the ch can be unique - [https://leetcode.com/problems/count-unique-characters-of-all-substrings-of-a-given-string/description/](https://leetcode.com/problems/count-unique-characters-of-all-substrings-of-a-given-string/description/)
+
+2262 . [https://leetcode.com/problems/total-appeal-of-a-string/description/](https://leetcode.com/problems/total-appeal-of-a-string/description/)
+
 ## Two Pointers
 
 ### Opposite Direction Traversal
@@ -888,3 +904,11 @@ Find Lexig
 721 . [https://leetcode.com/problems/accounts-merge/submissions/2001831302/](https://leetcode.com/problems/accounts-merge/submissions/2001831302/)
 
 803 . [https://leetcode.com/problems/bricks-falling-when-hit/description/](https://leetcode.com/problems/bricks-falling-when-hit/description/)
+
+839 . Or DFS/BFS, n\*\*2 \* m - [https://leetcode.com/problems/similar-string-groups/description/](https://leetcode.com/problems/similar-string-groups/description/)
+
+
+
+### Disjointed Union Find
+
+827 [https://leetcode.com/problems/making-a-large-island/description/](https://leetcode.com/problems/making-a-large-island/description/)
