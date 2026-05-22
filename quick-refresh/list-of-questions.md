@@ -40,7 +40,7 @@ with duplicate (hard and not necessary) - [https://leetcode.com/problems/find-mi
 
 702 . [https://leetcode.com/problems/search-in-a-sorted-array-of-unknown-size/description/](https://leetcode.com/problems/search-in-a-sorted-array-of-unknown-size/description/)
 
-
+719 . [https://leetcode.com/problems/find-k-th-smallest-pair-distance/description/](https://leetcode.com/problems/find-k-th-smallest-pair-distance/description/)
 
 ### Binary Search Result Range
 
@@ -301,6 +301,10 @@ Unnecessary Hard
 
 808 . [https://leetcode.com/problems/soup-servings/description/](https://leetcode.com/problems/soup-servings/description/)
 
+712 . [https://leetcode.com/problems/minimum-ascii-delete-sum-for-two-strings/description/](https://leetcode.com/problems/minimum-ascii-delete-sum-for-two-strings/description/)
+
+714 . [https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/description/](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/description/)
+
 ### Coin DP
 
 322 . [https://leetcode.com/problems/coin-change/description/](https://leetcode.com/problems/coin-change/description/)
@@ -366,6 +370,10 @@ Unnecessary Hard
 707 . [https://leetcode.com/problems/design-linked-list/description/](https://leetcode.com/problems/design-linked-list/description/)
 
 710 . [https://leetcode.com/problems/random-pick-with-blacklist/description/](https://leetcode.com/problems/random-pick-with-blacklist/description/)
+
+715 . [https://leetcode.com/problems/range-module/description/](https://leetcode.com/problems/range-module/description/)
+
+716 . [https://leetcode.com/problems/max-stack/description/](https://leetcode.com/problems/max-stack/description/)
 
 ## Graph Algorithm
 
@@ -669,6 +677,10 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 
 593 . [https://leetcode.com/problems/valid-square/description/](https://leetcode.com/problems/valid-square/description/)
 
+### Canonical Hash
+
+711 . [https://leetcode.com/problems/number-of-distinct-islands-ii/description/](https://leetcode.com/problems/number-of-distinct-islands-ii/description/)
+
 ## Prefix\_sum
 
 304 . 2D - [https://leetcode.com/problems/range-sum-query-2d-immutable/description/](https://leetcode.com/problems/range-sum-query-2d-immutable/description/)
@@ -702,6 +714,8 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 214. Also KMP / Manacher [https://leetcode.com/problems/shortest-palindrome/description/](https://leetcode.com/problems/shortest-palindrome/description/)
 
 686 . [https://leetcode.com/problems/repeated-string-match/description/](https://leetcode.com/problems/repeated-string-match/description/)
+
+718 . [https://leetcode.com/problems/maximum-length-of-repeated-subarray/description/](https://leetcode.com/problems/maximum-length-of-repeated-subarray/description/)
 
 ## Segment Tree/ SQRT Decomposition
 
@@ -849,7 +863,7 @@ Find Lexig
 
 677 . [https://leetcode.com/problems/map-sum-pairs/description/](https://leetcode.com/problems/map-sum-pairs/description/)
 
-
+720 . [https://leetcode.com/problems/longest-word-in-dictionary/description/](https://leetcode.com/problems/longest-word-in-dictionary/description/)
 
 ## Union Find
 
