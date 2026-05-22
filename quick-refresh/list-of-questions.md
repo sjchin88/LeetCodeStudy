@@ -313,6 +313,8 @@ Unnecessary Hard
 
 741 . [https://leetcode.com/problems/cherry-pickup/description/](https://leetcode.com/problems/cherry-pickup/description/)
 
+813 . [https://leetcode.com/problems/largest-sum-of-averages/description/](https://leetcode.com/problems/largest-sum-of-averages/description/)
+
 ### Coin DP
 
 322 . [https://leetcode.com/problems/coin-change/description/](https://leetcode.com/problems/coin-change/description/)
@@ -396,6 +398,8 @@ Unnecessary Hard
 787 . Or Bellman ford
 
 743 . [https://leetcode.com/problems/network-delay-time/description/](https://leetcode.com/problems/network-delay-time/description/)
+
+818 or DP -[https://leetcode.com/problems/race-car/description/](https://leetcode.com/problems/race-car/description/)
 
 ### Jarvis Algorithm / Graham Scan
 
