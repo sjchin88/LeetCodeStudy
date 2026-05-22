@@ -38,6 +38,8 @@ with duplicate (hard and not necessary) - [https://leetcode.com/problems/find-mi
 
 786 , [https://leetcode.com/problems/k-th-smallest-prime-fraction/description/](https://leetcode.com/problems/k-th-smallest-prime-fraction/description/)
 
+702 . [https://leetcode.com/problems/search-in-a-sorted-array-of-unknown-size/description/](https://leetcode.com/problems/search-in-a-sorted-array-of-unknown-size/description/)
+
 
 
 ### Binary Search Result Range
@@ -103,6 +105,8 @@ with duplicate (hard and not necessary) - [https://leetcode.com/problems/find-mi
 687 . [https://leetcode.com/problems/longest-univalue-path/description/](https://leetcode.com/problems/longest-univalue-path/description/)
 
 776 . [https://leetcode.com/problems/split-bst/description/](https://leetcode.com/problems/split-bst/description/)
+
+701 . [https://leetcode.com/problems/insert-into-a-binary-search-tree/description/](https://leetcode.com/problems/insert-into-a-binary-search-tree/description/)
 
 ## Bit Operations
 
@@ -208,6 +212,8 @@ Unnecessary Hard
 756 . [https://leetcode.com/problems/pyramid-transition-matrix/description/](https://leetcode.com/problems/pyramid-transition-matrix/description/)
 
 777 .[https://leetcode.com/problems/swap-adjacent-in-lr-string/description/](https://leetcode.com/problems/swap-adjacent-in-lr-string/description/)
+
+698 . Can use bit mask - [https://leetcode.com/problems/partition-to-k-equal-sum-subsets/description/](https://leetcode.com/problems/partition-to-k-equal-sum-subsets/description/)
 
 ## Dynamic Programming&#x20;
 
@@ -357,6 +363,10 @@ Unnecessary Hard
 
 641 . [https://leetcode.com/problems/design-circular-deque/description/](https://leetcode.com/problems/design-circular-deque/description/)
 
+707 . [https://leetcode.com/problems/design-linked-list/description/](https://leetcode.com/problems/design-linked-list/description/)
+
+710 . [https://leetcode.com/problems/random-pick-with-blacklist/description/](https://leetcode.com/problems/random-pick-with-blacklist/description/)
+
 ## Graph Algorithm
 
 785 . Use coloring -[https://leetcode.com/problems/is-graph-bipartite/description/](https://leetcode.com/problems/is-graph-bipartite/description/)
@@ -495,7 +505,7 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 
 148 . Merge sort - [https://leetcode.com/problems/sort-list/description/](https://leetcode.com/problems/sort-list/description/)
 
-
+708 . [https://leetcode.com/problems/insert-into-a-sorted-circular-linked-list/description/](https://leetcode.com/problems/insert-into-a-sorted-circular-linked-list/description/)
 
 ### Double linked list
 
@@ -698,6 +708,8 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 307 . [https://leetcode.com/problems/range-sum-query-mutable/description/](https://leetcode.com/problems/range-sum-query-mutable/description/)
 
 732 , [https://leetcode.com/problems/my-calendar-iii/description/](https://leetcode.com/problems/my-calendar-iii/description/)
+
+699 ./ [https://leetcode.com/problems/falling-squares/description/](https://leetcode.com/problems/falling-squares/description/)
 
 ### Binary Index Tree / Fenwick Tree
 
