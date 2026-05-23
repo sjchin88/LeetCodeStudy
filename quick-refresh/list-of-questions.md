@@ -16,7 +16,7 @@ Hard
 
 74 . [https://leetcode.com/problems/search-a-2d-matrix/description/](https://leetcode.com/problems/search-a-2d-matrix/description/)
 
-162 . [https://leetcode.com/problems/find-peak-element/](https://leetcode.com/problems/find-peak-element/)
+162 . [https://leetcode.com/problems/find-peak-element/](https://leetcode.com/problems/find-peak-element/) also 852 - [https://leetcode.com/problems/peak-index-in-a-mountain-array/description/](https://leetcode.com/problems/peak-index-in-a-mountain-array/description/)
 
 with duplicate (hard and not necessary) - [https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/editorial/](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/editorial/)
 
@@ -170,6 +170,12 @@ with duplicate (hard and not necessary) - [https://leetcode.com/problems/find-mi
 
 773 . [https://leetcode.com/problems/sliding-puzzle/description/](https://leetcode.com/problems/sliding-puzzle/description/)
 
+
+
+### Shortest Distance
+
+854 - [https://leetcode.com/problems/k-similar-strings/description/](https://leetcode.com/problems/k-similar-strings/description/)
+
 ## DFS (Backtracking)
 
 17. [https://leetcode.com/problems/letter-combinations-of-a-phone-number/description/](https://leetcode.com/problems/letter-combinations-of-a-phone-number/description/)
@@ -224,6 +230,8 @@ Unnecessary Hard
 698 . Can use bit mask - [https://leetcode.com/problems/partition-to-k-equal-sum-subsets/description/](https://leetcode.com/problems/partition-to-k-equal-sum-subsets/description/)
 
 749 . [https://leetcode.com/problems/contain-virus/description/](https://leetcode.com/problems/contain-virus/description/)
+
+851 cached. [https://leetcode.com/problems/loud-and-rich/editorial/](https://leetcode.com/problems/loud-and-rich/editorial/)
 
 ## Dynamic Programming&#x20;
 
@@ -319,6 +327,8 @@ Unnecessary Hard
 
 813 . [https://leetcode.com/problems/largest-sum-of-averages/description/](https://leetcode.com/problems/largest-sum-of-averages/description/)
 
+847 . [https://leetcode.com/problems/shortest-path-visiting-all-nodes/description/](https://leetcode.com/problems/shortest-path-visiting-all-nodes/description/)
+
 ### Coin DP
 
 322 . [https://leetcode.com/problems/coin-change/description/](https://leetcode.com/problems/coin-change/description/)
@@ -405,6 +415,8 @@ Unnecessary Hard
 
 818 or DP -[https://leetcode.com/problems/race-car/description/](https://leetcode.com/problems/race-car/description/)
 
+864 [https://leetcode.com/problems/shortest-path-to-get-all-keys/description/](https://leetcode.com/problems/shortest-path-to-get-all-keys/description/)
+
 ### Jarvis Algorithm / Graham Scan
 
 587 . [https://leetcode.com/problems/erect-the-fence/description/](https://leetcode.com/problems/erect-the-fence/description/)
@@ -467,6 +479,10 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 
 798 . At which point the current values will loose point - [https://leetcode.com/problems/smallest-rotation-with-highest-score/description/](https://leetcode.com/problems/smallest-rotation-with-highest-score/description/)
 
+853 . [https://leetcode.com/problems/car-fleet/description/](https://leetcode.com/problems/car-fleet/description/)
+
+866 . [https://leetcode.com/problems/prime-palindrome/description/](https://leetcode.com/problems/prime-palindrome/description/)
+
 ### Wigger Sort
 
 280 . [https://leetcode.com/problems/wiggle-sort/description/](https://leetcode.com/problems/wiggle-sort/description/)
@@ -508,6 +524,8 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 632 . [https://leetcode.com/problems/smallest-range-covering-elements-from-k-lists/description/](https://leetcode.com/problems/smallest-range-covering-elements-from-k-lists/description/)
 
 778 . [https://leetcode.com/problems/swim-in-rising-water/description/](https://leetcode.com/problems/swim-in-rising-water/description/)
+
+857 . [https://leetcode.com/problems/minimum-cost-to-hire-k-workers/description/](https://leetcode.com/problems/minimum-cost-to-hire-k-workers/description/)
 
 ## In-place Manipulation
 
@@ -585,6 +603,10 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 
 829 . [https://leetcode.com/problems/consecutive-numbers-sum/description/](https://leetcode.com/problems/consecutive-numbers-sum/description/)
 
+### GCD
+
+858 . [https://leetcode.com/problems/mirror-reflection/description/](https://leetcode.com/problems/mirror-reflection/description/)
+
 ### Matrix
 
 835 . [https://leetcode.com/problems/image-overlap/description/](https://leetcode.com/problems/image-overlap/description/)
@@ -628,6 +650,8 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 402 . Practise - [https://leetcode.com/problems/remove-k-digits/description/](https://leetcode.com/problems/remove-k-digits/description/)
 
 503 . Next greater e with circular - [https://leetcode.com/problems/next-greater-element-ii/description/](https://leetcode.com/problems/next-greater-element-ii/description/)
+
+862 . [https://leetcode.com/problems/shortest-subarray-with-sum-at-least-k/description/](https://leetcode.com/problems/shortest-subarray-with-sum-at-least-k/description/)
 
 ## Named Algorithms
 
@@ -697,6 +721,8 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 
 731 . [https://leetcode.com/problems/my-calendar-ii/description/](https://leetcode.com/problems/my-calendar-ii/description/)
 
+855 . [https://leetcode.com/problems/exam-room/description/](https://leetcode.com/problems/exam-room/description/)
+
 ## Points Operation (2D Map)
 
 447 . Distance hashing & Combo [https://leetcode.com/problems/number-of-boomerangs/description/](https://leetcode.com/problems/number-of-boomerangs/description/)
@@ -754,6 +780,8 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 732 , [https://leetcode.com/problems/my-calendar-iii/description/](https://leetcode.com/problems/my-calendar-iii/description/)
 
 699 ./ [https://leetcode.com/problems/falling-squares/description/](https://leetcode.com/problems/falling-squares/description/)
+
+850 . Coordinate compresion = O(n^3), linesweep = O(n^2logn), [https://leetcode.com/problems/rectangle-area-ii/description/](https://leetcode.com/problems/rectangle-area-ii/description/)
 
 ### Binary Index Tree / Fenwick Tree
 
