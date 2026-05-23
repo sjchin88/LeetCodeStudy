@@ -32,7 +32,7 @@
 * [Union Find / Disjoint Set](union-find-disjoint-set/README.md)
   * [Minimum Spanning Tree](union-find-disjoint-set/minimum-spanning-tree.md)
 * [Trie (Prefix Tree)](trie-prefix-tree.md)
-* [Useful Mathematics](useful-mathematics/README.md)
+* [Useful Mathematics](useful-mathematics.md)
   * [Pascal Triangle](useful-mathematics/pascal-triangle.md)
   * [Mod + Euclid Algorithm](useful-mathematics/mod-+-euclid-algorithm.md)
   * [Prime](useful-mathematics/prime.md)

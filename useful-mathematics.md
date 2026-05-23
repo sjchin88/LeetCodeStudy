@@ -86,4 +86,15 @@ def help(lefts, temp, k, res):
 
 ## Fibonacci
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+
+
+
+## Modulos
+
+( A ^ n ) % mod = (A % mod) ^ n
+
+if A % mod == B % mod , then (A - B) % mod = 0  (A - B is divisible by mod)
+
+Python, <mark style="color:blue;">**pow**</mark>(_base_, _exp_, _mod=None_) function compute more efficiently than pow(base, exp) % mod
+
