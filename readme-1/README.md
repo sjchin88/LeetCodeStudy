@@ -304,3 +304,15 @@ def func(a, *args, b=None, **kwargs):
 ```
 
 ·       C
+
+## OrderedDict
+
+OrderedDict()
+
+get(key) - O(1)
+
+put(key, value) - O (1)
+
+move\_to\_end(key)  - O(1)
+
+popitem() - O(1) return the first item
