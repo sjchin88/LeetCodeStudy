@@ -479,6 +479,12 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 
 65 . [https://leetcode.com/problems/valid-number/editorial/](https://leetcode.com/problems/valid-number/editorial/)
 
+
+
+### Historgram
+
+843 . [https://leetcode.com/problems/guess-the-word/description/](https://leetcode.com/problems/guess-the-word/description/)
+
 ## Hashing (Rabin Karp)
 
 187 . Rabin Karp [https://leetcode.com/problems/repeated-dna-sequences/](https://leetcode.com/problems/repeated-dna-sequences/)
