@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Read Me](README.md)
+* [Page 1](page-1.md)
 * [Python Note](readme-1/README.md)
   * [General Python Programming](readme-1/general-python-programming.md)
 * [Java Note](java-note.md)
@@ -55,7 +56,7 @@
   * [Binary Jumping / Lifting](dynamic-programming/binary-jumping-lifting.md)
   * [Kadanes Algorithm](dynamic-programming/kadanes-algorithm.md)
   * [Prefix Sum (Include Remainder)](dynamic-programming/prefix-sum-include-remainder.md)
-  * [Digit DP](dynamic-programming/digit-dp-1.md)
+  * [Digit DP](<dynamic-programming/digit-dp (1).md>)
 * [Greedy](greedy.md)
 * [Range Sum Query & Update](range-sum-query-and-update/README.md)
   * [Segmented Tree](range-sum-query-and-update/segmented-tree.md)
