@@ -88,3 +88,4 @@
     * [Dijkstra’s Algorithm](searching/breadth-first-search/shortest-path-algorithms/dijkstras-algorithm.md)
   * [Topological Sort](searching/breadth-first-search/topological-sort.md)
 * [Deep-First-Search(DFS)/Backtracking](searching/deep-first-search-dfs-backtracking.md)
+* [Page 1](searching/page-1.md)
