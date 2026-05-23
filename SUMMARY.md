@@ -7,7 +7,7 @@
 * [Java Note](java-note.md)
 * [Data Structures](data-structures/README.md)
   * [LinkedList Operation](data-structures/linkedlist-operation.md)
-  * [Priority Queue / Heap](searching/sea.md)
+  * [Priority Queue / Heap](data-structures/priority-queue-heap.md)
   * [HashSet/Map/Dict](data-structures/hashset-map-dict.md)
   * [Sorted Set](data-structures/sorted-set.md)
   * [Stack](data-structures/stack/README.md)

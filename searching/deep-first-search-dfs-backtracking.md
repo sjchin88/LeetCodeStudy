@@ -1,6 +1,6 @@
 # Deep-First-Search(DFS)/Backtracking
 
-## Application
+Can be done using stack (First-in-Last-Out FILO) or recursion
 
 binary tree (or tree) problem
 
@@ -183,3 +183,7 @@ Can be done using stack or recursion
 
 Need to detect cycles in a graph using dfs. \
 Use node2rank to record the rank of the node, if dfs reached a node with a rank lower than the predecessor, the cycle is detected. Remove all edges related to the cycle
+
+Example problems:
+
+1. Max Area of Island [https://leetcode.com/problems/max-area-of-island/](https://leetcode.com/problems/max-area-of-island/)
