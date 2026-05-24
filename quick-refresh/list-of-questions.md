@@ -144,6 +144,8 @@ with duplicate (hard and not necessary) - [https://leetcode.com/problems/find-mi
 
 751 , [https://leetcode.com/problems/ip-to-cidr/description/](https://leetcode.com/problems/ip-to-cidr/description/)
 
+898 . [https://leetcode.com/problems/bitwise-ors-of-subarrays/description/](https://leetcode.com/problems/bitwise-ors-of-subarrays/description/)
+
 ### Quantum Bit
 
 458 . [https://leetcode.com/problems/poor-pigs/description/](https://leetcode.com/problems/poor-pigs/description/)
@@ -407,6 +409,8 @@ Unnecessary Hard
 
 716 . [https://leetcode.com/problems/max-stack/description/](https://leetcode.com/problems/max-stack/description/)
 
+900 . Run Length Encoding [https://leetcode.com/problems/rle-iterator/description/](https://leetcode.com/problems/rle-iterator/description/)
+
 ## Graph Algorithm
 
 785 . Use coloring -[https://leetcode.com/problems/is-graph-bipartite/description/](https://leetcode.com/problems/is-graph-bipartite/description/)
@@ -496,6 +500,8 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 873 Just iterate with set [https://leetcode.com/problems/length-of-longest-fibonacci-subsequence/description/](https://leetcode.com/problems/length-of-longest-fibonacci-subsequence/description/)
 
 881 . [https://leetcode.com/problems/boats-to-save-people/](https://leetcode.com/problems/boats-to-save-people/)
+
+899 . Only two possible - [https://leetcode.com/problems/orderly-queue/description/](https://leetcode.com/problems/orderly-queue/description/)
 
 ### Wigger Sort
 
@@ -620,6 +626,8 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 829 . [https://leetcode.com/problems/consecutive-numbers-sum/description/](https://leetcode.com/problems/consecutive-numbers-sum/description/)
 
 869 . [https://leetcode.com/problems/reordered-power-of-2/description/](https://leetcode.com/problems/reordered-power-of-2/description/) (also smart count will do)
+
+891 . [https://leetcode.com/problems/sum-of-subsequence-widths/description/](https://leetcode.com/problems/sum-of-subsequence-widths/description/)
 
 ### GCD
 
@@ -850,6 +858,8 @@ Find Lexig
 678 . [https://leetcode.com/problems/valid-parenthesis-string/](https://leetcode.com/problems/valid-parenthesis-string/)
 
 772 . [https://leetcode.com/problems/basic-calculator-iii/description/](https://leetcode.com/problems/basic-calculator-iii/description/)
+
+895 . [https://leetcode.com/problems/maximum-frequency-stack/description/](https://leetcode.com/problems/maximum-frequency-stack/description/)
 
 ### Stacks for Tree
 
