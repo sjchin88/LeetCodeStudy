@@ -96,6 +96,8 @@ with duplicate (hard and not necessary) - [https://leetcode.com/problems/find-mi
 
 449 . [https://leetcode.com/problems/serialize-and-deserialize-bst/description/](https://leetcode.com/problems/serialize-and-deserialize-bst/description/)
 
+889 . [https://leetcode.com/problems/construct-binary-tree-from-preorder-and-postorder-traversal/description/](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-postorder-traversal/description/)
+
 ### Traversal
 
 450 . [https://leetcode.com/problems/delete-node-in-a-bst/description/](https://leetcode.com/problems/delete-node-in-a-bst/description/)
@@ -170,7 +172,7 @@ with duplicate (hard and not necessary) - [https://leetcode.com/problems/find-mi
 
 773 . [https://leetcode.com/problems/sliding-puzzle/description/](https://leetcode.com/problems/sliding-puzzle/description/)
 
-
+886 . Or DFS / Union Find [https://leetcode.com/problems/possible-bipartition/description/](https://leetcode.com/problems/possible-bipartition/description/)
 
 ### Shortest Distance
 
@@ -329,6 +331,10 @@ Unnecessary Hard
 
 847 . [https://leetcode.com/problems/shortest-path-visiting-all-nodes/description/](https://leetcode.com/problems/shortest-path-visiting-all-nodes/description/)
 
+879 , [https://leetcode.com/problems/profitable-schemes/description/](https://leetcode.com/problems/profitable-schemes/description/)
+
+887 . [https://leetcode.com/problems/super-egg-drop/description/](https://leetcode.com/problems/super-egg-drop/description/)
+
 ### Coin DP
 
 322 . [https://leetcode.com/problems/coin-change/description/](https://leetcode.com/problems/coin-change/description/)
@@ -360,6 +366,8 @@ Unnecessary Hard
 464 . [https://leetcode.com/problems/can-i-win/description/](https://leetcode.com/problems/can-i-win/description/)
 
 486 . [https://leetcode.com/problems/predict-the-winner/description/](https://leetcode.com/problems/predict-the-winner/description/)
+
+877 . Practise, actual is O(1) [https://leetcode.com/problems/stone-game/description/](https://leetcode.com/problems/stone-game/description/)
 
 ### Ugly Number (Iteration)
 
@@ -416,6 +424,8 @@ Unnecessary Hard
 818 or DP -[https://leetcode.com/problems/race-car/description/](https://leetcode.com/problems/race-car/description/)
 
 864 [https://leetcode.com/problems/shortest-path-to-get-all-keys/description/](https://leetcode.com/problems/shortest-path-to-get-all-keys/description/)
+
+882 . [https://leetcode.com/problems/reachable-nodes-in-subdivided-graph/editorial/](https://leetcode.com/problems/reachable-nodes-in-subdivided-graph/editorial/)
 
 ### Jarvis Algorithm / Graham Scan
 
@@ -483,6 +493,10 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 
 866 . [https://leetcode.com/problems/prime-palindrome/description/](https://leetcode.com/problems/prime-palindrome/description/)
 
+873 Just iterate with set [https://leetcode.com/problems/length-of-longest-fibonacci-subsequence/description/](https://leetcode.com/problems/length-of-longest-fibonacci-subsequence/description/)
+
+881 . [https://leetcode.com/problems/boats-to-save-people/](https://leetcode.com/problems/boats-to-save-people/)
+
 ### Wigger Sort
 
 280 . [https://leetcode.com/problems/wiggle-sort/description/](https://leetcode.com/problems/wiggle-sort/description/)
@@ -526,6 +540,8 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 778 . [https://leetcode.com/problems/swim-in-rising-water/description/](https://leetcode.com/problems/swim-in-rising-water/description/)
 
 857 . [https://leetcode.com/problems/minimum-cost-to-hire-k-workers/description/](https://leetcode.com/problems/minimum-cost-to-hire-k-workers/description/)
+
+871 . [https://leetcode.com/problems/minimum-number-of-refueling-stops/description/](https://leetcode.com/problems/minimum-number-of-refueling-stops/description/)
 
 ## In-place Manipulation
 
@@ -603,9 +619,13 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 
 829 . [https://leetcode.com/problems/consecutive-numbers-sum/description/](https://leetcode.com/problems/consecutive-numbers-sum/description/)
 
+869 . [https://leetcode.com/problems/reordered-power-of-2/description/](https://leetcode.com/problems/reordered-power-of-2/description/) (also smart count will do)
+
 ### GCD
 
 858 . [https://leetcode.com/problems/mirror-reflection/description/](https://leetcode.com/problems/mirror-reflection/description/)
+
+878 . [https://leetcode.com/problems/nth-magical-number/description/](https://leetcode.com/problems/nth-magical-number/description/)
 
 ### Matrix
 
@@ -620,6 +640,8 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 660 . base 9 [https://leetcode.com/problems/remove-9/description/](https://leetcode.com/problems/remove-9/description/)
 
 780 . [https://leetcode.com/problems/reaching-points/description/](https://leetcode.com/problems/reaching-points/description/)
+
+880 . [https://leetcode.com/problems/decoded-string-at-index/description/](https://leetcode.com/problems/decoded-string-at-index/description/)
 
 ### Permutations
 
