@@ -337,6 +337,8 @@ Unnecessary Hard
 
 887 . [https://leetcode.com/problems/super-egg-drop/description/](https://leetcode.com/problems/super-egg-drop/description/)
 
+903 . [https://leetcode.com/problems/valid-permutations-for-di-sequence/description/](https://leetcode.com/problems/valid-permutations-for-di-sequence/description/)
+
 ### Coin DP
 
 322 . [https://leetcode.com/problems/coin-change/description/](https://leetcode.com/problems/coin-change/description/)
@@ -358,6 +360,8 @@ Unnecessary Hard
 233 . [https://leetcode.com/problems/number-of-digit-one/description/](https://leetcode.com/problems/number-of-digit-one/description/)
 
 788 . [https://leetcode.com/problems/rotated-digits/description/](https://leetcode.com/problems/rotated-digits/description/)
+
+902 . and counting [https://leetcode.com/problems/numbers-at-most-n-given-digit-set/description/](https://leetcode.com/problems/numbers-at-most-n-given-digit-set/description/)
 
 ###
 
@@ -629,6 +633,8 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 
 891 . [https://leetcode.com/problems/sum-of-subsequence-widths/description/](https://leetcode.com/problems/sum-of-subsequence-widths/description/)
 
+906 . [https://leetcode.com/problems/super-palindromes/description/](https://leetcode.com/problems/super-palindromes/description/)
+
 ### GCD
 
 858 . [https://leetcode.com/problems/mirror-reflection/description/](https://leetcode.com/problems/mirror-reflection/description/)
@@ -682,6 +688,8 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 503 . Next greater e with circular - [https://leetcode.com/problems/next-greater-element-ii/description/](https://leetcode.com/problems/next-greater-element-ii/description/)
 
 862 . [https://leetcode.com/problems/shortest-subarray-with-sum-at-least-k/description/](https://leetcode.com/problems/shortest-subarray-with-sum-at-least-k/description/)
+
+907 . Next Smaller E, contribution [https://leetcode.com/problems/sum-of-subarray-minimums/description/](https://leetcode.com/problems/sum-of-subarray-minimums/description/)
 
 ## Named Algorithms
 
@@ -877,11 +885,13 @@ Find Lexig
 
 640 . [https://leetcode.com/problems/solve-the-equation/description/](https://leetcode.com/problems/solve-the-equation/description/)
 
-## Sweeping Lines
+## Sweeping Lines | Linear Scan
 
 56 . [https://leetcode.com/problems/merge-intervals/description/](https://leetcode.com/problems/merge-intervals/description/)
 
 760 . [https://leetcode.com/problems/employee-free-time/description/](https://leetcode.com/problems/employee-free-time/description/)
+
+910 . [https://leetcode.com/problems/smallest-range-ii/description/](https://leetcode.com/problems/smallest-range-ii/description/)
 
 ## Transform and Conquer
 
@@ -923,7 +933,7 @@ Find Lexig
 
 768 . [https://leetcode.com/problems/max-chunks-to-make-sorted-ii/description/](https://leetcode.com/problems/max-chunks-to-make-sorted-ii/description/)
 
-
+904 . [https://leetcode.com/problems/fruit-into-baskets/description/](https://leetcode.com/problems/fruit-into-baskets/description/)
 
 ### Fast and Slow Pointer
 
