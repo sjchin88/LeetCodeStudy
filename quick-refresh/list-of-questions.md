@@ -178,6 +178,8 @@ with duplicate (hard and not necessary) - [https://leetcode.com/problems/find-mi
 
 886 . Or DFS / Union Find [https://leetcode.com/problems/possible-bipartition/description/](https://leetcode.com/problems/possible-bipartition/description/)
 
+934 . [https://leetcode.com/problems/shortest-bridge/description/](https://leetcode.com/problems/shortest-bridge/description/)
+
 ### Shortest Distance
 
 854 - [https://leetcode.com/problems/k-similar-strings/description/](https://leetcode.com/problems/k-similar-strings/description/)
@@ -343,6 +345,10 @@ Unnecessary Hard
 
 920 . [https://leetcode.com/problems/number-of-music-playlists/description/](https://leetcode.com/problems/number-of-music-playlists/description/)
 
+940 . [https://leetcode.com/problems/distinct-subsequences-ii/description/](https://leetcode.com/problems/distinct-subsequences-ii/description/)
+
+943 . [https://leetcode.com/problems/find-the-shortest-superstring/description/](https://leetcode.com/problems/find-the-shortest-superstring/description/)
+
 ### Coin DP
 
 322 . [https://leetcode.com/problems/coin-change/description/](https://leetcode.com/problems/coin-change/description/)
@@ -425,7 +431,9 @@ Unnecessary Hard
 
 ## Graph Algorithm
 
-785 . Use coloring -[https://leetcode.com/problems/is-graph-bipartite/description/](https://leetcode.com/problems/is-graph-bipartite/description/)
+785 . Use coloring -[https://leetcode.com/problems/is-graph-bipartite/description/](https://leetcode.com/problems/is-graph-bipartite/description/)&#x20;
+
+939 . [https://leetcode.com/problems/minimum-area-rectangle/description/](https://leetcode.com/problems/minimum-area-rectangle/description/)
 
 ### Dijkstra <a href="#approach-dijkstras" id="approach-dijkstras"></a>
 
@@ -516,6 +524,8 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 899 . Only two possible - [https://leetcode.com/problems/orderly-queue/description/](https://leetcode.com/problems/orderly-queue/description/)
 
 932 . [https://leetcode.com/problems/beautiful-array/description/](https://leetcode.com/problems/beautiful-array/description/)
+
+936 . [https://leetcode.com/problems/stamping-the-sequence/description/](https://leetcode.com/problems/stamping-the-sequence/description/)
 
 ### Wigger Sort
 
