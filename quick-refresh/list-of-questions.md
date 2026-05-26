@@ -146,6 +146,8 @@ with duplicate (hard and not necessary) - [https://leetcode.com/problems/find-mi
 
 898 . [https://leetcode.com/problems/bitwise-ors-of-subarrays/description/](https://leetcode.com/problems/bitwise-ors-of-subarrays/description/)
 
+927 . [https://leetcode.com/problems/three-equal-parts/description/](https://leetcode.com/problems/three-equal-parts/description/)
+
 ### Quantum Bit
 
 458 . [https://leetcode.com/problems/poor-pigs/description/](https://leetcode.com/problems/poor-pigs/description/)
@@ -512,6 +514,8 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 881 . [https://leetcode.com/problems/boats-to-save-people/](https://leetcode.com/problems/boats-to-save-people/)
 
 899 . Only two possible - [https://leetcode.com/problems/orderly-queue/description/](https://leetcode.com/problems/orderly-queue/description/)
+
+932 . [https://leetcode.com/problems/beautiful-array/description/](https://leetcode.com/problems/beautiful-array/description/)
 
 ### Wigger Sort
 
@@ -1003,7 +1007,7 @@ Find Lexig
 
 924 . Or DFS -[https://leetcode.com/problems/minimize-malware-spread/description/](https://leetcode.com/problems/minimize-malware-spread/description/)
 
-
+928 . [https://leetcode.com/problems/minimize-malware-spread-ii/description/](https://leetcode.com/problems/minimize-malware-spread-ii/description/)
 
 ### Disjointed Union Find
 
