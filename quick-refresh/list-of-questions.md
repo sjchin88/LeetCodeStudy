@@ -339,6 +339,8 @@ Unnecessary Hard
 
 903 . [https://leetcode.com/problems/valid-permutations-for-di-sequence/description/](https://leetcode.com/problems/valid-permutations-for-di-sequence/description/)
 
+920 . [https://leetcode.com/problems/number-of-music-playlists/description/](https://leetcode.com/problems/number-of-music-playlists/description/)
+
 ### Coin DP
 
 322 . [https://leetcode.com/problems/coin-change/description/](https://leetcode.com/problems/coin-change/description/)
@@ -374,6 +376,10 @@ Unnecessary Hard
 486 . [https://leetcode.com/problems/predict-the-winner/description/](https://leetcode.com/problems/predict-the-winner/description/)
 
 877 . Practise, actual is O(1) [https://leetcode.com/problems/stone-game/description/](https://leetcode.com/problems/stone-game/description/)
+
+#### minimax algorithm
+
+913 . [https://leetcode.com/problems/cat-and-mouse/editorial/](https://leetcode.com/problems/cat-and-mouse/editorial/)
 
 ### Ugly Number (Iteration)
 
@@ -669,6 +675,10 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 
 466 . [https://leetcode.com/problems/count-the-repetitions/description/](https://leetcode.com/problems/count-the-repetitions/description/)
 
+### Set Operation
+
+916 . [https://leetcode.com/problems/word-subsets/description/](https://leetcode.com/problems/word-subsets/description/)
+
 ## Monostack
 
 42 . [https://leetcode.com/problems/trapping-rain-water/description/](https://leetcode.com/problems/trapping-rain-water/description/)
@@ -698,6 +708,8 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 53 . [https://leetcode.com/problems/maximum-subarray/editorial/](https://leetcode.com/problems/maximum-subarray/editorial/)
 
 363 . Or Prefix sum [https://leetcode.com/problems/max-sum-of-rectangle-no-larger-than-k/description/](https://leetcode.com/problems/max-sum-of-rectangle-no-larger-than-k/description/)
+
+918 . [https://leetcode.com/problems/maximum-sum-circular-subarray/description/](https://leetcode.com/problems/maximum-sum-circular-subarray/description/)
 
 ## Others
 
@@ -760,6 +772,8 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 731 . [https://leetcode.com/problems/my-calendar-ii/description/](https://leetcode.com/problems/my-calendar-ii/description/)
 
 855 . [https://leetcode.com/problems/exam-room/description/](https://leetcode.com/problems/exam-room/description/)
+
+911 . [https://leetcode.com/problems/online-election/description/](https://leetcode.com/problems/online-election/description/)
 
 ## Points Operation (2D Map)
 
@@ -827,11 +841,15 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 
 315 . [https://leetcode.com/problems/count-of-smaller-numbers-after-self/description/](https://leetcode.com/problems/count-of-smaller-numbers-after-self/description/)
 
+
+
 ## Simulation
 
 799 . [https://leetcode.com/problems/champagne-tower/description/](https://leetcode.com/problems/champagne-tower/description/)
 
 ## Sorting
+
+912 . [https://leetcode.com/problems/sort-an-array/description/](https://leetcode.com/problems/sort-an-array/description/)
 
 ### Quick Sort&#x20;
 
@@ -982,6 +1000,8 @@ Find Lexig
 803 . [https://leetcode.com/problems/bricks-falling-when-hit/description/](https://leetcode.com/problems/bricks-falling-when-hit/description/)
 
 839 . Or DFS/BFS, n\*\*2 \* m - [https://leetcode.com/problems/similar-string-groups/description/](https://leetcode.com/problems/similar-string-groups/description/)
+
+924 . Or DFS -[https://leetcode.com/problems/minimize-malware-spread/description/](https://leetcode.com/problems/minimize-malware-spread/description/)
 
 
 
