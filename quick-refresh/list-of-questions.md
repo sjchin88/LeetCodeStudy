@@ -231,15 +231,17 @@ Unnecessary Hard
 684 . Or Disjointed Set Union - [https://leetcode.com/problems/redundant-connection/description/](https://leetcode.com/problems/redundant-connection/description/)\
 685 . [https://leetcode.com/problems/redundant-connection-ii/editorial/](https://leetcode.com/problems/redundant-connection-ii/editorial/)
 
-756 . [https://leetcode.com/problems/pyramid-transition-matrix/description/](https://leetcode.com/problems/pyramid-transition-matrix/description/)
-
-777 .[https://leetcode.com/problems/swap-adjacent-in-lr-string/description/](https://leetcode.com/problems/swap-adjacent-in-lr-string/description/)
-
 698 . Can use bit mask - [https://leetcode.com/problems/partition-to-k-equal-sum-subsets/description/](https://leetcode.com/problems/partition-to-k-equal-sum-subsets/description/)
 
 749 . [https://leetcode.com/problems/contain-virus/description/](https://leetcode.com/problems/contain-virus/description/)
 
+756 . [https://leetcode.com/problems/pyramid-transition-matrix/description/](https://leetcode.com/problems/pyramid-transition-matrix/description/)
+
+777 .[https://leetcode.com/problems/swap-adjacent-in-lr-string/description/](https://leetcode.com/problems/swap-adjacent-in-lr-string/description/)
+
 851 cached. [https://leetcode.com/problems/loud-and-rich/editorial/](https://leetcode.com/problems/loud-and-rich/editorial/)
+
+949 . [https://leetcode.com/problems/largest-time-for-given-digits/description/](https://leetcode.com/problems/largest-time-for-given-digits/description/)
 
 ## Dynamic Programming&#x20;
 
@@ -526,6 +528,8 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 932 . [https://leetcode.com/problems/beautiful-array/description/](https://leetcode.com/problems/beautiful-array/description/)
 
 936 . [https://leetcode.com/problems/stamping-the-sequence/description/](https://leetcode.com/problems/stamping-the-sequence/description/)
+
+946 . [https://leetcode.com/problems/validate-stack-sequences/description/](https://leetcode.com/problems/validate-stack-sequences/description/)
 
 ### Wigger Sort
 
@@ -1022,3 +1026,5 @@ Find Lexig
 ### Disjointed Union Find
 
 827 [https://leetcode.com/problems/making-a-large-island/description/](https://leetcode.com/problems/making-a-large-island/description/)
+
+947 . [https://leetcode.com/problems/most-stones-removed-with-same-row-or-column/description/](https://leetcode.com/problems/most-stones-removed-with-same-row-or-column/description/)
