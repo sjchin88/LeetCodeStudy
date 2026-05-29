@@ -531,6 +531,8 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 
 946 . [https://leetcode.com/problems/validate-stack-sequences/description/](https://leetcode.com/problems/validate-stack-sequences/description/)
 
+955 , [https://leetcode.com/problems/delete-columns-to-make-sorted-ii/description/](https://leetcode.com/problems/delete-columns-to-make-sorted-ii/description/)
+
 ### Wigger Sort
 
 280 . [https://leetcode.com/problems/wiggle-sort/description/](https://leetcode.com/problems/wiggle-sort/description/)
@@ -1022,6 +1024,8 @@ Find Lexig
 924 . Or DFS -[https://leetcode.com/problems/minimize-malware-spread/description/](https://leetcode.com/problems/minimize-malware-spread/description/)
 
 928 . [https://leetcode.com/problems/minimize-malware-spread-ii/description/](https://leetcode.com/problems/minimize-malware-spread-ii/description/)
+
+952 . [https://leetcode.com/problems/largest-component-size-by-common-factor/description/](https://leetcode.com/problems/largest-component-size-by-common-factor/description/)
 
 ### Disjointed Union Find
 
