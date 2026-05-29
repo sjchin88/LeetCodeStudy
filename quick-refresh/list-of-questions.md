@@ -353,6 +353,8 @@ Unnecessary Hard
 
 956 [https://leetcode.com/problems/tallest-billboard/description/](https://leetcode.com/problems/tallest-billboard/description/)
 
+960 . [https://leetcode.com/problems/delete-columns-to-make-sorted-iii/editorial/](https://leetcode.com/problems/delete-columns-to-make-sorted-iii/editorial/)
+
 ### Coin DP
 
 322 . [https://leetcode.com/problems/coin-change/description/](https://leetcode.com/problems/coin-change/description/)
