@@ -351,6 +351,8 @@ Unnecessary Hard
 
 943 . [https://leetcode.com/problems/find-the-shortest-superstring/description/](https://leetcode.com/problems/find-the-shortest-superstring/description/)
 
+956 [https://leetcode.com/problems/tallest-billboard/description/](https://leetcode.com/problems/tallest-billboard/description/)
+
 ### Coin DP
 
 322 . [https://leetcode.com/problems/coin-change/description/](https://leetcode.com/problems/coin-change/description/)
@@ -1032,3 +1034,5 @@ Find Lexig
 827 [https://leetcode.com/problems/making-a-large-island/description/](https://leetcode.com/problems/making-a-large-island/description/)
 
 947 . [https://leetcode.com/problems/most-stones-removed-with-same-row-or-column/description/](https://leetcode.com/problems/most-stones-removed-with-same-row-or-column/description/)
+
+959 [https://leetcode.com/problems/regions-cut-by-slashes/editorial/](https://leetcode.com/problems/regions-cut-by-slashes/editorial/)
