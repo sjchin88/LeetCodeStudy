@@ -92,6 +92,10 @@ with duplicate (hard and not necessary) - [https://leetcode.com/problems/find-mi
 
 431 . [https://leetcode.com/problems/encode-n-ary-tree-to-binary-tree/description/](https://leetcode.com/problems/encode-n-ary-tree-to-binary-tree/description/)
 
+### Preorder Traversal
+
+971 . DFS - [https://leetcode.com/problems/flip-binary-tree-to-match-preorder-traversal/description/](https://leetcode.com/problems/flip-binary-tree-to-match-preorder-traversal/description/)
+
 ### PostOrder Traversal
 
 449 . [https://leetcode.com/problems/serialize-and-deserialize-bst/description/](https://leetcode.com/problems/serialize-and-deserialize-bst/description/)
@@ -109,6 +113,8 @@ with duplicate (hard and not necessary) - [https://leetcode.com/problems/find-mi
 776 . [https://leetcode.com/problems/split-bst/description/](https://leetcode.com/problems/split-bst/description/)
 
 701 . [https://leetcode.com/problems/insert-into-a-binary-search-tree/description/](https://leetcode.com/problems/insert-into-a-binary-search-tree/description/)
+
+979 . DFS - [https://leetcode.com/problems/distribute-coins-in-binary-tree/description/](https://leetcode.com/problems/distribute-coins-in-binary-tree/description/)
 
 ### Distance between Each Node
 
@@ -242,6 +248,8 @@ Unnecessary Hard
 851 cached. [https://leetcode.com/problems/loud-and-rich/editorial/](https://leetcode.com/problems/loud-and-rich/editorial/)
 
 949 . [https://leetcode.com/problems/largest-time-for-given-digits/description/](https://leetcode.com/problems/largest-time-for-given-digits/description/)
+
+980 . [https://leetcode.com/problems/unique-paths-iii/description/](https://leetcode.com/problems/unique-paths-iii/description/)
 
 ## Dynamic Programming&#x20;
 
@@ -537,6 +545,10 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 
 955 , [https://leetcode.com/problems/delete-columns-to-make-sorted-ii/description/](https://leetcode.com/problems/delete-columns-to-make-sorted-ii/description/)
 
+968 Greedy [https://leetcode.com/problems/binary-tree-cameras/description/](https://leetcode.com/problems/binary-tree-cameras/description/)
+
+969 [https://leetcode.com/problems/pancake-sorting/](https://leetcode.com/problems/pancake-sorting/)
+
 ### Wigger Sort
 
 280 . [https://leetcode.com/problems/wiggle-sort/description/](https://leetcode.com/problems/wiggle-sort/description/)
@@ -665,6 +677,10 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 
 906 . [https://leetcode.com/problems/super-palindromes/description/](https://leetcode.com/problems/super-palindromes/description/)
 
+964 DP - [https://leetcode.com/problems/least-operators-to-express-number/description/](https://leetcode.com/problems/least-operators-to-express-number/description/)
+
+972 Fraction [https://leetcode.com/problems/equal-rational-numbers/description/](https://leetcode.com/problems/equal-rational-numbers/description/)
+
 ### GCD
 
 858 . [https://leetcode.com/problems/mirror-reflection/description/](https://leetcode.com/problems/mirror-reflection/description/)
@@ -724,6 +740,8 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 862 . [https://leetcode.com/problems/shortest-subarray-with-sum-at-least-k/description/](https://leetcode.com/problems/shortest-subarray-with-sum-at-least-k/description/)
 
 907 . Next Smaller E, contribution [https://leetcode.com/problems/sum-of-subarray-minimums/description/](https://leetcode.com/problems/sum-of-subarray-minimums/description/)
+
+975 . [https://leetcode.com/problems/odd-even-jump/description/](https://leetcode.com/problems/odd-even-jump/description/)
 
 ## Named Algorithms
 
@@ -825,6 +843,8 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 
 560 . Subarray sum [https://leetcode.com/problems/subarray-sum-equals-k/description/](https://leetcode.com/problems/subarray-sum-equals-k/description/)
 
+974 . Keep count of remainder(similar to 523) [https://leetcode.com/problems/subarray-sums-divisible-by-k/description/](https://leetcode.com/problems/subarray-sums-divisible-by-k/description/)
+
 ## Recursion
 
 390 . [https://leetcode.com/problems/elimination-game/description/](https://leetcode.com/problems/elimination-game/description/)
@@ -874,6 +894,10 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 ## Sorting
 
 912 . [https://leetcode.com/problems/sort-an-array/description/](https://leetcode.com/problems/sort-an-array/description/)
+
+### Bubble Sort
+
+969 . [https://leetcode.com/problems/pancake-sorting/editorial/](https://leetcode.com/problems/pancake-sorting/editorial/)
 
 ### Quick Sort&#x20;
 
