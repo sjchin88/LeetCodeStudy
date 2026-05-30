@@ -363,6 +363,8 @@ Unnecessary Hard
 
 960 . [https://leetcode.com/problems/delete-columns-to-make-sorted-iii/editorial/](https://leetcode.com/problems/delete-columns-to-make-sorted-iii/editorial/)
 
+983 [https://leetcode.com/problems/minimum-cost-for-tickets/description/](https://leetcode.com/problems/minimum-cost-for-tickets/description/)
+
 ### Coin DP
 
 322 . [https://leetcode.com/problems/coin-change/description/](https://leetcode.com/problems/coin-change/description/)
@@ -1054,6 +1056,8 @@ Find Lexig
 928 . [https://leetcode.com/problems/minimize-malware-spread-ii/description/](https://leetcode.com/problems/minimize-malware-spread-ii/description/)
 
 952 . [https://leetcode.com/problems/largest-component-size-by-common-factor/description/](https://leetcode.com/problems/largest-component-size-by-common-factor/description/)
+
+990 . [https://leetcode.com/problems/satisfiability-of-equality-equations/description/](https://leetcode.com/problems/satisfiability-of-equality-equations/description/)
 
 ### Disjointed Union Find
 
