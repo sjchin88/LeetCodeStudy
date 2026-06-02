@@ -74,6 +74,8 @@ with duplicate (hard and not necessary) - [https://leetcode.com/problems/find-mi
 
 669 . [https://leetcode.com/problems/trim-a-binary-search-tree/description/](https://leetcode.com/problems/trim-a-binary-search-tree/description/)
 
+999 [https://leetcode.com/problems/maximum-binary-tree-ii/description/](https://leetcode.com/problems/maximum-binary-tree-ii/description/)
+
 ### Inorder traversal
 
 173 . Inorder - [https://leetcode.com/problems/binary-search-tree-iterator/description/](https://leetcode.com/problems/binary-search-tree-iterator/description/)
@@ -95,6 +97,8 @@ with duplicate (hard and not necessary) - [https://leetcode.com/problems/find-mi
 ### Preorder Traversal
 
 971 . DFS - [https://leetcode.com/problems/flip-binary-tree-to-match-preorder-traversal/description/](https://leetcode.com/problems/flip-binary-tree-to-match-preorder-traversal/description/)
+
+1008 [https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/description/](https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/description/)
 
 ### PostOrder Traversal
 
@@ -363,7 +367,11 @@ Unnecessary Hard
 
 960 . [https://leetcode.com/problems/delete-columns-to-make-sorted-iii/editorial/](https://leetcode.com/problems/delete-columns-to-make-sorted-iii/editorial/)
 
-983 [https://leetcode.com/problems/minimum-cost-for-tickets/description/](https://leetcode.com/problems/minimum-cost-for-tickets/description/)
+983 [https://leetcode.com/problems/minimum-cost-for-tickets/description/](https://leetcode.com/problems/minimum-cost-for-tickets/description/)&#x20;
+
+996 . [https://leetcode.com/problems/number-of-squareful-arrays/editorial/](https://leetcode.com/problems/number-of-squareful-arrays/editorial/)
+
+1000 . [https://leetcode.com/problems/minimum-cost-to-merge-stones/](https://leetcode.com/problems/minimum-cost-to-merge-stones/)
 
 ### Coin DP
 
@@ -550,6 +558,12 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 968 Greedy [https://leetcode.com/problems/binary-tree-cameras/description/](https://leetcode.com/problems/binary-tree-cameras/description/)
 
 969 [https://leetcode.com/problems/pancake-sorting/](https://leetcode.com/problems/pancake-sorting/)
+
+995 Deque [https://leetcode.com/problems/minimum-number-of-k-consecutive-bit-flips/description/](https://leetcode.com/problems/minimum-number-of-k-consecutive-bit-flips/description/)
+
+
+
+
 
 ### Wigger Sort
 
@@ -1002,6 +1016,8 @@ Find Lexig
 768 . [https://leetcode.com/problems/max-chunks-to-make-sorted-ii/description/](https://leetcode.com/problems/max-chunks-to-make-sorted-ii/description/)
 
 904 . [https://leetcode.com/problems/fruit-into-baskets/description/](https://leetcode.com/problems/fruit-into-baskets/description/)
+
+992 . Freq [https://leetcode.com/problems/subarrays-with-k-different-integers/description/](https://leetcode.com/problems/subarrays-with-k-different-integers/description/)
 
 ### Fast and Slow Pointer
 
