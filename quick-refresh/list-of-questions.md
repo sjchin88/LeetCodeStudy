@@ -158,6 +158,10 @@ with duplicate (hard and not necessary) - [https://leetcode.com/problems/find-mi
 
 927 . [https://leetcode.com/problems/three-equal-parts/description/](https://leetcode.com/problems/three-equal-parts/description/)
 
+1016 . [https://leetcode.com/problems/binary-string-with-substrings-representing-1-to-n/description/](https://leetcode.com/problems/binary-string-with-substrings-representing-1-to-n/description/)
+
+1017 [https://leetcode.com/problems/convert-to-base-2/description/](https://leetcode.com/problems/convert-to-base-2/description/)
+
 ### Quantum Bit
 
 458 . [https://leetcode.com/problems/poor-pigs/description/](https://leetcode.com/problems/poor-pigs/description/)
@@ -719,13 +723,15 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 
 880 . [https://leetcode.com/problems/decoded-string-at-index/description/](https://leetcode.com/problems/decoded-string-at-index/description/)
 
+1015 . [https://leetcode.com/problems/smallest-integer-divisible-by-k/description/](https://leetcode.com/problems/smallest-integer-divisible-by-k/description/)
+
 ### Permutations
 
 60 . [https://leetcode.com/problems/permutation-sequence/description/](https://leetcode.com/problems/permutation-sequence/description/)
 
 357 . [https://leetcode.com/problems/count-numbers-with-unique-digits/description/](https://leetcode.com/problems/count-numbers-with-unique-digits/description/)
 
-
+1012 . [https://leetcode.com/problems/numbers-with-repeated-digits/description/](https://leetcode.com/problems/numbers-with-repeated-digits/description/)
 
 ### Pigeon Holes Principle
 
