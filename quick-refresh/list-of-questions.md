@@ -100,6 +100,8 @@ with duplicate (hard and not necessary) - [https://leetcode.com/problems/find-mi
 
 1008 [https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/description/](https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/description/)
 
+1028 [https://leetcode.com/problems/recover-a-tree-from-preorder-traversal/description/](https://leetcode.com/problems/recover-a-tree-from-preorder-traversal/description/)
+
 ### PostOrder Traversal
 
 449 . [https://leetcode.com/problems/serialize-and-deserialize-bst/description/](https://leetcode.com/problems/serialize-and-deserialize-bst/description/)
@@ -377,6 +379,8 @@ Unnecessary Hard
 
 1000 . [https://leetcode.com/problems/minimum-cost-to-merge-stones/](https://leetcode.com/problems/minimum-cost-to-merge-stones/)
 
+1027 [https://leetcode.com/problems/longest-arithmetic-subsequence/description/](https://leetcode.com/problems/longest-arithmetic-subsequence/description/)
+
 ### Coin DP
 
 322 . [https://leetcode.com/problems/coin-change/description/](https://leetcode.com/problems/coin-change/description/)
@@ -565,7 +569,7 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 
 995 Deque [https://leetcode.com/problems/minimum-number-of-k-consecutive-bit-flips/description/](https://leetcode.com/problems/minimum-number-of-k-consecutive-bit-flips/description/)
 
-
+1024 [https://leetcode.com/problems/video-stitching/description/](https://leetcode.com/problems/video-stitching/description/)
 
 
 
@@ -882,6 +886,8 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 591 . [https://leetcode.com/problems/tag-validator/description/](https://leetcode.com/problems/tag-validator/description/)
 
 592 . [https://leetcode.com/problems/fraction-addition-and-subtraction/description/](https://leetcode.com/problems/fraction-addition-and-subtraction/description/)
+
+1023 . [https://leetcode.com/problems/camelcase-matching/description/](https://leetcode.com/problems/camelcase-matching/description/)
 
 ## Rolling Hash (Rabin Karp)
 
