@@ -90,6 +90,12 @@ with duplicate (hard and not necessary) - [https://leetcode.com/problems/find-mi
 
 538 . [https://leetcode.com/problems/convert-bst-to-greater-tree/submissions/942862400/](https://leetcode.com/problems/convert-bst-to-greater-tree/submissions/942862400/)
 
+1038 [https://leetcode.com/problems/binary-search-tree-to-greater-sum-tree/description/](https://leetcode.com/problems/binary-search-tree-to-greater-sum-tree/description/)
+
+
+
+
+
 ### Nary Tree Structure
 
 431 . [https://leetcode.com/problems/encode-n-ary-tree-to-binary-tree/description/](https://leetcode.com/problems/encode-n-ary-tree-to-binary-tree/description/)
@@ -195,6 +201,8 @@ with duplicate (hard and not necessary) - [https://leetcode.com/problems/find-mi
 886 . Or DFS / Union Find [https://leetcode.com/problems/possible-bipartition/description/](https://leetcode.com/problems/possible-bipartition/description/)
 
 934 . [https://leetcode.com/problems/shortest-bridge/description/](https://leetcode.com/problems/shortest-bridge/description/)
+
+1036 . [https://leetcode.com/problems/escape-a-large-maze/description/](https://leetcode.com/problems/escape-a-large-maze/description/)
 
 ### Shortest Distance
 
@@ -380,6 +388,10 @@ Unnecessary Hard
 1000 . [https://leetcode.com/problems/minimum-cost-to-merge-stones/](https://leetcode.com/problems/minimum-cost-to-merge-stones/)
 
 1027 [https://leetcode.com/problems/longest-arithmetic-subsequence/description/](https://leetcode.com/problems/longest-arithmetic-subsequence/description/)
+
+1035 . [https://leetcode.com/problems/uncrossed-lines/description/](https://leetcode.com/problems/uncrossed-lines/description/)&#x20;
+
+1039 [https://leetcode.com/problems/minimum-score-triangulation-of-polygon/description/](https://leetcode.com/problems/minimum-score-triangulation-of-polygon/description/)
 
 ### Coin DP
 
@@ -1031,6 +1043,8 @@ Find Lexig
 
 992 . Freq [https://leetcode.com/problems/subarrays-with-k-different-integers/description/](https://leetcode.com/problems/subarrays-with-k-different-integers/description/)
 
+1040 [https://leetcode.com/problems/moving-stones-until-consecutive-ii/description/](https://leetcode.com/problems/moving-stones-until-consecutive-ii/description/)
+
 ### Fast and Slow Pointer
 
 142 . [https://leetcode.com/problems/linked-list-cycle-ii/description/](https://leetcode.com/problems/linked-list-cycle-ii/description/)
@@ -1068,6 +1082,8 @@ Find Lexig
 745 . Paired trie - [https://leetcode.com/problems/prefix-and-suffix-search/description/](https://leetcode.com/problems/prefix-and-suffix-search/description/)
 
 720 . [https://leetcode.com/problems/longest-word-in-dictionary/description/](https://leetcode.com/problems/longest-word-in-dictionary/description/)
+
+1032 [https://leetcode.com/problems/stream-of-characters/description/](https://leetcode.com/problems/stream-of-characters/description/)
 
 ## Union Find
 
