@@ -42,6 +42,8 @@ with duplicate (hard and not necessary) - [https://leetcode.com/problems/find-mi
 
 719 . [https://leetcode.com/problems/find-k-th-smallest-pair-distance/description/](https://leetcode.com/problems/find-k-th-smallest-pair-distance/description/)
 
+1060 [https://leetcode.com/problems/missing-element-in-sorted-array/description/](https://leetcode.com/problems/missing-element-in-sorted-array/description/)
+
 ### Binary Search Result Range
 
 410 . [https://leetcode.com/problems/split-array-largest-sum/description/](https://leetcode.com/problems/split-array-largest-sum/description/)
@@ -267,7 +269,9 @@ Unnecessary Hard
 
 949 . [https://leetcode.com/problems/largest-time-for-given-digits/description/](https://leetcode.com/problems/largest-time-for-given-digits/description/)
 
-980 . [https://leetcode.com/problems/unique-paths-iii/description/](https://leetcode.com/problems/unique-paths-iii/description/)
+980 . [https://leetcode.com/problems/unique-paths-iii/description/](https://leetcode.com/problems/unique-paths-iii/description/)&#x20;
+
+1059 [https://leetcode.com/problems/all-paths-from-source-lead-to-destination/description/](https://leetcode.com/problems/all-paths-from-source-lead-to-destination/description/)
 
 ## Dynamic Programming&#x20;
 
@@ -393,6 +397,8 @@ Unnecessary Hard
 
 1039 [https://leetcode.com/problems/minimum-score-triangulation-of-polygon/description/](https://leetcode.com/problems/minimum-score-triangulation-of-polygon/description/)
 
+1048 . [https://leetcode.com/problems/longest-string-chain/description/](https://leetcode.com/problems/longest-string-chain/description/)
+
 ### Coin DP
 
 322 . [https://leetcode.com/problems/coin-change/description/](https://leetcode.com/problems/coin-change/description/)
@@ -428,6 +434,8 @@ Unnecessary Hard
 486 . [https://leetcode.com/problems/predict-the-winner/description/](https://leetcode.com/problems/predict-the-winner/description/)
 
 877 . Practise, actual is O(1) [https://leetcode.com/problems/stone-game/description/](https://leetcode.com/problems/stone-game/description/)
+
+1049 ,. [https://leetcode.com/problems/last-stone-weight-ii/description/](https://leetcode.com/problems/last-stone-weight-ii/description/)
 
 #### minimax algorithm
 
@@ -583,7 +591,7 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 
 1024 [https://leetcode.com/problems/video-stitching/description/](https://leetcode.com/problems/video-stitching/description/)
 
-
+1042 [https://leetcode.com/problems/flower-planting-with-no-adjacent/submissions/2022847917/](https://leetcode.com/problems/flower-planting-with-no-adjacent/submissions/2022847917/)
 
 ### Wigger Sort
 
@@ -606,6 +614,8 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 ## Hashing (Rabin Karp)
 
 187 . Rabin Karp [https://leetcode.com/problems/repeated-dna-sequences/](https://leetcode.com/problems/repeated-dna-sequences/)
+
+1044 with Binary Search [https://leetcode.com/problems/longest-duplicate-substring/editorial/](https://leetcode.com/problems/longest-duplicate-substring/editorial/)
 
 ## Heap (Priority Queue)
 
@@ -637,9 +647,15 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 
 442 . [https://leetcode.com/problems/find-all-duplicates-in-an-array/description/](https://leetcode.com/problems/find-all-duplicates-in-an-array/description/)
 
+## inverted Index
+
+1055 [https://leetcode.com/problems/shortest-way-to-form-string/description/](https://leetcode.com/problems/shortest-way-to-form-string/description/)
+
 ## Lexicographically Next
 
 556 .. [https://leetcode.com/problems/next-greater-element-iii/description/](https://leetcode.com/problems/next-greater-element-iii/description/)
+
+1153 . [https://leetcode.com/problems/previous-permutation-with-one-swap/description/](https://leetcode.com/problems/previous-permutation-with-one-swap/description/)
 
 ## Linked List
 
@@ -716,6 +732,8 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 964 DP - [https://leetcode.com/problems/least-operators-to-express-number/description/](https://leetcode.com/problems/least-operators-to-express-number/description/)
 
 972 Fraction [https://leetcode.com/problems/equal-rational-numbers/description/](https://leetcode.com/problems/equal-rational-numbers/description/)
+
+1041 [https://leetcode.com/problems/robot-bounded-in-circle/editorial/](https://leetcode.com/problems/robot-bounded-in-circle/editorial/)
 
 ### GCD
 
@@ -949,6 +967,10 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 
 220 . Bucket search [https://leetcode.com/problems/contains-duplicate-iii/description/](https://leetcode.com/problems/contains-duplicate-iii/description/)
 
+1057 [https://leetcode.com/problems/campus-bikes/description/](https://leetcode.com/problems/campus-bikes/description/)
+
+
+
 
 
 Find Lexig
@@ -1006,6 +1028,8 @@ Find Lexig
 2262 . [https://leetcode.com/problems/total-appeal-of-a-string/description/](https://leetcode.com/problems/total-appeal-of-a-string/description/)
 
 ## Two Pointers
+
+###
 
 ### Opposite Direction Traversal
 
