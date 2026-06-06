@@ -44,11 +44,15 @@ with duplicate (hard and not necessary) - [https://leetcode.com/problems/find-mi
 
 1060 [https://leetcode.com/problems/missing-element-in-sorted-array/description/](https://leetcode.com/problems/missing-element-in-sorted-array/description/)
 
+1095 [https://leetcode.com/problems/find-in-mountain-array/description/](https://leetcode.com/problems/find-in-mountain-array/description/)
+
 ### Binary Search Result Range
 
 410 . [https://leetcode.com/problems/split-array-largest-sum/description/](https://leetcode.com/problems/split-array-largest-sum/description/)
 
 644 . Iterate with k interval, use min\_sum to keep track of minimal encounter [https://leetcode.com/problems/maximum-average-subarray-ii/description/](https://leetcode.com/problems/maximum-average-subarray-ii/description/)
+
+1102 [https://leetcode.com/problems/path-with-maximum-minimum-value/description/](https://leetcode.com/problems/path-with-maximum-minimum-value/description/)
 
 ## Binary (Search) Tree
 
@@ -96,7 +100,9 @@ with duplicate (hard and not necessary) - [https://leetcode.com/problems/find-mi
 
 
 
+### Lowest Common Ancestor
 
+1123 [https://leetcode.com/problems/lowest-common-ancestor-of-deepest-leaves/description/](https://leetcode.com/problems/lowest-common-ancestor-of-deepest-leaves/description/)
 
 ### Nary Tree Structure
 
@@ -172,6 +178,8 @@ with duplicate (hard and not necessary) - [https://leetcode.com/problems/find-mi
 
 1017 [https://leetcode.com/problems/convert-to-base-2/description/](https://leetcode.com/problems/convert-to-base-2/description/)
 
+1073 -base 2 [https://leetcode.com/problems/adding-two-negabinary-numbers/description/](https://leetcode.com/problems/adding-two-negabinary-numbers/description/)
+
 ### Quantum Bit
 
 458 . [https://leetcode.com/problems/poor-pigs/description/](https://leetcode.com/problems/poor-pigs/description/)
@@ -205,6 +213,8 @@ with duplicate (hard and not necessary) - [https://leetcode.com/problems/find-mi
 934 . [https://leetcode.com/problems/shortest-bridge/description/](https://leetcode.com/problems/shortest-bridge/description/)
 
 1036 . [https://leetcode.com/problems/escape-a-large-maze/description/](https://leetcode.com/problems/escape-a-large-maze/description/)
+
+1129 [https://leetcode.com/problems/shortest-path-with-alternating-colors/description/](https://leetcode.com/problems/shortest-path-with-alternating-colors/description/)
 
 ### Shortest Distance
 
@@ -272,6 +282,8 @@ Unnecessary Hard
 980 . [https://leetcode.com/problems/unique-paths-iii/description/](https://leetcode.com/problems/unique-paths-iii/description/)&#x20;
 
 1059 [https://leetcode.com/problems/all-paths-from-source-lead-to-destination/description/](https://leetcode.com/problems/all-paths-from-source-lead-to-destination/description/)
+
+1088 [https://leetcode.com/problems/confusing-number-ii/description/](https://leetcode.com/problems/confusing-number-ii/description/)
 
 ## Dynamic Programming&#x20;
 
@@ -399,6 +411,14 @@ Unnecessary Hard
 
 1048 . [https://leetcode.com/problems/longest-string-chain/description/](https://leetcode.com/problems/longest-string-chain/description/)
 
+1092 [https://leetcode.com/problems/shortest-common-supersequence/description/](https://leetcode.com/problems/shortest-common-supersequence/description/)
+
+1105 [https://leetcode.com/problems/filling-bookcase-shelves/description/](https://leetcode.com/problems/filling-bookcase-shelves/description/)&#x20;
+
+1125 Bitmask [https://leetcode.com/problems/smallest-sufficient-team/description/](https://leetcode.com/problems/smallest-sufficient-team/description/)&#x20;
+
+1130 [https://leetcode.com/problems/minimum-cost-tree-from-leaf-values/description/](https://leetcode.com/problems/minimum-cost-tree-from-leaf-values/description/)
+
 ### Coin DP
 
 322 . [https://leetcode.com/problems/coin-change/description/](https://leetcode.com/problems/coin-change/description/)
@@ -423,7 +443,7 @@ Unnecessary Hard
 
 902 . and counting [https://leetcode.com/problems/numbers-at-most-n-given-digit-set/description/](https://leetcode.com/problems/numbers-at-most-n-given-digit-set/description/)
 
-###
+1067 [https://leetcode.com/problems/digit-count-in-range/description/](https://leetcode.com/problems/digit-count-in-range/description/)
 
 
 
@@ -481,6 +501,14 @@ Unnecessary Hard
 
 900 . Run Length Encoding [https://leetcode.com/problems/rle-iterator/description/](https://leetcode.com/problems/rle-iterator/description/)
 
+### Concurrency
+
+1115 Concurrency [https://leetcode.com/problems/print-foobar-alternately/description/](https://leetcode.com/problems/print-foobar-alternately/description/)
+
+1116 Concurrency [https://leetcode.com/problems/print-zero-even-odd/description/](https://leetcode.com/problems/print-zero-even-odd/description/)
+
+1117 [https://leetcode.com/problems/building-h2o/description/](https://leetcode.com/problems/building-h2o/description/)
+
 ## Graph Algorithm
 
 785 . Use coloring -[https://leetcode.com/problems/is-graph-bipartite/description/](https://leetcode.com/problems/is-graph-bipartite/description/)&#x20;
@@ -502,6 +530,8 @@ Unnecessary Hard
 864 [https://leetcode.com/problems/shortest-path-to-get-all-keys/description/](https://leetcode.com/problems/shortest-path-to-get-all-keys/description/)
 
 882 . [https://leetcode.com/problems/reachable-nodes-in-subdivided-graph/editorial/](https://leetcode.com/problems/reachable-nodes-in-subdivided-graph/editorial/)
+
+1066 or PQ [https://leetcode.com/problems/campus-bikes-ii/description/](https://leetcode.com/problems/campus-bikes-ii/description/)
 
 ### Jarvis Algorithm / Graham Scan
 
@@ -592,6 +622,10 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 1024 [https://leetcode.com/problems/video-stitching/description/](https://leetcode.com/problems/video-stitching/description/)
 
 1042 [https://leetcode.com/problems/flower-planting-with-no-adjacent/submissions/2022847917/](https://leetcode.com/problems/flower-planting-with-no-adjacent/submissions/2022847917/)
+
+### Hash
+
+1072 [https://leetcode.com/problems/flip-columns-for-maximum-number-of-equal-rows/description/](https://leetcode.com/problems/flip-columns-for-maximum-number-of-equal-rows/description/)
 
 ### Wigger Sort
 
@@ -767,9 +801,13 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 
 1012 . [https://leetcode.com/problems/numbers-with-repeated-digits/description/](https://leetcode.com/problems/numbers-with-repeated-digits/description/)
 
+1079 [https://leetcode.com/problems/letter-tile-possibilities/description/](https://leetcode.com/problems/letter-tile-possibilities/description/)
+
 ### Pigeon Holes Principle
 
 466 . [https://leetcode.com/problems/count-the-repetitions/description/](https://leetcode.com/problems/count-the-repetitions/description/)
+
+1121 [https://leetcode.com/problems/divide-array-into-increasing-sequences/description/](https://leetcode.com/problems/divide-array-into-increasing-sequences/description/)
 
 ### Set Operation
 
@@ -901,6 +939,12 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 
 974 . Keep count of remainder(similar to 523) [https://leetcode.com/problems/subarray-sums-divisible-by-k/description/](https://leetcode.com/problems/subarray-sums-divisible-by-k/description/)
 
+1074 2D sum [https://leetcode.com/problems/number-of-submatrices-that-sum-to-target/description/](https://leetcode.com/problems/number-of-submatrices-that-sum-to-target/description/)
+
+1124 [https://leetcode.com/problems/longest-well-performing-interval/description/](https://leetcode.com/problems/longest-well-performing-interval/description/)
+
+
+
 ## Recursion
 
 390 . [https://leetcode.com/problems/elimination-game/description/](https://leetcode.com/problems/elimination-game/description/)
@@ -997,11 +1041,19 @@ Find Lexig
 
 895 . [https://leetcode.com/problems/maximum-frequency-stack/description/](https://leetcode.com/problems/maximum-frequency-stack/description/)
 
+1081 [https://leetcode.com/problems/smallest-subsequence-of-distinct-characters/description/](https://leetcode.com/problems/smallest-subsequence-of-distinct-characters/description/)
+
+1096 stack parsing [https://leetcode.com/problems/brace-expansion-ii/description/](https://leetcode.com/problems/brace-expansion-ii/description/)
+
+1106 [https://leetcode.com/problems/parsing-a-boolean-expression/description/](https://leetcode.com/problems/parsing-a-boolean-expression/description/)
+
 ### Stacks for Tree
 
 654 . [https://leetcode.com/problems/maximum-binary-tree/description/](https://leetcode.com/problems/maximum-binary-tree/description/)
 
 ## String
+
+1062 Radix | DP | Binary search [https://leetcode.com/problems/longest-repeating-substring/description/](https://leetcode.com/problems/longest-repeating-substring/description/)
 
 ### Manacher / DP
 
@@ -1013,6 +1065,8 @@ Find Lexig
 
 640 . [https://leetcode.com/problems/solve-the-equation/description/](https://leetcode.com/problems/solve-the-equation/description/)
 
+1087 [https://leetcode.com/problems/brace-expansion/description/](https://leetcode.com/problems/brace-expansion/description/)
+
 ## Sweeping Lines | Linear Scan
 
 56 . [https://leetcode.com/problems/merge-intervals/description/](https://leetcode.com/problems/merge-intervals/description/)
@@ -1020,6 +1074,8 @@ Find Lexig
 760 . [https://leetcode.com/problems/employee-free-time/description/](https://leetcode.com/problems/employee-free-time/description/)
 
 910 . [https://leetcode.com/problems/smallest-range-ii/description/](https://leetcode.com/problems/smallest-range-ii/description/)
+
+1094 [https://leetcode.com/problems/car-pooling/description/](https://leetcode.com/problems/car-pooling/description/)
 
 ## Transform and Conquer
 
@@ -1126,6 +1182,10 @@ Find Lexig
 952 . [https://leetcode.com/problems/largest-component-size-by-common-factor/description/](https://leetcode.com/problems/largest-component-size-by-common-factor/description/)
 
 990 . [https://leetcode.com/problems/satisfiability-of-equality-equations/description/](https://leetcode.com/problems/satisfiability-of-equality-equations/description/)
+
+1061 [https://leetcode.com/problems/lexicographically-smallest-equivalent-string/description/](https://leetcode.com/problems/lexicographically-smallest-equivalent-string/description/)
+
+1101 [https://leetcode.com/problems/the-earliest-moment-when-everyone-become-friends/description/](https://leetcode.com/problems/the-earliest-moment-when-everyone-become-friends/description/)
 
 ### Disjointed Union Find
 
