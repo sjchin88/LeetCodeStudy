@@ -457,6 +457,8 @@ Unnecessary Hard
 
 1049 ,. [https://leetcode.com/problems/last-stone-weight-ii/description/](https://leetcode.com/problems/last-stone-weight-ii/description/)
 
+1140 . [https://leetcode.com/problems/stone-game-ii/description/](https://leetcode.com/problems/stone-game-ii/description/)
+
 #### minimax algorithm
 
 913 . [https://leetcode.com/problems/cat-and-mouse/editorial/](https://leetcode.com/problems/cat-and-mouse/editorial/)
@@ -541,6 +543,14 @@ Unnecessary Hard
 
 675 .[https://leetcode.com/problems/cut-off-trees-for-golf-event/description/](https://leetcode.com/problems/cut-off-trees-for-golf-event/description/)
 
+### Mininum Spanning Tree (Kruskal)
+
+1135 [https://leetcode.com/problems/connecting-cities-with-minimum-cost/description/](https://leetcode.com/problems/connecting-cities-with-minimum-cost/description/)
+
+### Topological Sort
+
+1136 and Cycle Detection [https://leetcode.com/problems/parallel-courses/description/](https://leetcode.com/problems/parallel-courses/description/)
+
 ## Greedy (IQ Tests)
 
 BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312/](https://leetcode.com/problems/jump-game-ii/submissions/1928507312/)
@@ -622,6 +632,8 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 1024 [https://leetcode.com/problems/video-stitching/description/](https://leetcode.com/problems/video-stitching/description/)
 
 1042 [https://leetcode.com/problems/flower-planting-with-no-adjacent/submissions/2022847917/](https://leetcode.com/problems/flower-planting-with-no-adjacent/submissions/2022847917/)
+
+1138 [https://leetcode.com/problems/alphabet-board-path/description/](https://leetcode.com/problems/alphabet-board-path/description/)
 
 ### Hash
 
