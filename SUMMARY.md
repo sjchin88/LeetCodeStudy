@@ -68,6 +68,7 @@
 ## Quick Refresh
 
 * [List of Questions](quick-refresh/list-of-questions.md)
+* [Dynamic Programmings](quick-refresh/dynamic-programmings.md)
 * [Absolutely nuts](quick-refresh/absolutely-nuts.md)
 * [SQL](quick-refresh/sql.md)
 
