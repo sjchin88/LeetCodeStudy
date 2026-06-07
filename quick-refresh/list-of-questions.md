@@ -445,7 +445,11 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 
 1042 [https://leetcode.com/problems/flower-planting-with-no-adjacent/submissions/2022847917/](https://leetcode.com/problems/flower-planting-with-no-adjacent/submissions/2022847917/)
 
-1138 [https://leetcode.com/problems/alphabet-board-path/description/](https://leetcode.com/problems/alphabet-board-path/description/)
+1138 [https://leetcode.com/problems/alphabet-board-path/description/](https://leetcode.com/problems/alphabet-board-path/description/)&#x20;
+
+1145 [https://leetcode.com/problems/binary-tree-coloring-game/description/](https://leetcode.com/problems/binary-tree-coloring-game/description/)
+
+1147 [https://leetcode.com/problems/longest-chunked-palindrome-decomposition/description/](https://leetcode.com/problems/longest-chunked-palindrome-decomposition/description/)
 
 ### Hash
 
