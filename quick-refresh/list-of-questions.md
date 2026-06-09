@@ -315,6 +315,8 @@ Unnecessary Hard
 
 900 . Run Length Encoding [https://leetcode.com/problems/rle-iterator/description/](https://leetcode.com/problems/rle-iterator/description/)
 
+1166 [https://leetcode.com/problems/design-file-system/description/](https://leetcode.com/problems/design-file-system/description/)
+
 ### Concurrency
 
 1115 Concurrency [https://leetcode.com/problems/print-foobar-alternately/description/](https://leetcode.com/problems/print-foobar-alternately/description/)
@@ -358,6 +360,8 @@ Unnecessary Hard
 ### Mininum Spanning Tree (Kruskal)
 
 1135 [https://leetcode.com/problems/connecting-cities-with-minimum-cost/description/](https://leetcode.com/problems/connecting-cities-with-minimum-cost/description/)
+
+1168 [https://leetcode.com/problems/optimize-water-distribution-in-a-village/description/](https://leetcode.com/problems/optimize-water-distribution-in-a-village/description/)
 
 ### Topological Sort
 
@@ -505,6 +509,8 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 
 871 . [https://leetcode.com/problems/minimum-number-of-refueling-stops/description/](https://leetcode.com/problems/minimum-number-of-refueling-stops/description/)
 
+1167 [https://leetcode.com/problems/minimum-cost-to-connect-sticks/description/](https://leetcode.com/problems/minimum-cost-to-connect-sticks/description/)
+
 ## In-place Manipulation
 
 ### Array&#x20;
@@ -520,6 +526,8 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 556 .. [https://leetcode.com/problems/next-greater-element-iii/description/](https://leetcode.com/problems/next-greater-element-iii/description/)
 
 1153 . [https://leetcode.com/problems/previous-permutation-with-one-swap/description/](https://leetcode.com/problems/previous-permutation-with-one-swap/description/)
+
+1163 Two pointer [https://leetcode.com/problems/last-substring-in-lexicographical-order/description/](https://leetcode.com/problems/last-substring-in-lexicographical-order/description/)
 
 ## Linked List
 
@@ -810,6 +818,8 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 699 ./ [https://leetcode.com/problems/falling-squares/description/](https://leetcode.com/problems/falling-squares/description/)
 
 850 . Coordinate compresion = O(n^3), linesweep = O(n^2logn), [https://leetcode.com/problems/rectangle-area-ii/description/](https://leetcode.com/problems/rectangle-area-ii/description/)
+
+1157 [https://leetcode.com/problems/online-majority-element-in-subarray/description/](https://leetcode.com/problems/online-majority-element-in-subarray/description/)
 
 ### Binary Index Tree / Fenwick Tree
 
