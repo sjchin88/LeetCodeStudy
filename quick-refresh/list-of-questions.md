@@ -317,6 +317,8 @@ Unnecessary Hard
 
 1166 [https://leetcode.com/problems/design-file-system/description/](https://leetcode.com/problems/design-file-system/description/)
 
+1172 [https://leetcode.com/problems/dinner-plate-stacks/description/](https://leetcode.com/problems/dinner-plate-stacks/description/)
+
 ### Concurrency
 
 1115 Concurrency [https://leetcode.com/problems/print-foobar-alternately/description/](https://leetcode.com/problems/print-foobar-alternately/description/)
@@ -781,7 +783,9 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 
 1124 [https://leetcode.com/problems/longest-well-performing-interval/description/](https://leetcode.com/problems/longest-well-performing-interval/description/)
 
+### Prefix\_Xor
 
+1177 [https://leetcode.com/problems/can-make-palindrome-from-substring/description/](https://leetcode.com/problems/can-make-palindrome-from-substring/description/)
 
 ## Recursion
 
@@ -1004,6 +1008,8 @@ Find Lexig
 720 . [https://leetcode.com/problems/longest-word-in-dictionary/description/](https://leetcode.com/problems/longest-word-in-dictionary/description/)
 
 1032 [https://leetcode.com/problems/stream-of-characters/description/](https://leetcode.com/problems/stream-of-characters/description/)
+
+1178 or bitmask [https://leetcode.com/problems/number-of-valid-words-for-each-puzzle/description/](https://leetcode.com/problems/number-of-valid-words-for-each-puzzle/description/)
 
 ## Union Find
 
