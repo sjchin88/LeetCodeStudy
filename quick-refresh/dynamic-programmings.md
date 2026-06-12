@@ -134,6 +134,8 @@
 
 1130 [https://leetcode.com/problems/minimum-cost-tree-from-leaf-values/description/](https://leetcode.com/problems/minimum-cost-tree-from-leaf-values/description/)
 
+1187 [https://leetcode.com/problems/make-array-strictly-increasing/description/](https://leetcode.com/problems/make-array-strictly-increasing/description/)
+
 ### Coin DP
 
 322 . [https://leetcode.com/problems/coin-change/description/](https://leetcode.com/problems/coin-change/description/)

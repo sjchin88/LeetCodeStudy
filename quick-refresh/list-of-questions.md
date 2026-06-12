@@ -319,6 +319,8 @@ Unnecessary Hard
 
 1172 [https://leetcode.com/problems/dinner-plate-stacks/description/](https://leetcode.com/problems/dinner-plate-stacks/description/)
 
+1188 [https://leetcode.com/problems/design-bounded-blocking-queue/description/](https://leetcode.com/problems/design-bounded-blocking-queue/description/)
+
 ### Concurrency
 
 1115 Concurrency [https://leetcode.com/problems/print-foobar-alternately/description/](https://leetcode.com/problems/print-foobar-alternately/description/)
@@ -458,6 +460,10 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 1147 [https://leetcode.com/problems/longest-chunked-palindrome-decomposition/description/](https://leetcode.com/problems/longest-chunked-palindrome-decomposition/description/)
 
 1153 [https://leetcode.com/problems/string-transforms-into-another-string/description/](https://leetcode.com/problems/string-transforms-into-another-string/description/)
+
+1183 [https://leetcode.com/problems/maximum-number-of-ones/description/](https://leetcode.com/problems/maximum-number-of-ones/description/)
+
+11
 
 ### Hash
 
@@ -686,6 +692,8 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 363 . Or Prefix sum [https://leetcode.com/problems/max-sum-of-rectangle-no-larger-than-k/description/](https://leetcode.com/problems/max-sum-of-rectangle-no-larger-than-k/description/)
 
 918 . [https://leetcode.com/problems/maximum-sum-circular-subarray/description/](https://leetcode.com/problems/maximum-sum-circular-subarray/description/)
+
+1186 [https://leetcode.com/problems/maximum-subarray-sum-with-one-deletion/description/](https://leetcode.com/problems/maximum-subarray-sum-with-one-deletion/description/)
 
 ## Others
 
