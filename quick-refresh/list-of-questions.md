@@ -216,6 +216,8 @@ with duplicate (hard and not necessary) - [https://leetcode.com/problems/find-mi
 
 1129 [https://leetcode.com/problems/shortest-path-with-alternating-colors/description/](https://leetcode.com/problems/shortest-path-with-alternating-colors/description/)
 
+1197 Double BFS [https://leetcode.com/problems/minimum-knight-moves/description/](https://leetcode.com/problems/minimum-knight-moves/description/)
+
 ### Shortest Distance
 
 854 - [https://leetcode.com/problems/k-similar-strings/description/](https://leetcode.com/problems/k-similar-strings/description/)
@@ -285,6 +287,8 @@ Unnecessary Hard
 
 1088 [https://leetcode.com/problems/confusing-number-ii/description/](https://leetcode.com/problems/confusing-number-ii/description/)
 
+1192 Cycle detection [https://leetcode.com/problems/critical-connections-in-a-network/description/](https://leetcode.com/problems/critical-connections-in-a-network/description/)
+
 ##
 
 ## Function/Class Implementation
@@ -328,6 +332,8 @@ Unnecessary Hard
 1116 Concurrency [https://leetcode.com/problems/print-zero-even-odd/description/](https://leetcode.com/problems/print-zero-even-odd/description/)
 
 1117 [https://leetcode.com/problems/building-h2o/description/](https://leetcode.com/problems/building-h2o/description/)
+
+1195 [https://leetcode.com/problems/fizz-buzz-multithreaded/description/](https://leetcode.com/problems/fizz-buzz-multithreaded/description/)
 
 ## Graph Algorithm
 
@@ -517,7 +523,11 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 
 871 . [https://leetcode.com/problems/minimum-number-of-refueling-stops/description/](https://leetcode.com/problems/minimum-number-of-refueling-stops/description/)
 
+### Huffman's Algorithm
+
 1167 [https://leetcode.com/problems/minimum-cost-to-connect-sticks/description/](https://leetcode.com/problems/minimum-cost-to-connect-sticks/description/)
+
+1199 [https://leetcode.com/problems/minimum-time-to-build-blocks/description/](https://leetcode.com/problems/minimum-time-to-build-blocks/description/)
 
 ## In-place Manipulation
 
