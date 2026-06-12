@@ -54,6 +54,8 @@ with duplicate (hard and not necessary) - [https://leetcode.com/problems/find-mi
 
 1102 [https://leetcode.com/problems/path-with-maximum-minimum-value/description/](https://leetcode.com/problems/path-with-maximum-minimum-value/description/)
 
+1201 use lcm [https://leetcode.com/problems/ugly-number-iii/description/](https://leetcode.com/problems/ugly-number-iii/description/)
+
 ## Binary (Search) Tree
 
 99 . [https://leetcode.com/problems/recover-binary-search-tree/description/](https://leetcode.com/problems/recover-binary-search-tree/description/)
@@ -218,6 +220,8 @@ with duplicate (hard and not necessary) - [https://leetcode.com/problems/find-mi
 
 1197 Double BFS [https://leetcode.com/problems/minimum-knight-moves/description/](https://leetcode.com/problems/minimum-knight-moves/description/)
 
+1210 [https://leetcode.com/problems/minimum-moves-to-reach-target-with-rotations/description/](https://leetcode.com/problems/minimum-moves-to-reach-target-with-rotations/description/)
+
 ### Shortest Distance
 
 854 - [https://leetcode.com/problems/k-similar-strings/description/](https://leetcode.com/problems/k-similar-strings/description/)
@@ -325,6 +329,8 @@ Unnecessary Hard
 
 1188 [https://leetcode.com/problems/design-bounded-blocking-queue/description/](https://leetcode.com/problems/design-bounded-blocking-queue/description/)
 
+1206 Skiplist - [https://leetcode.com/problems/design-skiplist/description/](https://leetcode.com/problems/design-skiplist/description/)
+
 ### Concurrency
 
 1115 Concurrency [https://leetcode.com/problems/print-foobar-alternately/description/](https://leetcode.com/problems/print-foobar-alternately/description/)
@@ -376,6 +382,8 @@ Unnecessary Hard
 ### Topological Sort
 
 1136 and Cycle Detection [https://leetcode.com/problems/parallel-courses/description/](https://leetcode.com/problems/parallel-courses/description/)
+
+1203 [https://leetcode.com/problems/sort-items-by-groups-respecting-dependencies/editorial/](https://leetcode.com/problems/sort-items-by-groups-respecting-dependencies/editorial/)
 
 ## Greedy (IQ Tests)
 
@@ -909,6 +917,8 @@ Find Lexig
 
 1106 [https://leetcode.com/problems/parsing-a-boolean-expression/description/](https://leetcode.com/problems/parsing-a-boolean-expression/description/)
 
+1209 Practise [https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii/description/](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii/description/)
+
 ### Stacks for Tree
 
 654 . [https://leetcode.com/problems/maximum-binary-tree/description/](https://leetcode.com/problems/maximum-binary-tree/description/)
@@ -1058,3 +1068,5 @@ Find Lexig
 947 . [https://leetcode.com/problems/most-stones-removed-with-same-row-or-column/description/](https://leetcode.com/problems/most-stones-removed-with-same-row-or-column/description/)
 
 959 [https://leetcode.com/problems/regions-cut-by-slashes/editorial/](https://leetcode.com/problems/regions-cut-by-slashes/editorial/)
+
+1202 [https://leetcode.com/problems/smallest-string-with-swaps/description/](https://leetcode.com/problems/smallest-string-with-swaps/description/)
