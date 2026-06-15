@@ -222,6 +222,8 @@ with duplicate (hard and not necessary) - [https://leetcode.com/problems/find-mi
 
 1210 [https://leetcode.com/problems/minimum-moves-to-reach-target-with-rotations/description/](https://leetcode.com/problems/minimum-moves-to-reach-target-with-rotations/description/)
 
+1219 [https://leetcode.com/problems/path-with-maximum-gold/description/](https://leetcode.com/problems/path-with-maximum-gold/description/)
+
 ### Shortest Distance
 
 854 - [https://leetcode.com/problems/k-similar-strings/description/](https://leetcode.com/problems/k-similar-strings/description/)
@@ -292,6 +294,8 @@ Unnecessary Hard
 1088 [https://leetcode.com/problems/confusing-number-ii/description/](https://leetcode.com/problems/confusing-number-ii/description/)
 
 1192 Cycle detection [https://leetcode.com/problems/critical-connections-in-a-network/description/](https://leetcode.com/problems/critical-connections-in-a-network/description/)
+
+1215 [https://leetcode.com/problems/stepping-numbers/description/](https://leetcode.com/problems/stepping-numbers/description/)
 
 ##
 

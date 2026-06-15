@@ -136,6 +136,12 @@
 
 1187 [https://leetcode.com/problems/make-array-strictly-increasing/description/](https://leetcode.com/problems/make-array-strictly-increasing/description/)
 
+1216 [https://leetcode.com/problems/valid-palindrome-iii/description/](https://leetcode.com/problems/valid-palindrome-iii/description/)
+
+1218 [https://leetcode.com/problems/longest-arithmetic-subsequence-of-given-difference/description/](https://leetcode.com/problems/longest-arithmetic-subsequence-of-given-difference/description/)
+
+1220 [https://leetcode.com/problems/count-vowels-permutation/description/](https://leetcode.com/problems/count-vowels-permutation/description/)
+
 ### Coin DP
 
 322 . [https://leetcode.com/problems/coin-change/description/](https://leetcode.com/problems/coin-change/description/)

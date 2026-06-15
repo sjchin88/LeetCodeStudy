@@ -52,3 +52,9 @@
 
 **753 .** [**https://leetcode.com/problems/cracking-the-safe/description/**](https://leetcode.com/problems/cracking-the-safe/description/)
 
+
+
+## **Multiple Practises**
+
+**1214** [**https://leetcode.com/problems/two-sum-bsts/description/**](https://leetcode.com/problems/two-sum-bsts/description/)
+
