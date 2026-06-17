@@ -335,6 +335,8 @@ Unnecessary Hard
 
 1206 Skiplist - [https://leetcode.com/problems/design-skiplist/description/](https://leetcode.com/problems/design-skiplist/description/)
 
+1226 [https://leetcode.com/problems/the-dining-philosophers/description/](https://leetcode.com/problems/the-dining-philosophers/description/)
+
 ### Concurrency
 
 1115 Concurrency [https://leetcode.com/problems/print-foobar-alternately/description/](https://leetcode.com/problems/print-foobar-alternately/description/)
@@ -636,6 +638,8 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 972 Fraction [https://leetcode.com/problems/equal-rational-numbers/description/](https://leetcode.com/problems/equal-rational-numbers/description/)
 
 1041 [https://leetcode.com/problems/robot-bounded-in-circle/editorial/](https://leetcode.com/problems/robot-bounded-in-circle/editorial/)
+
+1227 [https://leetcode.com/problems/airplane-seat-assignment-probability/description/](https://leetcode.com/problems/airplane-seat-assignment-probability/description/)
 
 ### GCD
 
