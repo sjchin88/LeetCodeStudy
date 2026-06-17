@@ -142,6 +142,8 @@
 
 1220 [https://leetcode.com/problems/count-vowels-permutation/description/](https://leetcode.com/problems/count-vowels-permutation/description/)
 
+1223 3D [https://leetcode.com/problems/dice-roll-simulation/description/](https://leetcode.com/problems/dice-roll-simulation/description/)
+
 ### Coin DP
 
 322 . [https://leetcode.com/problems/coin-change/description/](https://leetcode.com/problems/coin-change/description/)

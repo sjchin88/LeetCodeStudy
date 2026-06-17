@@ -481,7 +481,7 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 
 1183 [https://leetcode.com/problems/maximum-number-of-ones/description/](https://leetcode.com/problems/maximum-number-of-ones/description/)
 
-11
+1224 [https://leetcode.com/problems/maximum-equal-frequency/description/](https://leetcode.com/problems/maximum-equal-frequency/description/)
 
 ### Hash
 
