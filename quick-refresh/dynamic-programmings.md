@@ -144,6 +144,20 @@
 
 1223 3D [https://leetcode.com/problems/dice-roll-simulation/description/](https://leetcode.com/problems/dice-roll-simulation/description/)
 
+1235 + Binary Search [https://leetcode.com/problems/maximum-profit-in-job-scheduling/description/](https://leetcode.com/problems/maximum-profit-in-job-scheduling/description/)
+
+1246 [https://leetcode.com/problems/palindrome-removal/description/](https://leetcode.com/problems/palindrome-removal/description/)
+
+1259 DP -> Catalan [https://leetcode.com/problems/handshakes-that-dont-cross/description/](https://leetcode.com/problems/handshakes-that-dont-cross/description/)
+
+1269 [https://leetcode.com/problems/number-of-ways-to-stay-in-the-same-place-after-some-steps/description/](https://leetcode.com/problems/number-of-ways-to-stay-in-the-same-place-after-some-steps/description/)
+
+1278 [https://leetcode.com/problems/palindrome-partitioning-iii/description/](https://leetcode.com/problems/palindrome-partitioning-iii/description/)
+
+1301 [https://leetcode.com/problems/number-of-paths-with-max-score/description/](https://leetcode.com/problems/number-of-paths-with-max-score/description/)
+
+###
+
 ### Coin DP
 
 322 . [https://leetcode.com/problems/coin-change/description/](https://leetcode.com/problems/coin-change/description/)

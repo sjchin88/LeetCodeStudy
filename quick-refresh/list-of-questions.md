@@ -54,7 +54,13 @@ with duplicate (hard and not necessary) - [https://leetcode.com/problems/find-mi
 
 1102 [https://leetcode.com/problems/path-with-maximum-minimum-value/description/](https://leetcode.com/problems/path-with-maximum-minimum-value/description/)
 
-1201 use lcm [https://leetcode.com/problems/ugly-number-iii/description/](https://leetcode.com/problems/ugly-number-iii/description/)
+1201 use lcm [https://leetcode.com/problems/ugly-number-iii/description/](https://leetcode.com/problems/ugly-number-iii/description/)&#x20;
+
+1292 Prefix + optimized enumeration [https://leetcode.com/problems/maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold/description/](https://leetcode.com/problems/maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold/description/)
+
+### Divide and Conquer
+
+1274 [https://leetcode.com/problems/number-of-ships-in-a-rectangle/description/](https://leetcode.com/problems/number-of-ships-in-a-rectangle/description/)
 
 ## Binary (Search) Tree
 
@@ -100,11 +106,15 @@ with duplicate (hard and not necessary) - [https://leetcode.com/problems/find-mi
 
 1038 [https://leetcode.com/problems/binary-search-tree-to-greater-sum-tree/description/](https://leetcode.com/problems/binary-search-tree-to-greater-sum-tree/description/)
 
+1305 [https://leetcode.com/problems/all-elements-in-two-binary-search-trees/description/](https://leetcode.com/problems/all-elements-in-two-binary-search-trees/description/)
+
 
 
 ### Lowest Common Ancestor
 
 1123 [https://leetcode.com/problems/lowest-common-ancestor-of-deepest-leaves/description/](https://leetcode.com/problems/lowest-common-ancestor-of-deepest-leaves/description/)
+
+1257 [https://leetcode.com/problems/smallest-common-region/description/](https://leetcode.com/problems/smallest-common-region/description/)
 
 ### Nary Tree Structure
 
@@ -182,6 +192,8 @@ with duplicate (hard and not necessary) - [https://leetcode.com/problems/find-mi
 
 1073 -base 2 [https://leetcode.com/problems/adding-two-negabinary-numbers/description/](https://leetcode.com/problems/adding-two-negabinary-numbers/description/)
 
+1238 GrayCode [https://leetcode.com/problems/circular-permutation-in-binary-representation/description/](https://leetcode.com/problems/circular-permutation-in-binary-representation/description/)
+
 ### Quantum Bit
 
 458 . [https://leetcode.com/problems/poor-pigs/description/](https://leetcode.com/problems/poor-pigs/description/)
@@ -223,6 +235,12 @@ with duplicate (hard and not necessary) - [https://leetcode.com/problems/find-mi
 1210 [https://leetcode.com/problems/minimum-moves-to-reach-target-with-rotations/description/](https://leetcode.com/problems/minimum-moves-to-reach-target-with-rotations/description/)
 
 1219 [https://leetcode.com/problems/path-with-maximum-gold/description/](https://leetcode.com/problems/path-with-maximum-gold/description/)
+
+1245 Furthest distance in Tree [https://leetcode.com/problems/tree-diameter/description/](https://leetcode.com/problems/tree-diameter/description/)
+
+1254 [https://leetcode.com/problems/number-of-closed-islands/description/](https://leetcode.com/problems/number-of-closed-islands/description/)
+
+1263 [https://leetcode.com/problems/minimum-moves-to-move-a-box-to-their-target-location/description/](https://leetcode.com/problems/minimum-moves-to-move-a-box-to-their-target-location/description/)
 
 ### Shortest Distance
 
@@ -297,6 +315,16 @@ Unnecessary Hard
 
 1215 [https://leetcode.com/problems/stepping-numbers/description/](https://leetcode.com/problems/stepping-numbers/description/)
 
+1240 Hard perfect square [https://leetcode.com/problems/tiling-a-rectangle-with-the-fewest-squares/description/](https://leetcode.com/problems/tiling-a-rectangle-with-the-fewest-squares/description/)
+
+1255 [https://leetcode.com/problems/maximum-score-words-formed-by-letters/description/](https://leetcode.com/problems/maximum-score-words-formed-by-letters/description/)
+
+1273 [https://leetcode.com/problems/delete-tree-nodes/description/](https://leetcode.com/problems/delete-tree-nodes/description/)
+
+1307 [https://leetcode.com/problems/verbal-arithmetic-puzzle/description/](https://leetcode.com/problems/verbal-arithmetic-puzzle/description/)
+
+
+
 ##
 
 ## Function/Class Implementation
@@ -346,6 +374,8 @@ Unnecessary Hard
 1117 [https://leetcode.com/problems/building-h2o/description/](https://leetcode.com/problems/building-h2o/description/)
 
 1195 [https://leetcode.com/problems/fizz-buzz-multithreaded/description/](https://leetcode.com/problems/fizz-buzz-multithreaded/description/)
+
+1242 [https://leetcode.com/problems/web-crawler-multithreaded/description/](https://leetcode.com/problems/web-crawler-multithreaded/description/)
 
 ## Graph Algorithm
 
@@ -485,9 +515,25 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 
 1224 [https://leetcode.com/problems/maximum-equal-frequency/description/](https://leetcode.com/problems/maximum-equal-frequency/description/)
 
+1249 Greedy bracket stack [https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/description/](https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/description/)
+
+1262 [https://leetcode.com/problems/greatest-sum-divisible-by-three/description/](https://leetcode.com/problems/greatest-sum-divisible-by-three/description/)
+
+1267 [https://leetcode.com/problems/count-servers-that-communicate/](https://leetcode.com/problems/count-servers-that-communicate/)
+
+1296 [https://leetcode.com/problems/divide-array-in-sets-of-k-consecutive-numbers/description/](https://leetcode.com/problems/divide-array-in-sets-of-k-consecutive-numbers/description/)
+
+1297 [https://leetcode.com/problems/maximum-number-of-occurrences-of-a-substring/description/](https://leetcode.com/problems/maximum-number-of-occurrences-of-a-substring/description/)
+
+1300 [https://leetcode.com/problems/sum-of-mutated-array-closest-to-target/description/](https://leetcode.com/problems/sum-of-mutated-array-closest-to-target/description/)
+
 ### Hash
 
 1072 [https://leetcode.com/problems/flip-columns-for-maximum-number-of-equal-rows/description/](https://leetcode.com/problems/flip-columns-for-maximum-number-of-equal-rows/description/)
+
+### Lights Out Puzzle
+
+1284 [https://leetcode.com/problems/minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix/description/](https://leetcode.com/problems/minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix/description/)
 
 ### Wigger Sort
 
@@ -560,6 +606,8 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 1153 . [https://leetcode.com/problems/previous-permutation-with-one-swap/description/](https://leetcode.com/problems/previous-permutation-with-one-swap/description/)
 
 1163 Two pointer [https://leetcode.com/problems/last-substring-in-lexicographical-order/description/](https://leetcode.com/problems/last-substring-in-lexicographical-order/description/)
+
+1286 [https://leetcode.com/problems/iterator-for-combination/description/](https://leetcode.com/problems/iterator-for-combination/description/)
 
 ## Linked List
 
@@ -646,6 +694,8 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 858 . [https://leetcode.com/problems/mirror-reflection/description/](https://leetcode.com/problems/mirror-reflection/description/)
 
 878 . [https://leetcode.com/problems/nth-magical-number/description/](https://leetcode.com/problems/nth-magical-number/description/)
+
+1250 Bézout's lemma [https://leetcode.com/problems/check-if-it-is-a-good-array/description/](https://leetcode.com/problems/check-if-it-is-a-good-array/description/)
 
 ### Matrix
 
@@ -785,6 +835,8 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 
 911 . [https://leetcode.com/problems/online-election/description/](https://leetcode.com/problems/online-election/description/)
 
+1244 [https://leetcode.com/problems/design-a-leaderboard/description/](https://leetcode.com/problems/design-a-leaderboard/description/)
+
 ## Points Operation (2D Map)
 
 447 . Distance hashing & Combo [https://leetcode.com/problems/number-of-boomerangs/description/](https://leetcode.com/problems/number-of-boomerangs/description/)
@@ -820,6 +872,8 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 ### Prefix\_Xor
 
 1177 [https://leetcode.com/problems/can-make-palindrome-from-substring/description/](https://leetcode.com/problems/can-make-palindrome-from-substring/description/)
+
+1310 [https://leetcode.com/problems/xor-queries-of-a-subarray/description/](https://leetcode.com/problems/xor-queries-of-a-subarray/description/)
 
 ## Recursion
 
@@ -1047,6 +1101,10 @@ Find Lexig
 
 1178 or bitmask [https://leetcode.com/problems/number-of-valid-words-for-each-puzzle/description/](https://leetcode.com/problems/number-of-valid-words-for-each-puzzle/description/)
 
+1233 [https://leetcode.com/problems/remove-sub-folders-from-the-filesystem/description/](https://leetcode.com/problems/remove-sub-folders-from-the-filesystem/description/)
+
+1268 [https://leetcode.com/problems/search-suggestions-system/description/](https://leetcode.com/problems/search-suggestions-system/description/)
+
 ## Union Find
 
 305 . Alternative is BFS with memory - [https://leetcode.com/problems/number-of-islands-ii/description/](https://leetcode.com/problems/number-of-islands-ii/description/)
@@ -1068,6 +1126,8 @@ Find Lexig
 1061 [https://leetcode.com/problems/lexicographically-smallest-equivalent-string/description/](https://leetcode.com/problems/lexicographically-smallest-equivalent-string/description/)
 
 1101 [https://leetcode.com/problems/the-earliest-moment-when-everyone-become-friends/description/](https://leetcode.com/problems/the-earliest-moment-when-everyone-become-friends/description/)
+
+1258 [https://leetcode.com/problems/synonymous-sentences/description/](https://leetcode.com/problems/synonymous-sentences/description/)
 
 ### Disjointed Union Find
 
