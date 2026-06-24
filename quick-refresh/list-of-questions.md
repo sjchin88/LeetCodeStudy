@@ -901,6 +901,8 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 
 718 . [https://leetcode.com/problems/maximum-length-of-repeated-subarray/description/](https://leetcode.com/problems/maximum-length-of-repeated-subarray/description/)
 
+1316 [https://leetcode.com/problems/distinct-echo-substrings/description/](https://leetcode.com/problems/distinct-echo-substrings/description/)
+
 ## Segment Tree/ SQRT Decomposition
 
 307 . [https://leetcode.com/problems/range-sum-query-mutable/description/](https://leetcode.com/problems/range-sum-query-mutable/description/)

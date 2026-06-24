@@ -156,6 +156,8 @@
 
 1301 [https://leetcode.com/problems/number-of-paths-with-max-score/description/](https://leetcode.com/problems/number-of-paths-with-max-score/description/)
 
+1312 [https://leetcode.com/problems/minimum-insertion-steps-to-make-a-string-palindrome/description/](https://leetcode.com/problems/minimum-insertion-steps-to-make-a-string-palindrome/description/)
+
 ###
 
 ### Coin DP
