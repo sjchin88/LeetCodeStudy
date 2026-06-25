@@ -160,6 +160,10 @@
 
 1320 [https://leetcode.com/problems/minimum-distance-to-type-a-word-using-two-fingers/description/](https://leetcode.com/problems/minimum-distance-to-type-a-word-using-two-fingers/description/)
 
+1335 [https://leetcode.com/problems/minimum-difficulty-of-a-job-schedule/description/](https://leetcode.com/problems/minimum-difficulty-of-a-job-schedule/description/)
+
+
+
 ###
 
 ### Coin DP
@@ -177,6 +181,8 @@
 488 . [https://leetcode.com/problems/zuma-game/description/](https://leetcode.com/problems/zuma-game/description/)
 
 526 , [https://leetcode.com/problems/beautiful-arrangement/description/](https://leetcode.com/problems/beautiful-arrangement/description/)
+
+1349 [https://leetcode.com/problems/maximum-students-taking-exam/description/](https://leetcode.com/problems/maximum-students-taking-exam/description/)
 
 ### Digit DP
 

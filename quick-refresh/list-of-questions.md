@@ -232,8 +232,6 @@ with duplicate (hard and not necessary) - [https://leetcode.com/problems/find-mi
 
 1129 [https://leetcode.com/problems/shortest-path-with-alternating-colors/description/](https://leetcode.com/problems/shortest-path-with-alternating-colors/description/)
 
-1197 Double BFS [https://leetcode.com/problems/minimum-knight-moves/description/](https://leetcode.com/problems/minimum-knight-moves/description/)
-
 1210 [https://leetcode.com/problems/minimum-moves-to-reach-target-with-rotations/description/](https://leetcode.com/problems/minimum-moves-to-reach-target-with-rotations/description/)
 
 1219 [https://leetcode.com/problems/path-with-maximum-gold/description/](https://leetcode.com/problems/path-with-maximum-gold/description/)
@@ -243,6 +241,12 @@ with duplicate (hard and not necessary) - [https://leetcode.com/problems/find-mi
 1254 [https://leetcode.com/problems/number-of-closed-islands/description/](https://leetcode.com/problems/number-of-closed-islands/description/)
 
 1263 [https://leetcode.com/problems/minimum-moves-to-move-a-box-to-their-target-location/description/](https://leetcode.com/problems/minimum-moves-to-move-a-box-to-their-target-location/description/)
+
+### Bidectional BFS
+
+1197 Double BFS [https://leetcode.com/problems/minimum-knight-moves/description/](https://leetcode.com/problems/minimum-knight-moves/description/)
+
+1345 [https://leetcode.com/problems/jump-game-iv/description/](https://leetcode.com/problems/jump-game-iv/description/)
 
 ### Shortest Distance
 
@@ -325,7 +329,7 @@ Unnecessary Hard
 
 1307 [https://leetcode.com/problems/verbal-arithmetic-puzzle/description/](https://leetcode.com/problems/verbal-arithmetic-puzzle/description/)
 
-
+1339 save sum out [https://leetcode.com/problems/maximum-product-of-splitted-binary-tree/description/](https://leetcode.com/problems/maximum-product-of-splitted-binary-tree/description/)
 
 ##
 
@@ -402,6 +406,8 @@ Unnecessary Hard
 882 . [https://leetcode.com/problems/reachable-nodes-in-subdivided-graph/editorial/](https://leetcode.com/problems/reachable-nodes-in-subdivided-graph/editorial/)
 
 1066 or PQ [https://leetcode.com/problems/campus-bikes-ii/description/](https://leetcode.com/problems/campus-bikes-ii/description/)
+
+1334 [https://leetcode.com/problems/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/description/](https://leetcode.com/problems/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/description/)
 
 ### Jarvis Algorithm / Graham Scan
 
@@ -593,6 +599,8 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 
 1329 one pass heap [https://leetcode.com/problems/sort-the-matrix-diagonally/description/](https://leetcode.com/problems/sort-the-matrix-diagonally/description/)
 
+1353 [https://leetcode.com/problems/maximum-number-of-events-that-can-be-attended/description/](https://leetcode.com/problems/maximum-number-of-events-that-can-be-attended/description/)
+
 ### Huffman's Algorithm
 
 1167 [https://leetcode.com/problems/minimum-cost-to-connect-sticks/description/](https://leetcode.com/problems/minimum-cost-to-connect-sticks/description/)
@@ -699,6 +707,8 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 
 1227 [https://leetcode.com/problems/airplane-seat-assignment-probability/description/](https://leetcode.com/problems/airplane-seat-assignment-probability/description/)
 
+1344 [https://leetcode.com/problems/angle-between-hands-of-a-clock/description/](https://leetcode.com/problems/angle-between-hands-of-a-clock/description/)
+
 ### GCD
 
 858 . [https://leetcode.com/problems/mirror-reflection/description/](https://leetcode.com/problems/mirror-reflection/description/)
@@ -781,6 +791,10 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 
 1186 [https://leetcode.com/problems/maximum-subarray-sum-with-one-deletion/description/](https://leetcode.com/problems/maximum-subarray-sum-with-one-deletion/description/)
 
+### Kahn's algorithm
+
+1340 [https://leetcode.com/problems/jump-game-v/description/](https://leetcode.com/problems/jump-game-v/description/)
+
 ## Others
 
 ### 2D compression to 1D
@@ -847,6 +861,8 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 
 1244 [https://leetcode.com/problems/design-a-leaderboard/description/](https://leetcode.com/problems/design-a-leaderboard/description/)
 
+1348 [https://leetcode.com/problems/tweet-counts-per-frequency/description/](https://leetcode.com/problems/tweet-counts-per-frequency/description/)
+
 ## Points Operation (2D Map)
 
 447 . Distance hashing & Combo [https://leetcode.com/problems/number-of-boomerangs/description/](https://leetcode.com/problems/number-of-boomerangs/description/)
@@ -878,6 +894,10 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 1074 2D sum [https://leetcode.com/problems/number-of-submatrices-that-sum-to-target/description/](https://leetcode.com/problems/number-of-submatrices-that-sum-to-target/description/)
 
 1124 [https://leetcode.com/problems/longest-well-performing-interval/description/](https://leetcode.com/problems/longest-well-performing-interval/description/)
+
+### Prefix Prod
+
+1352 [https://leetcode.com/problems/product-of-the-last-k-numbers/description/](https://leetcode.com/problems/product-of-the-last-k-numbers/description/)
 
 ### Prefix\_Xor
 
