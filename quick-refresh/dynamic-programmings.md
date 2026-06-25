@@ -158,6 +158,8 @@
 
 1312 [https://leetcode.com/problems/minimum-insertion-steps-to-make-a-string-palindrome/description/](https://leetcode.com/problems/minimum-insertion-steps-to-make-a-string-palindrome/description/)
 
+1320 [https://leetcode.com/problems/minimum-distance-to-type-a-word-using-two-fingers/description/](https://leetcode.com/problems/minimum-distance-to-type-a-word-using-two-fingers/description/)
+
 ###
 
 ### Coin DP

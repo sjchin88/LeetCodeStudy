@@ -194,6 +194,8 @@ with duplicate (hard and not necessary) - [https://leetcode.com/problems/find-mi
 
 1238 GrayCode [https://leetcode.com/problems/circular-permutation-in-binary-representation/description/](https://leetcode.com/problems/circular-permutation-in-binary-representation/description/)
 
+1318 [https://leetcode.com/problems/minimum-flips-to-make-a-or-b-equal-to-c/description/](https://leetcode.com/problems/minimum-flips-to-make-a-or-b-equal-to-c/description/)
+
 ### Quantum Bit
 
 458 . [https://leetcode.com/problems/poor-pigs/description/](https://leetcode.com/problems/poor-pigs/description/)
@@ -527,6 +529,12 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 
 1300 [https://leetcode.com/problems/sum-of-mutated-array-closest-to-target/description/](https://leetcode.com/problems/sum-of-mutated-array-closest-to-target/description/)
 
+1326 DP has higher time complexity [https://leetcode.com/problems/minimum-number-of-taps-to-open-to-water-a-garden/description/](https://leetcode.com/problems/minimum-number-of-taps-to-open-to-water-a-garden/description/)
+
+1328 [https://leetcode.com/problems/break-a-palindrome/description/](https://leetcode.com/problems/break-a-palindrome/description/)
+
+1330 [https://leetcode.com/problems/reverse-subarray-to-maximize-array-value/description/](https://leetcode.com/problems/reverse-subarray-to-maximize-array-value/description/)
+
 ### Hash
 
 1072 [https://leetcode.com/problems/flip-columns-for-maximum-number-of-equal-rows/description/](https://leetcode.com/problems/flip-columns-for-maximum-number-of-equal-rows/description/)
@@ -582,6 +590,8 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 857 . [https://leetcode.com/problems/minimum-cost-to-hire-k-workers/description/](https://leetcode.com/problems/minimum-cost-to-hire-k-workers/description/)
 
 871 . [https://leetcode.com/problems/minimum-number-of-refueling-stops/description/](https://leetcode.com/problems/minimum-number-of-refueling-stops/description/)
+
+1329 one pass heap [https://leetcode.com/problems/sort-the-matrix-diagonally/description/](https://leetcode.com/problems/sort-the-matrix-diagonally/description/)
 
 ### Huffman's Algorithm
 
@@ -1130,6 +1140,8 @@ Find Lexig
 1101 [https://leetcode.com/problems/the-earliest-moment-when-everyone-become-friends/description/](https://leetcode.com/problems/the-earliest-moment-when-everyone-become-friends/description/)
 
 1258 [https://leetcode.com/problems/synonymous-sentences/description/](https://leetcode.com/problems/synonymous-sentences/description/)
+
+1319 [https://leetcode.com/problems/number-of-operations-to-make-network-connected/description/](https://leetcode.com/problems/number-of-operations-to-make-network-connected/description/)
 
 ### Disjointed Union Find
 
