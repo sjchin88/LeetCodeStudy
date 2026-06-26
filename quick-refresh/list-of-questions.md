@@ -90,6 +90,8 @@ with duplicate (hard and not necessary) - [https://leetcode.com/problems/find-mi
 
 999 [https://leetcode.com/problems/maximum-binary-tree-ii/description/](https://leetcode.com/problems/maximum-binary-tree-ii/description/)
 
+1361 [https://leetcode.com/problems/validate-binary-tree-nodes/description/](https://leetcode.com/problems/validate-binary-tree-nodes/description/)
+
 ### Inorder traversal
 
 173 . Inorder - [https://leetcode.com/problems/binary-search-tree-iterator/description/](https://leetcode.com/problems/binary-search-tree-iterator/description/)
@@ -127,6 +129,8 @@ with duplicate (hard and not necessary) - [https://leetcode.com/problems/find-mi
 1008 [https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/description/](https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/description/)
 
 1028 [https://leetcode.com/problems/recover-a-tree-from-preorder-traversal/description/](https://leetcode.com/problems/recover-a-tree-from-preorder-traversal/description/)
+
+1382 [https://leetcode.com/problems/balance-a-binary-search-tree/description/](https://leetcode.com/problems/balance-a-binary-search-tree/description/)
 
 ### PostOrder Traversal
 
@@ -196,6 +200,10 @@ with duplicate (hard and not necessary) - [https://leetcode.com/problems/find-mi
 
 1318 [https://leetcode.com/problems/minimum-flips-to-make-a-or-b-equal-to-c/description/](https://leetcode.com/problems/minimum-flips-to-make-a-or-b-equal-to-c/description/)
 
+1371 bitmasking [https://leetcode.com/problems/find-the-longest-substring-containing-vowels-in-even-counts/description/](https://leetcode.com/problems/find-the-longest-substring-containing-vowels-in-even-counts/description/)
+
+1375 [https://leetcode.com/problems/number-of-times-binary-string-is-prefix-aligned/description/](https://leetcode.com/problems/number-of-times-binary-string-is-prefix-aligned/description/)
+
 ### Quantum Bit
 
 458 . [https://leetcode.com/problems/poor-pigs/description/](https://leetcode.com/problems/poor-pigs/description/)
@@ -241,6 +249,8 @@ with duplicate (hard and not necessary) - [https://leetcode.com/problems/find-mi
 1254 [https://leetcode.com/problems/number-of-closed-islands/description/](https://leetcode.com/problems/number-of-closed-islands/description/)
 
 1263 [https://leetcode.com/problems/minimum-moves-to-move-a-box-to-their-target-location/description/](https://leetcode.com/problems/minimum-moves-to-move-a-box-to-their-target-location/description/)
+
+1368 [https://leetcode.com/problems/minimum-cost-to-make-at-least-one-valid-path-in-a-grid/description/](https://leetcode.com/problems/minimum-cost-to-make-at-least-one-valid-path-in-a-grid/description/)
 
 ### Bidectional BFS
 
@@ -331,6 +341,8 @@ Unnecessary Hard
 
 1339 save sum out [https://leetcode.com/problems/maximum-product-of-splitted-binary-tree/description/](https://leetcode.com/problems/maximum-product-of-splitted-binary-tree/description/)
 
+1377 [https://leetcode.com/problems/frog-position-after-t-seconds/description/](https://leetcode.com/problems/frog-position-after-t-seconds/description/)
+
 ##
 
 ## Function/Class Implementation
@@ -370,6 +382,8 @@ Unnecessary Hard
 1206 Skiplist - [https://leetcode.com/problems/design-skiplist/description/](https://leetcode.com/problems/design-skiplist/description/)
 
 1226 [https://leetcode.com/problems/the-dining-philosophers/description/](https://leetcode.com/problems/the-dining-philosophers/description/)
+
+1381 [https://leetcode.com/problems/design-a-stack-with-increment-operation/description/](https://leetcode.com/problems/design-a-stack-with-increment-operation/description/)
 
 ### Concurrency
 
@@ -527,6 +541,8 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 
 1262 [https://leetcode.com/problems/greatest-sum-divisible-by-three/description/](https://leetcode.com/problems/greatest-sum-divisible-by-three/description/)
 
+1363 [https://leetcode.com/problems/largest-multiple-of-three/description/](https://leetcode.com/problems/largest-multiple-of-three/description/)
+
 1267 [https://leetcode.com/problems/count-servers-that-communicate/](https://leetcode.com/problems/count-servers-that-communicate/)
 
 1296 [https://leetcode.com/problems/divide-array-in-sets-of-k-consecutive-numbers/description/](https://leetcode.com/problems/divide-array-in-sets-of-k-consecutive-numbers/description/)
@@ -602,6 +618,8 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 1353 [https://leetcode.com/problems/maximum-number-of-events-that-can-be-attended/description/](https://leetcode.com/problems/maximum-number-of-events-that-can-be-attended/description/)
 
 1354 [https://leetcode.com/problems/construct-target-array-with-multiple-sums/description/](https://leetcode.com/problems/construct-target-array-with-multiple-sums/description/)
+
+1383 Greedy sort [https://leetcode.com/problems/maximum-performance-of-a-team/description/](https://leetcode.com/problems/maximum-performance-of-a-team/description/)
 
 ### Huffman's Algorithm
 
@@ -849,6 +867,10 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 
 533 . [https://leetcode.com/problems/lonely-pixel-ii/description/](https://leetcode.com/problems/lonely-pixel-ii/description/)
 
+### Python Practise
+
+1366 [https://leetcode.com/problems/rank-teams-by-votes/description/](https://leetcode.com/problems/rank-teams-by-votes/description/)
+
 ## OrderedDict / SortedSet / Bisect
 
 352 . [https://leetcode.com/problems/data-stream-as-disjoint-intervals/description/](https://leetcode.com/problems/data-stream-as-disjoint-intervals/description/)
@@ -1024,6 +1046,10 @@ Find Lexig
 ## String
 
 1062 Radix | DP | Binary search [https://leetcode.com/problems/longest-repeating-substring/description/](https://leetcode.com/problems/longest-repeating-substring/description/)
+
+### KMP&#x20;
+
+1367 [https://leetcode.com/problems/linked-list-in-binary-tree/description/](https://leetcode.com/problems/linked-list-in-binary-tree/description/)
 
 ### Manacher / DP
 
