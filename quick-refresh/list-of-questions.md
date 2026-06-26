@@ -601,6 +601,8 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 
 1353 [https://leetcode.com/problems/maximum-number-of-events-that-can-be-attended/description/](https://leetcode.com/problems/maximum-number-of-events-that-can-be-attended/description/)
 
+1354 [https://leetcode.com/problems/construct-target-array-with-multiple-sums/description/](https://leetcode.com/problems/construct-target-array-with-multiple-sums/description/)
+
 ### Huffman's Algorithm
 
 1167 [https://leetcode.com/problems/minimum-cost-to-connect-sticks/description/](https://leetcode.com/problems/minimum-cost-to-connect-sticks/description/)
@@ -744,6 +746,8 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 1012 . [https://leetcode.com/problems/numbers-with-repeated-digits/description/](https://leetcode.com/problems/numbers-with-repeated-digits/description/)
 
 1079 [https://leetcode.com/problems/letter-tile-possibilities/description/](https://leetcode.com/problems/letter-tile-possibilities/description/)
+
+1359 DP take longer [https://leetcode.com/problems/count-all-valid-pickup-and-delivery-options/description/](https://leetcode.com/problems/count-all-valid-pickup-and-delivery-options/description/)
 
 ### Pigeon Holes Principle
 
