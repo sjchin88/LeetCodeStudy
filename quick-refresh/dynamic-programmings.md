@@ -162,7 +162,11 @@
 
 1335 [https://leetcode.com/problems/minimum-difficulty-of-a-job-schedule/description/](https://leetcode.com/problems/minimum-difficulty-of-a-job-schedule/description/)
 
+1388 [https://leetcode.com/problems/pizza-with-3n-slices/description/](https://leetcode.com/problems/pizza-with-3n-slices/description/)
 
+1395 [https://leetcode.com/problems/count-number-of-teams/description/](https://leetcode.com/problems/count-number-of-teams/description/)
+
+1406 [https://leetcode.com/problems/stone-game-iii/description/](https://leetcode.com/problems/stone-game-iii/description/)
 
 ###
 
@@ -193,6 +197,8 @@
 902 . and counting [https://leetcode.com/problems/numbers-at-most-n-given-digit-set/description/](https://leetcode.com/problems/numbers-at-most-n-given-digit-set/description/)
 
 1067 [https://leetcode.com/problems/digit-count-in-range/description/](https://leetcode.com/problems/digit-count-in-range/description/)
+
+1397 with KMP [https://leetcode.com/problems/find-all-good-strings/description/](https://leetcode.com/problems/find-all-good-strings/description/)
 
 ### Longest Common Subsequence
 

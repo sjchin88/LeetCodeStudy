@@ -621,6 +621,8 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 
 1383 Greedy sort [https://leetcode.com/problems/maximum-performance-of-a-team/description/](https://leetcode.com/problems/maximum-performance-of-a-team/description/)
 
+1405 [https://leetcode.com/problems/longest-happy-string/description/](https://leetcode.com/problems/longest-happy-string/description/)
+
 ### Huffman's Algorithm
 
 1167 [https://leetcode.com/problems/minimum-cost-to-connect-sticks/description/](https://leetcode.com/problems/minimum-cost-to-connect-sticks/description/)
@@ -737,6 +739,10 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 
 1250 Bézout's lemma [https://leetcode.com/problems/check-if-it-is-a-good-array/description/](https://leetcode.com/problems/check-if-it-is-a-good-array/description/)
 
+### Geometry
+
+1401 [https://leetcode.com/problems/circle-and-rectangle-overlapping/description/](https://leetcode.com/problems/circle-and-rectangle-overlapping/description/)
+
 ### Matrix
 
 835 . [https://leetcode.com/problems/image-overlap/description/](https://leetcode.com/problems/image-overlap/description/)
@@ -772,6 +778,10 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 466 . [https://leetcode.com/problems/count-the-repetitions/description/](https://leetcode.com/problems/count-the-repetitions/description/)
 
 1121 [https://leetcode.com/problems/divide-array-into-increasing-sequences/description/](https://leetcode.com/problems/divide-array-into-increasing-sequences/description/)
+
+### Prime
+
+1390 [https://leetcode.com/problems/four-divisors/description/](https://leetcode.com/problems/four-divisors/description/)
 
 ### Set Operation
 
@@ -959,6 +969,8 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 
 1316 [https://leetcode.com/problems/distinct-echo-substrings/description/](https://leetcode.com/problems/distinct-echo-substrings/description/)
 
+1392 [https://leetcode.com/problems/longest-happy-prefix/solutions/](https://leetcode.com/problems/longest-happy-prefix/solutions/)
+
 ## Segment Tree/ SQRT Decomposition
 
 307 . [https://leetcode.com/problems/range-sum-query-mutable/description/](https://leetcode.com/problems/range-sum-query-mutable/description/)
@@ -976,6 +988,8 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 308 . [https://leetcode.com/problems/range-sum-query-2d-mutable/description/](https://leetcode.com/problems/range-sum-query-2d-mutable/description/)
 
 315 . [https://leetcode.com/problems/count-of-smaller-numbers-after-self/description/](https://leetcode.com/problems/count-of-smaller-numbers-after-self/description/)
+
+1409 [https://leetcode.com/problems/queries-on-a-permutation-with-key/description/](https://leetcode.com/problems/queries-on-a-permutation-with-key/description/)
 
 
 
@@ -1167,6 +1181,8 @@ Find Lexig
 
 1268 [https://leetcode.com/problems/search-suggestions-system/description/](https://leetcode.com/problems/search-suggestions-system/description/)
 
+1410 [https://leetcode.com/problems/html-entity-parser/description/](https://leetcode.com/problems/html-entity-parser/description/)
+
 ## Union Find
 
 305 . Alternative is BFS with memory - [https://leetcode.com/problems/number-of-islands-ii/description/](https://leetcode.com/problems/number-of-islands-ii/description/)
@@ -1202,3 +1218,5 @@ Find Lexig
 959 [https://leetcode.com/problems/regions-cut-by-slashes/editorial/](https://leetcode.com/problems/regions-cut-by-slashes/editorial/)
 
 1202 [https://leetcode.com/problems/smallest-string-with-swaps/description/](https://leetcode.com/problems/smallest-string-with-swaps/description/)
+
+1391 [https://leetcode.com/problems/check-if-there-is-a-valid-path-in-a-grid/description/](https://leetcode.com/problems/check-if-there-is-a-valid-path-in-a-grid/description/)
