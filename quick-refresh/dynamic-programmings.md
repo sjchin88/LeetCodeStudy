@@ -168,6 +168,12 @@
 
 1406 [https://leetcode.com/problems/stone-game-iii/description/](https://leetcode.com/problems/stone-game-iii/description/)
 
+1411 [https://leetcode.com/problems/number-of-ways-to-paint-n-3-grid/description/](https://leetcode.com/problems/number-of-ways-to-paint-n-3-grid/description/)
+
+1416 [https://leetcode.com/problems/restore-the-array/description/](https://leetcode.com/problems/restore-the-array/description/)
+
+1420 [https://leetcode.com/problems/build-array-where-you-can-find-the-maximum-exactly-k-comparisons/description/](https://leetcode.com/problems/build-array-where-you-can-find-the-maximum-exactly-k-comparisons/description/)
+
 ###
 
 ### Coin DP

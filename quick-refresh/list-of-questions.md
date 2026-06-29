@@ -561,6 +561,10 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 
 1072 [https://leetcode.com/problems/flip-columns-for-maximum-number-of-equal-rows/description/](https://leetcode.com/problems/flip-columns-for-maximum-number-of-equal-rows/description/)
 
+1418 [https://leetcode.com/problems/display-table-of-food-orders-in-a-restaurant/](https://leetcode.com/problems/display-table-of-food-orders-in-a-restaurant/)
+
+1419 [https://leetcode.com/problems/minimum-number-of-frogs-croaking/description/](https://leetcode.com/problems/minimum-number-of-frogs-croaking/description/)
+
 ### Lights Out Puzzle
 
 1284 [https://leetcode.com/problems/minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix/description/](https://leetcode.com/problems/minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix/description/)
@@ -731,6 +735,10 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 
 1344 [https://leetcode.com/problems/angle-between-hands-of-a-clock/description/](https://leetcode.com/problems/angle-between-hands-of-a-clock/description/)
 
+### Fibonacci
+
+1414 [https://leetcode.com/problems/find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k/description/](https://leetcode.com/problems/find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k/description/)
+
 ### GCD
 
 858 . [https://leetcode.com/problems/mirror-reflection/description/](https://leetcode.com/problems/mirror-reflection/description/)
@@ -773,6 +781,8 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 
 1359 DP take longer [https://leetcode.com/problems/count-all-valid-pickup-and-delivery-options/description/](https://leetcode.com/problems/count-all-valid-pickup-and-delivery-options/description/)
 
+1415 [https://leetcode.com/problems/the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/description/](https://leetcode.com/problems/the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/description/)
+
 ### Pigeon Holes Principle
 
 466 . [https://leetcode.com/problems/count-the-repetitions/description/](https://leetcode.com/problems/count-the-repetitions/description/)
@@ -810,6 +820,8 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 907 . Next Smaller E, contribution [https://leetcode.com/problems/sum-of-subarray-minimums/description/](https://leetcode.com/problems/sum-of-subarray-minimums/description/)
 
 975 . [https://leetcode.com/problems/odd-even-jump/description/](https://leetcode.com/problems/odd-even-jump/description/)
+
+1425 [https://leetcode.com/problems/constrained-subsequence-sum/description/](https://leetcode.com/problems/constrained-subsequence-sum/description/)
 
 ## Named Algorithms
 
