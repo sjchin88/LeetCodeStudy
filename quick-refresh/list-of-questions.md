@@ -343,6 +343,8 @@ Unnecessary Hard
 
 1377 [https://leetcode.com/problems/frog-position-after-t-seconds/description/](https://leetcode.com/problems/frog-position-after-t-seconds/description/)
 
+1443 [https://leetcode.com/problems/minimum-time-to-collect-all-apples-in-a-tree/description/](https://leetcode.com/problems/minimum-time-to-collect-all-apples-in-a-tree/description/)
+
 ##
 
 ## Function/Class Implementation
@@ -626,6 +628,10 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 1383 Greedy sort [https://leetcode.com/problems/maximum-performance-of-a-team/description/](https://leetcode.com/problems/maximum-performance-of-a-team/description/)
 
 1405 [https://leetcode.com/problems/longest-happy-string/description/](https://leetcode.com/problems/longest-happy-string/description/)
+
+1438 [https://leetcode.com/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/description/](https://leetcode.com/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/description/)
+
+1439 [https://leetcode.com/problems/find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows/solutions/](https://leetcode.com/problems/find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows/solutions/)
 
 ### Huffman's Algorithm
 
@@ -952,6 +958,8 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 1177 [https://leetcode.com/problems/can-make-palindrome-from-substring/description/](https://leetcode.com/problems/can-make-palindrome-from-substring/description/)
 
 1310 [https://leetcode.com/problems/xor-queries-of-a-subarray/description/](https://leetcode.com/problems/xor-queries-of-a-subarray/description/)
+
+1442 [https://leetcode.com/problems/count-triplets-that-can-form-two-arrays-of-equal-xor/description/](https://leetcode.com/problems/count-triplets-that-can-form-two-arrays-of-equal-xor/description/)
 
 ## Recursion
 

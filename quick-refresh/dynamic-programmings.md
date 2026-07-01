@@ -174,6 +174,10 @@
 
 1420 [https://leetcode.com/problems/build-array-where-you-can-find-the-maximum-exactly-k-comparisons/description/](https://leetcode.com/problems/build-array-where-you-can-find-the-maximum-exactly-k-comparisons/description/)
 
+1434 Use bitmasking [https://leetcode.com/problems/number-of-ways-to-wear-different-hats-to-each-other/description/](https://leetcode.com/problems/number-of-ways-to-wear-different-hats-to-each-other/description/)
+
+1444 [https://leetcode.com/problems/number-of-ways-of-cutting-a-pizza/description/](https://leetcode.com/problems/number-of-ways-of-cutting-a-pizza/description/)
+
 ###
 
 ### Coin DP
@@ -205,6 +209,10 @@
 1067 [https://leetcode.com/problems/digit-count-in-range/description/](https://leetcode.com/problems/digit-count-in-range/description/)
 
 1397 with KMP [https://leetcode.com/problems/find-all-good-strings/description/](https://leetcode.com/problems/find-all-good-strings/description/)
+
+### Knacksack
+
+1449 [https://leetcode.com/problems/form-largest-integer-with-digits-that-add-up-to-target/description/](https://leetcode.com/problems/form-largest-integer-with-digits-that-add-up-to-target/description/)
 
 ### Longest Common Subsequence
 
