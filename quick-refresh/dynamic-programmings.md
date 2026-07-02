@@ -178,6 +178,8 @@
 
 1444 [https://leetcode.com/problems/number-of-ways-of-cutting-a-pizza/description/](https://leetcode.com/problems/number-of-ways-of-cutting-a-pizza/description/)
 
+1458 [https://leetcode.com/problems/max-dot-product-of-two-subsequences/description/](https://leetcode.com/problems/max-dot-product-of-two-subsequences/description/)
+
 ###
 
 ### Coin DP
