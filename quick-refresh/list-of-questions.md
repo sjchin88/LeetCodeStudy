@@ -252,6 +252,8 @@ with duplicate (hard and not necessary) - [https://leetcode.com/problems/find-mi
 
 1368 [https://leetcode.com/problems/minimum-cost-to-make-at-least-one-valid-path-in-a-grid/description/](https://leetcode.com/problems/minimum-cost-to-make-at-least-one-valid-path-in-a-grid/description/)
 
+1485 [https://leetcode.com/problems/clone-binary-tree-with-random-pointer/description/](https://leetcode.com/problems/clone-binary-tree-with-random-pointer/description/)
+
 ### Bidectional BFS
 
 1197 Double BFS [https://leetcode.com/problems/minimum-knight-moves/description/](https://leetcode.com/problems/minimum-knight-moves/description/)
@@ -345,6 +347,8 @@ Unnecessary Hard
 
 1443 [https://leetcode.com/problems/minimum-time-to-collect-all-apples-in-a-tree/description/](https://leetcode.com/problems/minimum-time-to-collect-all-apples-in-a-tree/description/)
 
+1490 [https://leetcode.com/problems/clone-n-ary-tree/description/](https://leetcode.com/problems/clone-n-ary-tree/description/)
+
 ##
 
 ## Function/Class Implementation
@@ -386,6 +390,14 @@ Unnecessary Hard
 1226 [https://leetcode.com/problems/the-dining-philosophers/description/](https://leetcode.com/problems/the-dining-philosophers/description/)
 
 1381 [https://leetcode.com/problems/design-a-stack-with-increment-operation/description/](https://leetcode.com/problems/design-a-stack-with-increment-operation/description/)
+
+1472 [https://leetcode.com/problems/design-browser-history/description/](https://leetcode.com/problems/design-browser-history/description/)
+
+1500 [https://leetcode.com/problems/design-a-file-sharing-system/description/](https://leetcode.com/problems/design-a-file-sharing-system/description/)
+
+
+
+
 
 ### Concurrency
 
@@ -438,6 +450,8 @@ Unnecessary Hard
 1135 [https://leetcode.com/problems/connecting-cities-with-minimum-cost/description/](https://leetcode.com/problems/connecting-cities-with-minimum-cost/description/)
 
 1168 [https://leetcode.com/problems/optimize-water-distribution-in-a-village/description/](https://leetcode.com/problems/optimize-water-distribution-in-a-village/description/)
+
+1489 [https://leetcode.com/problems/find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree/description/](https://leetcode.com/problems/find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree/description/)
 
 ### Topological Sort
 
@@ -559,6 +573,12 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 
 1330 [https://leetcode.com/problems/reverse-subarray-to-maximize-array-value/description/](https://leetcode.com/problems/reverse-subarray-to-maximize-array-value/description/)
 
+1488 [https://leetcode.com/problems/avoid-flood-in-the-city/description/](https://leetcode.com/problems/avoid-flood-in-the-city/description/)&#x20;
+
+1503 [https://leetcode.com/problems/last-moment-before-all-ants-fall-out-of-a-plank/description/](https://leetcode.com/problems/last-moment-before-all-ants-fall-out-of-a-plank/description/)
+
+1506 use sum for constant space - [https://leetcode.com/problems/find-root-of-n-ary-tree/description/](https://leetcode.com/problems/find-root-of-n-ary-tree/description/)
+
 ### Hash
 
 1072 [https://leetcode.com/problems/flip-columns-for-maximum-number-of-equal-rows/description/](https://leetcode.com/problems/flip-columns-for-maximum-number-of-equal-rows/description/)
@@ -632,6 +652,8 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 1438 [https://leetcode.com/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/description/](https://leetcode.com/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/description/)
 
 1439 [https://leetcode.com/problems/find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows/solutions/](https://leetcode.com/problems/find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows/solutions/)
+
+1499 [https://leetcode.com/problems/max-value-of-equation/description/](https://leetcode.com/problems/max-value-of-equation/description/)
 
 ### Huffman's Algorithm
 
@@ -833,6 +855,8 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 
 1425 [https://leetcode.com/problems/constrained-subsequence-sum/description/](https://leetcode.com/problems/constrained-subsequence-sum/description/)
 
+1504 [https://leetcode.com/problems/count-submatrices-with-all-ones/description/](https://leetcode.com/problems/count-submatrices-with-all-ones/description/)
+
 ## Named Algorithms
 
 ### Kadane's algorithm&#x20;
@@ -985,6 +1009,8 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 
 1023 . [https://leetcode.com/problems/camelcase-matching/description/](https://leetcode.com/problems/camelcase-matching/description/)
 
+1487 [https://leetcode.com/problems/making-file-names-unique/](https://leetcode.com/problems/making-file-names-unique/)
+
 ## Rolling Hash (Rabin Karp)
 
 214. Also KMP / Manacher [https://leetcode.com/problems/shortest-palindrome/description/](https://leetcode.com/problems/shortest-palindrome/description/)
@@ -1025,7 +1051,11 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 
 1409 [https://leetcode.com/problems/queries-on-a-permutation-with-key/description/](https://leetcode.com/problems/queries-on-a-permutation-with-key/description/)
 
+1505 [https://leetcode.com/problems/minimum-possible-integer-after-at-most-k-adjacent-swaps-on-digits/description/](https://leetcode.com/problems/minimum-possible-integer-after-at-most-k-adjacent-swaps-on-digits/description/)
 
+### Binary Lifting
+
+1483 [https://leetcode.com/problems/kth-ancestor-of-a-tree-node/description/](https://leetcode.com/problems/kth-ancestor-of-a-tree-node/description/)
 
 ## Simulation
 

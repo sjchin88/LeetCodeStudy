@@ -174,7 +174,7 @@
 
 1420 [https://leetcode.com/problems/build-array-where-you-can-find-the-maximum-exactly-k-comparisons/description/](https://leetcode.com/problems/build-array-where-you-can-find-the-maximum-exactly-k-comparisons/description/)
 
-1434 Use bitmasking [https://leetcode.com/problems/number-of-ways-to-wear-different-hats-to-each-other/description/](https://leetcode.com/problems/number-of-ways-to-wear-different-hats-to-each-other/description/)
+
 
 1444 [https://leetcode.com/problems/number-of-ways-of-cutting-a-pizza/description/](https://leetcode.com/problems/number-of-ways-of-cutting-a-pizza/description/)
 
@@ -182,7 +182,15 @@
 
 1463 [https://leetcode.com/problems/cherry-pickup-ii/description/](https://leetcode.com/problems/cherry-pickup-ii/description/)
 
-###
+1473 [https://leetcode.com/problems/paint-house-iii/description/](https://leetcode.com/problems/paint-house-iii/description/)
+
+1478 [https://leetcode.com/problems/allocate-mailboxes/description/](https://leetcode.com/problems/allocate-mailboxes/description/)
+
+### Bitmasking
+
+1434 Use bitmasking [https://leetcode.com/problems/number-of-ways-to-wear-different-hats-to-each-other/description/](https://leetcode.com/problems/number-of-ways-to-wear-different-hats-to-each-other/description/)
+
+1494 [https://leetcode.com/problems/parallel-courses-ii/description/](https://leetcode.com/problems/parallel-courses-ii/description/)
 
 ### Coin DP
 
@@ -233,6 +241,8 @@
 1049 ,. [https://leetcode.com/problems/last-stone-weight-ii/description/](https://leetcode.com/problems/last-stone-weight-ii/description/)
 
 1140 . [https://leetcode.com/problems/stone-game-ii/description/](https://leetcode.com/problems/stone-game-ii/description/)
+
+1510 [https://leetcode.com/problems/stone-game-iv/description/](https://leetcode.com/problems/stone-game-iv/description/)
 
 #### minimax algorithm
 
