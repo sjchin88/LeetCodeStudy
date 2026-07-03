@@ -122,6 +122,8 @@ with duplicate (hard and not necessary) - [https://leetcode.com/problems/find-mi
 
 431 . [https://leetcode.com/problems/encode-n-ary-tree-to-binary-tree/description/](https://leetcode.com/problems/encode-n-ary-tree-to-binary-tree/description/)
 
+1516 [https://leetcode.com/problems/move-sub-tree-of-n-ary-tree/description/](https://leetcode.com/problems/move-sub-tree-of-n-ary-tree/description/)
+
 ### Preorder Traversal
 
 971 . DFS - [https://leetcode.com/problems/flip-binary-tree-to-match-preorder-traversal/description/](https://leetcode.com/problems/flip-binary-tree-to-match-preorder-traversal/description/)
@@ -260,9 +262,13 @@ with duplicate (hard and not necessary) - [https://leetcode.com/problems/find-mi
 
 1345 [https://leetcode.com/problems/jump-game-iv/description/](https://leetcode.com/problems/jump-game-iv/description/)
 
-### Shortest Distance
+### Shortest Path
 
 854 - [https://leetcode.com/problems/k-similar-strings/description/](https://leetcode.com/problems/k-similar-strings/description/)
+
+#### Bellman Ford
+
+1514 [https://leetcode.com/problems/path-with-maximum-probability/description/](https://leetcode.com/problems/path-with-maximum-probability/description/)
 
 ## DFS (Backtracking)
 
@@ -579,6 +585,8 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 
 1506 use sum for constant space - [https://leetcode.com/problems/find-root-of-n-ary-tree/description/](https://leetcode.com/problems/find-root-of-n-ary-tree/description/)
 
+1520 Kosaraju [https://leetcode.com/problems/maximum-number-of-non-overlapping-substrings/description/](https://leetcode.com/problems/maximum-number-of-non-overlapping-substrings/description/)
+
 ### Hash
 
 1072 [https://leetcode.com/problems/flip-columns-for-maximum-number-of-equal-rows/description/](https://leetcode.com/problems/flip-columns-for-maximum-number-of-equal-rows/description/)
@@ -780,6 +788,8 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 1401 [https://leetcode.com/problems/circle-and-rectangle-overlapping/description/](https://leetcode.com/problems/circle-and-rectangle-overlapping/description/)
 
 1453 [https://leetcode.com/problems/maximum-number-of-darts-inside-of-a-circular-dartboard/description/](https://leetcode.com/problems/maximum-number-of-darts-inside-of-a-circular-dartboard/description/)
+
+1515 Gradient Descent [https://leetcode.com/problems/best-position-for-a-service-centre/description/](https://leetcode.com/problems/best-position-for-a-service-centre/description/)
 
 ### Matrix
 
