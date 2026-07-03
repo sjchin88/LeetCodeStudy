@@ -791,6 +791,8 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 
 1415 [https://leetcode.com/problems/the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/description/](https://leetcode.com/problems/the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/description/)
 
+1467 [https://leetcode.com/problems/probability-of-a-two-boxes-having-the-same-number-of-distinct-balls/description/](https://leetcode.com/problems/probability-of-a-two-boxes-having-the-same-number-of-distinct-balls/description/)
+
 ### Pigeon Holes Principle
 
 466 . [https://leetcode.com/problems/count-the-repetitions/description/](https://leetcode.com/problems/count-the-repetitions/description/)
@@ -846,6 +848,8 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 ### Kahn's algorithm
 
 1340 [https://leetcode.com/problems/jump-game-v/description/](https://leetcode.com/problems/jump-game-v/description/)
+
+1462 Topo sort [https://leetcode.com/problems/course-schedule-iv/description/](https://leetcode.com/problems/course-schedule-iv/description/)
 
 ## Others
 
@@ -993,6 +997,8 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 
 1392 [https://leetcode.com/problems/longest-happy-prefix/solutions/](https://leetcode.com/problems/longest-happy-prefix/solutions/)
 
+1461 [https://leetcode.com/problems/check-if-a-string-contains-all-binary-codes-of-size-k/description/](https://leetcode.com/problems/check-if-a-string-contains-all-binary-codes-of-size-k/description/)
+
 
 
 ## Set Operation
@@ -1045,7 +1051,7 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 
 1057 [https://leetcode.com/problems/campus-bikes/description/](https://leetcode.com/problems/campus-bikes/description/)
 
-
+1465 [https://leetcode.com/problems/maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts/description/](https://leetcode.com/problems/maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts/description/)
 
 
 
