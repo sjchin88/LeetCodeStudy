@@ -140,6 +140,8 @@ with duplicate (hard and not necessary) - [https://leetcode.com/problems/find-mi
 
 889 . [https://leetcode.com/problems/construct-binary-tree-from-preorder-and-postorder-traversal/description/](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-postorder-traversal/description/)
 
+1525 With prefix sum counting [https://leetcode.com/problems/number-of-good-leaf-nodes-pairs/description/](https://leetcode.com/problems/number-of-good-leaf-nodes-pairs/description/)
+
 ### Traversal
 
 450 . [https://leetcode.com/problems/delete-node-in-a-bst/description/](https://leetcode.com/problems/delete-node-in-a-bst/description/)
@@ -205,6 +207,12 @@ with duplicate (hard and not necessary) - [https://leetcode.com/problems/find-mi
 1371 bitmasking [https://leetcode.com/problems/find-the-longest-substring-containing-vowels-in-even-counts/description/](https://leetcode.com/problems/find-the-longest-substring-containing-vowels-in-even-counts/description/)
 
 1375 [https://leetcode.com/problems/number-of-times-binary-string-is-prefix-aligned/description/](https://leetcode.com/problems/number-of-times-binary-string-is-prefix-aligned/description/)
+
+1521 [**https://leetcode.com/problems/find-a-value-of-a-mysterious-function-closest-to-target/description/**](https://leetcode.com/problems/find-a-value-of-a-mysterious-function-closest-to-target/description/)&#x20;
+
+1524 Bit parity with dp [https://leetcode.com/problems/number-of-sub-arrays-with-odd-sum/description/](https://leetcode.com/problems/number-of-sub-arrays-with-odd-sum/description/)
+
+
 
 ### Quantum Bit
 
