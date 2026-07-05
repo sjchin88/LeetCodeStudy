@@ -186,6 +186,12 @@
 
 1478 [https://leetcode.com/problems/allocate-mailboxes/description/](https://leetcode.com/problems/allocate-mailboxes/description/)
 
+1531 [https://leetcode.com/problems/string-compression-ii/description/](https://leetcode.com/problems/string-compression-ii/description/)
+
+1547 [https://leetcode.com/problems/minimum-cost-to-cut-a-stick/editorial/](https://leetcode.com/problems/minimum-cost-to-cut-a-stick/editorial/)
+
+1548 [https://leetcode.com/problems/the-most-similar-path-in-a-graph/editorial/](https://leetcode.com/problems/the-most-similar-path-in-a-graph/editorial/)
+
 ### Bitmasking
 
 1434 Use bitmasking [https://leetcode.com/problems/number-of-ways-to-wear-different-hats-to-each-other/description/](https://leetcode.com/problems/number-of-ways-to-wear-different-hats-to-each-other/description/)

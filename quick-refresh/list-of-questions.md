@@ -212,7 +212,9 @@ with duplicate (hard and not necessary) - [https://leetcode.com/problems/find-mi
 
 1524 Bit parity with dp [https://leetcode.com/problems/number-of-sub-arrays-with-odd-sum/description/](https://leetcode.com/problems/number-of-sub-arrays-with-odd-sum/description/)
 
+1542 bitmask [https://leetcode.com/problems/find-longest-awesome-substring/description/](https://leetcode.com/problems/find-longest-awesome-substring/description/)
 
+1545 [https://leetcode.com/problems/find-kth-bit-in-nth-binary-string/description/](https://leetcode.com/problems/find-kth-bit-in-nth-binary-string/description/)
 
 ### Quantum Bit
 
@@ -594,6 +596,10 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 1506 use sum for constant space - [https://leetcode.com/problems/find-root-of-n-ary-tree/description/](https://leetcode.com/problems/find-root-of-n-ary-tree/description/)
 
 1520 Kosaraju [https://leetcode.com/problems/maximum-number-of-non-overlapping-substrings/description/](https://leetcode.com/problems/maximum-number-of-non-overlapping-substrings/description/)
+
+1536 [https://leetcode.com/problems/minimum-swaps-to-arrange-a-binary-grid/description/](https://leetcode.com/problems/minimum-swaps-to-arrange-a-binary-grid/description/)
+
+1538 [https://leetcode.com/problems/guess-the-majority-in-a-hidden-array/description/](https://leetcode.com/problems/guess-the-majority-in-a-hidden-array/description/)
 
 ### Hash
 
