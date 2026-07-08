@@ -192,6 +192,8 @@
 
 1548 [https://leetcode.com/problems/the-most-similar-path-in-a-graph/editorial/](https://leetcode.com/problems/the-most-similar-path-in-a-graph/editorial/)
 
+1553 [https://leetcode.com/problems/minimum-number-of-days-to-eat-n-oranges/description/](https://leetcode.com/problems/minimum-number-of-days-to-eat-n-oranges/description/)
+
 ### Bitmasking
 
 1434 Use bitmasking [https://leetcode.com/problems/number-of-ways-to-wear-different-hats-to-each-other/description/](https://leetcode.com/problems/number-of-ways-to-wear-different-hats-to-each-other/description/)

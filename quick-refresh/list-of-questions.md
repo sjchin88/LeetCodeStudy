@@ -216,6 +216,8 @@ with duplicate (hard and not necessary) - [https://leetcode.com/problems/find-mi
 
 1545 [https://leetcode.com/problems/find-kth-bit-in-nth-binary-string/description/](https://leetcode.com/problems/find-kth-bit-in-nth-binary-string/description/)
 
+1558 [https://leetcode.com/problems/minimum-numbers-of-function-calls-to-make-target-array/description/](https://leetcode.com/problems/minimum-numbers-of-function-calls-to-make-target-array/description/)
+
 ### Quantum Bit
 
 458 . [https://leetcode.com/problems/poor-pigs/description/](https://leetcode.com/problems/poor-pigs/description/)
@@ -433,6 +435,8 @@ Unnecessary Hard
 
 939 . [https://leetcode.com/problems/minimum-area-rectangle/description/](https://leetcode.com/problems/minimum-area-rectangle/description/)
 
+1557 in degree count [https://leetcode.com/problems/minimum-number-of-vertices-to-reach-all-nodes/description/](https://leetcode.com/problems/minimum-number-of-vertices-to-reach-all-nodes/description/)
+
 ### Dijkstra <a href="#approach-dijkstras" id="approach-dijkstras"></a>
 
 499 . [https://leetcode.com/problems/the-maze-iii/description/](https://leetcode.com/problems/the-maze-iii/description/)
@@ -636,6 +640,8 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 187 . Rabin Karp [https://leetcode.com/problems/repeated-dna-sequences/](https://leetcode.com/problems/repeated-dna-sequences/)
 
 1044 with Binary Search [https://leetcode.com/problems/longest-duplicate-substring/editorial/](https://leetcode.com/problems/longest-duplicate-substring/editorial/)
+
+1554 [https://leetcode.com/problems/strings-differ-by-one-character/description/](https://leetcode.com/problems/strings-differ-by-one-character/description/)
 
 ## Heap (Priority Queue)
 
