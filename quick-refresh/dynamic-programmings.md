@@ -252,6 +252,8 @@
 
 1510 [https://leetcode.com/problems/stone-game-iv/description/](https://leetcode.com/problems/stone-game-iv/description/)
 
+1563 [https://leetcode.com/problems/stone-game-v/description/](https://leetcode.com/problems/stone-game-v/description/)
+
 #### minimax algorithm
 
 913 . [https://leetcode.com/problems/cat-and-mouse/editorial/](https://leetcode.com/problems/cat-and-mouse/editorial/)

@@ -413,7 +413,7 @@ Unnecessary Hard
 
 1500 [https://leetcode.com/problems/design-a-file-sharing-system/description/](https://leetcode.com/problems/design-a-file-sharing-system/description/)
 
-
+1570 [https://leetcode.com/problems/dot-product-of-two-sparse-vectors/description/](https://leetcode.com/problems/dot-product-of-two-sparse-vectors/description/)
 
 
 
@@ -604,6 +604,8 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 1536 [https://leetcode.com/problems/minimum-swaps-to-arrange-a-binary-grid/description/](https://leetcode.com/problems/minimum-swaps-to-arrange-a-binary-grid/description/)
 
 1538 [https://leetcode.com/problems/guess-the-majority-in-a-hidden-array/description/](https://leetcode.com/problems/guess-the-majority-in-a-hidden-array/description/)
+
+1562 [https://leetcode.com/problems/find-latest-group-of-size-m/description/](https://leetcode.com/problems/find-latest-group-of-size-m/description/)
 
 ### Hash
 
@@ -905,6 +907,10 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 
 1462 Topo sort [https://leetcode.com/problems/course-schedule-iv/description/](https://leetcode.com/problems/course-schedule-iv/description/)
 
+### Tarjan's algorithm
+
+1568 [https://leetcode.com/problems/minimum-number-of-days-to-disconnect-island/description/](https://leetcode.com/problems/minimum-number-of-days-to-disconnect-island/description/)
+
 ## Others
 
 ### 2D compression to 1D
@@ -1030,6 +1036,8 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 655 . [https://leetcode.com/problems/print-binary-tree/description/](https://leetcode.com/problems/print-binary-tree/description/)
 
 761 . [https://leetcode.com/problems/special-binary-string/description/](https://leetcode.com/problems/special-binary-string/description/)
+
+1569 [https://leetcode.com/problems/number-of-ways-to-reorder-array-to-get-same-bst/description/](https://leetcode.com/problems/number-of-ways-to-reorder-array-to-get-same-bst/description/)
 
 ## Regex
 
