@@ -607,6 +607,8 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 
 1562 [https://leetcode.com/problems/find-latest-group-of-size-m/description/](https://leetcode.com/problems/find-latest-group-of-size-m/description/)
 
+1580 [https://leetcode.com/problems/put-boxes-into-the-warehouse-ii/description/](https://leetcode.com/problems/put-boxes-into-the-warehouse-ii/description/)
+
 ### Hash
 
 1072 [https://leetcode.com/problems/flip-columns-for-maximum-number-of-equal-rows/description/](https://leetcode.com/problems/flip-columns-for-maximum-number-of-equal-rows/description/)
@@ -644,6 +646,8 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 1044 with Binary Search [https://leetcode.com/problems/longest-duplicate-substring/editorial/](https://leetcode.com/problems/longest-duplicate-substring/editorial/)
 
 1554 [https://leetcode.com/problems/strings-differ-by-one-character/description/](https://leetcode.com/problems/strings-differ-by-one-character/description/)
+
+1577 [https://leetcode.com/problems/number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers/description/](https://leetcode.com/problems/number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers/description/)
 
 ## Heap (Priority Queue)
 
@@ -1197,7 +1201,7 @@ Find Lexig
 
 ## Two Pointers
 
-###
+1578 [https://leetcode.com/problems/minimum-time-to-make-rope-colorful/description/](https://leetcode.com/problems/minimum-time-to-make-rope-colorful/description/)
 
 ### Opposite Direction Traversal
 
@@ -1216,6 +1220,8 @@ Find Lexig
 244 . Dict + 2 pointer - [https://leetcode.com/problems/shortest-word-distance-ii/description/](https://leetcode.com/problems/shortest-word-distance-ii/description/)
 
 245 . [https://leetcode.com/problems/shortest-word-distance-iii/description/](https://leetcode.com/problems/shortest-word-distance-iii/description/)
+
+1574 [https://leetcode.com/problems/shortest-subarray-to-be-removed-to-make-array-sorted/description/](https://leetcode.com/problems/shortest-subarray-to-be-removed-to-make-array-sorted/description/)
 
 ### Sliding Window
 
@@ -1322,3 +1328,5 @@ Find Lexig
 1202 [https://leetcode.com/problems/smallest-string-with-swaps/description/](https://leetcode.com/problems/smallest-string-with-swaps/description/)
 
 1391 [https://leetcode.com/problems/check-if-there-is-a-valid-path-in-a-grid/description/](https://leetcode.com/problems/check-if-there-is-a-valid-path-in-a-grid/description/)
+
+1579 [https://leetcode.com/problems/remove-max-number-of-edges-to-keep-graph-fully-traversable/description/](https://leetcode.com/problems/remove-max-number-of-edges-to-keep-graph-fully-traversable/description/)

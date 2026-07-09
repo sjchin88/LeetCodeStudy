@@ -194,6 +194,8 @@
 
 1553 [https://leetcode.com/problems/minimum-number-of-days-to-eat-n-oranges/description/](https://leetcode.com/problems/minimum-number-of-days-to-eat-n-oranges/description/)
 
+1575 [https://leetcode.com/problems/count-all-possible-routes/description/](https://leetcode.com/problems/count-all-possible-routes/description/)
+
 ### Bitmasking
 
 1434 Use bitmasking [https://leetcode.com/problems/number-of-ways-to-wear-different-hats-to-each-other/description/](https://leetcode.com/problems/number-of-ways-to-wear-different-hats-to-each-other/description/)
