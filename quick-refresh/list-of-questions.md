@@ -92,6 +92,10 @@ with duplicate (hard and not necessary) - [https://leetcode.com/problems/find-mi
 
 1361 [https://leetcode.com/problems/validate-binary-tree-nodes/description/](https://leetcode.com/problems/validate-binary-tree-nodes/description/)
 
+1586 [https://leetcode.com/problems/binary-search-tree-iterator-ii/description/](https://leetcode.com/problems/binary-search-tree-iterator-ii/description/)
+
+1597 [https://leetcode.com/problems/build-binary-expression-tree-from-infix-expression/description/](https://leetcode.com/problems/build-binary-expression-tree-from-infix-expression/description/)
+
 ### Inorder traversal
 
 173 . Inorder - [https://leetcode.com/problems/binary-search-tree-iterator/description/](https://leetcode.com/problems/binary-search-tree-iterator/description/)
@@ -367,6 +371,10 @@ Unnecessary Hard
 
 1490 [https://leetcode.com/problems/clone-n-ary-tree/description/](https://leetcode.com/problems/clone-n-ary-tree/description/)
 
+1593 [https://leetcode.com/problems/split-a-string-into-the-max-number-of-unique-substrings/description/](https://leetcode.com/problems/split-a-string-into-the-max-number-of-unique-substrings/description/)
+
+1600 [https://leetcode.com/problems/throne-inheritance/description/](https://leetcode.com/problems/throne-inheritance/description/)
+
 ##
 
 ## Function/Class Implementation
@@ -472,6 +480,8 @@ Unnecessary Hard
 1168 [https://leetcode.com/problems/optimize-water-distribution-in-a-village/description/](https://leetcode.com/problems/optimize-water-distribution-in-a-village/description/)
 
 1489 [https://leetcode.com/problems/find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree/description/](https://leetcode.com/problems/find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree/description/)
+
+1584 [https://leetcode.com/problems/min-cost-to-connect-all-points/description/](https://leetcode.com/problems/min-cost-to-connect-all-points/description/)
 
 ### Topological Sort
 
@@ -608,6 +618,8 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 1562 [https://leetcode.com/problems/find-latest-group-of-size-m/description/](https://leetcode.com/problems/find-latest-group-of-size-m/description/)
 
 1580 [https://leetcode.com/problems/put-boxes-into-the-warehouse-ii/description/](https://leetcode.com/problems/put-boxes-into-the-warehouse-ii/description/)
+
+1591 [https://leetcode.com/problems/strange-printer-ii/description/](https://leetcode.com/problems/strange-printer-ii/description/)
 
 ### Hash
 
@@ -1103,6 +1115,8 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 
 799 . [https://leetcode.com/problems/champagne-tower/description/](https://leetcode.com/problems/champagne-tower/description/)
 
+1599 [https://leetcode.com/problems/maximum-profit-of-operating-a-centennial-wheel/solutions/](https://leetcode.com/problems/maximum-profit-of-operating-a-centennial-wheel/solutions/)
+
 ## Sorting
 
 912 . [https://leetcode.com/problems/sort-an-array/description/](https://leetcode.com/problems/sort-an-array/description/)
@@ -1158,6 +1172,8 @@ Find Lexig
 1106 [https://leetcode.com/problems/parsing-a-boolean-expression/description/](https://leetcode.com/problems/parsing-a-boolean-expression/description/)
 
 1209 Practise [https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii/description/](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii/description/)
+
+1585 [https://leetcode.com/problems/check-if-string-is-transformable-with-substring-sort-operations/description/](https://leetcode.com/problems/check-if-string-is-transformable-with-substring-sort-operations/description/)
 
 ### Stacks for Tree
 

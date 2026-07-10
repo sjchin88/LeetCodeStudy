@@ -196,11 +196,15 @@
 
 1575 [https://leetcode.com/problems/count-all-possible-routes/description/](https://leetcode.com/problems/count-all-possible-routes/description/)
 
+1594 [https://leetcode.com/problems/maximum-non-negative-product-in-a-matrix/submissions/2062368251/](https://leetcode.com/problems/maximum-non-negative-product-in-a-matrix/submissions/2062368251/)
+
 ### Bitmasking
 
 1434 Use bitmasking [https://leetcode.com/problems/number-of-ways-to-wear-different-hats-to-each-other/description/](https://leetcode.com/problems/number-of-ways-to-wear-different-hats-to-each-other/description/)
 
 1494 [https://leetcode.com/problems/parallel-courses-ii/description/](https://leetcode.com/problems/parallel-courses-ii/description/)
+
+1595 [https://leetcode.com/problems/minimum-cost-to-connect-two-groups-of-points/description/](https://leetcode.com/problems/minimum-cost-to-connect-two-groups-of-points/description/)
 
 ### Coin DP
 
