@@ -96,7 +96,7 @@ with duplicate (hard and not necessary) - [https://leetcode.com/problems/find-mi
 
 1597 [https://leetcode.com/problems/build-binary-expression-tree-from-infix-expression/description/](https://leetcode.com/problems/build-binary-expression-tree-from-infix-expression/description/)
 
-### Inorder traversal
+### Inorder traversal (Left root right)
 
 173 . Inorder - [https://leetcode.com/problems/binary-search-tree-iterator/description/](https://leetcode.com/problems/binary-search-tree-iterator/description/)
 
@@ -128,7 +128,7 @@ with duplicate (hard and not necessary) - [https://leetcode.com/problems/find-mi
 
 1516 [https://leetcode.com/problems/move-sub-tree-of-n-ary-tree/description/](https://leetcode.com/problems/move-sub-tree-of-n-ary-tree/description/)
 
-### Preorder Traversal
+### Preorder Traversal (root left, right)
 
 971 . DFS - [https://leetcode.com/problems/flip-binary-tree-to-match-preorder-traversal/description/](https://leetcode.com/problems/flip-binary-tree-to-match-preorder-traversal/description/)
 
@@ -138,7 +138,11 @@ with duplicate (hard and not necessary) - [https://leetcode.com/problems/find-mi
 
 1382 [https://leetcode.com/problems/balance-a-binary-search-tree/description/](https://leetcode.com/problems/balance-a-binary-search-tree/description/)
 
-### PostOrder Traversal
+1612 [https://leetcode.com/problems/check-if-two-expression-trees-are-equivalent/description/](https://leetcode.com/problems/check-if-two-expression-trees-are-equivalent/description/)
+
+
+
+### PostOrder Traversal (left, right, root)
 
 449 . [https://leetcode.com/problems/serialize-and-deserialize-bst/description/](https://leetcode.com/problems/serialize-and-deserialize-bst/description/)
 
@@ -221,6 +225,10 @@ with duplicate (hard and not necessary) - [https://leetcode.com/problems/find-mi
 1545 [https://leetcode.com/problems/find-kth-bit-in-nth-binary-string/description/](https://leetcode.com/problems/find-kth-bit-in-nth-binary-string/description/)
 
 1558 [https://leetcode.com/problems/minimum-numbers-of-function-calls-to-make-target-array/description/](https://leetcode.com/problems/minimum-numbers-of-function-calls-to-make-target-array/description/)
+
+### Gray Code
+
+1611 [https://leetcode.com/problems/minimum-one-bit-operations-to-make-integers-zero/description/](https://leetcode.com/problems/minimum-one-bit-operations-to-make-integers-zero/description/)
 
 ### Quantum Bit
 
@@ -444,6 +452,8 @@ Unnecessary Hard
 939 . [https://leetcode.com/problems/minimum-area-rectangle/description/](https://leetcode.com/problems/minimum-area-rectangle/description/)
 
 1557 in degree count [https://leetcode.com/problems/minimum-number-of-vertices-to-reach-all-nodes/description/](https://leetcode.com/problems/minimum-number-of-vertices-to-reach-all-nodes/description/)
+
+1617 bit mask [https://leetcode.com/problems/count-subtrees-with-max-distance-between-cities/description/](https://leetcode.com/problems/count-subtrees-with-max-distance-between-cities/description/)
 
 ### Dijkstra <a href="#approach-dijkstras" id="approach-dijkstras"></a>
 
@@ -832,6 +842,8 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 1515 Gradient Descent [https://leetcode.com/problems/best-position-for-a-service-centre/description/](https://leetcode.com/problems/best-position-for-a-service-centre/description/)
 
 1610 [https://leetcode.com/problems/maximum-number-of-visible-points/description/](https://leetcode.com/problems/maximum-number-of-visible-points/description/)
+
+1620 sliding window [https://leetcode.com/problems/coordinate-with-maximum-network-quality/description/](https://leetcode.com/problems/coordinate-with-maximum-network-quality/description/)
 
 ### Matrix
 
