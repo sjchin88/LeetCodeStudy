@@ -621,6 +621,8 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 
 1591 [https://leetcode.com/problems/strange-printer-ii/description/](https://leetcode.com/problems/strange-printer-ii/description/)
 
+1605 [https://leetcode.com/problems/find-valid-matrix-given-row-and-column-sums/description/](https://leetcode.com/problems/find-valid-matrix-given-row-and-column-sums/description/)
+
 ### Hash
 
 1072 [https://leetcode.com/problems/flip-columns-for-maximum-number-of-equal-rows/description/](https://leetcode.com/problems/flip-columns-for-maximum-number-of-equal-rows/description/)
@@ -828,6 +830,8 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 1453 [https://leetcode.com/problems/maximum-number-of-darts-inside-of-a-circular-dartboard/description/](https://leetcode.com/problems/maximum-number-of-darts-inside-of-a-circular-dartboard/description/)
 
 1515 Gradient Descent [https://leetcode.com/problems/best-position-for-a-service-centre/description/](https://leetcode.com/problems/best-position-for-a-service-centre/description/)
+
+1610 [https://leetcode.com/problems/maximum-number-of-visible-points/description/](https://leetcode.com/problems/maximum-number-of-visible-points/description/)
 
 ### Matrix
 
@@ -1258,6 +1262,8 @@ Find Lexig
 992 . Freq [https://leetcode.com/problems/subarrays-with-k-different-integers/description/](https://leetcode.com/problems/subarrays-with-k-different-integers/description/)
 
 1040 [https://leetcode.com/problems/moving-stones-until-consecutive-ii/description/](https://leetcode.com/problems/moving-stones-until-consecutive-ii/description/)
+
+1604 [https://leetcode.com/problems/alert-using-same-key-card-three-or-more-times-in-a-one-hour-period/description/](https://leetcode.com/problems/alert-using-same-key-card-three-or-more-times-in-a-one-hour-period/description/)
 
 ### Fast and Slow Pointer
 
