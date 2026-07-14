@@ -200,6 +200,8 @@
 
 1639 [https://leetcode.com/problems/number-of-ways-to-form-a-target-string-given-a-dictionary/description/](https://leetcode.com/problems/number-of-ways-to-form-a-target-string-given-a-dictionary/description/)
 
+1659 [https://leetcode.com/problems/maximize-grid-happiness/description/](https://leetcode.com/problems/maximize-grid-happiness/description/)
+
 ### Bitmasking
 
 1434 Use bitmasking [https://leetcode.com/problems/number-of-ways-to-wear-different-hats-to-each-other/description/](https://leetcode.com/problems/number-of-ways-to-wear-different-hats-to-each-other/description/)
@@ -209,6 +211,8 @@
 1595 [https://leetcode.com/problems/minimum-cost-to-connect-two-groups-of-points/description/](https://leetcode.com/problems/minimum-cost-to-connect-two-groups-of-points/description/)
 
 1601 with backtracking [https://leetcode.com/problems/maximum-number-of-achievable-transfer-requests/description/](https://leetcode.com/problems/maximum-number-of-achievable-transfer-requests/description/)
+
+1655 [https://leetcode.com/problems/distribute-repeating-integers/description/](https://leetcode.com/problems/distribute-repeating-integers/description/)
 
 ### Coin DP
 

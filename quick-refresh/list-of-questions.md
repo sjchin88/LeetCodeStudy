@@ -284,11 +284,15 @@ with duplicate (hard and not necessary) - [https://leetcode.com/problems/find-mi
 
 1485 [https://leetcode.com/problems/clone-binary-tree-with-random-pointer/description/](https://leetcode.com/problems/clone-binary-tree-with-random-pointer/description/)
 
+1660 [https://leetcode.com/problems/correct-a-binary-tree/description/](https://leetcode.com/problems/correct-a-binary-tree/description/)
+
 ### Bidectional BFS
 
 1197 Double BFS [https://leetcode.com/problems/minimum-knight-moves/description/](https://leetcode.com/problems/minimum-knight-moves/description/)
 
 1345 [https://leetcode.com/problems/jump-game-iv/description/](https://leetcode.com/problems/jump-game-iv/description/)
+
+1654 [https://leetcode.com/problems/minimum-jumps-to-reach-home/description/](https://leetcode.com/problems/minimum-jumps-to-reach-home/description/)
 
 ### Shortest Path
 
