@@ -198,6 +198,8 @@
 
 1594 [https://leetcode.com/problems/maximum-non-negative-product-in-a-matrix/submissions/2062368251/](https://leetcode.com/problems/maximum-non-negative-product-in-a-matrix/submissions/2062368251/)
 
+1639 [https://leetcode.com/problems/number-of-ways-to-form-a-target-string-given-a-dictionary/description/](https://leetcode.com/problems/number-of-ways-to-form-a-target-string-given-a-dictionary/description/)
+
 ### Bitmasking
 
 1434 Use bitmasking [https://leetcode.com/problems/number-of-ways-to-wear-different-hats-to-each-other/description/](https://leetcode.com/problems/number-of-ways-to-wear-different-hats-to-each-other/description/)

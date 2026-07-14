@@ -96,6 +96,8 @@ with duplicate (hard and not necessary) - [https://leetcode.com/problems/find-mi
 
 1597 [https://leetcode.com/problems/build-binary-expression-tree-from-infix-expression/description/](https://leetcode.com/problems/build-binary-expression-tree-from-infix-expression/description/)
 
+1631 `https://leetcode.com/problems/path-with-minimum-effort/description/`
+
 ### Inorder traversal (Left root right)
 
 173 . Inorder - [https://leetcode.com/problems/binary-search-tree-iterator/description/](https://leetcode.com/problems/binary-search-tree-iterator/description/)
@@ -121,6 +123,8 @@ with duplicate (hard and not necessary) - [https://leetcode.com/problems/find-mi
 1123 [https://leetcode.com/problems/lowest-common-ancestor-of-deepest-leaves/description/](https://leetcode.com/problems/lowest-common-ancestor-of-deepest-leaves/description/)
 
 1257 [https://leetcode.com/problems/smallest-common-region/description/](https://leetcode.com/problems/smallest-common-region/description/)
+
+1650 [https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree-iii/description/](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree-iii/description/)
 
 ### Nary Tree Structure
 
@@ -715,6 +719,8 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 
 1499 [https://leetcode.com/problems/max-value-of-equation/description/](https://leetcode.com/problems/max-value-of-equation/description/)
 
+1642 [https://leetcode.com/problems/furthest-building-you-can-reach/description/](https://leetcode.com/problems/furthest-building-you-can-reach/description/)
+
 ### Huffman's Algorithm
 
 1167 [https://leetcode.com/problems/minimum-cost-to-connect-sticks/description/](https://leetcode.com/problems/minimum-cost-to-connect-sticks/description/)
@@ -851,6 +857,8 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 
 835 . [https://leetcode.com/problems/image-overlap/description/](https://leetcode.com/problems/image-overlap/description/)
 
+1632 [https://leetcode.com/problems/rank-transform-of-a-matrix/description/](https://leetcode.com/problems/rank-transform-of-a-matrix/description/)
+
 ### Modulus Operation
 
 372 . Super pow [https://leetcode.com/problems/super-pow/description/](https://leetcode.com/problems/super-pow/description/)
@@ -882,6 +890,8 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 1467 [https://leetcode.com/problems/probability-of-a-two-boxes-having-the-same-number-of-distinct-balls/description/](https://leetcode.com/problems/probability-of-a-two-boxes-having-the-same-number-of-distinct-balls/description/)
 
 1621 [https://leetcode.com/problems/number-of-sets-of-k-non-overlapping-line-segments/description/](https://leetcode.com/problems/number-of-sets-of-k-non-overlapping-line-segments/description/)
+
+1643 Pascal [https://leetcode.com/problems/kth-smallest-instructions/description/](https://leetcode.com/problems/kth-smallest-instructions/description/)
 
 ### Pigeon Holes Principle
 
@@ -1129,6 +1139,8 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 
 1626 DP -> [https://leetcode.com/problems/best-team-with-no-conflicts/description/](https://leetcode.com/problems/best-team-with-no-conflicts/description/)
 
+1649 [https://leetcode.com/problems/create-sorted-array-through-instructions/description/](https://leetcode.com/problems/create-sorted-array-through-instructions/description/)
+
 ### Binary Lifting
 
 1483 [https://leetcode.com/problems/kth-ancestor-of-a-tree-node/description/](https://leetcode.com/problems/kth-ancestor-of-a-tree-node/description/)
@@ -1236,6 +1248,8 @@ Find Lexig
 ## Transform and Conquer
 
 828 . How many ways the ch can be unique - [https://leetcode.com/problems/count-unique-characters-of-all-substrings-of-a-given-string/description/](https://leetcode.com/problems/count-unique-characters-of-all-substrings-of-a-given-string/description/)
+
+1638 [https://leetcode.com/problems/count-substrings-that-differ-by-one-character/description/](https://leetcode.com/problems/count-substrings-that-differ-by-one-character/description/)
 
 2262 . [https://leetcode.com/problems/total-appeal-of-a-string/description/](https://leetcode.com/problems/total-appeal-of-a-string/description/)
 
