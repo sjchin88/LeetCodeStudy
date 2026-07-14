@@ -431,7 +431,9 @@ Unnecessary Hard
 
 1570 [https://leetcode.com/problems/dot-product-of-two-sparse-vectors/description/](https://leetcode.com/problems/dot-product-of-two-sparse-vectors/description/)
 
+1622 [https://leetcode.com/problems/fancy-sequence/description/](https://leetcode.com/problems/fancy-sequence/description/)
 
+1628 [https://leetcode.com/problems/design-an-expression-tree-with-evaluate-function/description/](https://leetcode.com/problems/design-an-expression-tree-with-evaluate-function/description/)
 
 ### Concurrency
 
@@ -879,6 +881,8 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 
 1467 [https://leetcode.com/problems/probability-of-a-two-boxes-having-the-same-number-of-distinct-balls/description/](https://leetcode.com/problems/probability-of-a-two-boxes-having-the-same-number-of-distinct-balls/description/)
 
+1621 [https://leetcode.com/problems/number-of-sets-of-k-non-overlapping-line-segments/description/](https://leetcode.com/problems/number-of-sets-of-k-non-overlapping-line-segments/description/)
+
 ### Pigeon Holes Principle
 
 466 . [https://leetcode.com/problems/count-the-repetitions/description/](https://leetcode.com/problems/count-the-repetitions/description/)
@@ -1123,6 +1127,8 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 
 1505 [https://leetcode.com/problems/minimum-possible-integer-after-at-most-k-adjacent-swaps-on-digits/description/](https://leetcode.com/problems/minimum-possible-integer-after-at-most-k-adjacent-swaps-on-digits/description/)
 
+1626 DP -> [https://leetcode.com/problems/best-team-with-no-conflicts/description/](https://leetcode.com/problems/best-team-with-no-conflicts/description/)
+
 ### Binary Lifting
 
 1483 [https://leetcode.com/problems/kth-ancestor-of-a-tree-node/description/](https://leetcode.com/problems/kth-ancestor-of-a-tree-node/description/)
@@ -1132,6 +1138,8 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 799 . [https://leetcode.com/problems/champagne-tower/description/](https://leetcode.com/problems/champagne-tower/description/)
 
 1599 [https://leetcode.com/problems/maximum-profit-of-operating-a-centennial-wheel/solutions/](https://leetcode.com/problems/maximum-profit-of-operating-a-centennial-wheel/solutions/)
+
+1625 [https://leetcode.com/problems/lexicographically-smallest-string-after-applying-operations/description/](https://leetcode.com/problems/lexicographically-smallest-string-after-applying-operations/description/)
 
 ## Sorting
 
@@ -1350,6 +1358,8 @@ Find Lexig
 1258 [https://leetcode.com/problems/synonymous-sentences/description/](https://leetcode.com/problems/synonymous-sentences/description/)
 
 1319 [https://leetcode.com/problems/number-of-operations-to-make-network-connected/description/](https://leetcode.com/problems/number-of-operations-to-make-network-connected/description/)
+
+1627 [https://leetcode.com/problems/graph-connectivity-with-threshold/description/](https://leetcode.com/problems/graph-connectivity-with-threshold/description/)
 
 ### Disjointed Union Find
 
