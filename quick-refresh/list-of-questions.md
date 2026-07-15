@@ -116,7 +116,7 @@ with duplicate (hard and not necessary) - [https://leetcode.com/problems/find-mi
 
 1305 [https://leetcode.com/problems/all-elements-in-two-binary-search-trees/description/](https://leetcode.com/problems/all-elements-in-two-binary-search-trees/description/)
 
-
+1666 [https://leetcode.com/problems/change-the-root-of-a-binary-tree/](https://leetcode.com/problems/change-the-root-of-a-binary-tree/)
 
 ### Lowest Common Ancestor
 
@@ -442,6 +442,8 @@ Unnecessary Hard
 1622 [https://leetcode.com/problems/fancy-sequence/description/](https://leetcode.com/problems/fancy-sequence/description/)
 
 1628 [https://leetcode.com/problems/design-an-expression-tree-with-evaluate-function/description/](https://leetcode.com/problems/design-an-expression-tree-with-evaluate-function/description/)
+
+1670 [https://leetcode.com/problems/design-front-middle-back-queue/description/](https://leetcode.com/problems/design-front-middle-back-queue/description/)
 
 ### Concurrency
 
