@@ -230,6 +230,8 @@ with duplicate (hard and not necessary) - [https://leetcode.com/problems/find-mi
 
 1558 [https://leetcode.com/problems/minimum-numbers-of-function-calls-to-make-target-array/description/](https://leetcode.com/problems/minimum-numbers-of-function-calls-to-make-target-array/description/)
 
+1680 [https://leetcode.com/problems/concatenation-of-consecutive-binary-numbers/description/](https://leetcode.com/problems/concatenation-of-consecutive-binary-numbers/description/)
+
 ### Gray Code
 
 1611 [https://leetcode.com/problems/minimum-one-bit-operations-to-make-integers-zero/description/](https://leetcode.com/problems/minimum-one-bit-operations-to-make-integers-zero/description/)
@@ -645,6 +647,10 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 
 1605 [https://leetcode.com/problems/find-valid-matrix-given-row-and-column-sums/description/](https://leetcode.com/problems/find-valid-matrix-given-row-and-column-sums/description/)
 
+1673 [https://leetcode.com/problems/find-the-most-competitive-subsequence/description/](https://leetcode.com/problems/find-the-most-competitive-subsequence/description/)
+
+1674 [https://leetcode.com/problems/minimum-moves-to-make-array-complementary/description/](https://leetcode.com/problems/minimum-moves-to-make-array-complementary/description/)
+
 ### Hash
 
 1072 [https://leetcode.com/problems/flip-columns-for-maximum-number-of-equal-rows/description/](https://leetcode.com/problems/flip-columns-for-maximum-number-of-equal-rows/description/)
@@ -727,6 +733,8 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 
 1642 [https://leetcode.com/problems/furthest-building-you-can-reach/description/](https://leetcode.com/problems/furthest-building-you-can-reach/description/)
 
+1675 [https://leetcode.com/problems/minimize-deviation-in-array/description/](https://leetcode.com/problems/minimize-deviation-in-array/description/)
+
 ### Huffman's Algorithm
 
 1167 [https://leetcode.com/problems/minimum-cost-to-connect-sticks/description/](https://leetcode.com/problems/minimum-cost-to-connect-sticks/description/)
@@ -784,6 +792,8 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 300 . Use binary search to maintain a sequence - [https://leetcode.com/problems/longest-increasing-subsequence/description/](https://leetcode.com/problems/longest-increasing-subsequence/description/)
 
 354 . sort + lis - [https://leetcode.com/problems/russian-doll-envelopes/description/](https://leetcode.com/problems/russian-doll-envelopes/description/)
+
+1671 [https://leetcode.com/problems/minimum-number-of-removals-to-make-mountain-array/description/](https://leetcode.com/problems/minimum-number-of-removals-to-make-mountain-array/description/)
 
 
 
