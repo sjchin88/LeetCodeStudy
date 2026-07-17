@@ -202,6 +202,10 @@
 
 1659 [https://leetcode.com/problems/maximize-grid-happiness/description/](https://leetcode.com/problems/maximize-grid-happiness/description/)
 
+1682 [https://leetcode.com/problems/longest-palindromic-subsequence-ii/description/](https://leetcode.com/problems/longest-palindromic-subsequence-ii/description/)
+
+1690 [https://leetcode.com/problems/stone-game-vii/description/](https://leetcode.com/problems/stone-game-vii/description/)
+
 ### Bitmasking
 
 1434 Use bitmasking [https://leetcode.com/problems/number-of-ways-to-wear-different-hats-to-each-other/description/](https://leetcode.com/problems/number-of-ways-to-wear-different-hats-to-each-other/description/)
@@ -213,6 +217,8 @@
 1601 with backtracking [https://leetcode.com/problems/maximum-number-of-achievable-transfer-requests/description/](https://leetcode.com/problems/maximum-number-of-achievable-transfer-requests/description/)
 
 1655 [https://leetcode.com/problems/distribute-repeating-integers/description/](https://leetcode.com/problems/distribute-repeating-integers/description/)
+
+1681 [https://leetcode.com/problems/minimum-incompatibility/description/](https://leetcode.com/problems/minimum-incompatibility/description/)
 
 ### Coin DP
 

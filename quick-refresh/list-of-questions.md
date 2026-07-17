@@ -651,6 +651,8 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 
 1674 [https://leetcode.com/problems/minimum-moves-to-make-array-complementary/description/](https://leetcode.com/problems/minimum-moves-to-make-array-complementary/description/)
 
+1686 [https://leetcode.com/problems/stone-game-vi/description/](https://leetcode.com/problems/stone-game-vi/description/)
+
 ### Hash
 
 1072 [https://leetcode.com/problems/flip-columns-for-maximum-number-of-equal-rows/description/](https://leetcode.com/problems/flip-columns-for-maximum-number-of-equal-rows/description/)
@@ -1314,6 +1316,8 @@ Find Lexig
 1040 [https://leetcode.com/problems/moving-stones-until-consecutive-ii/description/](https://leetcode.com/problems/moving-stones-until-consecutive-ii/description/)
 
 1604 [https://leetcode.com/problems/alert-using-same-key-card-three-or-more-times-in-a-one-hour-period/description/](https://leetcode.com/problems/alert-using-same-key-card-three-or-more-times-in-a-one-hour-period/description/)
+
+1687 [https://leetcode.com/problems/delivering-boxes-from-storage-to-ports/description/](https://leetcode.com/problems/delivering-boxes-from-storage-to-ports/description/)
 
 ### Fast and Slow Pointer
 
