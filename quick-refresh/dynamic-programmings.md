@@ -206,6 +206,12 @@
 
 1690 [https://leetcode.com/problems/stone-game-vii/description/](https://leetcode.com/problems/stone-game-vii/description/)
 
+1691 [https://leetcode.com/problems/maximum-height-by-stacking-cuboids/description/](https://leetcode.com/problems/maximum-height-by-stacking-cuboids/description/)
+
+1692 [https://leetcode.com/problems/count-ways-to-distribute-candies/solutions/](https://leetcode.com/problems/count-ways-to-distribute-candies/solutions/)
+
+1696 + deque [https://leetcode.com/problems/jump-game-vi/description/](https://leetcode.com/problems/jump-game-vi/description/)
+
 ### Bitmasking
 
 1434 Use bitmasking [https://leetcode.com/problems/number-of-ways-to-wear-different-hats-to-each-other/description/](https://leetcode.com/problems/number-of-ways-to-wear-different-hats-to-each-other/description/)

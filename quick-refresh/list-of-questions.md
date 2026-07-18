@@ -46,6 +46,8 @@ with duplicate (hard and not necessary) - [https://leetcode.com/problems/find-mi
 
 1095 [https://leetcode.com/problems/find-in-mountain-array/description/](https://leetcode.com/problems/find-in-mountain-array/description/)
 
+1712 prefixsum [https://leetcode.com/problems/ways-to-split-array-into-three-subarrays/description/](https://leetcode.com/problems/ways-to-split-array-into-three-subarrays/description/)
+
 ### Binary Search Result Range
 
 410 . [https://leetcode.com/problems/split-array-largest-sum/description/](https://leetcode.com/problems/split-array-largest-sum/description/)
@@ -393,6 +395,12 @@ Unnecessary Hard
 
 1600 [https://leetcode.com/problems/throne-inheritance/description/](https://leetcode.com/problems/throne-inheritance/description/)
 
+1706 [https://leetcode.com/problems/where-will-the-ball-fall/editorial/](https://leetcode.com/problems/where-will-the-ball-fall/editorial/)
+
+1718 [https://leetcode.com/problems/construct-the-lexicographically-largest-valid-sequence/description/](https://leetcode.com/problems/construct-the-lexicographically-largest-valid-sequence/description/)
+
+
+
 ##
 
 ## Function/Class Implementation
@@ -445,7 +453,9 @@ Unnecessary Hard
 
 1628 [https://leetcode.com/problems/design-an-expression-tree-with-evaluate-function/description/](https://leetcode.com/problems/design-an-expression-tree-with-evaluate-function/description/)
 
-1670 [https://leetcode.com/problems/design-front-middle-back-queue/description/](https://leetcode.com/problems/design-front-middle-back-queue/description/)
+1670 [https://leetcode.com/problems/design-front-middle-back-queue/description/](https://leetcode.com/problems/design-front-middle-back-queue/description/)&#x20;
+
+1
 
 ### Concurrency
 
@@ -468,6 +478,8 @@ Unnecessary Hard
 1557 in degree count [https://leetcode.com/problems/minimum-number-of-vertices-to-reach-all-nodes/description/](https://leetcode.com/problems/minimum-number-of-vertices-to-reach-all-nodes/description/)
 
 1617 bit mask [https://leetcode.com/problems/count-subtrees-with-max-distance-between-cities/description/](https://leetcode.com/problems/count-subtrees-with-max-distance-between-cities/description/)
+
+1719 with dfs [https://leetcode.com/problems/number-of-ways-to-reconstruct-a-tree/description/](https://leetcode.com/problems/number-of-ways-to-reconstruct-a-tree/description/)
 
 ### Dijkstra <a href="#approach-dijkstras" id="approach-dijkstras"></a>
 
@@ -653,6 +665,12 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 
 1686 [https://leetcode.com/problems/stone-game-vi/description/](https://leetcode.com/problems/stone-game-vi/description/)
 
+1702 [https://leetcode.com/problems/maximum-binary-string-after-change/description/](https://leetcode.com/problems/maximum-binary-string-after-change/description/)
+
+1705 [https://leetcode.com/problems/maximum-number-of-eaten-apples/description/](https://leetcode.com/problems/maximum-number-of-eaten-apples/description/)&#x20;
+
+1717 [https://leetcode.com/problems/maximum-score-from-removing-substrings/description/](https://leetcode.com/problems/maximum-score-from-removing-substrings/description/)
+
 ### Hash
 
 1072 [https://leetcode.com/problems/flip-columns-for-maximum-number-of-equal-rows/description/](https://leetcode.com/problems/flip-columns-for-maximum-number-of-equal-rows/description/)
@@ -797,6 +815,8 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 
 1671 [https://leetcode.com/problems/minimum-number-of-removals-to-make-mountain-array/description/](https://leetcode.com/problems/minimum-number-of-removals-to-make-mountain-array/description/)
 
+1713 [https://leetcode.com/problems/minimum-operations-to-make-a-subsequence/description/](https://leetcode.com/problems/minimum-operations-to-make-a-subsequence/description/)
+
 
 
 ## LFU Cache
@@ -920,6 +940,12 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 ### Prime
 
 1390 [https://leetcode.com/problems/four-divisors/description/](https://leetcode.com/problems/four-divisors/description/)
+
+1714 [https://leetcode.com/problems/sum-of-special-evenly-spaced-elements-in-array/description/](https://leetcode.com/problems/sum-of-special-evenly-spaced-elements-in-array/description/)
+
+
+
+
 
 ### Set Operation
 
@@ -1079,6 +1105,8 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 
 1124 [https://leetcode.com/problems/longest-well-performing-interval/description/](https://leetcode.com/problems/longest-well-performing-interval/description/)
 
+1703 sliding window [https://leetcode.com/problems/minimum-adjacent-swaps-for-k-consecutive-ones/description/](https://leetcode.com/problems/minimum-adjacent-swaps-for-k-consecutive-ones/description/)
+
 ### Prefix Prod
 
 1352 [https://leetcode.com/problems/product-of-the-last-k-numbers/description/](https://leetcode.com/problems/product-of-the-last-k-numbers/description/)
@@ -1237,9 +1265,15 @@ Find Lexig
 
 1062 Radix | DP | Binary search [https://leetcode.com/problems/longest-repeating-substring/description/](https://leetcode.com/problems/longest-repeating-substring/description/)
 
+
+
 ### KMP&#x20;
 
 1367 [https://leetcode.com/problems/linked-list-in-binary-tree/description/](https://leetcode.com/problems/linked-list-in-binary-tree/description/)
+
+### Longest Common Prefix (LCP)
+
+1698 or Rolling Hash [https://leetcode.com/problems/number-of-distinct-substrings-in-a-string/description/](https://leetcode.com/problems/number-of-distinct-substrings-in-a-string/description/)
 
 ### Manacher / DP
 
@@ -1367,6 +1401,8 @@ Find Lexig
 
 1410 [https://leetcode.com/problems/html-entity-parser/description/](https://leetcode.com/problems/html-entity-parser/description/)
 
+1707 [https://leetcode.com/problems/maximum-xor-with-an-element-from-array/description/](https://leetcode.com/problems/maximum-xor-with-an-element-from-array/description/)
+
 ## Union Find
 
 305 . Alternative is BFS with memory - [https://leetcode.com/problems/number-of-islands-ii/description/](https://leetcode.com/problems/number-of-islands-ii/description/)
@@ -1408,3 +1444,5 @@ Find Lexig
 1391 [https://leetcode.com/problems/check-if-there-is-a-valid-path-in-a-grid/description/](https://leetcode.com/problems/check-if-there-is-a-valid-path-in-a-grid/description/)
 
 1579 [https://leetcode.com/problems/remove-max-number-of-edges-to-keep-graph-fully-traversable/description/](https://leetcode.com/problems/remove-max-number-of-edges-to-keep-graph-fully-traversable/description/)
+
+1697 [https://leetcode.com/problems/checking-existence-of-edge-length-limited-paths/description/](https://leetcode.com/problems/checking-existence-of-edge-length-limited-paths/description/)
