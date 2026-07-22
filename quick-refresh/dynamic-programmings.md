@@ -244,6 +244,8 @@
 
 1349 [https://leetcode.com/problems/maximum-students-taking-exam/description/](https://leetcode.com/problems/maximum-students-taking-exam/description/)
 
+1728 [https://leetcode.com/problems/cat-and-mouse-ii/description/](https://leetcode.com/problems/cat-and-mouse-ii/description/)
+
 ### Digit DP
 
 233 . [https://leetcode.com/problems/number-of-digit-one/description/](https://leetcode.com/problems/number-of-digit-one/description/)

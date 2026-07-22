@@ -671,6 +671,8 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 
 1717 [https://leetcode.com/problems/maximum-score-from-removing-substrings/description/](https://leetcode.com/problems/maximum-score-from-removing-substrings/description/)
 
+1727 Order matter [https://leetcode.com/problems/largest-submatrix-with-rearrangements/solutions/](https://leetcode.com/problems/largest-submatrix-with-rearrangements/solutions/)
+
 ### Hash
 
 1072 [https://leetcode.com/problems/flip-columns-for-maximum-number-of-equal-rows/description/](https://leetcode.com/problems/flip-columns-for-maximum-number-of-equal-rows/description/)
@@ -1430,6 +1432,8 @@ Find Lexig
 1319 [https://leetcode.com/problems/number-of-operations-to-make-network-connected/description/](https://leetcode.com/problems/number-of-operations-to-make-network-connected/description/)
 
 1627 [https://leetcode.com/problems/graph-connectivity-with-threshold/description/](https://leetcode.com/problems/graph-connectivity-with-threshold/description/)
+
+1724 or MST [https://leetcode.com/problems/checking-existence-of-edge-length-limited-paths-ii/description/](https://leetcode.com/problems/checking-existence-of-edge-length-limited-paths-ii/description/)
 
 ### Disjointed Union Find
 
