@@ -60,6 +60,8 @@ with duplicate (hard and not necessary) - [https://leetcode.com/problems/find-mi
 
 1292 Prefix + optimized enumeration [https://leetcode.com/problems/maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold/description/](https://leetcode.com/problems/maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold/description/)
 
+1723 DFS to check [https://leetcode.com/problems/find-minimum-time-to-finish-all-jobs/description/](https://leetcode.com/problems/find-minimum-time-to-finish-all-jobs/description/)
+
 ### Divide and Conquer
 
 1274 [https://leetcode.com/problems/number-of-ships-in-a-rectangle/description/](https://leetcode.com/problems/number-of-ships-in-a-rectangle/description/)
@@ -1434,6 +1436,8 @@ Find Lexig
 1627 [https://leetcode.com/problems/graph-connectivity-with-threshold/description/](https://leetcode.com/problems/graph-connectivity-with-threshold/description/)
 
 1724 or MST [https://leetcode.com/problems/checking-existence-of-edge-length-limited-paths-ii/description/](https://leetcode.com/problems/checking-existence-of-edge-length-limited-paths-ii/description/)
+
+1722 [https://leetcode.com/problems/minimize-hamming-distance-after-swap-operations/description/](https://leetcode.com/problems/minimize-hamming-distance-after-swap-operations/description/)
 
 ### Disjointed Union Find
 
