@@ -212,6 +212,12 @@
 
 1696 + deque [https://leetcode.com/problems/jump-game-vi/description/](https://leetcode.com/problems/jump-game-vi/description/)
 
+1745 [https://leetcode.com/problems/palindrome-partitioning-iv/description/](https://leetcode.com/problems/palindrome-partitioning-iv/description/)
+
+1751 binary search [https://leetcode.com/problems/maximum-number-of-events-that-can-be-attended-ii/description/](https://leetcode.com/problems/maximum-number-of-events-that-can-be-attended-ii/description/)
+
+1770 [https://leetcode.com/problems/maximum-score-from-performing-multiplication-operations/description/](https://leetcode.com/problems/maximum-score-from-performing-multiplication-operations/description/)
+
 ### Bitmasking
 
 1434 Use bitmasking [https://leetcode.com/problems/number-of-ways-to-wear-different-hats-to-each-other/description/](https://leetcode.com/problems/number-of-ways-to-wear-different-hats-to-each-other/description/)

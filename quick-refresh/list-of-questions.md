@@ -66,6 +66,12 @@ with duplicate (hard and not necessary) - [https://leetcode.com/problems/find-mi
 
 1274 [https://leetcode.com/problems/number-of-ships-in-a-rectangle/description/](https://leetcode.com/problems/number-of-ships-in-a-rectangle/description/)
 
+1755 Divide possible space and binary search combo [https://leetcode.com/problems/closest-subsequence-sum/description/](https://leetcode.com/problems/closest-subsequence-sum/description/)
+
+
+
+
+
 ## Binary (Search) Tree
 
 99 . [https://leetcode.com/problems/recover-binary-search-tree/description/](https://leetcode.com/problems/recover-binary-search-tree/description/)
@@ -681,6 +687,8 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 
 1733 [https://leetcode.com/problems/minimum-number-of-people-to-teach/description/](https://leetcode.com/problems/minimum-number-of-people-to-teach/description/)
 
+1754 [https://leetcode.com/problems/largest-merge-of-two-strings/description/](https://leetcode.com/problems/largest-merge-of-two-strings/description/)
+
 ### Hash
 
 1072 [https://leetcode.com/problems/flip-columns-for-maximum-number-of-equal-rows/description/](https://leetcode.com/problems/flip-columns-for-maximum-number-of-equal-rows/description/)
@@ -889,6 +897,8 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 
 1250 Bézout's lemma [https://leetcode.com/problems/check-if-it-is-a-good-array/description/](https://leetcode.com/problems/check-if-it-is-a-good-array/description/)
 
+1766 [https://leetcode.com/problems/tree-of-coprimes/description/](https://leetcode.com/problems/tree-of-coprimes/description/)
+
 ### Geometry
 
 1401 [https://leetcode.com/problems/circle-and-rectangle-overlapping/description/](https://leetcode.com/problems/circle-and-rectangle-overlapping/description/)
@@ -908,6 +918,8 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 835 . [https://leetcode.com/problems/image-overlap/description/](https://leetcode.com/problems/image-overlap/description/)
 
 1632 [https://leetcode.com/problems/rank-transform-of-a-matrix/description/](https://leetcode.com/problems/rank-transform-of-a-matrix/description/)
+
+1761 [https://leetcode.com/problems/minimum-degree-of-a-connected-trio-in-a-graph/description/](https://leetcode.com/problems/minimum-degree-of-a-connected-trio-in-a-graph/description/)
 
 ### Modulus Operation
 
@@ -1199,7 +1211,9 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 
 1626 DP -> [https://leetcode.com/problems/best-team-with-no-conflicts/description/](https://leetcode.com/problems/best-team-with-no-conflicts/description/)
 
-1649 [https://leetcode.com/problems/create-sorted-array-through-instructions/description/](https://leetcode.com/problems/create-sorted-array-through-instructions/description/)
+1649 [https://leetcode.com/problems/create-sorted-array-through-instructions/description/](https://leetcode.com/problems/create-sorted-array-through-instructions/description/)&#x20;
+
+1756 [https://leetcode.com/problems/design-most-recently-used-queue/description/](https://leetcode.com/problems/design-most-recently-used-queue/description/)
 
 ### Binary Lifting
 
