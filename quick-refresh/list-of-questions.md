@@ -130,6 +130,8 @@ with duplicate (hard and not necessary) - [https://leetcode.com/problems/find-mi
 
 1650 [https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree-iii/description/](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree-iii/description/)
 
+1740 [https://leetcode.com/problems/find-distance-in-a-binary-tree/description/](https://leetcode.com/problems/find-distance-in-a-binary-tree/description/)
+
 ### Nary Tree Structure
 
 431 . [https://leetcode.com/problems/encode-n-ary-tree-to-binary-tree/description/](https://leetcode.com/problems/encode-n-ary-tree-to-binary-tree/description/)
@@ -235,6 +237,8 @@ with duplicate (hard and not necessary) - [https://leetcode.com/problems/find-mi
 1558 [https://leetcode.com/problems/minimum-numbers-of-function-calls-to-make-target-array/description/](https://leetcode.com/problems/minimum-numbers-of-function-calls-to-make-target-array/description/)
 
 1680 [https://leetcode.com/problems/concatenation-of-consecutive-binary-numbers/description/](https://leetcode.com/problems/concatenation-of-consecutive-binary-numbers/description/)
+
+1734 xor [https://leetcode.com/problems/decode-xored-permutation/description/](https://leetcode.com/problems/decode-xored-permutation/description/)
 
 ### Gray Code
 
@@ -675,6 +679,8 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 
 1727 Order matter [https://leetcode.com/problems/largest-submatrix-with-rearrangements/solutions/](https://leetcode.com/problems/largest-submatrix-with-rearrangements/solutions/)
 
+1733 [https://leetcode.com/problems/minimum-number-of-people-to-teach/description/](https://leetcode.com/problems/minimum-number-of-people-to-teach/description/)
+
 ### Hash
 
 1072 [https://leetcode.com/problems/flip-columns-for-maximum-number-of-equal-rows/description/](https://leetcode.com/problems/flip-columns-for-maximum-number-of-equal-rows/description/)
@@ -895,6 +901,8 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 
 1620 sliding window [https://leetcode.com/problems/coordinate-with-maximum-network-quality/description/](https://leetcode.com/problems/coordinate-with-maximum-network-quality/description/)
 
+1739 [https://leetcode.com/problems/building-boxes/description/](https://leetcode.com/problems/building-boxes/description/)
+
 ### Matrix
 
 835 . [https://leetcode.com/problems/image-overlap/description/](https://leetcode.com/problems/image-overlap/description/)
@@ -934,6 +942,8 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 1621 [https://leetcode.com/problems/number-of-sets-of-k-non-overlapping-line-segments/description/](https://leetcode.com/problems/number-of-sets-of-k-non-overlapping-line-segments/description/)
 
 1643 Pascal [https://leetcode.com/problems/kth-smallest-instructions/description/](https://leetcode.com/problems/kth-smallest-instructions/description/)
+
+1735 [https://leetcode.com/problems/count-ways-to-make-array-with-product/description/](https://leetcode.com/problems/count-ways-to-make-array-with-product/description/)
 
 ### Pigeon Holes Principle
 
