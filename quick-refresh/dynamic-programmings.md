@@ -218,6 +218,8 @@
 
 1770 [https://leetcode.com/problems/maximum-score-from-performing-multiplication-operations/description/](https://leetcode.com/problems/maximum-score-from-performing-multiplication-operations/description/)
 
+1771 [https://leetcode.com/problems/maximize-palindrome-length-from-subsequences/description/](https://leetcode.com/problems/maximize-palindrome-length-from-subsequences/description/)
+
 ### Bitmasking
 
 1434 Use bitmasking [https://leetcode.com/problems/number-of-ways-to-wear-different-hats-to-each-other/description/](https://leetcode.com/problems/number-of-ways-to-wear-different-hats-to-each-other/description/)
