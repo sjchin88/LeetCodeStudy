@@ -220,6 +220,8 @@
 
 1771 [https://leetcode.com/problems/maximize-palindrome-length-from-subsequences/description/](https://leetcode.com/problems/maximize-palindrome-length-from-subsequences/description/)
 
+1787 [https://leetcode.com/problems/make-the-xor-of-all-segments-equal-to-zero/description/](https://leetcode.com/problems/make-the-xor-of-all-segments-equal-to-zero/description/)
+
 ### Bitmasking
 
 1434 Use bitmasking [https://leetcode.com/problems/number-of-ways-to-wear-different-hats-to-each-other/description/](https://leetcode.com/problems/number-of-ways-to-wear-different-hats-to-each-other/description/)
@@ -233,6 +235,8 @@
 1655 [https://leetcode.com/problems/distribute-repeating-integers/description/](https://leetcode.com/problems/distribute-repeating-integers/description/)
 
 1681 [https://leetcode.com/problems/minimum-incompatibility/description/](https://leetcode.com/problems/minimum-incompatibility/description/)
+
+1799 [https://leetcode.com/problems/maximize-score-after-n-operations/description/](https://leetcode.com/problems/maximize-score-after-n-operations/description/)
 
 ### Coin DP
 

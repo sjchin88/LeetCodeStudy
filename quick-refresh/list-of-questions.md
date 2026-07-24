@@ -513,6 +513,8 @@ Unnecessary Hard
 
 1334 [https://leetcode.com/problems/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/description/](https://leetcode.com/problems/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/description/)
 
+1786 [https://leetcode.com/problems/number-of-restricted-paths-from-first-to-last-node/description/](https://leetcode.com/problems/number-of-restricted-paths-from-first-to-last-node/description/)
+
 ### Jarvis Algorithm / Graham Scan
 
 587 . [https://leetcode.com/problems/erect-the-fence/description/](https://leetcode.com/problems/erect-the-fence/description/)
@@ -1005,6 +1007,8 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 
 1504 [https://leetcode.com/problems/count-submatrices-with-all-ones/description/](https://leetcode.com/problems/count-submatrices-with-all-ones/description/)
 
+1776 [https://leetcode.com/problems/car-fleet-ii/submissions/2079059058/](https://leetcode.com/problems/car-fleet-ii/submissions/2079059058/)
+
 ## Named Algorithms
 
 ### Kadane's algorithm&#x20;
@@ -1098,6 +1102,8 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 1244 [https://leetcode.com/problems/design-a-leaderboard/description/](https://leetcode.com/problems/design-a-leaderboard/description/)
 
 1348 [https://leetcode.com/problems/tweet-counts-per-frequency/description/](https://leetcode.com/problems/tweet-counts-per-frequency/description/)
+
+1797 [https://leetcode.com/problems/design-authentication-manager/description/](https://leetcode.com/problems/design-authentication-manager/description/)
 
 ## Points Operation (2D Map)
 
@@ -1430,6 +1436,10 @@ Find Lexig
 1410 [https://leetcode.com/problems/html-entity-parser/description/](https://leetcode.com/problems/html-entity-parser/description/)
 
 1707 [https://leetcode.com/problems/maximum-xor-with-an-element-from-array/description/](https://leetcode.com/problems/maximum-xor-with-an-element-from-array/description/)
+
+1803 [https://leetcode.com/problems/count-pairs-with-xor-in-a-range/description/](https://leetcode.com/problems/count-pairs-with-xor-in-a-range/description/)
+
+1804 [https://leetcode.com/problems/implement-trie-ii-prefix-tree/description/](https://leetcode.com/problems/implement-trie-ii-prefix-tree/description/)
 
 ## Union Find
 
