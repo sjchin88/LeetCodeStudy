@@ -515,6 +515,8 @@ Unnecessary Hard
 
 1786 [https://leetcode.com/problems/number-of-restricted-paths-from-first-to-last-node/description/](https://leetcode.com/problems/number-of-restricted-paths-from-first-to-last-node/description/)
 
+1810 [https://leetcode.com/problems/minimum-path-cost-in-a-hidden-grid/solutions/](https://leetcode.com/problems/minimum-path-cost-in-a-hidden-grid/solutions/)
+
 ### Jarvis Algorithm / Graham Scan
 
 587 . [https://leetcode.com/problems/erect-the-fence/description/](https://leetcode.com/problems/erect-the-fence/description/)
@@ -886,6 +888,8 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 1227 [https://leetcode.com/problems/airplane-seat-assignment-probability/description/](https://leetcode.com/problems/airplane-seat-assignment-probability/description/)
 
 1344 [https://leetcode.com/problems/angle-between-hands-of-a-clock/description/](https://leetcode.com/problems/angle-between-hands-of-a-clock/description/)
+
+1808 [https://leetcode.com/problems/maximize-number-of-nice-divisors/description/](https://leetcode.com/problems/maximize-number-of-nice-divisors/description/)
 
 ### Fibonacci
 
