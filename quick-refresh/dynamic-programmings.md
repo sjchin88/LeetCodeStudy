@@ -4,8 +4,6 @@
 
 10. [https://leetcode.com/problems/regular-expression-matching/description/](https://leetcode.com/problems/regular-expression-matching/description/)
 
-32 . [https://leetcode.com/problems/longest-valid-parentheses/editorial/](https://leetcode.com/problems/longest-valid-parentheses/editorial/)
-
 44 . [https://leetcode.com/problems/wildcard-matching/](https://leetcode.com/problems/wildcard-matching/)
 
 72 . [https://leetcode.com/problems/edit-distance/description/](https://leetcode.com/problems/edit-distance/description/)

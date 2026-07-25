@@ -1265,6 +1265,8 @@ Find Lexig
 
 ## Stacks
 
+32  [https://leetcode.com/problems/longest-valid-parentheses/editorial/](https://leetcode.com/problems/longest-valid-parentheses/editorial/)
+
 150 . [https://leetcode.com/problems/evaluate-reverse-polish-notation/description/](https://leetcode.com/problems/evaluate-reverse-polish-notation/description/)
 
 155 , [https://leetcode.com/problems/min-stack/description](https://leetcode.com/problems/min-stack/description/)

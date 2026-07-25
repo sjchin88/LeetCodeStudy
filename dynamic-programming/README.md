@@ -23,6 +23,9 @@ Finding if certain combinations is possible for the solution
 
 dp\[] value is true / false
 
+* dp\[i]\[j] = True if dp\[i-1]\[j-1] is True and state\[i] == state\[j]
+* dp\[i]\[j] = True if dp\[i]\[mid] and dp\[mid+1]\[j]
+
 dp\[big problem] = dp\[small problem 1] or dp\[small problem2]
 
 Find the total number of combinations (not concern about specific solution, which mostly use backtracking (dfs)
