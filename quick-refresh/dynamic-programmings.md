@@ -12,15 +12,15 @@
 
 97 . [https://leetcode.com/problems/interleaving-string/description/](https://leetcode.com/problems/interleaving-string/description/)
 
-132 . [https://leetcode.com/problems/palindrome-partitioning-ii/description/](https://leetcode.com/problems/palindrome-partitioning-ii/description/)
+132 . 2D , palindrome + min ops [https://leetcode.com/problems/palindrome-partitioning-ii/description/](https://leetcode.com/problems/palindrome-partitioning-ii/description/)
 
 188 . [https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/description/](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/description/)
 
-276 . [https://leetcode.com/problems/paint-fence/description/](https://leetcode.com/problems/paint-fence/description/)
+276 . same and diff color than previous post [https://leetcode.com/problems/paint-fence/description/](https://leetcode.com/problems/paint-fence/description/)
 
-241 . [https://leetcode.com/problems/different-ways-to-add-parentheses/description/](https://leetcode.com/problems/different-ways-to-add-parentheses/description/)
+241 . Recursion -> Memoization [https://leetcode.com/problems/different-ways-to-add-parentheses/description/](https://leetcode.com/problems/different-ways-to-add-parentheses/description/)
 
-294 . DP [https://leetcode.com/problems/flip-game-ii/description/](https://leetcode.com/problems/flip-game-ii/description/)
+294 . Recursion -> Memoization [https://leetcode.com/problems/flip-game-ii/description/](https://leetcode.com/problems/flip-game-ii/description/)
 
 309 . DP with state machine - [https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/description/](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/description/)
 
@@ -28,9 +28,7 @@
 
 351 . with backtracking - [https://leetcode.com/problems/android-unlock-patterns/description/](https://leetcode.com/problems/android-unlock-patterns/description/)
 
-361 , [https://leetcode.com/problems/bomb-enemy/description/](https://leetcode.com/problems/bomb-enemy/description/)
-
-368 . [https://leetcode.com/problems/largest-divisible-subset/description/](https://leetcode.com/problems/largest-divisible-subset/description/)
+368 . backtrack -> dp , 2^n -> dp [https://leetcode.com/problems/largest-divisible-subset/description/](https://leetcode.com/problems/largest-divisible-subset/description/)
 
 396 . Sliding formula for max rotation problem - [https://leetcode.com/problems/rotate-function/description/](https://leetcode.com/problems/rotate-function/description/)
 

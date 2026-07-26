@@ -39,6 +39,7 @@ dp\[big problem] = min / max { dp\[small problem 1] .... dp\[small problem n] }
 ## General Steps
 
 1. Find the state representation and optimal subproblem&#x20;
+   1. How many dimensions needed? 1D, 2D, ND. The answer depends on the factors involved in determining different states
 2. Determine the state transition function
 3. Check the initial condition and boundary rules
 4. Determine the order of calculations for the states
