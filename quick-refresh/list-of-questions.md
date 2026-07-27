@@ -411,7 +411,7 @@ Unnecessary Hard
 
 1718 [https://leetcode.com/problems/construct-the-lexicographically-largest-valid-sequence/description/](https://leetcode.com/problems/construct-the-lexicographically-largest-valid-sequence/description/)
 
-
+1815 DFS + DP + mod [https://leetcode.com/problems/maximum-number-of-groups-getting-fresh-donuts/description/](https://leetcode.com/problems/maximum-number-of-groups-getting-fresh-donuts/description/)
 
 ##
 
@@ -975,7 +975,7 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 
 1714 [https://leetcode.com/problems/sum-of-special-evenly-spaced-elements-in-array/description/](https://leetcode.com/problems/sum-of-special-evenly-spaced-elements-in-array/description/)
 
-
+1819 [https://leetcode.com/problems/number-of-different-subsequences-gcds/description/](https://leetcode.com/problems/number-of-different-subsequences-gcds/description/)
 
 
 
@@ -1013,7 +1013,11 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 
 1776 [https://leetcode.com/problems/car-fleet-ii/submissions/2079059058/](https://leetcode.com/problems/car-fleet-ii/submissions/2079059058/)
 
-## Named Algorithms
+## Named Algorithms&#x20;
+
+### Hungarian Algorithm (Assignment)
+
+1820 [https://leetcode.com/problems/maximum-number-of-accepted-invitations/description/](https://leetcode.com/problems/maximum-number-of-accepted-invitations/description/)
 
 ### Kadane's algorithm&#x20;
 
@@ -1261,7 +1265,9 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 
 
 
-Find Lexig
+## Deque
+
+1813 [https://leetcode.com/problems/sentence-similarity-iii/submissions/2082685023/](https://leetcode.com/problems/sentence-similarity-iii/submissions/2082685023/)
 
 ## Stacks
 
