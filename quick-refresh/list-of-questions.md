@@ -891,6 +891,8 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 
 1808 [https://leetcode.com/problems/maximize-number-of-nice-divisors/description/](https://leetcode.com/problems/maximize-number-of-nice-divisors/description/)
 
+1813 [https://leetcode.com/problems/find-the-winner-of-the-circular-game/submissions/2083525906/](https://leetcode.com/problems/find-the-winner-of-the-circular-game/submissions/2083525906/)
+
 ### Fibonacci
 
 1414 [https://leetcode.com/problems/find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k/description/](https://leetcode.com/problems/find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k/description/)
