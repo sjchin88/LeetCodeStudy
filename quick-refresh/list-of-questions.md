@@ -246,6 +246,8 @@ with duplicate (hard and not necessary) - [https://leetcode.com/problems/find-mi
 
 1734 xor [https://leetcode.com/problems/decode-xored-permutation/description/](https://leetcode.com/problems/decode-xored-permutation/description/)
 
+1835 (a ^ b) & (a ^ c) = a & (b ^ c) [https://leetcode.com/problems/find-xor-sum-of-all-pairs-bitwise-and/description/](https://leetcode.com/problems/find-xor-sum-of-all-pairs-bitwise-and/description/)
+
 ### Gray Code
 
 1611 [https://leetcode.com/problems/minimum-one-bit-operations-to-make-integers-zero/description/](https://leetcode.com/problems/minimum-one-bit-operations-to-make-integers-zero/description/)
@@ -1356,6 +1358,10 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 828 . How many ways the ch can be unique - [https://leetcode.com/problems/count-unique-characters-of-all-substrings-of-a-given-string/description/](https://leetcode.com/problems/count-unique-characters-of-all-substrings-of-a-given-string/description/)
 
 1638 [https://leetcode.com/problems/count-substrings-that-differ-by-one-character/description/](https://leetcode.com/problems/count-substrings-that-differ-by-one-character/description/)
+
+1838 [https://leetcode.com/problems/frequency-of-the-most-frequent-element/description/](https://leetcode.com/problems/frequency-of-the-most-frequent-element/description/)
+
+1840 [https://leetcode.com/problems/maximum-building-height/description/](https://leetcode.com/problems/maximum-building-height/description/)
 
 2262 . [https://leetcode.com/problems/total-appeal-of-a-string/description/](https://leetcode.com/problems/total-appeal-of-a-string/description/)
 
