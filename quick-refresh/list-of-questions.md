@@ -921,6 +921,8 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 
 1739 [https://leetcode.com/problems/building-boxes/description/](https://leetcode.com/problems/building-boxes/description/)
 
+1828 Quad tree [https://leetcode.com/problems/queries-on-number-of-points-inside-a-circle/description/](https://leetcode.com/problems/queries-on-number-of-points-inside-a-circle/description/)
+
 ### Matrix
 
 835 . [https://leetcode.com/problems/image-overlap/description/](https://leetcode.com/problems/image-overlap/description/)
@@ -963,7 +965,9 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 
 1643 Pascal [https://leetcode.com/problems/kth-smallest-instructions/description/](https://leetcode.com/problems/kth-smallest-instructions/description/)
 
-1735 [https://leetcode.com/problems/count-ways-to-make-array-with-product/description/](https://leetcode.com/problems/count-ways-to-make-array-with-product/description/)
+1735 [https://leetcode.com/problems/count-ways-to-make-array-with-product/description/](https://leetcode.com/problems/count-ways-to-make-array-with-product/description/)&#x20;
+
+1830 [https://leetcode.com/problems/minimum-number-of-operations-to-make-string-sorted/description/](https://leetcode.com/problems/minimum-number-of-operations-to-make-string-sorted/description/)
 
 ### Pigeon Holes Principle
 
@@ -1230,6 +1234,8 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 1649 [https://leetcode.com/problems/create-sorted-array-through-instructions/description/](https://leetcode.com/problems/create-sorted-array-through-instructions/description/)&#x20;
 
 1756 [https://leetcode.com/problems/design-most-recently-used-queue/description/](https://leetcode.com/problems/design-most-recently-used-queue/description/)
+
+1825 or Sorted Set [https://leetcode.com/problems/finding-mk-average/description/](https://leetcode.com/problems/finding-mk-average/description/)
 
 ### Binary Lifting
 
