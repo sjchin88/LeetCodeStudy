@@ -218,6 +218,10 @@
 
 1787 [https://leetcode.com/problems/make-the-xor-of-all-segments-equal-to-zero/description/](https://leetcode.com/problems/make-the-xor-of-all-segments-equal-to-zero/description/)
 
+1866 [https://leetcode.com/problems/number-of-ways-to-rearrange-sticks-with-k-sticks-visible/description/](https://leetcode.com/problems/number-of-ways-to-rearrange-sticks-with-k-sticks-visible/description/)
+
+1871 [https://leetcode.com/problems/jump-game-vii/description/](https://leetcode.com/problems/jump-game-vii/description/)
+
 ### Bitmasking
 
 1434 Use bitmasking [https://leetcode.com/problems/number-of-ways-to-wear-different-hats-to-each-other/description/](https://leetcode.com/problems/number-of-ways-to-wear-different-hats-to-each-other/description/)
@@ -233,6 +237,8 @@
 1681 [https://leetcode.com/problems/minimum-incompatibility/description/](https://leetcode.com/problems/minimum-incompatibility/description/)
 
 1799 [https://leetcode.com/problems/maximize-score-after-n-operations/description/](https://leetcode.com/problems/maximize-score-after-n-operations/description/)
+
+1879 [https://leetcode.com/problems/minimum-xor-sum-of-two-arrays/description/](https://leetcode.com/problems/minimum-xor-sum-of-two-arrays/description/)
 
 ### Coin DP
 
@@ -289,6 +295,8 @@
 1510 [https://leetcode.com/problems/stone-game-iv/description/](https://leetcode.com/problems/stone-game-iv/description/)
 
 1563 [https://leetcode.com/problems/stone-game-v/description/](https://leetcode.com/problems/stone-game-v/description/)
+
+1872 [https://leetcode.com/problems/stone-game-viii/solutions/](https://leetcode.com/problems/stone-game-viii/solutions/)
 
 #### minimax algorithm
 

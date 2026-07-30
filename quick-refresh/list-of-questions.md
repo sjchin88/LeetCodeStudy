@@ -415,6 +415,8 @@ Unnecessary Hard
 
 1815 DFS + DP + mod [https://leetcode.com/problems/maximum-number-of-groups-getting-fresh-donuts/description/](https://leetcode.com/problems/maximum-number-of-groups-getting-fresh-donuts/description/)
 
+1849 [https://leetcode.com/problems/splitting-a-string-into-descending-consecutive-values/description/](https://leetcode.com/problems/splitting-a-string-into-descending-consecutive-values/description/)
+
 ##
 
 ## Function/Class Implementation
@@ -779,6 +781,8 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 
 1675 [https://leetcode.com/problems/minimize-deviation-in-array/description/](https://leetcode.com/problems/minimize-deviation-in-array/description/)
 
+1851 [https://leetcode.com/problems/minimum-interval-to-include-each-query/description/](https://leetcode.com/problems/minimum-interval-to-include-each-query/description/)
+
 ### Huffman's Algorithm
 
 1167 [https://leetcode.com/problems/minimum-cost-to-connect-sticks/description/](https://leetcode.com/problems/minimum-cost-to-connect-sticks/description/)
@@ -804,6 +808,10 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 1163 Two pointer [https://leetcode.com/problems/last-substring-in-lexicographical-order/description/](https://leetcode.com/problems/last-substring-in-lexicographical-order/description/)
 
 1286 [https://leetcode.com/problems/iterator-for-combination/description/](https://leetcode.com/problems/iterator-for-combination/description/)
+
+1842 [https://leetcode.com/problems/next-palindrome-using-same-digits/submissions/2086794118/](https://leetcode.com/problems/next-palindrome-using-same-digits/submissions/2086794118/)
+
+1850 [https://leetcode.com/problems/minimum-adjacent-swaps-to-reach-the-kth-smallest-number/description/](https://leetcode.com/problems/minimum-adjacent-swaps-to-reach-the-kth-smallest-number/description/)
 
 ## Linked List
 
@@ -1043,6 +1051,8 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 
 1462 Topo sort [https://leetcode.com/problems/course-schedule-iv/description/](https://leetcode.com/problems/course-schedule-iv/description/)
 
+1857 Topo sort [https://leetcode.com/problems/largest-color-value-in-a-directed-graph/description/](https://leetcode.com/problems/largest-color-value-in-a-directed-graph/description/)
+
 ### Tarjan's algorithm
 
 1568 [https://leetcode.com/problems/minimum-number-of-days-to-disconnect-island/description/](https://leetcode.com/problems/minimum-number-of-days-to-disconnect-island/description/)
@@ -1155,6 +1165,8 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 
 1703 sliding window [https://leetcode.com/problems/minimum-adjacent-swaps-for-k-consecutive-ones/description/](https://leetcode.com/problems/minimum-adjacent-swaps-for-k-consecutive-ones/description/)
 
+1862 freq prefix [https://leetcode.com/problems/sum-of-floored-pairs/description/](https://leetcode.com/problems/sum-of-floored-pairs/description/)
+
 ### Prefix Prod
 
 1352 [https://leetcode.com/problems/product-of-the-last-k-numbers/description/](https://leetcode.com/problems/product-of-the-last-k-numbers/description/)
@@ -1239,6 +1251,8 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 
 1825 or Sorted Set [https://leetcode.com/problems/finding-mk-average/description/](https://leetcode.com/problems/finding-mk-average/description/)
 
+1847 [https://leetcode.com/problems/closest-room/description/](https://leetcode.com/problems/closest-room/description/)
+
 ### Binary Lifting
 
 1483 [https://leetcode.com/problems/kth-ancestor-of-a-tree-node/description/](https://leetcode.com/problems/kth-ancestor-of-a-tree-node/description/)
@@ -1250,6 +1264,8 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 1599 [https://leetcode.com/problems/maximum-profit-of-operating-a-centennial-wheel/solutions/](https://leetcode.com/problems/maximum-profit-of-operating-a-centennial-wheel/solutions/)
 
 1625 [https://leetcode.com/problems/lexicographically-smallest-string-after-applying-operations/description/](https://leetcode.com/problems/lexicographically-smallest-string-after-applying-operations/description/)
+
+1878 [https://leetcode.com/problems/get-biggest-three-rhombus-sums-in-a-grid/description/](https://leetcode.com/problems/get-biggest-three-rhombus-sums-in-a-grid/description/)
 
 ## Sorting
 
@@ -1369,6 +1385,8 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 
 1578 [https://leetcode.com/problems/minimum-time-to-make-rope-colorful/description/](https://leetcode.com/problems/minimum-time-to-make-rope-colorful/description/)
 
+1868 [https://leetcode.com/problems/product-of-two-run-length-encoded-arrays/description/](https://leetcode.com/problems/product-of-two-run-length-encoded-arrays/description/)
+
 ### Opposite Direction Traversal
 
 11. [https://leetcode.com/problems/container-with-most-water/description/](https://leetcode.com/problems/container-with-most-water/description/)
@@ -1466,6 +1484,8 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 1803 [https://leetcode.com/problems/count-pairs-with-xor-in-a-range/description/](https://leetcode.com/problems/count-pairs-with-xor-in-a-range/description/)
 
 1804 [https://leetcode.com/problems/implement-trie-ii-prefix-tree/description/](https://leetcode.com/problems/implement-trie-ii-prefix-tree/description/)
+
+1858 [https://leetcode.com/problems/longest-word-with-all-prefixes/description/](https://leetcode.com/problems/longest-word-with-all-prefixes/description/)
 
 ## Union Find
 
