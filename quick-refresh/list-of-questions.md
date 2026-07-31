@@ -783,6 +783,8 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 
 1851 [https://leetcode.com/problems/minimum-interval-to-include-each-query/description/](https://leetcode.com/problems/minimum-interval-to-include-each-query/description/)
 
+1882 [https://leetcode.com/problems/process-tasks-using-servers/description/](https://leetcode.com/problems/process-tasks-using-servers/description/)
+
 ### Huffman's Algorithm
 
 1167 [https://leetcode.com/problems/minimum-cost-to-connect-sticks/description/](https://leetcode.com/problems/minimum-cost-to-connect-sticks/description/)
