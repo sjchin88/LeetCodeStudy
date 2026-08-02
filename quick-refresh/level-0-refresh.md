@@ -241,7 +241,78 @@ class Solution:
 
 ## DFS (Backtracking | Recursion)
 
+Can be done using stack (First-in-Last-Out FILO) or recursion
 
+binary tree (or tree) problem
+
+combination problem - Finding all possible solutions
+
+permutation problem - Finding all permutations
+
+finding the best combination / permutation.
+
+Note:
+
+* if the target is just to count the number of solution/ permutation, dp could be better&#x20;
+* for best combination / permutation , dp only work if there is certain restriction in the order (like contiguous subarray/substring  or subsequence. For subset, dp unlikely to work
+* Sometime we can use binary search to set for potential limit to aid in pruning.&#x20;
+
+#### Complexities
+
+Time complexities = O( k ^ n )  => where&#x20;
+
+n = max number of elements of each path,&#x20;
+
+k = max possible option of each path.&#x20;
+
+Therefore if n is unbound , even with small k (like 2) , the time complexity can be very huge.&#x20;
+
+For combination problem, this is O(2 ^ n)&#x20;
+
+For permutation problem, this is O(n!)
+
+Space complexities => similar to time complexities.&#x20;
+
+#### Things to note
+
+1. Think carefully about how to store the state of the visited node (for example, the N-Queens problem)
+2. Need to consider pruning early as soon as we found the first result. If we are looking for optimize dfs order that can produce the best result, think if there is a way to verify if it is possible to achieve better and stop if it doesnt.  (for example, [https://www.lintcode.com/problem/570](https://www.lintcode.com/problem/570), 3530 - [https://leetcode.com/problems/maximum-profit-from-valid-topological-order-in-dag/description/](https://leetcode.com/problems/maximum-profit-from-valid-topological-order-in-dag/description/))
+3. Try 301 , [https://leetcode.com/problems/remove-invalid-parentheses/](https://leetcode.com/problems/remove-invalid-parentheses/)
+
+#### Solving Steps
+
+1. Determine exit conditions for the DFS call
+2. Determine the possible options to loop through in one iteration
+   1. Think of the information you need. Most often is the **index of a list** to start looking for possible choices
+   2. Additional index of target list may required
+3. When using a list / set to record the previous choices, for each option of this choice
+   1. temporary add the option into the list/set,&#x20;
+   2. perform DFS on the next choice
+   3. on the previous DFS return, remove the option just now to clean the list/set for the next option for this choice
+4. Think of possible optimizations to fast up the process:
+   1. Use of Set() / Dict ()
+   2. Use of Trie&#x20;
+   3. Use of Prefix
+
+```python
+// Some code
+def dfs_backtrack(candidates, index, temp, result):
+	# found solution satisfies required condition
+	if index == len(candidates) || other conditions:
+		#record result, if the temp is list need to make a deep copy
+		result.append(temp)
+	
+	# iterate all possible candidates
+	for next_candidate in candidates:
+		#try this partial candidate solution
+		temp.append(candidate)
+		#update remaining required conditions
+		index = index + 1
+		self.dfs_backtrack(candidate, index, temp, result)
+		#back track, use pop() for fastest removal
+		temp.pop()
+
+```
 
 ## Dynamic Programming
 
