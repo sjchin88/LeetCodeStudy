@@ -222,6 +222,12 @@
 
 1871 [https://leetcode.com/problems/jump-game-vii/description/](https://leetcode.com/problems/jump-game-vii/description/)
 
+1883 [https://leetcode.com/problems/minimum-skips-to-arrive-at-meeting-on-time/description/](https://leetcode.com/problems/minimum-skips-to-arrive-at-meeting-on-time/description/)&#x20;
+
+1884 [https://leetcode.com/problems/egg-drop-with-2-eggs-and-n-floors/description/](https://leetcode.com/problems/egg-drop-with-2-eggs-and-n-floors/description/)
+
+1900 [https://leetcode.com/problems/the-earliest-and-latest-rounds-where-players-compete/description/](https://leetcode.com/problems/the-earliest-and-latest-rounds-where-players-compete/description/)
+
 ### Bitmasking
 
 1434 Use bitmasking [https://leetcode.com/problems/number-of-ways-to-wear-different-hats-to-each-other/description/](https://leetcode.com/problems/number-of-ways-to-wear-different-hats-to-each-other/description/)
@@ -296,7 +302,9 @@
 
 1563 [https://leetcode.com/problems/stone-game-v/description/](https://leetcode.com/problems/stone-game-v/description/)
 
-1872 [https://leetcode.com/problems/stone-game-viii/solutions/](https://leetcode.com/problems/stone-game-viii/solutions/)
+1872 [https://leetcode.com/problems/stone-game-viii/solutions/](https://leetcode.com/problems/stone-game-viii/solutions/)&#x20;
+
+1908 [https://leetcode.com/problems/game-of-nim/description/](https://leetcode.com/problems/game-of-nim/description/)
 
 #### minimax algorithm
 

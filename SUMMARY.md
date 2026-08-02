@@ -68,6 +68,9 @@
 
 ## Quick Refresh
 
+* [Level 0 Refresh](quick-refresh/level-0-refresh.md)
+* [Level 1 Refresh](quick-refresh/level-1-refresh/README.md)
+  * [Binary Search](quick-refresh/level-1-refresh/binary-search.md)
 * [List of Questions](quick-refresh/list-of-questions.md)
 * [Dynamic Programmings](quick-refresh/dynamic-programmings.md)
 * [Absolutely nuts](quick-refresh/absolutely-nuts.md)

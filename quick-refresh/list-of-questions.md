@@ -46,7 +46,11 @@ with duplicate (hard and not necessary) - [https://leetcode.com/problems/find-mi
 
 1095 [https://leetcode.com/problems/find-in-mountain-array/description/](https://leetcode.com/problems/find-in-mountain-array/description/)
 
-1712 prefixsum [https://leetcode.com/problems/ways-to-split-array-into-three-subarrays/description/](https://leetcode.com/problems/ways-to-split-array-into-three-subarrays/description/)
+1712 prefixsum [https://leetcode.com/problems/ways-to-split-array-into-three-subarrays/description/](https://leetcode.com/problems/ways-to-split-array-into-three-subarrays/description/)&#x20;
+
+1889 [https://leetcode.com/problems/minimum-space-wasted-from-packaging/description/](https://leetcode.com/problems/minimum-space-wasted-from-packaging/description/)
+
+1901 [https://leetcode.com/problems/find-a-peak-element-ii/description/](https://leetcode.com/problems/find-a-peak-element-ii/description/)
 
 ### Binary Search Result Range
 
@@ -61,6 +65,8 @@ with duplicate (hard and not necessary) - [https://leetcode.com/problems/find-mi
 1292 Prefix + optimized enumeration [https://leetcode.com/problems/maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold/description/](https://leetcode.com/problems/maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold/description/)
 
 1723 DFS to check [https://leetcode.com/problems/find-minimum-time-to-finish-all-jobs/description/](https://leetcode.com/problems/find-minimum-time-to-finish-all-jobs/description/)
+
+1898 [https://leetcode.com/problems/maximum-number-of-removable-characters/description/](https://leetcode.com/problems/maximum-number-of-removable-characters/description/)
 
 ### Divide and Conquer
 
@@ -107,6 +113,8 @@ with duplicate (hard and not necessary) - [https://leetcode.com/problems/find-mi
 1597 [https://leetcode.com/problems/build-binary-expression-tree-from-infix-expression/description/](https://leetcode.com/problems/build-binary-expression-tree-from-infix-expression/description/)
 
 1631 `https://leetcode.com/problems/path-with-minimum-effort/description/`
+
+`1902` Stack [https://leetcode.com/problems/depth-of-bst-given-insertion-order/description/](https://leetcode.com/problems/depth-of-bst-given-insertion-order/description/)
 
 ### Inorder traversal (Left root right)
 
@@ -417,6 +425,8 @@ Unnecessary Hard
 
 1849 [https://leetcode.com/problems/splitting-a-string-into-descending-consecutive-values/description/](https://leetcode.com/problems/splitting-a-string-into-descending-consecutive-values/description/)
 
+1896 [https://leetcode.com/problems/minimum-cost-to-change-the-final-value-of-expression/description/](https://leetcode.com/problems/minimum-cost-to-change-the-final-value-of-expression/description/)
+
 ##
 
 ## Function/Class Implementation
@@ -696,6 +706,8 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 1733 [https://leetcode.com/problems/minimum-number-of-people-to-teach/description/](https://leetcode.com/problems/minimum-number-of-people-to-teach/description/)
 
 1754 [https://leetcode.com/problems/largest-merge-of-two-strings/description/](https://leetcode.com/problems/largest-merge-of-two-strings/description/)
+
+1899 [https://leetcode.com/problems/merge-triplets-to-form-target-triplet/description/](https://leetcode.com/problems/merge-triplets-to-form-target-triplet/description/)
 
 ### Hash
 
@@ -1169,6 +1181,10 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 
 1862 freq prefix [https://leetcode.com/problems/sum-of-floored-pairs/description/](https://leetcode.com/problems/sum-of-floored-pairs/description/)
 
+1895 [https://leetcode.com/problems/largest-magic-square/description/](https://leetcode.com/problems/largest-magic-square/description/)&#x20;
+
+1906 [https://leetcode.com/problems/minimum-absolute-difference-queries/description/](https://leetcode.com/problems/minimum-absolute-difference-queries/description/)
+
 ### Prefix Prod
 
 1352 [https://leetcode.com/problems/product-of-the-last-k-numbers/description/](https://leetcode.com/problems/product-of-the-last-k-numbers/description/)
@@ -1431,7 +1447,9 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 
 1604 [https://leetcode.com/problems/alert-using-same-key-card-three-or-more-times-in-a-one-hour-period/description/](https://leetcode.com/problems/alert-using-same-key-card-three-or-more-times-in-a-one-hour-period/description/)
 
-1687 [https://leetcode.com/problems/delivering-boxes-from-storage-to-ports/description/](https://leetcode.com/problems/delivering-boxes-from-storage-to-ports/description/)
+1687 [https://leetcode.com/problems/delivering-boxes-from-storage-to-ports/description/](https://leetcode.com/problems/delivering-boxes-from-storage-to-ports/description/)&#x20;
+
+1888 [https://leetcode.com/problems/minimum-number-of-flips-to-make-the-binary-string-alternating/description/](https://leetcode.com/problems/minimum-number-of-flips-to-make-the-binary-string-alternating/description/)
 
 ### Fast and Slow Pointer
 
@@ -1519,7 +1537,9 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 
 1724 or MST [https://leetcode.com/problems/checking-existence-of-edge-length-limited-paths-ii/description/](https://leetcode.com/problems/checking-existence-of-edge-length-limited-paths-ii/description/)
 
-1722 [https://leetcode.com/problems/minimize-hamming-distance-after-swap-operations/description/](https://leetcode.com/problems/minimize-hamming-distance-after-swap-operations/description/)
+1722 [https://leetcode.com/problems/minimize-hamming-distance-after-swap-operations/description/](https://leetcode.com/problems/minimize-hamming-distance-after-swap-operations/description/)&#x20;
+
+1905 [https://leetcode.com/problems/count-sub-islands/description/](https://leetcode.com/problems/count-sub-islands/description/)
 
 ### Disjointed Union Find
 
