@@ -254,7 +254,9 @@ with duplicate (hard and not necessary) - [https://leetcode.com/problems/find-mi
 
 1734 xor [https://leetcode.com/problems/decode-xored-permutation/description/](https://leetcode.com/problems/decode-xored-permutation/description/)
 
-1835 (a ^ b) & (a ^ c) = a & (b ^ c) [https://leetcode.com/problems/find-xor-sum-of-all-pairs-bitwise-and/description/](https://leetcode.com/problems/find-xor-sum-of-all-pairs-bitwise-and/description/)
+1835 (a ^ b) & (a ^ c) = a & (b ^ c) [https://leetcode.com/problems/find-xor-sum-of-all-pairs-bitwise-and/description/](https://leetcode.com/problems/find-xor-sum-of-all-pairs-bitwise-and/description/)&#x20;
+
+1915 [https://leetcode.com/problems/number-of-wonderful-substrings/description/](https://leetcode.com/problems/number-of-wonderful-substrings/description/)
 
 ### Gray Code
 
@@ -1145,7 +1147,9 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 
 1348 [https://leetcode.com/problems/tweet-counts-per-frequency/description/](https://leetcode.com/problems/tweet-counts-per-frequency/description/)
 
-1797 [https://leetcode.com/problems/design-authentication-manager/description/](https://leetcode.com/problems/design-authentication-manager/description/)
+1797 [https://leetcode.com/problems/design-authentication-manager/description/](https://leetcode.com/problems/design-authentication-manager/description/)&#x20;
+
+1912 [https://leetcode.com/problems/design-movie-rental-system/description/](https://leetcode.com/problems/design-movie-rental-system/description/)
 
 ## Points Operation (2D Map)
 

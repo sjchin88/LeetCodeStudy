@@ -40,6 +40,8 @@
 
 885 . [https://leetcode.com/problems/spiral-matrix-iii/editorial/](https://leetcode.com/problems/spiral-matrix-iii/editorial/)
 
+1914 [https://leetcode.com/problems/cyclically-rotating-a-grid/description/](https://leetcode.com/problems/cyclically-rotating-a-grid/description/)
+
 ## Recursion
 
 247 . [https://leetcode.com/problems/strobogrammatic-number-ii/description/](https://leetcode.com/problems/strobogrammatic-number-ii/description/)
