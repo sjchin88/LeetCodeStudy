@@ -194,7 +194,7 @@ with duplicate (hard and not necessary) - [https://leetcode.com/problems/find-mi
 
 ## Bit Operations
 
-89 . [https://leetcode.com/problems/gray-code/description/](https://leetcode.com/problems/gray-code/description/)
+
 
 137 . [https://leetcode.com/problems/single-number-ii/description/](https://leetcode.com/problems/single-number-ii/description/)
 
@@ -257,6 +257,8 @@ with duplicate (hard and not necessary) - [https://leetcode.com/problems/find-mi
 1835 (a ^ b) & (a ^ c) = a & (b ^ c) [https://leetcode.com/problems/find-xor-sum-of-all-pairs-bitwise-and/description/](https://leetcode.com/problems/find-xor-sum-of-all-pairs-bitwise-and/description/)
 
 ### Gray Code
+
+89 . [https://leetcode.com/problems/gray-code/description/](https://leetcode.com/problems/gray-code/description/)
 
 1611 [https://leetcode.com/problems/minimum-one-bit-operations-to-make-integers-zero/description/](https://leetcode.com/problems/minimum-one-bit-operations-to-make-integers-zero/description/)
 
