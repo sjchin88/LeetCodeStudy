@@ -320,9 +320,64 @@ Basic Question
 
 ## Heap (Priority Queue)
 
+#### Time Complexities
 
+heapify = O(n)
+
+insertion/deletion = O (log n)&#x20;
+
+top = O(1)
+
+Limitation = The rest of the items are not sorted, searching become O(n)
+
+#### Good for / When to use
+
+* Maintaining top k smallest / biggest element
+  * The value of the top (Kth smallest / K th biggest) can be useful
+* Finding new max / min after insert a new element in O(log k) -> k = size of heap
+  * This is ideal for working with data stream or linear scan of array
+  * sorted array can find the relative position of new items in O(log n) through binary search, but inserting them and maintain the sorted list will cost O(n)&#x20;
+
+```python
+# code for heap operation
+# note Python has only min_heap
+import heapq
+heap = []
+
+# heapify
+heapq.heapify(heap)
+
+# Push new item
+heapq.heappush(heap, new_item)
+
+# Pop item
+heapq.heappop(heap)
+
+# Replace item, faster than pop then push
+heapq.heapreplace(heap, new_item)
+
+# Get the top 
+heap[0]
+
+
+```
+
+Practise:&#x20;
+
+253 [https://leetcode.com/problems/meeting-rooms-ii/description/](https://leetcode.com/problems/meeting-rooms-ii/description/)
 
 ## Lexicographically Next
+
+<figure><img src="../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
+
+* Iterate from the end (n - 1) till 0, find i-1 where a\[i-1] < a\[i]
+* Iterate again from the end (n - 1) till i, find j where a\[j] > a\[i-1]
+* swap a\[i-1] with a\[j]
+* reverset a\[i] till the end
+
+Practise question:
+
+/leetcode.com/problems/next-greater-element-iii/description/
 
 ## LinkedList
 
