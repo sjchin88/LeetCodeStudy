@@ -381,13 +381,80 @@ Practise question:
 
 ## LinkedList
 
+```python
+## Detect cycle
+# Definition for singly-linked list.
+# class ListNode:
+#     def __init__(self, x):
+#         self.val = x
+#         self.next = None
+
+class Solution:
+    def detectCycle(self, head: Optional[ListNode]) -> Optional[ListNode]:
+        if not head:
+            return None
+        if head.next == head:
+            return head
+        fast = head
+        slow = head
+        cycle = False
+        while fast.next and fast.next.next:
+            fast = fast.next.next
+            slow = slow.next
+            if fast == slow:
+                cycle = True
+                break
+        if not cycle:
+            return None
+        fast = head
+        while fast != slow:
+            fast = fast.next
+            slow = slow.next
+        return fast
+```
+
 ## LongestIncreasingSubsequence (Russia Doll)
+
+this algorithm does not always generate a valid subsequence of the input, but the length of the subsequence will always equal the length of the longest increasing subsequence
+
+```python
+class Solution:
+    def lengthOfLIS(self, nums: List[int]) -> int:
+        sub = []
+        for num in nums:
+            i = bisect_left(sub, num)
+
+            # If num is greater than any element in sub
+            if i == len(sub):
+                sub.append(num)
+            
+            # Otherwise, replace the first element in sub greater than or equal to num
+            else:
+                sub[i] = num
+        
+        return len(sub)
+```
 
 ## Monostack
 
 ## Named Algorithms
 
 ### Kadane's
+
+```py
+class Solution:
+    def maxSubArray(self, nums: List[int]) -> int:
+        # Initialize our variables using the first element.
+        current_subarray = max_subarray = nums[0]
+
+        # Start with the 2nd element since we already used the first one.
+        for num in nums[1:]:
+            # If current_subarray is negative, throw it away. Otherwise, keep adding to it.
+            current_subarray = max(num, current_subarray + num)
+            max_subarray = max(max_subarray, current_subarray)
+
+        return max_subarray
+```
 
 ## OrderedDict | SortedSet | Bisect
 
