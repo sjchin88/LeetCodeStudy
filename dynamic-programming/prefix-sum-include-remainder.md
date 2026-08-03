@@ -13,7 +13,7 @@ the **sum of subarray \[i, j]** (inclusive) is **prefixSum\[j] - prefixSum\[ i -
 This is useful if&#x20;
 
 * Given two position i, j  where i <= j, we want to quickly find the sum between i & j (all unclusive)
-  * whenwe need to iterate through the sum of subarray for i , j in range of (0, n)
+  * when we need to iterate through the sum of subarray for i , j in range of (0, n)
 * Or given j, we want to quickly find out previous position i where the subarray i -> j satisfy specific conditions
   * subarray i -> j satisfy the condition where sum == k. (find i through sum\_till\_j - k )
   * subarray i -> j satisfy the condition where sum % k == 0 . (find i where the remainder is equal to sum\_till\_j % k, then the sum between is divisible by k).&#x20;
