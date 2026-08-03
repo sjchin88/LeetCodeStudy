@@ -437,6 +437,54 @@ class Solution:
 
 ## Monostack
 
+#### Used For
+
+* Finding the previous smaller/larger element or the next smaller/larger element for all elements in the array in O(n) time.&#x20;
+  * Stored them in the array to be queried in O(1) time.
+* Maintain Local Min / Max element within a given range in O(1) time
+
+
+
+#### Property
+
+* All elements on the queue/stack are strictly increasing or decreasing&#x20;
+* Allow finding of previous smaller/larger element in O(1) time
+* Python deque structure can be used to access the bottom (left) of the stack in O(1) -> Useful if we need to maintain and keep the order for k elements&#x20;
+
+<figure><img src="../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
+
+```python
+# Previous Less Element
+## the stack store the previous lesser element(ple) index
+def find_ples(nums:List[int]) -> List[int]:
+    ples = [default value] * len(nums)
+    stack = collections.deque()
+    for i, num in enumerate(nums):
+        while stack and nums[stack[-1]] >= num:
+            stack.pop()
+        if stack:
+            ples = stack[-1]
+        stack.append(i)
+    return ples
+
+##the stack store the next lesser element(nle) index
+def find_nles(nums:List[int]) -> List[int]:
+    nles = [default value] * len(nums)
+    stack = collections.deque()
+    # Example, nums = [3, 2, 3]
+    # starting from 3, 
+    # the stack is empty (no update), add 3 -> stack = [3]
+    # next iterate till 2, stack top (3) is > 2, 
+    # pop the stack and update the idx nles[0] to be 1
+    # last iteration, stack top (2) is not > 3, no update
+    for i, num in enumerate(nums):
+        while stack and nums[stack[-1]] > num:
+            prev = stack.pop()
+            nles[prev] = i
+        stack.append(i)
+    return nles
+```
+
 ## Named Algorithms
 
 ### Kadane's
@@ -456,17 +504,79 @@ class Solution:
         return max_subarray
 ```
 
-## OrderedDict | SortedSet | Bisect
+## OrderedDict&#x20;
+
+maintain the order of the dict  (typically use LinkedList), so that we can achieve the following operations efficiently
+
+1. find/update the key: value pair in O(1)
+2. move any element to the end in O(1)
+3. delete the first/last element in O(1)
+
+Note: &#x20;
+
+* A list / deque can perform 2 and 3 in O(1) but will take O(n) to do 1
+* A dict will do 1 in O(1) but cannot perform 2 and 3 (as dict don't keep order history)
+
+<figure><img src="../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
 
 
 
 ## Prefix\_sum
 
+The value of **prefixSum\[i]** is **arr\[0] + arr\[1] + arr\[2] . . . arr\[i]**
+
+the **sum of subarray \[i, j]** (inclusive) is **prefixSum\[j] - prefixSum\[ i - 1]**
+
+This is useful if&#x20;
+
+* Given two position i, j  where i <= j, we want to quickly find the sum between i & j (all unclusive)
+  * when we need to iterate through the sum of subarray for i , j in range of (0, n)
+* Or given j, we want to quickly find out previous position i where the subarray i -> j satisfy specific conditions
+  * subarray i -> j satisfy the condition where sum == k. (find i through sum\_till\_j - k )
+  * subarray i -> j satisfy the condition where sum % k == 0 . (find i where the remainder is equal to sum\_till\_j % k, then the sum between is divisible by k).&#x20;
+  * subarray i -> j satisfy the condition where count\_a == count\_b .&#x20;
+    * find i where a tuple/number depicting relative relationship between count\_a and count\_b are equal (like a - b).&#x20;
+    * can be expand to count more than two elements.&#x20;
+
+Quick Practise:
+
+325 . [https://leetcode.com/problems/maximum-size-subarray-sum-equals-k/description/](https://leetcode.com/problems/maximum-size-subarray-sum-equals-k/description/)
+
 ### Prefix\_prod
+
+1352 [https://leetcode.com/problems/product-of-the-last-k-numbers/description/](https://leetcode.com/problems/product-of-the-last-k-numbers/description/)
 
 ### Prefix\_Xor
 
+1310 [https://leetcode.com/problems/xor-queries-of-a-subarray/description/](https://leetcode.com/problems/xor-queries-of-a-subarray/description/)
 
+## SortedSet | Bisect
+
+Insert/Search/Delete - O(logn)&#x20;
+
+Finding next greater / next smaller element - O(logn)
+
+For python,&#x20;
+
+One implementation provided by the custom library [https://grantjenks.com/docs/sortedcontainers/](https://grantjenks.com/docs/sortedcontainers/)
+
+```python
+# 
+#Import
+from sortedcontainers import SortedSet
+
+#initialize
+ss = SortedSet(iterable)
+
+#add
+ss.add(element)
+
+# find next bigger or equal idx, same as ts.ceiling
+idx = ss.bisect_left(value)
+
+# find next smaller or equal idx, same as ts.floor
+idx = ss.bisect_right(value)
+```
 
 ## Sweeping Lines | Linear Scan
 
@@ -474,9 +584,163 @@ class Solution:
 
 ## TrieNode
 
+#### **Application**
+
+1. Checking if the prefix/word exists in the dictionary
+   1. Fastest in finding common prefix - putting the words into the Trie one by one, and find the max/min common prefix of the new word with the previous word
+2. Perform DFS on the trie
+   1. When we want to dfs based on the prefix, to check if the prefix can lead to a word will need O(L)
+   2. But if we already at the node of previous character in the Trie, to check if the next character can lead to a word will only need O(1) time
+3. Used to optimize other algorithms (like DP) to check the prefix/word quickly
+   1. When we have a set of words with some common prefix, and we need to dp based on the word and target
+   2. Like all words that can be transformed into target with less than or equal to k operation&#x20;
+
+```python
+class TrieNode:
+    def __init__(self):
+        self.children = {}
+        self.is_word = False
+        self.word = None
+
+class Trie:
+    def __init__(self):
+        self.root = TrieNode()
+    
+    def get_root(self):
+        return self.root
+        
+    def insert(self, word:str):
+        node = self.root
+        for i in range(len(word)):
+            if word[i] not in node.children:
+                node.children[word[i]] = TrieNode()
+            node = node.children[word[i]]
+        node.is_word = True
+        node.word = word
+```
+
+Quick Practise
+
+112 . Trie + DFS [https://leetcode.com/problems/word-search-ii/description/](https://leetcode.com/problems/word-search-ii/description/)
+
 ## Union Find
 
+#### Applications
 
+Support the following two useful operations in near O(1) times  (actual is close to O(log n)
 
+1. find(x) - determine which subset an element is in
+2. union(x, y) - merge the subset x in and the subset y in into a single set&#x20;
 
+Efficient in&#x20;
+
+adding edges to a graph,&#x20;
+
+determine if the existing nodes and edges form a tree&#x20;
+
+and if there is any cycle when want to add new edges
+
+```python
+# Template for union find (Unknown size)
+class UnionFind:
+    def __init__(self):
+        self.parents = {}
+        self.set_sizes = {}
+        self.num_sets = 0
+    
+    def insert(self, x):
+        if x in self.parents:
+            return
+        self.parents[x] = None
+        self.set_sizes[x] = 1
+        self.num_sets += 1
+    
+    def find(self, x):
+        if x not in self.parents:
+            return None
+        root = x
+        while self.parents[root] != None:
+            root = self.parents[root]
+        
+        #Update each parent along the chain to compress the search time later
+        curr = x
+        while curr != root:
+            ori_parent = self.parents[curr]
+            self.parents[curr] = root
+            curr = ori_parent
+        return root
+        
+    def is_connected(self, x, y):
+        #self to self is connected
+        if x == y:
+            return True
+        root_x = self.find(x)
+        root_y = self.find(y)
+        # If either x or y not exist
+        if root_x == None or root_y == None:
+            return False
+        return root_x == root_y
+        
+    def add_edge(self, x, y):
+        self.insert(x)
+        self.insert(y)
+        root_x = self.find(x)
+        root_y = self.find(y)
+        #Very Important to avoid self-pointing at root
+        if root_x != root_y:
+            self.parents[root_x] = root_y
+            self.num_sets -= 1
+            self.set_sizes[root_y] = self.set_sizes[root_x] + self.set_sizes[root_y]
+    
+    def get_set_size(self, x):
+        root = self.find(x)
+        if root == null:
+            return 0
+        return self.set_sizes[self.find(x)]
+        
+        
+```
+
+Union Find Algorithm, Known size
+
+```python
+class UnionFind:
+    def __init__(self, n: int):
+        # parent[i] stores the parent of node i
+        # Initially, every node is its own parent
+        self.parent = list(range(n))
+        
+        # size[i] tracks the size of the union set
+        self.size = [1] * n
+
+    def find(self, i: int) -> int:
+        """Finds the root of node i with Path Compression."""
+        if self.parent[i] == i:
+            return i
+        
+        # Path Compression: points parent directly to the ultimate root
+        self.parent[i] = self.find(self.parent[i])
+        return self.parent[i]
+
+    def union(self, i: int, j: int) -> bool:
+        """Unites sets containing i and j using Union by Rank."""
+        root_i = self.find(i)
+        root_j = self.find(j)
+
+        if root_i == root_j:
+            return False  # Already in the same set
+        
+        # else
+        self.parent[root_i] = root_j
+        self.size[root_j] += self.size[root_i]
+        return True
+
+    def connected(self, i: int, j: int) -> bool:
+        """Checks if nodes i and j belong to the same component."""
+        return self.find(i) == self.find(j)
+```
+
+Quick Practise
+
+* [https://leetcode.com/problems/making-a-large-island/description/](https://leetcode.com/problems/making-a-large-island/description/)
 
