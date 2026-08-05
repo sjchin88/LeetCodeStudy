@@ -533,7 +533,11 @@ Unnecessary Hard
 
 1786 [https://leetcode.com/problems/number-of-restricted-paths-from-first-to-last-node/description/](https://leetcode.com/problems/number-of-restricted-paths-from-first-to-last-node/description/)
 
-1810 [https://leetcode.com/problems/minimum-path-cost-in-a-hidden-grid/solutions/](https://leetcode.com/problems/minimum-path-cost-in-a-hidden-grid/solutions/)
+1810 [https://leetcode.com/problems/minimum-path-cost-in-a-hidden-grid/solutions/](https://leetcode.com/problems/minimum-path-cost-in-a-hidden-grid/solutions/)&#x20;
+
+1928 [https://leetcode.com/problems/minimum-cost-to-reach-destination-in-time/description/](https://leetcode.com/problems/minimum-cost-to-reach-destination-in-time/description/)
+
+
 
 ### Jarvis Algorithm / Graham Scan
 
@@ -949,7 +953,9 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 
 1739 [https://leetcode.com/problems/building-boxes/description/](https://leetcode.com/problems/building-boxes/description/)
 
-1828 Quad tree [https://leetcode.com/problems/queries-on-number-of-points-inside-a-circle/description/](https://leetcode.com/problems/queries-on-number-of-points-inside-a-circle/description/)
+1828 Quad tree [https://leetcode.com/problems/queries-on-number-of-points-inside-a-circle/description/](https://leetcode.com/problems/queries-on-number-of-points-inside-a-circle/description/)&#x20;
+
+1924 Welzi algorithm [https://leetcode.com/problems/erect-the-fence-ii/description/](https://leetcode.com/problems/erect-the-fence-ii/description/)
 
 ### Matrix
 
@@ -1002,6 +1008,8 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 466 . [https://leetcode.com/problems/count-the-repetitions/description/](https://leetcode.com/problems/count-the-repetitions/description/)
 
 1121 [https://leetcode.com/problems/divide-array-into-increasing-sequences/description/](https://leetcode.com/problems/divide-array-into-increasing-sequences/description/)
+
+1927 [https://leetcode.com/problems/sum-game/description/](https://leetcode.com/problems/sum-game/description/)
 
 ### Prime
 
@@ -1237,7 +1245,9 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 
 1392 [https://leetcode.com/problems/longest-happy-prefix/solutions/](https://leetcode.com/problems/longest-happy-prefix/solutions/)
 
-1461 [https://leetcode.com/problems/check-if-a-string-contains-all-binary-codes-of-size-k/description/](https://leetcode.com/problems/check-if-a-string-contains-all-binary-codes-of-size-k/description/)
+1461 [https://leetcode.com/problems/check-if-a-string-contains-all-binary-codes-of-size-k/description/](https://leetcode.com/problems/check-if-a-string-contains-all-binary-codes-of-size-k/description/)&#x20;
+
+1923 Rolling [https://leetcode.com/problems/longest-common-subpath/solutions/](https://leetcode.com/problems/longest-common-subpath/solutions/)
 
 
 
