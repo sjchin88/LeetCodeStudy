@@ -869,7 +869,9 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 
 1671 [https://leetcode.com/problems/minimum-number-of-removals-to-make-mountain-array/description/](https://leetcode.com/problems/minimum-number-of-removals-to-make-mountain-array/description/)
 
-1713 [https://leetcode.com/problems/minimum-operations-to-make-a-subsequence/description/](https://leetcode.com/problems/minimum-operations-to-make-a-subsequence/description/)
+1713 [https://leetcode.com/problems/minimum-operations-to-make-a-subsequence/description/](https://leetcode.com/problems/minimum-operations-to-make-a-subsequence/description/)&#x20;
+
+1964 [https://leetcode.com/problems/find-the-longest-valid-obstacle-course-at-each-position/description/](https://leetcode.com/problems/find-the-longest-valid-obstacle-course-at-each-position/description/)
 
 
 
@@ -923,7 +925,9 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 
 1808 [https://leetcode.com/problems/maximize-number-of-nice-divisors/description/](https://leetcode.com/problems/maximize-number-of-nice-divisors/description/)
 
-1813 [https://leetcode.com/problems/find-the-winner-of-the-circular-game/submissions/2083525906/](https://leetcode.com/problems/find-the-winner-of-the-circular-game/submissions/2083525906/)
+1813 [https://leetcode.com/problems/find-the-winner-of-the-circular-game/submissions/2083525906/](https://leetcode.com/problems/find-the-winner-of-the-circular-game/submissions/2083525906/)&#x20;
+
+1954 [https://leetcode.com/problems/minimum-garden-perimeter-to-collect-enough-apples/description/](https://leetcode.com/problems/minimum-garden-perimeter-to-collect-enough-apples/description/)
 
 ### Fibonacci
 
@@ -1299,7 +1303,9 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 
 1625 [https://leetcode.com/problems/lexicographically-smallest-string-after-applying-operations/description/](https://leetcode.com/problems/lexicographically-smallest-string-after-applying-operations/description/)
 
-1878 [https://leetcode.com/problems/get-biggest-three-rhombus-sums-in-a-grid/description/](https://leetcode.com/problems/get-biggest-three-rhombus-sums-in-a-grid/description/)
+1878 [https://leetcode.com/problems/get-biggest-three-rhombus-sums-in-a-grid/description/](https://leetcode.com/problems/get-biggest-three-rhombus-sums-in-a-grid/description/)&#x20;
+
+1956 [https://leetcode.com/problems/minimum-time-for-k-virus-variants-to-spread/description/](https://leetcode.com/problems/minimum-time-for-k-virus-variants-to-spread/description/)
 
 ## Sorting
 
@@ -1363,6 +1369,8 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 
 1585 [https://leetcode.com/problems/check-if-string-is-transformable-with-substring-sort-operations/description/](https://leetcode.com/problems/check-if-string-is-transformable-with-substring-sort-operations/description/)
 
+1963 [https://leetcode.com/problems/minimum-number-of-swaps-to-make-the-string-balanced/description/](https://leetcode.com/problems/minimum-number-of-swaps-to-make-the-string-balanced/description/)
+
 ### Stacks for Tree
 
 654 . [https://leetcode.com/problems/maximum-binary-tree/description/](https://leetcode.com/problems/maximum-binary-tree/description/)
@@ -1385,7 +1393,9 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 
 5. [https://leetcode.com/problems/longest-palindromic-substring/description/](https://leetcode.com/problems/longest-palindromic-substring/description/)
 
-647 , [https://leetcode.com/problems/palindromic-substrings/description/](https://leetcode.com/problems/palindromic-substrings/description/)
+647 , [https://leetcode.com/problems/palindromic-substrings/description/](https://leetcode.com/problems/palindromic-substrings/description/)&#x20;
+
+1960 [https://leetcode.com/problems/maximum-product-of-the-length-of-two-palindromic-substrings/description/](https://leetcode.com/problems/maximum-product-of-the-length-of-two-palindromic-substrings/description/)
 
 ### Regex
 

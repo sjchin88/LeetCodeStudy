@@ -226,7 +226,9 @@
 
 1884 [https://leetcode.com/problems/egg-drop-with-2-eggs-and-n-floors/description/](https://leetcode.com/problems/egg-drop-with-2-eggs-and-n-floors/description/)
 
-1900 [https://leetcode.com/problems/the-earliest-and-latest-rounds-where-players-compete/description/](https://leetcode.com/problems/the-earliest-and-latest-rounds-where-players-compete/description/)
+1900 [https://leetcode.com/problems/the-earliest-and-latest-rounds-where-players-compete/description/](https://leetcode.com/problems/the-earliest-and-latest-rounds-where-players-compete/description/)&#x20;
+
+1959 [https://leetcode.com/problems/minimum-total-space-wasted-with-k-resizing-operations/solutions/](https://leetcode.com/problems/minimum-total-space-wasted-with-k-resizing-operations/solutions/)
 
 ### Bitmasking
 
