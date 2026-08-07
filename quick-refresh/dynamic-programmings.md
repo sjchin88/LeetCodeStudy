@@ -230,6 +230,8 @@
 
 1959 [https://leetcode.com/problems/minimum-total-space-wasted-with-k-resizing-operations/solutions/](https://leetcode.com/problems/minimum-total-space-wasted-with-k-resizing-operations/solutions/)
 
+1931 [https://leetcode.com/problems/painting-a-grid-with-three-different-colors/description/](https://leetcode.com/problems/painting-a-grid-with-three-different-colors/description/)
+
 ### Bitmasking
 
 1434 Use bitmasking [https://leetcode.com/problems/number-of-ways-to-wear-different-hats-to-each-other/description/](https://leetcode.com/problems/number-of-ways-to-wear-different-hats-to-each-other/description/)
@@ -246,7 +248,9 @@
 
 1799 [https://leetcode.com/problems/maximize-score-after-n-operations/description/](https://leetcode.com/problems/maximize-score-after-n-operations/description/)
 
-1879 [https://leetcode.com/problems/minimum-xor-sum-of-two-arrays/description/](https://leetcode.com/problems/minimum-xor-sum-of-two-arrays/description/)
+1879 [https://leetcode.com/problems/minimum-xor-sum-of-two-arrays/description/](https://leetcode.com/problems/minimum-xor-sum-of-two-arrays/description/)&#x20;
+
+1947 [https://leetcode.com/problems/maximum-compatibility-score-sum/description/](https://leetcode.com/problems/maximum-compatibility-score-sum/description/)
 
 ### Coin DP
 

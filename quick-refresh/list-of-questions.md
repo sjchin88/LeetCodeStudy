@@ -114,7 +114,11 @@ with duplicate (hard and not necessary) - [https://leetcode.com/problems/find-mi
 
 1631 `https://leetcode.com/problems/path-with-minimum-effort/description/`
 
-`1902` Stack [https://leetcode.com/problems/depth-of-bst-given-insertion-order/description/](https://leetcode.com/problems/depth-of-bst-given-insertion-order/description/)
+`1902` Stack [https://leetcode.com/problems/depth-of-bst-given-insertion-order/description/](https://leetcode.com/problems/depth-of-bst-given-insertion-order/description/)&#x20;
+
+1932 [https://leetcode.com/problems/merge-bsts-to-create-single-bst/description/](https://leetcode.com/problems/merge-bsts-to-create-single-bst/description/)&#x20;
+
+1937 [https://leetcode.com/problems/maximum-number-of-points-with-cost/description/](https://leetcode.com/problems/maximum-number-of-points-with-cost/description/)
 
 ### Inorder traversal (Left root right)
 
@@ -805,6 +809,8 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 
 1882 [https://leetcode.com/problems/process-tasks-using-servers/description/](https://leetcode.com/problems/process-tasks-using-servers/description/)
 
+1942 [https://leetcode.com/problems/the-number-of-the-smallest-unoccupied-chair/description/](https://leetcode.com/problems/the-number-of-the-smallest-unoccupied-chair/description/)
+
 ### Huffman's Algorithm
 
 1167 [https://leetcode.com/problems/minimum-cost-to-connect-sticks/description/](https://leetcode.com/problems/minimum-cost-to-connect-sticks/description/)
@@ -1411,7 +1417,9 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 
 910 . [https://leetcode.com/problems/smallest-range-ii/description/](https://leetcode.com/problems/smallest-range-ii/description/)
 
-1094 [https://leetcode.com/problems/car-pooling/description/](https://leetcode.com/problems/car-pooling/description/)
+1094 [https://leetcode.com/problems/car-pooling/description/](https://leetcode.com/problems/car-pooling/description/)&#x20;
+
+1943 [https://leetcode.com/problems/describe-the-painting/description/](https://leetcode.com/problems/describe-the-painting/description/)
 
 ## Transform and Conquer
 
@@ -1429,7 +1437,9 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 
 1578 [https://leetcode.com/problems/minimum-time-to-make-rope-colorful/description/](https://leetcode.com/problems/minimum-time-to-make-rope-colorful/description/)
 
-1868 [https://leetcode.com/problems/product-of-two-run-length-encoded-arrays/description/](https://leetcode.com/problems/product-of-two-run-length-encoded-arrays/description/)
+1868 [https://leetcode.com/problems/product-of-two-run-length-encoded-arrays/description/](https://leetcode.com/problems/product-of-two-run-length-encoded-arrays/description/)&#x20;
+
+1940 [https://leetcode.com/problems/longest-common-subsequence-between-sorted-arrays/description/](https://leetcode.com/problems/longest-common-subsequence-between-sorted-arrays/description/)
 
 ### Opposite Direction Traversal
 
@@ -1531,7 +1541,11 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 
 1804 [https://leetcode.com/problems/implement-trie-ii-prefix-tree/description/](https://leetcode.com/problems/implement-trie-ii-prefix-tree/description/)
 
-1858 [https://leetcode.com/problems/longest-word-with-all-prefixes/description/](https://leetcode.com/problems/longest-word-with-all-prefixes/description/)
+1858 [https://leetcode.com/problems/longest-word-with-all-prefixes/description/](https://leetcode.com/problems/longest-word-with-all-prefixes/description/)&#x20;
+
+1948 [https://leetcode.com/problems/delete-duplicate-folders-in-system/description/](https://leetcode.com/problems/delete-duplicate-folders-in-system/description/)
+
+1983 bit trie [https://leetcode.com/problems/maximum-genetic-difference-query/description/](https://leetcode.com/problems/maximum-genetic-difference-query/description/)
 
 ## Union Find
 
