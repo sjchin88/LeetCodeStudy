@@ -50,7 +50,9 @@ with duplicate (hard and not necessary) - [https://leetcode.com/problems/find-mi
 
 1889 [https://leetcode.com/problems/minimum-space-wasted-from-packaging/description/](https://leetcode.com/problems/minimum-space-wasted-from-packaging/description/)
 
-1901 [https://leetcode.com/problems/find-a-peak-element-ii/description/](https://leetcode.com/problems/find-a-peak-element-ii/description/)
+1901 [https://leetcode.com/problems/find-a-peak-element-ii/description/](https://leetcode.com/problems/find-a-peak-element-ii/description/)&#x20;
+
+2009 use bisect [https://leetcode.com/problems/minimum-number-of-operations-to-make-array-continuous/description/](https://leetcode.com/problems/minimum-number-of-operations-to-make-array-continuous/description/)
 
 ### Binary Search Result Range
 
@@ -725,7 +727,9 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 
 1899 [https://leetcode.com/problems/merge-triplets-to-form-target-triplet/description/](https://leetcode.com/problems/merge-triplets-to-form-target-triplet/description/)&#x20;
 
-1996 [https://leetcode.com/problems/the-number-of-weak-characters-in-the-game/description/](https://leetcode.com/problems/the-number-of-weak-characters-in-the-game/description/)
+1996 [https://leetcode.com/problems/the-number-of-weak-characters-in-the-game/description/](https://leetcode.com/problems/the-number-of-weak-characters-in-the-game/description/)&#x20;
+
+2003 DFS - [https://leetcode.com/problems/smallest-missing-genetic-value-in-each-subtree/description/](https://leetcode.com/problems/smallest-missing-genetic-value-in-each-subtree/description/)
 
 ### Hash
 

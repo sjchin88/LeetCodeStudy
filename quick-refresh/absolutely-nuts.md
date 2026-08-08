@@ -54,7 +54,9 @@
 
 **753 .** [**https://leetcode.com/problems/cracking-the-safe/description/**](https://leetcode.com/problems/cracking-the-safe/description/)
 
+## Hackenbush game and Colon principle
 
+2005 [https://leetcode.com/problems/subtree-removal-game-with-fibonacci-tree/description/](https://leetcode.com/problems/subtree-removal-game-with-fibonacci-tree/description/)
 
 ## **Multiple Practises**
 

@@ -238,7 +238,9 @@
 
 1994 [https://leetcode.com/problems/the-number-of-good-subsets/description/](https://leetcode.com/problems/the-number-of-good-subsets/description/)&#x20;
 
-1997 [https://leetcode.com/problems/first-day-where-you-have-been-in-all-the-rooms/description/](https://leetcode.com/problems/first-day-where-you-have-been-in-all-the-rooms/description/)
+1997 [https://leetcode.com/problems/first-day-where-you-have-been-in-all-the-rooms/description/](https://leetcode.com/problems/first-day-where-you-have-been-in-all-the-rooms/description/)&#x20;
+
+2002 [https://leetcode.com/problems/maximum-product-of-the-length-of-two-palindromic-subsequences/description/](https://leetcode.com/problems/maximum-product-of-the-length-of-two-palindromic-subsequences/description/)
 
 ### Bitmasking
 
@@ -294,7 +296,9 @@
 
 ### Knacksack
 
-1449 [https://leetcode.com/problems/form-largest-integer-with-digits-that-add-up-to-target/description/](https://leetcode.com/problems/form-largest-integer-with-digits-that-add-up-to-target/description/)
+1449 [https://leetcode.com/problems/form-largest-integer-with-digits-that-add-up-to-target/description/](https://leetcode.com/problems/form-largest-integer-with-digits-that-add-up-to-target/description/)&#x20;
+
+2008 [https://leetcode.com/problems/maximum-earnings-from-taxi/description/](https://leetcode.com/problems/maximum-earnings-from-taxi/description/)
 
 ### Longest Common Subsequence
 
