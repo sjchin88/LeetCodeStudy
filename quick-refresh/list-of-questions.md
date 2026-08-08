@@ -318,7 +318,9 @@ with duplicate (hard and not necessary) - [https://leetcode.com/problems/find-mi
 
 1485 [https://leetcode.com/problems/clone-binary-tree-with-random-pointer/description/](https://leetcode.com/problems/clone-binary-tree-with-random-pointer/description/)
 
-1660 [https://leetcode.com/problems/correct-a-binary-tree/description/](https://leetcode.com/problems/correct-a-binary-tree/description/)
+1660 [https://leetcode.com/problems/correct-a-binary-tree/description/](https://leetcode.com/problems/correct-a-binary-tree/description/)&#x20;
+
+1992 [https://leetcode.com/problems/find-all-groups-of-farmland/description/](https://leetcode.com/problems/find-all-groups-of-farmland/description/)
 
 ### Bidectional BFS
 
@@ -433,7 +435,9 @@ Unnecessary Hard
 
 1849 [https://leetcode.com/problems/splitting-a-string-into-descending-consecutive-values/description/](https://leetcode.com/problems/splitting-a-string-into-descending-consecutive-values/description/)
 
-1896 [https://leetcode.com/problems/minimum-cost-to-change-the-final-value-of-expression/description/](https://leetcode.com/problems/minimum-cost-to-change-the-final-value-of-expression/description/)
+1896 [https://leetcode.com/problems/minimum-cost-to-change-the-final-value-of-expression/description/](https://leetcode.com/problems/minimum-cost-to-change-the-final-value-of-expression/description/)&#x20;
+
+1986 [https://leetcode.com/problems/minimum-number-of-work-sessions-to-finish-the-tasks/description/](https://leetcode.com/problems/minimum-number-of-work-sessions-to-finish-the-tasks/description/)
 
 ##
 
@@ -489,7 +493,7 @@ Unnecessary Hard
 
 1670 [https://leetcode.com/problems/design-front-middle-back-queue/description/](https://leetcode.com/problems/design-front-middle-back-queue/description/)&#x20;
 
-1
+1993 [https://leetcode.com/problems/operations-on-tree/solutions/](https://leetcode.com/problems/operations-on-tree/solutions/)
 
 ### Concurrency
 
@@ -719,7 +723,9 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 
 1754 [https://leetcode.com/problems/largest-merge-of-two-strings/description/](https://leetcode.com/problems/largest-merge-of-two-strings/description/)
 
-1899 [https://leetcode.com/problems/merge-triplets-to-form-target-triplet/description/](https://leetcode.com/problems/merge-triplets-to-form-target-triplet/description/)
+1899 [https://leetcode.com/problems/merge-triplets-to-form-target-triplet/description/](https://leetcode.com/problems/merge-triplets-to-form-target-triplet/description/)&#x20;
+
+1996 [https://leetcode.com/problems/the-number-of-weak-characters-in-the-game/description/](https://leetcode.com/problems/the-number-of-weak-characters-in-the-game/description/)
 
 ### Hash
 
@@ -947,7 +953,9 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 
 1250 Bézout's lemma [https://leetcode.com/problems/check-if-it-is-a-good-array/description/](https://leetcode.com/problems/check-if-it-is-a-good-array/description/)
 
-1766 [https://leetcode.com/problems/tree-of-coprimes/description/](https://leetcode.com/problems/tree-of-coprimes/description/)
+1766 [https://leetcode.com/problems/tree-of-coprimes/description/](https://leetcode.com/problems/tree-of-coprimes/description/)&#x20;
+
+1998 [https://leetcode.com/problems/gcd-sort-of-an-array/description/](https://leetcode.com/problems/gcd-sort-of-an-array/description/)
 
 ### Geometry
 
@@ -1231,7 +1239,9 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 
 761 . [https://leetcode.com/problems/special-binary-string/description/](https://leetcode.com/problems/special-binary-string/description/)
 
-1569 [https://leetcode.com/problems/number-of-ways-to-reorder-array-to-get-same-bst/description/](https://leetcode.com/problems/number-of-ways-to-reorder-array-to-get-same-bst/description/)
+1569 [https://leetcode.com/problems/number-of-ways-to-reorder-array-to-get-same-bst/description/](https://leetcode.com/problems/number-of-ways-to-reorder-array-to-get-same-bst/description/)&#x20;
+
+1982 [https://leetcode.com/problems/find-array-given-subset-sums/description/](https://leetcode.com/problems/find-array-given-subset-sums/description/)
 
 ## Regex
 

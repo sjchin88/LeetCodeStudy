@@ -230,7 +230,15 @@
 
 1959 [https://leetcode.com/problems/minimum-total-space-wasted-with-k-resizing-operations/solutions/](https://leetcode.com/problems/minimum-total-space-wasted-with-k-resizing-operations/solutions/)
 
-1931 [https://leetcode.com/problems/painting-a-grid-with-three-different-colors/description/](https://leetcode.com/problems/painting-a-grid-with-three-different-colors/description/)
+1931 [https://leetcode.com/problems/painting-a-grid-with-three-different-colors/description/](https://leetcode.com/problems/painting-a-grid-with-three-different-colors/description/)&#x20;
+
+1981 [https://leetcode.com/problems/minimize-the-difference-between-target-and-chosen-elements/description/](https://leetcode.com/problems/minimize-the-difference-between-target-and-chosen-elements/description/)&#x20;
+
+1987 [https://leetcode.com/problems/number-of-unique-good-subsequences/description/](https://leetcode.com/problems/number-of-unique-good-subsequences/description/)&#x20;
+
+1994 [https://leetcode.com/problems/the-number-of-good-subsets/description/](https://leetcode.com/problems/the-number-of-good-subsets/description/)&#x20;
+
+1997 [https://leetcode.com/problems/first-day-where-you-have-been-in-all-the-rooms/description/](https://leetcode.com/problems/first-day-where-you-have-been-in-all-the-rooms/description/)
 
 ### Bitmasking
 
