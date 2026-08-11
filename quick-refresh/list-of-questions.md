@@ -733,7 +733,11 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 
 1996 [https://leetcode.com/problems/the-number-of-weak-characters-in-the-game/description/](https://leetcode.com/problems/the-number-of-weak-characters-in-the-game/description/)&#x20;
 
-2003 DFS - [https://leetcode.com/problems/smallest-missing-genetic-value-in-each-subtree/description/](https://leetcode.com/problems/smallest-missing-genetic-value-in-each-subtree/description/)
+2003 DFS - [https://leetcode.com/problems/smallest-missing-genetic-value-in-each-subtree/description/](https://leetcode.com/problems/smallest-missing-genetic-value-in-each-subtree/description/)&#x20;
+
+2014 [https://leetcode.com/problems/longest-subsequence-repeated-k-times/description/](https://leetcode.com/problems/longest-subsequence-repeated-k-times/description/)&#x20;
+
+2018 [https://leetcode.com/problems/check-if-word-can-be-placed-in-crossword/description/](https://leetcode.com/problems/check-if-word-can-be-placed-in-crossword/description/)
 
 ### Hash
 
@@ -983,7 +987,9 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 
 1828 Quad tree [https://leetcode.com/problems/queries-on-number-of-points-inside-a-circle/description/](https://leetcode.com/problems/queries-on-number-of-points-inside-a-circle/description/)&#x20;
 
-1924 Welzi algorithm [https://leetcode.com/problems/erect-the-fence-ii/description/](https://leetcode.com/problems/erect-the-fence-ii/description/)
+1924 Welzi algorithm [https://leetcode.com/problems/erect-the-fence-ii/description/](https://leetcode.com/problems/erect-the-fence-ii/description/)&#x20;
+
+2013 [https://leetcode.com/problems/detect-squares/description/](https://leetcode.com/problems/detect-squares/description/)
 
 ### Matrix
 
@@ -1227,7 +1233,11 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 
 1895 [https://leetcode.com/problems/largest-magic-square/description/](https://leetcode.com/problems/largest-magic-square/description/)&#x20;
 
-1906 [https://leetcode.com/problems/minimum-absolute-difference-queries/description/](https://leetcode.com/problems/minimum-absolute-difference-queries/description/)
+1906 [https://leetcode.com/problems/minimum-absolute-difference-queries/description/](https://leetcode.com/problems/minimum-absolute-difference-queries/description/)&#x20;
+
+2017 [https://leetcode.com/problems/grid-game/description/](https://leetcode.com/problems/grid-game/description/)&#x20;
+
+2025 [https://leetcode.com/problems/maximum-number-of-ways-to-partition-an-array/description/](https://leetcode.com/problems/maximum-number-of-ways-to-partition-an-array/description/)
 
 ### Prefix Prod
 
@@ -1445,6 +1455,8 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 1094 [https://leetcode.com/problems/car-pooling/description/](https://leetcode.com/problems/car-pooling/description/)&#x20;
 
 1943 [https://leetcode.com/problems/describe-the-painting/description/](https://leetcode.com/problems/describe-the-painting/description/)
+
+2015 [https://leetcode.com/problems/average-height-of-buildings-in-each-segment/description/](https://leetcode.com/problems/average-height-of-buildings-in-each-segment/description/)
 
 ## Transform and Conquer
 

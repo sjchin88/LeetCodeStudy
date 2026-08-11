@@ -242,7 +242,9 @@
 
 2002 [https://leetcode.com/problems/maximum-product-of-the-length-of-two-palindromic-subsequences/description/](https://leetcode.com/problems/maximum-product-of-the-length-of-two-palindromic-subsequences/description/)
 
-1977 [https://leetcode.com/problems/number-of-ways-to-separate-numbers/description/](https://leetcode.com/problems/number-of-ways-to-separate-numbers/description/)
+1977 [https://leetcode.com/problems/number-of-ways-to-separate-numbers/description/](https://leetcode.com/problems/number-of-ways-to-separate-numbers/description/)&#x20;
+
+2019 [https://leetcode.com/problems/the-score-of-students-solving-math-expression/description/](https://leetcode.com/problems/the-score-of-students-solving-math-expression/description/)
 
 ### Bitmasking
 
