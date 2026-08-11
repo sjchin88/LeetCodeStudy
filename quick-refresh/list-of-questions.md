@@ -1011,7 +1011,9 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 
 880 . [https://leetcode.com/problems/decoded-string-at-index/description/](https://leetcode.com/problems/decoded-string-at-index/description/)
 
-1015 . [https://leetcode.com/problems/smallest-integer-divisible-by-k/description/](https://leetcode.com/problems/smallest-integer-divisible-by-k/description/)
+1015 . [https://leetcode.com/problems/smallest-integer-divisible-by-k/description/](https://leetcode.com/problems/smallest-integer-divisible-by-k/description/)&#x20;
+
+2029 [https://leetcode.com/problems/stone-game-ix/description/](https://leetcode.com/problems/stone-game-ix/description/)
 
 ### Permutations
 
@@ -1089,7 +1091,9 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 
 1776 [https://leetcode.com/problems/car-fleet-ii/submissions/2079059058/](https://leetcode.com/problems/car-fleet-ii/submissions/2079059058/)&#x20;
 
-1966 [https://leetcode.com/problems/binary-searchable-numbers-in-an-unsorted-array/description/](https://leetcode.com/problems/binary-searchable-numbers-in-an-unsorted-array/description/)
+1966 [https://leetcode.com/problems/binary-searchable-numbers-in-an-unsorted-array/description/](https://leetcode.com/problems/binary-searchable-numbers-in-an-unsorted-array/description/)&#x20;
+
+2030 [https://leetcode.com/problems/smallest-k-length-subsequence-with-occurrences-of-a-letter/description/](https://leetcode.com/problems/smallest-k-length-subsequence-with-occurrences-of-a-letter/description/)
 
 ## Named Algorithms&#x20;
 
