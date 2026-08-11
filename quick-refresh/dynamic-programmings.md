@@ -242,6 +242,8 @@
 
 2002 [https://leetcode.com/problems/maximum-product-of-the-length-of-two-palindromic-subsequences/description/](https://leetcode.com/problems/maximum-product-of-the-length-of-two-palindromic-subsequences/description/)
 
+1977 [https://leetcode.com/problems/number-of-ways-to-separate-numbers/description/](https://leetcode.com/problems/number-of-ways-to-separate-numbers/description/)
+
 ### Bitmasking
 
 1434 Use bitmasking [https://leetcode.com/problems/number-of-ways-to-wear-different-hats-to-each-other/description/](https://leetcode.com/problems/number-of-ways-to-wear-different-hats-to-each-other/description/)

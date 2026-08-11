@@ -68,7 +68,9 @@ with duplicate (hard and not necessary) - [https://leetcode.com/problems/find-mi
 
 1723 DFS to check [https://leetcode.com/problems/find-minimum-time-to-finish-all-jobs/description/](https://leetcode.com/problems/find-minimum-time-to-finish-all-jobs/description/)
 
-1898 [https://leetcode.com/problems/maximum-number-of-removable-characters/description/](https://leetcode.com/problems/maximum-number-of-removable-characters/description/)
+1898 [https://leetcode.com/problems/maximum-number-of-removable-characters/description/](https://leetcode.com/problems/maximum-number-of-removable-characters/description/)&#x20;
+
+1970 BFS [https://leetcode.com/problems/last-day-where-you-can-still-cross/description/](https://leetcode.com/problems/last-day-where-you-can-still-cross/description/)
 
 ### Divide and Conquer
 
@@ -545,7 +547,9 @@ Unnecessary Hard
 
 1810 [https://leetcode.com/problems/minimum-path-cost-in-a-hidden-grid/solutions/](https://leetcode.com/problems/minimum-path-cost-in-a-hidden-grid/solutions/)&#x20;
 
-1928 [https://leetcode.com/problems/minimum-cost-to-reach-destination-in-time/description/](https://leetcode.com/problems/minimum-cost-to-reach-destination-in-time/description/)
+1928 [https://leetcode.com/problems/minimum-cost-to-reach-destination-in-time/description/](https://leetcode.com/problems/minimum-cost-to-reach-destination-in-time/description/)&#x20;
+
+1976 [https://leetcode.com/problems/number-of-ways-to-arrive-at-destination/description/](https://leetcode.com/problems/number-of-ways-to-arrive-at-destination/description/)
 
 
 
@@ -943,7 +947,9 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 
 1813 [https://leetcode.com/problems/find-the-winner-of-the-circular-game/submissions/2083525906/](https://leetcode.com/problems/find-the-winner-of-the-circular-game/submissions/2083525906/)&#x20;
 
-1954 [https://leetcode.com/problems/minimum-garden-perimeter-to-collect-enough-apples/description/](https://leetcode.com/problems/minimum-garden-perimeter-to-collect-enough-apples/description/)
+1954 [https://leetcode.com/problems/minimum-garden-perimeter-to-collect-enough-apples/description/](https://leetcode.com/problems/minimum-garden-perimeter-to-collect-enough-apples/description/)&#x20;
+
+1969 [https://leetcode.com/problems/minimum-non-zero-product-of-the-array-elements/description/](https://leetcode.com/problems/minimum-non-zero-product-of-the-array-elements/description/)
 
 ### Fibonacci
 
@@ -1075,7 +1081,9 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 
 1504 [https://leetcode.com/problems/count-submatrices-with-all-ones/description/](https://leetcode.com/problems/count-submatrices-with-all-ones/description/)
 
-1776 [https://leetcode.com/problems/car-fleet-ii/submissions/2079059058/](https://leetcode.com/problems/car-fleet-ii/submissions/2079059058/)
+1776 [https://leetcode.com/problems/car-fleet-ii/submissions/2079059058/](https://leetcode.com/problems/car-fleet-ii/submissions/2079059058/)&#x20;
+
+1966 [https://leetcode.com/problems/binary-searchable-numbers-in-an-unsorted-array/description/](https://leetcode.com/problems/binary-searchable-numbers-in-an-unsorted-array/description/)
 
 ## Named Algorithms&#x20;
 
@@ -1349,7 +1357,10 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 
 1465 [https://leetcode.com/problems/maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts/description/](https://leetcode.com/problems/maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts/description/)
 
+### Wiggle sort
 
+\
+1968 [https://leetcode.com/problems/array-with-elements-not-equal-to-average-of-neighbors/description/](https://leetcode.com/problems/array-with-elements-not-equal-to-average-of-neighbors/description/)
 
 ## Deque
 
