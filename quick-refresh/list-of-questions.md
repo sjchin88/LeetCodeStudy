@@ -54,6 +54,8 @@ with duplicate (hard and not necessary) - [https://leetcode.com/problems/find-mi
 
 2009 use bisect [https://leetcode.com/problems/minimum-number-of-operations-to-make-array-continuous/description/](https://leetcode.com/problems/minimum-number-of-operations-to-make-array-continuous/description/)
 
+2040 double binary [https://leetcode.com/problems/kth-smallest-product-of-two-sorted-arrays/description/](https://leetcode.com/problems/kth-smallest-product-of-two-sorted-arrays/description/)
+
 ### Binary Search Result Range
 
 410 . [https://leetcode.com/problems/split-array-largest-sum/description/](https://leetcode.com/problems/split-array-largest-sum/description/)
@@ -80,7 +82,9 @@ with duplicate (hard and not necessary) - [https://leetcode.com/problems/find-mi
 
 
 
+### Meet in the Middle
 
+2035 [https://leetcode.com/problems/partition-array-into-two-arrays-to-minimize-sum-difference/description/](https://leetcode.com/problems/partition-array-into-two-arrays-to-minimize-sum-difference/description/)
 
 ## Binary (Search) Tree
 
@@ -326,6 +330,8 @@ with duplicate (hard and not necessary) - [https://leetcode.com/problems/find-mi
 
 1992 [https://leetcode.com/problems/find-all-groups-of-farmland/description/](https://leetcode.com/problems/find-all-groups-of-farmland/description/)
 
+2039 [https://leetcode.com/problems/the-time-when-the-network-becomes-idle/description/](https://leetcode.com/problems/the-time-when-the-network-becomes-idle/description/)
+
 ### Bidectional BFS
 
 1197 Double BFS [https://leetcode.com/problems/minimum-knight-moves/description/](https://leetcode.com/problems/minimum-knight-moves/description/)
@@ -498,6 +504,8 @@ Unnecessary Hard
 1670 [https://leetcode.com/problems/design-front-middle-back-queue/description/](https://leetcode.com/problems/design-front-middle-back-queue/description/)&#x20;
 
 1993 [https://leetcode.com/problems/operations-on-tree/solutions/](https://leetcode.com/problems/operations-on-tree/solutions/)
+
+2034 [https://leetcode.com/problems/stock-price-fluctuation/description/](https://leetcode.com/problems/stock-price-fluctuation/description/)
 
 ### Concurrency
 
@@ -737,7 +745,9 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 
 2014 [https://leetcode.com/problems/longest-subsequence-repeated-k-times/description/](https://leetcode.com/problems/longest-subsequence-repeated-k-times/description/)&#x20;
 
-2018 [https://leetcode.com/problems/check-if-word-can-be-placed-in-crossword/description/](https://leetcode.com/problems/check-if-word-can-be-placed-in-crossword/description/)
+2018 [https://leetcode.com/problems/check-if-word-can-be-placed-in-crossword/description/](https://leetcode.com/problems/check-if-word-can-be-placed-in-crossword/description/)&#x20;
+
+2031 [https://leetcode.com/problems/count-subarrays-with-more-ones-than-zeros/description/](https://leetcode.com/problems/count-subarrays-with-more-ones-than-zeros/description/)
 
 ### Hash
 
@@ -1109,7 +1119,9 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 
 918 . [https://leetcode.com/problems/maximum-sum-circular-subarray/description/](https://leetcode.com/problems/maximum-sum-circular-subarray/description/)
 
-1186 [https://leetcode.com/problems/maximum-subarray-sum-with-one-deletion/description/](https://leetcode.com/problems/maximum-subarray-sum-with-one-deletion/description/)
+1186 [https://leetcode.com/problems/maximum-subarray-sum-with-one-deletion/description/](https://leetcode.com/problems/maximum-subarray-sum-with-one-deletion/description/)&#x20;
+
+2036 [https://leetcode.com/problems/maximum-alternating-subarray-sum/description/](https://leetcode.com/problems/maximum-alternating-subarray-sum/description/)
 
 ### Kahn's algorithm
 
@@ -1242,6 +1254,8 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 2017 [https://leetcode.com/problems/grid-game/description/](https://leetcode.com/problems/grid-game/description/)&#x20;
 
 2025 [https://leetcode.com/problems/maximum-number-of-ways-to-partition-an-array/description/](https://leetcode.com/problems/maximum-number-of-ways-to-partition-an-array/description/)
+
+2033 and suffix sum [https://leetcode.com/problems/minimum-operations-to-make-a-uni-value-grid/description/](https://leetcode.com/problems/minimum-operations-to-make-a-uni-value-grid/description/)
 
 ### Prefix Prod
 
