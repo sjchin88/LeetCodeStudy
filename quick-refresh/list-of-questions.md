@@ -505,7 +505,9 @@ Unnecessary Hard
 
 1993 [https://leetcode.com/problems/operations-on-tree/solutions/](https://leetcode.com/problems/operations-on-tree/solutions/)
 
-2034 [https://leetcode.com/problems/stock-price-fluctuation/description/](https://leetcode.com/problems/stock-price-fluctuation/description/)
+2034 [https://leetcode.com/problems/stock-price-fluctuation/description/](https://leetcode.com/problems/stock-price-fluctuation/description/)&#x20;
+
+2043 [https://leetcode.com/problems/simple-bank-system/description/](https://leetcode.com/problems/simple-bank-system/description/)
 
 ### Concurrency
 
@@ -559,7 +561,7 @@ Unnecessary Hard
 
 1976 [https://leetcode.com/problems/number-of-ways-to-arrive-at-destination/description/](https://leetcode.com/problems/number-of-ways-to-arrive-at-destination/description/)
 
-
+2045 [https://leetcode.com/problems/second-minimum-time-to-reach-destination/description/](https://leetcode.com/problems/second-minimum-time-to-reach-destination/description/)
 
 ### Jarvis Algorithm / Graham Scan
 
@@ -839,6 +841,8 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 
 1942 [https://leetcode.com/problems/the-number-of-the-smallest-unoccupied-chair/description/](https://leetcode.com/problems/the-number-of-the-smallest-unoccupied-chair/description/)
 
+2054 [https://leetcode.com/problems/two-best-non-overlapping-events/description/](https://leetcode.com/problems/two-best-non-overlapping-events/description/)
+
 ### Huffman's Algorithm
 
 1167 [https://leetcode.com/problems/minimum-cost-to-connect-sticks/description/](https://leetcode.com/problems/minimum-cost-to-connect-sticks/description/)
@@ -888,6 +892,8 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 148 . Merge sort - [https://leetcode.com/problems/sort-list/description/](https://leetcode.com/problems/sort-list/description/)
 
 708 . [https://leetcode.com/problems/insert-into-a-sorted-circular-linked-list/description/](https://leetcode.com/problems/insert-into-a-sorted-circular-linked-list/description/)
+
+2046 [https://leetcode.com/problems/sort-linked-list-already-sorted-using-absolute-values/description/](https://leetcode.com/problems/sort-linked-list-already-sorted-using-absolute-values/description/)
 
 ### Double linked list
 
@@ -1047,7 +1053,9 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 
 1735 [https://leetcode.com/problems/count-ways-to-make-array-with-product/description/](https://leetcode.com/problems/count-ways-to-make-array-with-product/description/)&#x20;
 
-1830 [https://leetcode.com/problems/minimum-number-of-operations-to-make-string-sorted/description/](https://leetcode.com/problems/minimum-number-of-operations-to-make-string-sorted/description/)
+1830 [https://leetcode.com/problems/minimum-number-of-operations-to-make-string-sorted/description/](https://leetcode.com/problems/minimum-number-of-operations-to-make-string-sorted/description/)&#x20;
+
+2048 [https://leetcode.com/problems/next-greater-numerically-balanced-number/description/](https://leetcode.com/problems/next-greater-numerically-balanced-number/description/)
 
 ### Pigeon Holes Principle
 
@@ -1130,6 +1138,8 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 1462 Topo sort [https://leetcode.com/problems/course-schedule-iv/description/](https://leetcode.com/problems/course-schedule-iv/description/)
 
 1857 Topo sort [https://leetcode.com/problems/largest-color-value-in-a-directed-graph/description/](https://leetcode.com/problems/largest-color-value-in-a-directed-graph/description/)
+
+2050 [https://leetcode.com/problems/parallel-courses-iii/description/](https://leetcode.com/problems/parallel-courses-iii/description/)
 
 ### Tarjan's algorithm
 
@@ -1255,7 +1265,9 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 
 2025 [https://leetcode.com/problems/maximum-number-of-ways-to-partition-an-array/description/](https://leetcode.com/problems/maximum-number-of-ways-to-partition-an-array/description/)
 
-2033 and suffix sum [https://leetcode.com/problems/minimum-operations-to-make-a-uni-value-grid/description/](https://leetcode.com/problems/minimum-operations-to-make-a-uni-value-grid/description/)
+2033 and suffix sum [https://leetcode.com/problems/minimum-operations-to-make-a-uni-value-grid/description/](https://leetcode.com/problems/minimum-operations-to-make-a-uni-value-grid/description/)&#x20;
+
+2055 [https://leetcode.com/problems/plates-between-candles/description/](https://leetcode.com/problems/plates-between-candles/description/)
 
 ### Prefix Prod
 

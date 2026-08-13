@@ -42,6 +42,8 @@
 
 1914 [https://leetcode.com/problems/cyclically-rotating-a-grid/description/](https://leetcode.com/problems/cyclically-rotating-a-grid/description/)
 
+2056 [https://leetcode.com/problems/number-of-valid-move-combinations-on-chessboard/description/](https://leetcode.com/problems/number-of-valid-move-combinations-on-chessboard/description/)
+
 ## Recursion
 
 247 . [https://leetcode.com/problems/strobogrammatic-number-ii/description/](https://leetcode.com/problems/strobogrammatic-number-ii/description/)

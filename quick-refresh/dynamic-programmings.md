@@ -244,7 +244,13 @@
 
 1977 [https://leetcode.com/problems/number-of-ways-to-separate-numbers/description/](https://leetcode.com/problems/number-of-ways-to-separate-numbers/description/)&#x20;
 
-2019 [https://leetcode.com/problems/the-score-of-students-solving-math-expression/description/](https://leetcode.com/problems/the-score-of-students-solving-math-expression/description/)
+2019 [https://leetcode.com/problems/the-score-of-students-solving-math-expression/description/](https://leetcode.com/problems/the-score-of-students-solving-math-expression/description/)&#x20;
+
+2052 [https://leetcode.com/problems/minimum-cost-to-separate-sentence-into-rows/description/](https://leetcode.com/problems/minimum-cost-to-separate-sentence-into-rows/description/)
+
+2059 [https://leetcode.com/problems/minimum-operations-to-convert-number/description/](https://leetcode.com/problems/minimum-operations-to-convert-number/description/)&#x20;
+
+2060 or DFS [https://leetcode.com/problems/check-if-an-original-string-exists-given-two-encoded-strings/description/](https://leetcode.com/problems/check-if-an-original-string-exists-given-two-encoded-strings/description/)
 
 ### Bitmasking
 
