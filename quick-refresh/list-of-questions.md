@@ -56,6 +56,8 @@ with duplicate (hard and not necessary) - [https://leetcode.com/problems/find-mi
 
 2040 double binary [https://leetcode.com/problems/kth-smallest-product-of-two-sorted-arrays/description/](https://leetcode.com/problems/kth-smallest-product-of-two-sorted-arrays/description/)
 
+2080 [https://leetcode.com/problems/range-frequency-queries/description/](https://leetcode.com/problems/range-frequency-queries/description/)
+
 ### Binary Search Result Range
 
 410 . [https://leetcode.com/problems/split-array-largest-sum/description/](https://leetcode.com/problems/split-array-largest-sum/description/)
@@ -72,7 +74,9 @@ with duplicate (hard and not necessary) - [https://leetcode.com/problems/find-mi
 
 1898 [https://leetcode.com/problems/maximum-number-of-removable-characters/description/](https://leetcode.com/problems/maximum-number-of-removable-characters/description/)&#x20;
 
-1970 BFS [https://leetcode.com/problems/last-day-where-you-can-still-cross/description/](https://leetcode.com/problems/last-day-where-you-can-still-cross/description/)
+1970 BFS [https://leetcode.com/problems/last-day-where-you-can-still-cross/description/](https://leetcode.com/problems/last-day-where-you-can-still-cross/description/)&#x20;
+
+2071 [https://leetcode.com/problems/maximum-number-of-tasks-you-can-assign/description/](https://leetcode.com/problems/maximum-number-of-tasks-you-can-assign/description/)
 
 ### Divide and Conquer
 
@@ -447,7 +451,11 @@ Unnecessary Hard
 
 1896 [https://leetcode.com/problems/minimum-cost-to-change-the-final-value-of-expression/description/](https://leetcode.com/problems/minimum-cost-to-change-the-final-value-of-expression/description/)&#x20;
 
-1986 [https://leetcode.com/problems/minimum-number-of-work-sessions-to-finish-the-tasks/description/](https://leetcode.com/problems/minimum-number-of-work-sessions-to-finish-the-tasks/description/)
+1986 [https://leetcode.com/problems/minimum-number-of-work-sessions-to-finish-the-tasks/description/](https://leetcode.com/problems/minimum-number-of-work-sessions-to-finish-the-tasks/description/)&#x20;
+
+2065 [https://leetcode.com/problems/maximum-path-quality-of-a-graph/description/](https://leetcode.com/problems/maximum-path-quality-of-a-graph/description/)ad
+
+2077 [https://leetcode.com/problems/paths-in-maze-that-lead-to-same-room/description/](https://leetcode.com/problems/paths-in-maze-that-lead-to-same-room/description/)
 
 ##
 
@@ -893,7 +901,9 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 
 708 . [https://leetcode.com/problems/insert-into-a-sorted-circular-linked-list/description/](https://leetcode.com/problems/insert-into-a-sorted-circular-linked-list/description/)
 
-2046 [https://leetcode.com/problems/sort-linked-list-already-sorted-using-absolute-values/description/](https://leetcode.com/problems/sort-linked-list-already-sorted-using-absolute-values/description/)
+2046 [https://leetcode.com/problems/sort-linked-list-already-sorted-using-absolute-values/description/](https://leetcode.com/problems/sort-linked-list-already-sorted-using-absolute-values/description/)&#x20;
+
+2074 [https://leetcode.com/problems/reverse-nodes-in-even-length-groups/description/](https://leetcode.com/problems/reverse-nodes-in-even-length-groups/description/)
 
 ### Double linked list
 
@@ -1373,7 +1383,9 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 
 1878 [https://leetcode.com/problems/get-biggest-three-rhombus-sums-in-a-grid/description/](https://leetcode.com/problems/get-biggest-three-rhombus-sums-in-a-grid/description/)&#x20;
 
-1956 [https://leetcode.com/problems/minimum-time-for-k-virus-variants-to-spread/description/](https://leetcode.com/problems/minimum-time-for-k-virus-variants-to-spread/description/)
+1956 [https://leetcode.com/problems/minimum-time-for-k-virus-variants-to-spread/description/](https://leetcode.com/problems/minimum-time-for-k-virus-variants-to-spread/description/)&#x20;
+
+2069 [https://leetcode.com/problems/walking-robot-simulation-ii/description/](https://leetcode.com/problems/walking-robot-simulation-ii/description/)
 
 ## Sorting
 
@@ -1474,6 +1486,10 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 
 1087 [https://leetcode.com/problems/brace-expansion/description/](https://leetcode.com/problems/brace-expansion/description/)
 
+### Substring | Subarray
+
+2063 [https://leetcode.com/problems/vowels-of-all-substrings/description/](https://leetcode.com/problems/vowels-of-all-substrings/description/)
+
 ## Sweeping Lines | Linear Scan
 
 56 . [https://leetcode.com/problems/merge-intervals/description/](https://leetcode.com/problems/merge-intervals/description/)
@@ -1552,7 +1568,9 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 
 1687 [https://leetcode.com/problems/delivering-boxes-from-storage-to-ports/description/](https://leetcode.com/problems/delivering-boxes-from-storage-to-ports/description/)&#x20;
 
-1888 [https://leetcode.com/problems/minimum-number-of-flips-to-make-the-binary-string-alternating/description/](https://leetcode.com/problems/minimum-number-of-flips-to-make-the-binary-string-alternating/description/)
+1888 [https://leetcode.com/problems/minimum-number-of-flips-to-make-the-binary-string-alternating/description/](https://leetcode.com/problems/minimum-number-of-flips-to-make-the-binary-string-alternating/description/)&#x20;
+
+2067 [https://leetcode.com/problems/number-of-equal-count-substrings/description/](https://leetcode.com/problems/number-of-equal-count-substrings/description/)
 
 ### Fast and Slow Pointer
 
@@ -1646,7 +1664,9 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 
 1722 [https://leetcode.com/problems/minimize-hamming-distance-after-swap-operations/description/](https://leetcode.com/problems/minimize-hamming-distance-after-swap-operations/description/)&#x20;
 
-1905 [https://leetcode.com/problems/count-sub-islands/description/](https://leetcode.com/problems/count-sub-islands/description/)
+1905 [https://leetcode.com/problems/count-sub-islands/description/](https://leetcode.com/problems/count-sub-islands/description/)&#x20;
+
+2076 [https://leetcode.com/problems/process-restricted-friend-requests/description/](https://leetcode.com/problems/process-restricted-friend-requests/description/)
 
 ### Disjointed Union Find
 
