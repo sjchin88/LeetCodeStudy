@@ -214,15 +214,9 @@ with duplicate (hard and not necessary) - [https://leetcode.com/problems/find-mi
 
 
 
-
-
-201 . Keep shifting left and right by 1 bit, stop when left == right [https://leetcode.com/problems/bitwise-and-of-numbers-range/description/](https://leetcode.com/problems/bitwise-and-of-numbers-range/description/)
-
 267 . With Python Permutation - [https://leetcode.com/problems/palindrome-permutation-ii/description/](https://leetcode.com/problems/palindrome-permutation-ii/description/)
 
-318 . For character - [https://leetcode.com/problems/maximum-product-of-word-lengths/description/](https://leetcode.com/problems/maximum-product-of-word-lengths/description/)
 
-393 . [https://leetcode.com/problems/utf-8-validation/description/](https://leetcode.com/problems/utf-8-validation/description/)
 
 411 . [https://leetcode.com/problems/minimum-unique-word-abbreviation/description/](https://leetcode.com/problems/minimum-unique-word-abbreviation/description/)
 
