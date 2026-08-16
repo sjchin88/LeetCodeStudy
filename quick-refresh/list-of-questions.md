@@ -461,7 +461,9 @@ Unnecessary Hard
 
 2077 [https://leetcode.com/problems/paths-in-maze-that-lead-to-same-room/description/](https://leetcode.com/problems/paths-in-maze-that-lead-to-same-room/description/)&#x20;
 
-2101 [https://leetcode.com/problems/detonate-the-maximum-bombs/description/](https://leetcode.com/problems/detonate-the-maximum-bombs/description/)
+2101 [https://leetcode.com/problems/detonate-the-maximum-bombs/description/](https://leetcode.com/problems/detonate-the-maximum-bombs/description/)&#x20;
+
+2120 [https://leetcode.com/problems/execution-of-all-suffix-instructions-staying-in-a-grid/description/](https://leetcode.com/problems/execution-of-all-suffix-instructions-staying-in-a-grid/description/)
 
 ##
 
@@ -937,7 +939,9 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 
 1713 [https://leetcode.com/problems/minimum-operations-to-make-a-subsequence/description/](https://leetcode.com/problems/minimum-operations-to-make-a-subsequence/description/)&#x20;
 
-1964 [https://leetcode.com/problems/find-the-longest-valid-obstacle-course-at-each-position/description/](https://leetcode.com/problems/find-the-longest-valid-obstacle-course-at-each-position/description/)
+1964 [https://leetcode.com/problems/find-the-longest-valid-obstacle-course-at-each-position/description/](https://leetcode.com/problems/find-the-longest-valid-obstacle-course-at-each-position/description/)&#x20;
+
+2111 [https://leetcode.com/problems/minimum-operations-to-make-the-array-k-increasing/description/](https://leetcode.com/problems/minimum-operations-to-make-the-array-k-increasing/description/)
 
 
 
@@ -1059,7 +1063,9 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 
 1015 . [https://leetcode.com/problems/smallest-integer-divisible-by-k/description/](https://leetcode.com/problems/smallest-integer-divisible-by-k/description/)&#x20;
 
-2029 [https://leetcode.com/problems/stone-game-ix/description/](https://leetcode.com/problems/stone-game-ix/description/)
+2029 [https://leetcode.com/problems/stone-game-ix/description/](https://leetcode.com/problems/stone-game-ix/description/)&#x20;
+
+2117 [https://leetcode.com/problems/abbreviating-the-product-of-a-range/description/](https://leetcode.com/problems/abbreviating-the-product-of-a-range/description/)
 
 ### Permutations
 
@@ -1482,7 +1488,9 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 
 1585 [https://leetcode.com/problems/check-if-string-is-transformable-with-substring-sort-operations/description/](https://leetcode.com/problems/check-if-string-is-transformable-with-substring-sort-operations/description/)
 
-1963 [https://leetcode.com/problems/minimum-number-of-swaps-to-make-the-string-balanced/description/](https://leetcode.com/problems/minimum-number-of-swaps-to-make-the-string-balanced/description/)
+1963 [https://leetcode.com/problems/minimum-number-of-swaps-to-make-the-string-balanced/description/](https://leetcode.com/problems/minimum-number-of-swaps-to-make-the-string-balanced/description/)&#x20;
+
+2116 [https://leetcode.com/problems/check-if-a-parentheses-string-can-be-valid/description/](https://leetcode.com/problems/check-if-a-parentheses-string-can-be-valid/description/)
 
 ### Stacks for Tree
 
