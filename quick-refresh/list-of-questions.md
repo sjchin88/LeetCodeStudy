@@ -214,11 +214,9 @@ with duplicate (hard and not necessary) - [https://leetcode.com/problems/find-mi
 
 
 
-137 . [https://leetcode.com/problems/single-number-ii/description/](https://leetcode.com/problems/single-number-ii/description/)
+
 
 201 . Keep shifting left and right by 1 bit, stop when left == right [https://leetcode.com/problems/bitwise-and-of-numbers-range/description/](https://leetcode.com/problems/bitwise-and-of-numbers-range/description/)
-
-260 . [https://leetcode.com/problems/single-number-iii/description/](https://leetcode.com/problems/single-number-iii/description/)
 
 267 . With Python Permutation - [https://leetcode.com/problems/palindrome-permutation-ii/description/](https://leetcode.com/problems/palindrome-permutation-ii/description/)
 
@@ -274,7 +272,9 @@ with duplicate (hard and not necessary) - [https://leetcode.com/problems/find-mi
 
 1835 (a ^ b) & (a ^ c) = a & (b ^ c) [https://leetcode.com/problems/find-xor-sum-of-all-pairs-bitwise-and/description/](https://leetcode.com/problems/find-xor-sum-of-all-pairs-bitwise-and/description/)&#x20;
 
-1915 [https://leetcode.com/problems/number-of-wonderful-substrings/description/](https://leetcode.com/problems/number-of-wonderful-substrings/description/)
+1915 [https://leetcode.com/problems/number-of-wonderful-substrings/description/](https://leetcode.com/problems/number-of-wonderful-substrings/description/)&#x20;
+
+2128 bitwise xor [https://leetcode.com/problems/remove-all-ones-with-row-and-column-flips/description/](https://leetcode.com/problems/remove-all-ones-with-row-and-column-flips/description/)
 
 ### Gray Code
 
@@ -607,7 +607,9 @@ Unnecessary Hard
 
 1136 and Cycle Detection [https://leetcode.com/problems/parallel-courses/description/](https://leetcode.com/problems/parallel-courses/description/)
 
-1203 [https://leetcode.com/problems/sort-items-by-groups-respecting-dependencies/editorial/](https://leetcode.com/problems/sort-items-by-groups-respecting-dependencies/editorial/)
+1203 [https://leetcode.com/problems/sort-items-by-groups-respecting-dependencies/editorial/](https://leetcode.com/problems/sort-items-by-groups-respecting-dependencies/editorial/)&#x20;
+
+2127 [https://leetcode.com/problems/maximum-employees-to-be-invited-to-a-meeting/description/](https://leetcode.com/problems/maximum-employees-to-be-invited-to-a-meeting/description/)
 
 ## Greedy (IQ Tests)
 
@@ -921,7 +923,9 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 
 2046 [https://leetcode.com/problems/sort-linked-list-already-sorted-using-absolute-values/description/](https://leetcode.com/problems/sort-linked-list-already-sorted-using-absolute-values/description/)&#x20;
 
-2074 [https://leetcode.com/problems/reverse-nodes-in-even-length-groups/description/](https://leetcode.com/problems/reverse-nodes-in-even-length-groups/description/)
+2074 [https://leetcode.com/problems/reverse-nodes-in-even-length-groups/description/](https://leetcode.com/problems/reverse-nodes-in-even-length-groups/description/)&#x20;
+
+2030 reverse linked list [https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list/description/](https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list/description/)
 
 ### Double linked list
 
@@ -1155,7 +1159,9 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 
 ### Hungarian Algorithm (Assignment)
 
-1820 [https://leetcode.com/problems/maximum-number-of-accepted-invitations/description/](https://leetcode.com/problems/maximum-number-of-accepted-invitations/description/)
+1820 [https://leetcode.com/problems/maximum-number-of-accepted-invitations/description/](https://leetcode.com/problems/maximum-number-of-accepted-invitations/description/)&#x20;
+
+2123 [https://leetcode.com/problems/minimum-operations-to-remove-adjacent-ones-in-matrix/description/](https://leetcode.com/problems/minimum-operations-to-remove-adjacent-ones-in-matrix/description/)
 
 ### Kadane's algorithm&#x20;
 
@@ -1560,7 +1566,9 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 
 1868 [https://leetcode.com/problems/product-of-two-run-length-encoded-arrays/description/](https://leetcode.com/problems/product-of-two-run-length-encoded-arrays/description/)&#x20;
 
-1940 [https://leetcode.com/problems/longest-common-subsequence-between-sorted-arrays/description/](https://leetcode.com/problems/longest-common-subsequence-between-sorted-arrays/description/)
+1940 [https://leetcode.com/problems/longest-common-subsequence-between-sorted-arrays/description/](https://leetcode.com/problems/longest-common-subsequence-between-sorted-arrays/description/)&#x20;
+
+2122 [https://leetcode.com/problems/recover-the-original-array/description/](https://leetcode.com/problems/recover-the-original-array/description/)
 
 ### Opposite Direction Traversal
 
