@@ -1,4 +1,4 @@
-# KnapSack Problem
+# KnapSack Problem (archived)
 
 {% embed url="https://www.geeksforgeeks.org/0-1-knapsack-problem-dp-10/" %}
 Explanation

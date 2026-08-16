@@ -250,7 +250,9 @@
 
 2059 [https://leetcode.com/problems/minimum-operations-to-convert-number/description/](https://leetcode.com/problems/minimum-operations-to-convert-number/description/)&#x20;
 
-2060 or DFS [https://leetcode.com/problems/check-if-an-original-string-exists-given-two-encoded-strings/description/](https://leetcode.com/problems/check-if-an-original-string-exists-given-two-encoded-strings/description/)
+2060 or DFS [https://leetcode.com/problems/check-if-an-original-string-exists-given-two-encoded-strings/description/](https://leetcode.com/problems/check-if-an-original-string-exists-given-two-encoded-strings/description/)&#x20;
+
+2089 [https://leetcode.com/problems/count-fertile-pyramids-in-a-land/solutions/](https://leetcode.com/problems/count-fertile-pyramids-in-a-land/solutions/)
 
 ### Bitmasking
 

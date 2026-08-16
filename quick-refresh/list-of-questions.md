@@ -769,7 +769,11 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 
 2018 [https://leetcode.com/problems/check-if-word-can-be-placed-in-crossword/description/](https://leetcode.com/problems/check-if-word-can-be-placed-in-crossword/description/)&#x20;
 
-2031 [https://leetcode.com/problems/count-subarrays-with-more-ones-than-zeros/description/](https://leetcode.com/problems/count-subarrays-with-more-ones-than-zeros/description/)
+2031 [https://leetcode.com/problems/count-subarrays-with-more-ones-than-zeros/description/](https://leetcode.com/problems/count-subarrays-with-more-ones-than-zeros/description/)&#x20;
+
+2087 [https://leetcode.com/problems/minimum-cost-homecoming-of-a-robot-in-a-grid/description/](https://leetcode.com/problems/minimum-cost-homecoming-of-a-robot-in-a-grid/description/)
+
+
 
 ### Hash
 
@@ -991,7 +995,11 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 
 1954 [https://leetcode.com/problems/minimum-garden-perimeter-to-collect-enough-apples/description/](https://leetcode.com/problems/minimum-garden-perimeter-to-collect-enough-apples/description/)&#x20;
 
-1969 [https://leetcode.com/problems/minimum-non-zero-product-of-the-array-elements/description/](https://leetcode.com/problems/minimum-non-zero-product-of-the-array-elements/description/)
+1969 [https://leetcode.com/problems/minimum-non-zero-product-of-the-array-elements/description/](https://leetcode.com/problems/minimum-non-zero-product-of-the-array-elements/description/)&#x20;
+
+2081 Base 0 [https://leetcode.com/problems/sum-of-k-mirror-numbers/description/](https://leetcode.com/problems/sum-of-k-mirror-numbers/description/)
+
+
 
 ### Fibonacci
 
