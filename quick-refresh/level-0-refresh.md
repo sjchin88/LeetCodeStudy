@@ -316,7 +316,57 @@ def dfs_backtrack(candidates, index, temp, result):
 
 ## Dynamic Programming
 
-Basic Question
+### When to apply (How do you know is DP)
+
+* Searching for optimum combination
+* Overlapping subproblems  (if no overlapping, have to use dfs with recursion, with time complexity often O(2 ^n)
+* Local optimal is not necessary equal to global optimal (if it is equal, use Greedy)
+* Start with brute force process and realize the result can be cached (memoization)
+  * [https://leetcode.com/problems/scramble-string/description/](https://leetcode.com/problems/scramble-string/description/)
+
+### Prerequisites for DP
+
+If you are working with arrays,&#x20;
+
+* then you have to work with either subarrays （contiguous part of array) or subsequences ( non contiguous, but maintain relative order of elements). By breaking down the problem into smaller subproblem (like 0 to i for  0 < i <= n)
+* Cannot work with subset (Random order), as the subproblems cannot guarantee overlap
+
+
+
+### Common Problems for DP
+
+Finding if certain combinations is possible for the solution
+
+dp\[] value is true / false
+
+* dp\[i]\[j] = True if dp\[i-1]\[j-1] is True and state\[i] == state\[j]
+* dp\[i]\[j] = True if dp\[i]\[mid] and dp\[mid+1]\[j]
+
+dp\[big problem] = dp\[small problem 1] or dp\[small problem2]
+
+Find the total number of combinations (not concern about specific solution, which mostly use backtracking (dfs)
+
+dp\[big problem] = sum ( dp\[small problem 1] .... dp\[small problem n])
+
+Find the max/min&#x20;
+
+dp\[big problem] = min / max { dp\[small problem 1] .... dp\[small problem n] }
+
+### General Steps
+
+1. Find the state representation and optimal subproblem&#x20;
+   1. How many dimensions needed? 1D, 2D, ND. The answer depends on the factors involved in determining different states
+2. Determine the state transition function
+3. Check the initial condition and boundary rules
+4. Determine the order of calculations for the states
+
+### Pracise&#x20;
+
+70 [https://leetcode.com/problems/climbing-stairs/description/](https://leetcode.com/problems/climbing-stairs/description/)&#x20;
+
+198 [https://leetcode.com/problems/house-robber/description/](https://leetcode.com/problems/house-robber/description/)
+
+
 
 ## Heap (Priority Queue)
 

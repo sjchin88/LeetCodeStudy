@@ -34,7 +34,7 @@
 
 403 . [https://leetcode.com/problems/frog-jump/description/](https://leetcode.com/problems/frog-jump/description/)
 
-416 . Bucket DP/Coin Sum - [https://leetcode.com/problems/partition-equal-subset-sum/description/](https://leetcode.com/problems/partition-equal-subset-sum/description/)
+
 
 418 . [https://leetcode.com/problems/sentence-screen-fitting/description/](https://leetcode.com/problems/sentence-screen-fitting/description/)
 
@@ -306,7 +306,7 @@
 
 ### Knacksack
 
-1449 [https://leetcode.com/problems/form-largest-integer-with-digits-that-add-up-to-target/description/](https://leetcode.com/problems/form-largest-integer-with-digits-that-add-up-to-target/description/)&#x20;
+
 
 2008 [https://leetcode.com/problems/maximum-earnings-from-taxi/description/](https://leetcode.com/problems/maximum-earnings-from-taxi/description/)
 

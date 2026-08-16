@@ -162,6 +162,8 @@ with duplicate (hard and not necessary) - [https://leetcode.com/problems/find-mi
 
 1740 [https://leetcode.com/problems/find-distance-in-a-binary-tree/description/](https://leetcode.com/problems/find-distance-in-a-binary-tree/description/)
 
+2096 [https://leetcode.com/problems/step-by-step-directions-from-a-binary-tree-node-to-another/description/](https://leetcode.com/problems/step-by-step-directions-from-a-binary-tree-node-to-another/description/)
+
 ### Nary Tree Structure
 
 431 . [https://leetcode.com/problems/encode-n-ary-tree-to-binary-tree/description/](https://leetcode.com/problems/encode-n-ary-tree-to-binary-tree/description/)
@@ -334,7 +336,9 @@ with duplicate (hard and not necessary) - [https://leetcode.com/problems/find-mi
 
 1992 [https://leetcode.com/problems/find-all-groups-of-farmland/description/](https://leetcode.com/problems/find-all-groups-of-farmland/description/)
 
-2039 [https://leetcode.com/problems/the-time-when-the-network-becomes-idle/description/](https://leetcode.com/problems/the-time-when-the-network-becomes-idle/description/)
+2039 [https://leetcode.com/problems/the-time-when-the-network-becomes-idle/description/](https://leetcode.com/problems/the-time-when-the-network-becomes-idle/description/)&#x20;
+
+2092 [https://leetcode.com/problems/find-all-people-with-secret/description/](https://leetcode.com/problems/find-all-people-with-secret/description/)
 
 ### Bidectional BFS
 
@@ -455,7 +459,9 @@ Unnecessary Hard
 
 2065 [https://leetcode.com/problems/maximum-path-quality-of-a-graph/description/](https://leetcode.com/problems/maximum-path-quality-of-a-graph/description/)ad
 
-2077 [https://leetcode.com/problems/paths-in-maze-that-lead-to-same-room/description/](https://leetcode.com/problems/paths-in-maze-that-lead-to-same-room/description/)
+2077 [https://leetcode.com/problems/paths-in-maze-that-lead-to-same-room/description/](https://leetcode.com/problems/paths-in-maze-that-lead-to-same-room/description/)&#x20;
+
+2101 [https://leetcode.com/problems/detonate-the-maximum-bombs/description/](https://leetcode.com/problems/detonate-the-maximum-bombs/description/)
 
 ##
 
@@ -570,6 +576,12 @@ Unnecessary Hard
 1976 [https://leetcode.com/problems/number-of-ways-to-arrive-at-destination/description/](https://leetcode.com/problems/number-of-ways-to-arrive-at-destination/description/)
 
 2045 [https://leetcode.com/problems/second-minimum-time-to-reach-destination/description/](https://leetcode.com/problems/second-minimum-time-to-reach-destination/description/)
+
+2093 [https://leetcode.com/problems/minimum-cost-to-reach-city-with-discounts/description/](https://leetcode.com/problems/minimum-cost-to-reach-city-with-discounts/description/)&#x20;
+
+### Eulerian Path
+
+2097 [https://leetcode.com/problems/valid-arrangement-of-pairs/description/](https://leetcode.com/problems/valid-arrangement-of-pairs/description/)
 
 ### Jarvis Algorithm / Graham Scan
 
@@ -1121,7 +1133,9 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 
 1966 [https://leetcode.com/problems/binary-searchable-numbers-in-an-unsorted-array/description/](https://leetcode.com/problems/binary-searchable-numbers-in-an-unsorted-array/description/)&#x20;
 
-2030 [https://leetcode.com/problems/smallest-k-length-subsequence-with-occurrences-of-a-letter/description/](https://leetcode.com/problems/smallest-k-length-subsequence-with-occurrences-of-a-letter/description/)
+2030 [https://leetcode.com/problems/smallest-k-length-subsequence-with-occurrences-of-a-letter/description/](https://leetcode.com/problems/smallest-k-length-subsequence-with-occurrences-of-a-letter/description/)&#x20;
+
+2104 [https://leetcode.com/problems/sum-of-subarray-ranges/description/](https://leetcode.com/problems/sum-of-subarray-ranges/description/)
 
 ## Named Algorithms&#x20;
 
@@ -1231,6 +1245,8 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 
 1912 [https://leetcode.com/problems/design-movie-rental-system/description/](https://leetcode.com/problems/design-movie-rental-system/description/)
 
+2102 [https://leetcode.com/problems/sequentially-ordinal-rank-tracker/description/](https://leetcode.com/problems/sequentially-ordinal-rank-tracker/description/)
+
 ## Points Operation (2D Map)
 
 447 . Distance hashing & Combo [https://leetcode.com/problems/number-of-boomerangs/description/](https://leetcode.com/problems/number-of-boomerangs/description/)
@@ -1278,6 +1294,12 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 2033 and suffix sum [https://leetcode.com/problems/minimum-operations-to-make-a-uni-value-grid/description/](https://leetcode.com/problems/minimum-operations-to-make-a-uni-value-grid/description/)&#x20;
 
 2055 [https://leetcode.com/problems/plates-between-candles/description/](https://leetcode.com/problems/plates-between-candles/description/)
+
+
+
+### Prefix\_Suffix array
+
+2100 [https://leetcode.com/problems/find-good-days-to-rob-the-bank/description/](https://leetcode.com/problems/find-good-days-to-rob-the-bank/description/)
 
 ### Prefix Prod
 
@@ -1570,7 +1592,9 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 
 1888 [https://leetcode.com/problems/minimum-number-of-flips-to-make-the-binary-string-alternating/description/](https://leetcode.com/problems/minimum-number-of-flips-to-make-the-binary-string-alternating/description/)&#x20;
 
-2067 [https://leetcode.com/problems/number-of-equal-count-substrings/description/](https://leetcode.com/problems/number-of-equal-count-substrings/description/)
+2067 [https://leetcode.com/problems/number-of-equal-count-substrings/description/](https://leetcode.com/problems/number-of-equal-count-substrings/description/)&#x20;
+
+2106 [https://leetcode.com/problems/maximum-fruits-harvested-after-at-most-k-steps/description/](https://leetcode.com/problems/maximum-fruits-harvested-after-at-most-k-steps/description/)
 
 ### Fast and Slow Pointer
 
@@ -1578,7 +1602,9 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 
 287 . Floyd Algorithm [https://leetcode.com/problems/find-the-duplicate-number/description/](https://leetcode.com/problems/find-the-duplicate-number/description/)
 
-457 . [https://leetcode.com/problems/circular-array-loop/description/](https://leetcode.com/problems/circular-array-loop/description/)
+457 . [https://leetcode.com/problems/circular-array-loop/description/](https://leetcode.com/problems/circular-array-loop/description/)&#x20;
+
+2095 [https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/description/](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/description/)
 
 ## TrieNode
 
