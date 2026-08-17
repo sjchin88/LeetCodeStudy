@@ -15,7 +15,51 @@ Quick Practise:
 * [https://leetcode.com/problems/bitwise-ors-of-subarrays/description/](https://leetcode.com/problems/bitwise-ors-of-subarrays/description/)&#x20;
 * (a ^ b) & (a ^ c) = a & (b ^ c) [https://leetcode.com/problems/find-xor-sum-of-all-pairs-bitwise-and/description/](https://leetcode.com/problems/find-xor-sum-of-all-pairs-bitwise-and/description/)
 
+Algorithm to get into base 2 or neg base 2
 
+```python
+    def base2(self, x):
+        res = []
+        while x:
+            res.append(x & 1)
+            x = x >> 1
+        return "".join(map(str, res[::-1] or [0]))
+    def baseNeg2(self, x: int) -> str:
+        res = []
+        while x:
+            res.append(x & 1)
+            x = -(x >> 1)
+        return "".join(map(str, res[::-1] or [0]))
+```
+
+1017 [https://leetcode.com/problems/convert-to-base-2/description/](https://leetcode.com/problems/convert-to-base-2/description/)
+
+Adding binary
+
+```
+class Solution:
+    def addBinary(self, A, B):
+        res = []
+        carry = 0
+        while A or B or carry:
+            carry += (A or [0]).pop() + (B or [0]).pop()
+            res.append(carry & 1)
+            carry = carry >> 1
+        return res[::-1]
+
+    def addNegabinary(self, A, B):
+        res = []
+        carry = 0
+        while A or B or carry:
+            carry += (A or [0]).pop() + (B or [0]).pop()
+            res.append(carry & 1)
+            carry = -(carry >> 1)
+        while len(res) > 1 and res[-1] == 0:
+            res.pop()
+        return res[::-1]
+```
+
+1073 -base 2 [https://leetcode.com/problems/adding-two-negabinary-numbers/description/](https://leetcode.com/problems/adding-two-negabinary-numbers/description/)
 
 ## Two-complements
 
@@ -62,7 +106,11 @@ Useful to find words with no intersect character.&#x20;
 
 318 . For character - [https://leetcode.com/problems/maximum-product-of-word-lengths/description/](https://leetcode.com/problems/maximum-product-of-word-lengths/description/)
 
+Hamming distance, loop over all bits instead of all numbers [https://leetcode.com/problems/total-hamming-distance/description/](https://leetcode.com/problems/total-hamming-distance/description/)
 
+## Use of OR properties
+
+1318 [https://leetcode.com/problems/minimum-flips-to-make-a-or-b-equal-to-c/description/](https://leetcode.com/problems/minimum-flips-to-make-a-or-b-equal-to-c/description/)
 
 ## Use of XOR Properties
 
@@ -75,3 +123,9 @@ Rules:
 137 Combo of XOR and not [https://leetcode.com/problems/single-number-ii/](https://leetcode.com/problems/single-number-ii/)
 
 260 Combo of XOR, right most 1 - bit [https://leetcode.com/problems/single-number-iii/description/](https://leetcode.com/problems/single-number-iii/description/)
+
+## Binary Mask
+
+Used to generate permutation
+
+784 . binary mask - [https://leetcode.com/problems/letter-case-permutation/description/](https://leetcode.com/problems/letter-case-permutation/description/)

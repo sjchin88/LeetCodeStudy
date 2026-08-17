@@ -212,39 +212,23 @@ with duplicate (hard and not necessary) - [https://leetcode.com/problems/find-mi
 
 ## Bit Operations
 
-
-
 267 . With Python Permutation - [https://leetcode.com/problems/palindrome-permutation-ii/description/](https://leetcode.com/problems/palindrome-permutation-ii/description/)
-
-
 
 411 . [https://leetcode.com/problems/minimum-unique-word-abbreviation/description/](https://leetcode.com/problems/minimum-unique-word-abbreviation/description/)
 
-477 . [https://leetcode.com/problems/total-hamming-distance/description/](https://leetcode.com/problems/total-hamming-distance/description/)
-
 600 . and DP [https://leetcode.com/problems/non-negative-integers-without-consecutive-ones/description/](https://leetcode.com/problems/non-negative-integers-without-consecutive-ones/description/)
 
-784 . binary mask - [https://leetcode.com/problems/letter-case-permutation/description/](https://leetcode.com/problems/letter-case-permutation/description/)
+750 . Hard to relate [https://leetcode.com/problems/number-of-corner-rectangles/description/](https://leetcode.com/problems/number-of-corner-rectangles/description/)
+
+751 IP Address [https://leetcode.com/problems/ip-to-cidr/description/](https://leetcode.com/problems/ip-to-cidr/description/)
 
 810 . [https://leetcode.com/problems/chalkboard-xor-game/description/](https://leetcode.com/problems/chalkboard-xor-game/description/)
 
-750 . [https://leetcode.com/problems/number-of-corner-rectangles/description/](https://leetcode.com/problems/number-of-corner-rectangles/description/)
-
-751 , [https://leetcode.com/problems/ip-to-cidr/description/](https://leetcode.com/problems/ip-to-cidr/description/)
-
 898 . [https://leetcode.com/problems/bitwise-ors-of-subarrays/description/](https://leetcode.com/problems/bitwise-ors-of-subarrays/description/)
-
-927 . [https://leetcode.com/problems/three-equal-parts/description/](https://leetcode.com/problems/three-equal-parts/description/)
 
 1016 . [https://leetcode.com/problems/binary-string-with-substrings-representing-1-to-n/description/](https://leetcode.com/problems/binary-string-with-substrings-representing-1-to-n/description/)
 
-1017 [https://leetcode.com/problems/convert-to-base-2/description/](https://leetcode.com/problems/convert-to-base-2/description/)
-
-1073 -base 2 [https://leetcode.com/problems/adding-two-negabinary-numbers/description/](https://leetcode.com/problems/adding-two-negabinary-numbers/description/)
-
-1238 GrayCode [https://leetcode.com/problems/circular-permutation-in-binary-representation/description/](https://leetcode.com/problems/circular-permutation-in-binary-representation/description/)
-
-1318 [https://leetcode.com/problems/minimum-flips-to-make-a-or-b-equal-to-c/description/](https://leetcode.com/problems/minimum-flips-to-make-a-or-b-equal-to-c/description/)
+To continue
 
 1371 bitmasking [https://leetcode.com/problems/find-the-longest-substring-containing-vowels-in-even-counts/description/](https://leetcode.com/problems/find-the-longest-substring-containing-vowels-in-even-counts/description/)
 
@@ -272,7 +256,9 @@ with duplicate (hard and not necessary) - [https://leetcode.com/problems/find-mi
 
 ### Gray Code
 
-89 . [https://leetcode.com/problems/gray-code/description/](https://leetcode.com/problems/gray-code/description/)
+89 . [https://leetcode.com/problems/gray-code/description/](https://leetcode.com/problems/gray-code/description/)&#x20;
+
+1238 GrayCode [https://leetcode.com/problems/circular-permutation-in-binary-representation/description/](https://leetcode.com/problems/circular-permutation-in-binary-representation/description/)
 
 1611 [https://leetcode.com/problems/minimum-one-bit-operations-to-make-integers-zero/description/](https://leetcode.com/problems/minimum-one-bit-operations-to-make-integers-zero/description/)
 
@@ -1555,6 +1541,8 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 2262 . [https://leetcode.com/problems/total-appeal-of-a-string/description/](https://leetcode.com/problems/total-appeal-of-a-string/description/)
 
 ## Two Pointers
+
+927 . [https://leetcode.com/problems/three-equal-parts/description/](https://leetcode.com/problems/three-equal-parts/description/)
 
 1578 [https://leetcode.com/problems/minimum-time-to-make-rope-colorful/description/](https://leetcode.com/problems/minimum-time-to-make-rope-colorful/description/)
 
