@@ -252,7 +252,9 @@ To continue
 
 1915 [https://leetcode.com/problems/number-of-wonderful-substrings/description/](https://leetcode.com/problems/number-of-wonderful-substrings/description/)&#x20;
 
-2128 bitwise xor [https://leetcode.com/problems/remove-all-ones-with-row-and-column-flips/description/](https://leetcode.com/problems/remove-all-ones-with-row-and-column-flips/description/)
+2128 bitwise xor [https://leetcode.com/problems/remove-all-ones-with-row-and-column-flips/description/](https://leetcode.com/problems/remove-all-ones-with-row-and-column-flips/description/)&#x20;
+
+2135 [https://leetcode.com/problems/count-words-obtained-after-adding-a-letter/description/](https://leetcode.com/problems/count-words-obtained-after-adding-a-letter/description/)
 
 ### Gray Code
 
@@ -755,7 +757,9 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 
 2031 [https://leetcode.com/problems/count-subarrays-with-more-ones-than-zeros/description/](https://leetcode.com/problems/count-subarrays-with-more-ones-than-zeros/description/)&#x20;
 
-2087 [https://leetcode.com/problems/minimum-cost-homecoming-of-a-robot-in-a-grid/description/](https://leetcode.com/problems/minimum-cost-homecoming-of-a-robot-in-a-grid/description/)
+2087 [https://leetcode.com/problems/minimum-cost-homecoming-of-a-robot-in-a-grid/description/](https://leetcode.com/problems/minimum-cost-homecoming-of-a-robot-in-a-grid/description/)&#x20;
+
+2132 calculate submatrix sum [https://leetcode.com/problems/stamping-the-grid/description/](https://leetcode.com/problems/stamping-the-grid/description/)
 
 
 
@@ -1600,7 +1604,9 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 
 2067 [https://leetcode.com/problems/number-of-equal-count-substrings/description/](https://leetcode.com/problems/number-of-equal-count-substrings/description/)&#x20;
 
-2106 [https://leetcode.com/problems/maximum-fruits-harvested-after-at-most-k-steps/description/](https://leetcode.com/problems/maximum-fruits-harvested-after-at-most-k-steps/description/)
+2106 [https://leetcode.com/problems/maximum-fruits-harvested-after-at-most-k-steps/description/](https://leetcode.com/problems/maximum-fruits-harvested-after-at-most-k-steps/description/)&#x20;
+
+2134 [https://leetcode.com/problems/minimum-swaps-to-group-all-1s-together-ii/description/](https://leetcode.com/problems/minimum-swaps-to-group-all-1s-together-ii/description/)
 
 ### Fast and Slow Pointer
 
