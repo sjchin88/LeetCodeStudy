@@ -254,7 +254,11 @@ To continue
 
 2128 bitwise xor [https://leetcode.com/problems/remove-all-ones-with-row-and-column-flips/description/](https://leetcode.com/problems/remove-all-ones-with-row-and-column-flips/description/)&#x20;
 
-2135 [https://leetcode.com/problems/count-words-obtained-after-adding-a-letter/description/](https://leetcode.com/problems/count-words-obtained-after-adding-a-letter/description/)
+2135 [https://leetcode.com/problems/count-words-obtained-after-adding-a-letter/description/](https://leetcode.com/problems/count-words-obtained-after-adding-a-letter/description/)&#x20;
+
+2151 bitmasking + DFS [https://leetcode.com/problems/maximum-good-people-based-on-statements/description/](https://leetcode.com/problems/maximum-good-people-based-on-statements/description/)&#x20;
+
+2152 [https://leetcode.com/problems/minimum-number-of-lines-to-cover-points/description/](https://leetcode.com/problems/minimum-number-of-lines-to-cover-points/description/)
 
 ### Gray Code
 
@@ -320,7 +324,9 @@ To continue
 
 2039 [https://leetcode.com/problems/the-time-when-the-network-becomes-idle/description/](https://leetcode.com/problems/the-time-when-the-network-becomes-idle/description/)&#x20;
 
-2092 [https://leetcode.com/problems/find-all-people-with-secret/description/](https://leetcode.com/problems/find-all-people-with-secret/description/)
+2092 [https://leetcode.com/problems/find-all-people-with-secret/description/](https://leetcode.com/problems/find-all-people-with-secret/description/)&#x20;
+
+2146 BFS + Heap [https://leetcode.com/problems/k-highest-ranked-items-within-a-price-range/description/](https://leetcode.com/problems/k-highest-ranked-items-within-a-price-range/description/)
 
 ### Bidectional BFS
 
@@ -853,7 +859,9 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 
 1942 [https://leetcode.com/problems/the-number-of-the-smallest-unoccupied-chair/description/](https://leetcode.com/problems/the-number-of-the-smallest-unoccupied-chair/description/)
 
-2054 [https://leetcode.com/problems/two-best-non-overlapping-events/description/](https://leetcode.com/problems/two-best-non-overlapping-events/description/)
+2054 [https://leetcode.com/problems/two-best-non-overlapping-events/description/](https://leetcode.com/problems/two-best-non-overlapping-events/description/)&#x20;
+
+2163 2 heap [https://leetcode.com/problems/minimum-difference-in-sums-after-removal-of-elements/description/](https://leetcode.com/problems/minimum-difference-in-sums-after-removal-of-elements/description/)
 
 ### Huffman's Algorithm
 
@@ -1079,7 +1087,9 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 
 1830 [https://leetcode.com/problems/minimum-number-of-operations-to-make-string-sorted/description/](https://leetcode.com/problems/minimum-number-of-operations-to-make-string-sorted/description/)&#x20;
 
-2048 [https://leetcode.com/problems/next-greater-numerically-balanced-number/description/](https://leetcode.com/problems/next-greater-numerically-balanced-number/description/)
+2048 [https://leetcode.com/problems/next-greater-numerically-balanced-number/description/](https://leetcode.com/problems/next-greater-numerically-balanced-number/description/)&#x20;
+
+2147 DP + Combo [https://leetcode.com/problems/number-of-ways-to-divide-a-long-corridor/description/](https://leetcode.com/problems/number-of-ways-to-divide-a-long-corridor/description/)
 
 ### Pigeon Holes Principle
 
@@ -1297,7 +1307,9 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 
 2033 and suffix sum [https://leetcode.com/problems/minimum-operations-to-make-a-uni-value-grid/description/](https://leetcode.com/problems/minimum-operations-to-make-a-uni-value-grid/description/)&#x20;
 
-2055 [https://leetcode.com/problems/plates-between-candles/description/](https://leetcode.com/problems/plates-between-candles/description/)
+2055 [https://leetcode.com/problems/plates-between-candles/description/](https://leetcode.com/problems/plates-between-candles/description/)&#x20;
+
+2141 [https://leetcode.com/problems/maximum-running-time-of-n-computers/description/](https://leetcode.com/problems/maximum-running-time-of-n-computers/description/)
 
 
 
@@ -1355,7 +1367,9 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 
 1461 [https://leetcode.com/problems/check-if-a-string-contains-all-binary-codes-of-size-k/description/](https://leetcode.com/problems/check-if-a-string-contains-all-binary-codes-of-size-k/description/)&#x20;
 
-1923 Rolling [https://leetcode.com/problems/longest-common-subpath/solutions/](https://leetcode.com/problems/longest-common-subpath/solutions/)
+1923 Rolling [https://leetcode.com/problems/longest-common-subpath/solutions/](https://leetcode.com/problems/longest-common-subpath/solutions/)&#x20;
+
+2156 + Sliding window [https://leetcode.com/problems/find-substring-with-given-hash-value/description/](https://leetcode.com/problems/find-substring-with-given-hash-value/description/)
 
 
 
@@ -1373,7 +1387,9 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 
 850 . Coordinate compresion = O(n^3), linesweep = O(n^2logn), [https://leetcode.com/problems/rectangle-area-ii/description/](https://leetcode.com/problems/rectangle-area-ii/description/)
 
-1157 [https://leetcode.com/problems/online-majority-element-in-subarray/description/](https://leetcode.com/problems/online-majority-element-in-subarray/description/)
+1157 [https://leetcode.com/problems/online-majority-element-in-subarray/description/](https://leetcode.com/problems/online-majority-element-in-subarray/description/)&#x20;
+
+2158 [https://leetcode.com/problems/amount-of-new-area-painted-each-day/description/](https://leetcode.com/problems/amount-of-new-area-painted-each-day/description/)
 
 ### Binary Index Tree / Fenwick Tree
 
@@ -1411,7 +1427,9 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 
 1956 [https://leetcode.com/problems/minimum-time-for-k-virus-variants-to-spread/description/](https://leetcode.com/problems/minimum-time-for-k-virus-variants-to-spread/description/)&#x20;
 
-2069 [https://leetcode.com/problems/walking-robot-simulation-ii/description/](https://leetcode.com/problems/walking-robot-simulation-ii/description/)
+2069 [https://leetcode.com/problems/walking-robot-simulation-ii/description/](https://leetcode.com/problems/walking-robot-simulation-ii/description/)&#x20;
+
+2162 [https://leetcode.com/problems/minimum-cost-to-set-cooking-time/description/](https://leetcode.com/problems/minimum-cost-to-set-cooking-time/description/)
 
 ## Sorting
 
@@ -1704,7 +1722,9 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 
 1905 [https://leetcode.com/problems/count-sub-islands/description/](https://leetcode.com/problems/count-sub-islands/description/)&#x20;
 
-2076 [https://leetcode.com/problems/process-restricted-friend-requests/description/](https://leetcode.com/problems/process-restricted-friend-requests/description/)
+2076 [https://leetcode.com/problems/process-restricted-friend-requests/description/](https://leetcode.com/problems/process-restricted-friend-requests/description/)&#x20;
+
+2157 + bitmask [https://leetcode.com/problems/groups-of-strings/description/](https://leetcode.com/problems/groups-of-strings/description/)
 
 ### Disjointed Union Find
 
