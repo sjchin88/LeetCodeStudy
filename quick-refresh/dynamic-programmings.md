@@ -258,7 +258,11 @@
 
 2167 Prefix + Suffix [https://leetcode.com/problems/minimum-time-to-remove-all-cars-containing-illegal-goods/description/](https://leetcode.com/problems/minimum-time-to-remove-all-cars-containing-illegal-goods/description/)&#x20;
 
-2172 [https://leetcode.com/problems/maximum-and-sum-of-array/description/](https://leetcode.com/problems/maximum-and-sum-of-array/description/)
+2172 [https://leetcode.com/problems/maximum-and-sum-of-array/description/](https://leetcode.com/problems/maximum-and-sum-of-array/description/)&#x20;
+
+2184 [https://leetcode.com/problems/number-of-ways-to-build-sturdy-brick-wall/description/](https://leetcode.com/problems/number-of-ways-to-build-sturdy-brick-wall/description/)&#x20;
+
+2188 [https://leetcode.com/problems/minimum-time-to-finish-the-race/description/](https://leetcode.com/problems/minimum-time-to-finish-the-race/description/)
 
 ### Bitmasking
 
@@ -316,7 +320,9 @@
 
 
 
-2008 [https://leetcode.com/problems/maximum-earnings-from-taxi/description/](https://leetcode.com/problems/maximum-earnings-from-taxi/description/)
+2008 [https://leetcode.com/problems/maximum-earnings-from-taxi/description/](https://leetcode.com/problems/maximum-earnings-from-taxi/description/)&#x20;
+
+2189 [https://leetcode.com/problems/number-of-ways-to-build-house-of-cards/description/](https://leetcode.com/problems/number-of-ways-to-build-house-of-cards/description/)
 
 ### Longest Common Subsequence
 

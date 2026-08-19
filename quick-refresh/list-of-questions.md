@@ -867,7 +867,9 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 
 2054 [https://leetcode.com/problems/two-best-non-overlapping-events/description/](https://leetcode.com/problems/two-best-non-overlapping-events/description/)&#x20;
 
-2163 2 heap [https://leetcode.com/problems/minimum-difference-in-sums-after-removal-of-elements/description/](https://leetcode.com/problems/minimum-difference-in-sums-after-removal-of-elements/description/)
+2163 2 heap [https://leetcode.com/problems/minimum-difference-in-sums-after-removal-of-elements/description/](https://leetcode.com/problems/minimum-difference-in-sums-after-removal-of-elements/description/)&#x20;
+
+2182 [https://leetcode.com/problems/construct-string-with-repeat-limit/description/](https://leetcode.com/problems/construct-string-with-repeat-limit/description/)
 
 ### Huffman's Algorithm
 
@@ -1067,7 +1069,9 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 
 2029 [https://leetcode.com/problems/stone-game-ix/description/](https://leetcode.com/problems/stone-game-ix/description/)&#x20;
 
-2117 [https://leetcode.com/problems/abbreviating-the-product-of-a-range/description/](https://leetcode.com/problems/abbreviating-the-product-of-a-range/description/)
+2117 [https://leetcode.com/problems/abbreviating-the-product-of-a-range/description/](https://leetcode.com/problems/abbreviating-the-product-of-a-range/description/)&#x20;
+
+2183 [https://leetcode.com/problems/count-array-pairs-divisible-by-k/description/](https://leetcode.com/problems/count-array-pairs-divisible-by-k/description/)dyn
 
 ### Permutations
 
