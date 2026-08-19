@@ -254,7 +254,11 @@
 
 2089 [https://leetcode.com/problems/count-fertile-pyramids-in-a-land/solutions/](https://leetcode.com/problems/count-fertile-pyramids-in-a-land/solutions/)&#x20;
 
-2143 [https://leetcode.com/problems/choose-numbers-from-two-arrays-in-range/description/](https://leetcode.com/problems/choose-numbers-from-two-arrays-in-range/description/)
+2143 [https://leetcode.com/problems/choose-numbers-from-two-arrays-in-range/description/](https://leetcode.com/problems/choose-numbers-from-two-arrays-in-range/description/)&#x20;
+
+2167 Prefix + Suffix [https://leetcode.com/problems/minimum-time-to-remove-all-cars-containing-illegal-goods/description/](https://leetcode.com/problems/minimum-time-to-remove-all-cars-containing-illegal-goods/description/)&#x20;
+
+2172 [https://leetcode.com/problems/maximum-and-sum-of-array/description/](https://leetcode.com/problems/maximum-and-sum-of-array/description/)
 
 ### Bitmasking
 

@@ -451,7 +451,9 @@ Unnecessary Hard
 
 2101 [https://leetcode.com/problems/detonate-the-maximum-bombs/description/](https://leetcode.com/problems/detonate-the-maximum-bombs/description/)&#x20;
 
-2120 [https://leetcode.com/problems/execution-of-all-suffix-instructions-staying-in-a-grid/description/](https://leetcode.com/problems/execution-of-all-suffix-instructions-staying-in-a-grid/description/)
+2120 [https://leetcode.com/problems/execution-of-all-suffix-instructions-staying-in-a-grid/description/](https://leetcode.com/problems/execution-of-all-suffix-instructions-staying-in-a-grid/description/)&#x20;
+
+2174 [https://leetcode.com/problems/remove-all-ones-with-row-and-column-flips-ii/description/](https://leetcode.com/problems/remove-all-ones-with-row-and-column-flips-ii/description/)
 
 ##
 
@@ -511,7 +513,9 @@ Unnecessary Hard
 
 2034 [https://leetcode.com/problems/stock-price-fluctuation/description/](https://leetcode.com/problems/stock-price-fluctuation/description/)&#x20;
 
-2043 [https://leetcode.com/problems/simple-bank-system/description/](https://leetcode.com/problems/simple-bank-system/description/)
+2043 [https://leetcode.com/problems/simple-bank-system/description/](https://leetcode.com/problems/simple-bank-system/description/)&#x20;
+
+2166 [https://leetcode.com/problems/design-bitset/description/](https://leetcode.com/problems/design-bitset/description/)
 
 ### Concurrency
 
@@ -765,7 +769,9 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 
 2087 [https://leetcode.com/problems/minimum-cost-homecoming-of-a-robot-in-a-grid/description/](https://leetcode.com/problems/minimum-cost-homecoming-of-a-robot-in-a-grid/description/)&#x20;
 
-2132 calculate submatrix sum [https://leetcode.com/problems/stamping-the-grid/description/](https://leetcode.com/problems/stamping-the-grid/description/)
+2132 calculate submatrix sum [https://leetcode.com/problems/stamping-the-grid/description/](https://leetcode.com/problems/stamping-the-grid/description/)&#x20;
+
+2171 [https://leetcode.com/problems/removing-minimum-number-of-magic-beans/description/](https://leetcode.com/problems/removing-minimum-number-of-magic-beans/description/)
 
 
 
@@ -1409,7 +1415,9 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 
 1825 or Sorted Set [https://leetcode.com/problems/finding-mk-average/description/](https://leetcode.com/problems/finding-mk-average/description/)
 
-1847 [https://leetcode.com/problems/closest-room/description/](https://leetcode.com/problems/closest-room/description/)
+1847 [https://leetcode.com/problems/closest-room/description/](https://leetcode.com/problems/closest-room/description/)&#x20;
+
+2179 [https://leetcode.com/problems/count-good-triplets-in-an-array/description/](https://leetcode.com/problems/count-good-triplets-in-an-array/description/)
 
 ### Binary Lifting
 
