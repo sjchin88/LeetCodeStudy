@@ -601,7 +601,9 @@ Unnecessary Hard
 
 1203 [https://leetcode.com/problems/sort-items-by-groups-respecting-dependencies/editorial/](https://leetcode.com/problems/sort-items-by-groups-respecting-dependencies/editorial/)&#x20;
 
-2127 [https://leetcode.com/problems/maximum-employees-to-be-invited-to-a-meeting/description/](https://leetcode.com/problems/maximum-employees-to-be-invited-to-a-meeting/description/)
+2127 [https://leetcode.com/problems/maximum-employees-to-be-invited-to-a-meeting/description/](https://leetcode.com/problems/maximum-employees-to-be-invited-to-a-meeting/description/)&#x20;
+
+2192 [https://leetcode.com/problems/all-ancestors-of-a-node-in-a-directed-acyclic-graph/description/](https://leetcode.com/problems/all-ancestors-of-a-node-in-a-directed-acyclic-graph/description/)
 
 ## Greedy (IQ Tests)
 
@@ -1007,7 +1009,7 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 
 2081 Base 0 [https://leetcode.com/problems/sum-of-k-mirror-numbers/description/](https://leetcode.com/problems/sum-of-k-mirror-numbers/description/)
 
-
+2195 [https://leetcode.com/problems/append-k-integers-with-minimal-sum/description/](https://leetcode.com/problems/append-k-integers-with-minimal-sum/description/)
 
 ### Fibonacci
 
@@ -1584,7 +1586,9 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 
 1940 [https://leetcode.com/problems/longest-common-subsequence-between-sorted-arrays/description/](https://leetcode.com/problems/longest-common-subsequence-between-sorted-arrays/description/)&#x20;
 
-2122 [https://leetcode.com/problems/recover-the-original-array/description/](https://leetcode.com/problems/recover-the-original-array/description/)
+2122 [https://leetcode.com/problems/recover-the-original-array/description/](https://leetcode.com/problems/recover-the-original-array/description/)&#x20;
+
+2193 [https://leetcode.com/problems/minimum-number-of-moves-to-make-palindrome/description/](https://leetcode.com/problems/minimum-number-of-moves-to-make-palindrome/description/)
 
 ### Opposite Direction Traversal
 
