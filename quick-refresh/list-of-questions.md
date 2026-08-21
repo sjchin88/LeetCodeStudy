@@ -326,7 +326,9 @@ To continue
 
 2092 [https://leetcode.com/problems/find-all-people-with-secret/description/](https://leetcode.com/problems/find-all-people-with-secret/description/)&#x20;
 
-2146 BFS + Heap [https://leetcode.com/problems/k-highest-ranked-items-within-a-price-range/description/](https://leetcode.com/problems/k-highest-ranked-items-within-a-price-range/description/)
+2146 BFS + Heap [https://leetcode.com/problems/k-highest-ranked-items-within-a-price-range/description/](https://leetcode.com/problems/k-highest-ranked-items-within-a-price-range/description/)&#x20;
+
+2196 [https://leetcode.com/problems/create-binary-tree-from-descriptions/description/](https://leetcode.com/problems/create-binary-tree-from-descriptions/description/)
 
 ### Bidectional BFS
 
@@ -541,6 +543,8 @@ Unnecessary Hard
 
 1719 with dfs [https://leetcode.com/problems/number-of-ways-to-reconstruct-a-tree/description/](https://leetcode.com/problems/number-of-ways-to-reconstruct-a-tree/description/)
 
+2204 [https://leetcode.com/problems/distance-to-a-cycle-in-undirected-graph/description/](https://leetcode.com/problems/distance-to-a-cycle-in-undirected-graph/description/)
+
 ### Dijkstra <a href="#approach-dijkstras" id="approach-dijkstras"></a>
 
 499 . [https://leetcode.com/problems/the-maze-iii/description/](https://leetcode.com/problems/the-maze-iii/description/)
@@ -572,6 +576,8 @@ Unnecessary Hard
 2045 [https://leetcode.com/problems/second-minimum-time-to-reach-destination/description/](https://leetcode.com/problems/second-minimum-time-to-reach-destination/description/)
 
 2093 [https://leetcode.com/problems/minimum-cost-to-reach-city-with-discounts/description/](https://leetcode.com/problems/minimum-cost-to-reach-city-with-discounts/description/)&#x20;
+
+2203 [https://leetcode.com/problems/minimum-weighted-subgraph-with-the-required-paths/description/](https://leetcode.com/problems/minimum-weighted-subgraph-with-the-required-paths/description/)
 
 ### Eulerian Path
 
@@ -775,7 +781,7 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 
 2171 [https://leetcode.com/problems/removing-minimum-number-of-magic-beans/description/](https://leetcode.com/problems/removing-minimum-number-of-magic-beans/description/)
 
-
+2207 [https://leetcode.com/problems/maximize-number-of-subsequences-in-a-string/description/](https://leetcode.com/problems/maximize-number-of-subsequences-in-a-string/description/)
 
 ### Hash
 
@@ -1025,7 +1031,9 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 
 1766 [https://leetcode.com/problems/tree-of-coprimes/description/](https://leetcode.com/problems/tree-of-coprimes/description/)&#x20;
 
-1998 [https://leetcode.com/problems/gcd-sort-of-an-array/description/](https://leetcode.com/problems/gcd-sort-of-an-array/description/)
+1998 [https://leetcode.com/problems/gcd-sort-of-an-array/description/](https://leetcode.com/problems/gcd-sort-of-an-array/description/)&#x20;
+
+2197 [https://leetcode.com/problems/replace-non-coprime-numbers-in-array/description/](https://leetcode.com/problems/replace-non-coprime-numbers-in-array/description/)
 
 ### Geometry
 
@@ -1321,7 +1329,9 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 
 2055 [https://leetcode.com/problems/plates-between-candles/description/](https://leetcode.com/problems/plates-between-candles/description/)&#x20;
 
-2141 [https://leetcode.com/problems/maximum-running-time-of-n-computers/description/](https://leetcode.com/problems/maximum-running-time-of-n-computers/description/)
+2141 [https://leetcode.com/problems/maximum-running-time-of-n-computers/description/](https://leetcode.com/problems/maximum-running-time-of-n-computers/description/)&#x20;
+
+2201 [https://leetcode.com/problems/count-artifacts-that-can-be-extracted/description/](https://leetcode.com/problems/count-artifacts-that-can-be-extracted/description/)
 
 
 
@@ -1572,9 +1582,13 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 
 1838 [https://leetcode.com/problems/frequency-of-the-most-frequent-element/description/](https://leetcode.com/problems/frequency-of-the-most-frequent-element/description/)
 
-1840 [https://leetcode.com/problems/maximum-building-height/description/](https://leetcode.com/problems/maximum-building-height/description/)
+1840 [https://leetcode.com/problems/maximum-building-height/description/](https://leetcode.com/problems/maximum-building-height/description/)&#x20;
 
-2262 . [https://leetcode.com/problems/total-appeal-of-a-string/description/](https://leetcode.com/problems/total-appeal-of-a-string/description/)
+2198 [https://leetcode.com/problems/number-of-single-divisor-triplets/description/](https://leetcode.com/problems/number-of-single-divisor-triplets/description/)
+
+2262 . [https://leetcode.com/problems/total-appeal-of-a-string/description/](https://leetcode.com/problems/total-appeal-of-a-string/description/)&#x20;
+
+2198
 
 ## Two Pointers
 

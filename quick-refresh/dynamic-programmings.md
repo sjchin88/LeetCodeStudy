@@ -264,6 +264,8 @@
 
 2188 [https://leetcode.com/problems/minimum-time-to-finish-the-race/description/](https://leetcode.com/problems/minimum-time-to-finish-the-race/description/)
 
+2209 [https://leetcode.com/problems/minimum-white-tiles-after-covering-with-carpets/description/](https://leetcode.com/problems/minimum-white-tiles-after-covering-with-carpets/description/)
+
 ### Bitmasking
 
 1434 Use bitmasking [https://leetcode.com/problems/number-of-ways-to-wear-different-hats-to-each-other/description/](https://leetcode.com/problems/number-of-ways-to-wear-different-hats-to-each-other/description/)
