@@ -73,6 +73,7 @@
   * [Dynamic Programming](quick-refresh/level-1-refresh/dynamic-programming/README.md)
     * [Knapsack Problem](quick-refresh/level-1-refresh/dynamic-programming/knapsack-problem.md)
   * [Kadanes Algorithm](dynamic-programming/kadanes-algorithm.md)
+  * [Rolling Hash](quick-refresh/level-1-refresh/rolling-hash.md)
 * [Level 2 Refresh](quick-refresh/level-2-refresh/README.md)
   * [Common Mechanism](common-mechanism.md)
 * [List of Questions](quick-refresh/list-of-questions.md)
