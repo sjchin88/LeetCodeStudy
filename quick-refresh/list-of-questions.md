@@ -1411,7 +1411,9 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 
 1157 [https://leetcode.com/problems/online-majority-element-in-subarray/description/](https://leetcode.com/problems/online-majority-element-in-subarray/description/)&#x20;
 
-2158 [https://leetcode.com/problems/amount-of-new-area-painted-each-day/description/](https://leetcode.com/problems/amount-of-new-area-painted-each-day/description/)
+2158 [https://leetcode.com/problems/amount-of-new-area-painted-each-day/description/](https://leetcode.com/problems/amount-of-new-area-painted-each-day/description/)&#x20;
+
+2214 [https://leetcode.com/problems/longest-substring-of-one-repeating-character/description/](https://leetcode.com/problems/longest-substring-of-one-repeating-character/description/)
 
 ### Binary Index Tree / Fenwick Tree
 
