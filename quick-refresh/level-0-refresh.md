@@ -463,6 +463,38 @@ class Solution:
         return fast
 ```
 
+```python
+class Solution:
+    def detectCycle(self, head: Optional[ListNode]) -> Optional[ListNode]:
+        if not head:
+            return None
+        if head.next == head:
+            return head
+        fast = head
+        slow = head
+        cycle = False
+        while fast.next and fast.next.next:
+            fast = fast.next.next
+            slow = slow.next
+            if fast == slow:
+                cycle = True
+                break
+        if not cycle:
+            return None
+        # a = distance from head to cycle start
+        # b = distance from cycle start to first meet point
+        # c = length of the cycle
+        # then a + b + k.c (for fast) = 2(a + b) (for slow)
+        # k.c = a + b, a = k.c - b
+        # slow is b distance away from start, so k.c - b + b = k.c, 
+        # when fast & slow meet again, it will be starting point
+        fast = head
+        while fast != slow:
+            fast = fast.next
+            slow = slow.next
+        return fast
+```
+
 ## LongestIncreasingSubsequence (Russia Doll)
 
 this algorithm does not always generate a valid subsequence of the input, but the length of the subsequence will always equal the length of the longest increasing subsequence
