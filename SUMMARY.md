@@ -68,6 +68,7 @@
 
 * [Level 0 Refresh](quick-refresh/level-0-refresh.md)
 * [Level 1 Refresh](quick-refresh/level-1-refresh/README.md)
+  * [Math (Pascal)](quick-refresh/level-1-refresh/math-pascal.md)
   * [Binary Search](quick-refresh/level-1-refresh/binary-search.md)
   * [Bit Operation](quick-refresh/level-1-refresh/bit-operation.md)
   * [Dynamic Programming](quick-refresh/level-1-refresh/dynamic-programming/README.md)

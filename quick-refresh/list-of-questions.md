@@ -781,7 +781,11 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 
 2171 [https://leetcode.com/problems/removing-minimum-number-of-magic-beans/description/](https://leetcode.com/problems/removing-minimum-number-of-magic-beans/description/)
 
-2207 [https://leetcode.com/problems/maximize-number-of-subsequences-in-a-string/description/](https://leetcode.com/problems/maximize-number-of-subsequences-in-a-string/description/)
+2207 [https://leetcode.com/problems/maximize-number-of-subsequences-in-a-string/description/](https://leetcode.com/problems/maximize-number-of-subsequences-in-a-string/description/)&#x20;
+
+2216 [https://leetcode.com/problems/minimum-deletions-to-make-array-beautiful/description/](https://leetcode.com/problems/minimum-deletions-to-make-array-beautiful/description/)&#x20;
+
+2217 [https://leetcode.com/problems/find-palindrome-with-fixed-length/description/](https://leetcode.com/problems/find-palindrome-with-fixed-length/description/)
 
 ### Hash
 

@@ -264,7 +264,9 @@
 
 2188 [https://leetcode.com/problems/minimum-time-to-finish-the-race/description/](https://leetcode.com/problems/minimum-time-to-finish-the-race/description/)
 
-2209 [https://leetcode.com/problems/minimum-white-tiles-after-covering-with-carpets/description/](https://leetcode.com/problems/minimum-white-tiles-after-covering-with-carpets/description/)
+2209 [https://leetcode.com/problems/minimum-white-tiles-after-covering-with-carpets/description/](https://leetcode.com/problems/minimum-white-tiles-after-covering-with-carpets/description/)&#x20;
+
+2218 [https://leetcode.com/problems/maximum-value-of-k-coins-from-piles/description/](https://leetcode.com/problems/maximum-value-of-k-coins-from-piles/description/)
 
 ### Bitmasking
 
