@@ -517,7 +517,9 @@ Unnecessary Hard
 
 2043 [https://leetcode.com/problems/simple-bank-system/description/](https://leetcode.com/problems/simple-bank-system/description/)&#x20;
 
-2166 [https://leetcode.com/problems/design-bitset/description/](https://leetcode.com/problems/design-bitset/description/)
+2166 [https://leetcode.com/problems/design-bitset/description/](https://leetcode.com/problems/design-bitset/description/)&#x20;
+
+2241 [https://leetcode.com/problems/design-an-atm-machine/description/](https://leetcode.com/problems/design-an-atm-machine/description/)
 
 ### Concurrency
 
@@ -600,6 +602,12 @@ Unnecessary Hard
 1489 [https://leetcode.com/problems/find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree/description/](https://leetcode.com/problems/find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree/description/)
 
 1584 [https://leetcode.com/problems/min-cost-to-connect-all-points/description/](https://leetcode.com/problems/min-cost-to-connect-all-points/description/)
+
+
+
+### Traveling Salesman
+
+2247 (Alternative Maximum Spanning Tree) [https://leetcode.com/problems/maximum-cost-of-trip-with-k-highways/description/](https://leetcode.com/problems/maximum-cost-of-trip-with-k-highways/description/)
 
 ### Topological Sort
 
@@ -1592,9 +1600,11 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 
 2198 [https://leetcode.com/problems/number-of-single-divisor-triplets/description/](https://leetcode.com/problems/number-of-single-divisor-triplets/description/)
 
+2242 [https://leetcode.com/problems/maximum-score-of-a-node-sequence/description/](https://leetcode.com/problems/maximum-score-of-a-node-sequence/description/)
+
 2262 . [https://leetcode.com/problems/total-appeal-of-a-string/description/](https://leetcode.com/problems/total-appeal-of-a-string/description/)&#x20;
 
-2198
+
 
 ## Two Pointers
 
