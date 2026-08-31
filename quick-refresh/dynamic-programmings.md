@@ -268,6 +268,8 @@
 
 2218 [https://leetcode.com/problems/maximum-value-of-k-coins-from-piles/description/](https://leetcode.com/problems/maximum-value-of-k-coins-from-piles/description/)
 
+2267 [https://leetcode.com/problems/check-if-there-is-a-valid-parentheses-string-path/description/](https://leetcode.com/problems/check-if-there-is-a-valid-parentheses-string-path/description/)
+
 ### Bitmasking
 
 1434 Use bitmasking [https://leetcode.com/problems/number-of-ways-to-wear-different-hats-to-each-other/description/](https://leetcode.com/problems/number-of-ways-to-wear-different-hats-to-each-other/description/)

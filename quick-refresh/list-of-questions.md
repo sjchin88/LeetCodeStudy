@@ -330,6 +330,8 @@ To continue
 
 2196 [https://leetcode.com/problems/create-binary-tree-from-descriptions/description/](https://leetcode.com/problems/create-binary-tree-from-descriptions/description/)
 
+2258 [https://leetcode.com/problems/escape-the-spreading-fire/description/](https://leetcode.com/problems/escape-the-spreading-fire/description/)
+
 ### Bidectional BFS
 
 1197 Double BFS [https://leetcode.com/problems/minimum-knight-moves/description/](https://leetcode.com/problems/minimum-knight-moves/description/)
@@ -519,7 +521,9 @@ Unnecessary Hard
 
 2166 [https://leetcode.com/problems/design-bitset/description/](https://leetcode.com/problems/design-bitset/description/)&#x20;
 
-2241 [https://leetcode.com/problems/design-an-atm-machine/description/](https://leetcode.com/problems/design-an-atm-machine/description/)
+2241 [https://leetcode.com/problems/design-an-atm-machine/description/](https://leetcode.com/problems/design-an-atm-machine/description/)&#x20;
+
+2254 [https://leetcode.com/problems/design-video-sharing-platform/description/](https://leetcode.com/problems/design-video-sharing-platform/description/)
 
 ### Concurrency
 
@@ -889,7 +893,9 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 
 2163 2 heap [https://leetcode.com/problems/minimum-difference-in-sums-after-removal-of-elements/description/](https://leetcode.com/problems/minimum-difference-in-sums-after-removal-of-elements/description/)&#x20;
 
-2182 [https://leetcode.com/problems/construct-string-with-repeat-limit/description/](https://leetcode.com/problems/construct-string-with-repeat-limit/description/)
+2182 [https://leetcode.com/problems/construct-string-with-repeat-limit/description/](https://leetcode.com/problems/construct-string-with-repeat-limit/description/)&#x20;
+
+2263 [https://leetcode.com/problems/make-array-non-decreasing-or-non-increasing/](https://leetcode.com/problems/make-array-non-decreasing-or-non-increasing/)
 
 ### Huffman's Algorithm
 
@@ -1065,7 +1071,9 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 
 1924 Welzi algorithm [https://leetcode.com/problems/erect-the-fence-ii/description/](https://leetcode.com/problems/erect-the-fence-ii/description/)&#x20;
 
-2013 [https://leetcode.com/problems/detect-squares/description/](https://leetcode.com/problems/detect-squares/description/)
+2013 [https://leetcode.com/problems/detect-squares/description/](https://leetcode.com/problems/detect-squares/description/)&#x20;
+
+2249 [https://leetcode.com/problems/count-lattice-points-inside-a-circle/description/](https://leetcode.com/problems/count-lattice-points-inside-a-circle/description/)
 
 ### Matrix
 
@@ -1291,7 +1299,9 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 
 1912 [https://leetcode.com/problems/design-movie-rental-system/description/](https://leetcode.com/problems/design-movie-rental-system/description/)
 
-2102 [https://leetcode.com/problems/sequentially-ordinal-rank-tracker/description/](https://leetcode.com/problems/sequentially-ordinal-rank-tracker/description/)
+2102 [https://leetcode.com/problems/sequentially-ordinal-rank-tracker/description/](https://leetcode.com/problems/sequentially-ordinal-rank-tracker/description/)&#x20;
+
+2276 [https://leetcode.com/problems/count-integers-in-intervals/description/](https://leetcode.com/problems/count-integers-in-intervals/description/)
 
 ## Points Operation (2D Map)
 
@@ -1343,7 +1353,9 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 
 2141 [https://leetcode.com/problems/maximum-running-time-of-n-computers/description/](https://leetcode.com/problems/maximum-running-time-of-n-computers/description/)&#x20;
 
-2201 [https://leetcode.com/problems/count-artifacts-that-can-be-extracted/description/](https://leetcode.com/problems/count-artifacts-that-can-be-extracted/description/)
+2201 [https://leetcode.com/problems/count-artifacts-that-can-be-extracted/description/](https://leetcode.com/problems/count-artifacts-that-can-be-extracted/description/)&#x20;
+
+2281 pre pre sum [https://leetcode.com/problems/sum-of-total-strength-of-wizards/description/](https://leetcode.com/problems/sum-of-total-strength-of-wizards/description/)
 
 
 
@@ -1447,11 +1459,15 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 
 1847 [https://leetcode.com/problems/closest-room/description/](https://leetcode.com/problems/closest-room/description/)&#x20;
 
-2179 [https://leetcode.com/problems/count-good-triplets-in-an-array/description/](https://leetcode.com/problems/count-good-triplets-in-an-array/description/)
+2179 [https://leetcode.com/problems/count-good-triplets-in-an-array/description/](https://leetcode.com/problems/count-good-triplets-in-an-array/description/)&#x20;
+
+2250 [https://leetcode.com/problems/count-number-of-rectangles-containing-each-point/description/](https://leetcode.com/problems/count-number-of-rectangles-containing-each-point/description/)
 
 ### Binary Lifting
 
 1483 [https://leetcode.com/problems/kth-ancestor-of-a-tree-node/description/](https://leetcode.com/problems/kth-ancestor-of-a-tree-node/description/)
+
+2277 [https://leetcode.com/problems/closest-node-to-path-in-tree/description/](https://leetcode.com/problems/closest-node-to-path-in-tree/description/)
 
 ## Simulation
 
@@ -1603,6 +1619,8 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 2242 [https://leetcode.com/problems/maximum-score-of-a-node-sequence/description/](https://leetcode.com/problems/maximum-score-of-a-node-sequence/description/)
 
 2262 . [https://leetcode.com/problems/total-appeal-of-a-string/description/](https://leetcode.com/problems/total-appeal-of-a-string/description/)&#x20;
+
+2272 [https://leetcode.com/problems/substring-with-largest-variance/description/](https://leetcode.com/problems/substring-with-largest-variance/description/)
 
 
 
