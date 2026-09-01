@@ -457,7 +457,9 @@ Unnecessary Hard
 
 2120 [https://leetcode.com/problems/execution-of-all-suffix-instructions-staying-in-a-grid/description/](https://leetcode.com/problems/execution-of-all-suffix-instructions-staying-in-a-grid/description/)&#x20;
 
-2174 [https://leetcode.com/problems/remove-all-ones-with-row-and-column-flips-ii/description/](https://leetcode.com/problems/remove-all-ones-with-row-and-column-flips-ii/description/)
+2174 [https://leetcode.com/problems/remove-all-ones-with-row-and-column-flips-ii/description/](https://leetcode.com/problems/remove-all-ones-with-row-and-column-flips-ii/description/)&#x20;
+
+2305 [https://leetcode.com/problems/fair-distribution-of-cookies/description/](https://leetcode.com/problems/fair-distribution-of-cookies/description/)
 
 ##
 
@@ -523,7 +525,9 @@ Unnecessary Hard
 
 2241 [https://leetcode.com/problems/design-an-atm-machine/description/](https://leetcode.com/problems/design-an-atm-machine/description/)&#x20;
 
-2254 [https://leetcode.com/problems/design-video-sharing-platform/description/](https://leetcode.com/problems/design-video-sharing-platform/description/)
+2254 [https://leetcode.com/problems/design-video-sharing-platform/description/](https://leetcode.com/problems/design-video-sharing-platform/description/)&#x20;
+
+2296 [https://leetcode.com/problems/design-a-text-editor/description/](https://leetcode.com/problems/design-a-text-editor/description/)
 
 ### Concurrency
 
@@ -583,7 +587,11 @@ Unnecessary Hard
 
 2093 [https://leetcode.com/problems/minimum-cost-to-reach-city-with-discounts/description/](https://leetcode.com/problems/minimum-cost-to-reach-city-with-discounts/description/)&#x20;
 
-2203 [https://leetcode.com/problems/minimum-weighted-subgraph-with-the-required-paths/description/](https://leetcode.com/problems/minimum-weighted-subgraph-with-the-required-paths/description/)
+2203 [https://leetcode.com/problems/minimum-weighted-subgraph-with-the-required-paths/description/](https://leetcode.com/problems/minimum-weighted-subgraph-with-the-required-paths/description/)&#x20;
+
+2290 [https://leetcode.com/problems/minimum-obstacle-removal-to-reach-corner/description/](https://leetcode.com/problems/minimum-obstacle-removal-to-reach-corner/description/)&#x20;
+
+2304 [https://leetcode.com/problems/minimum-path-cost-in-a-grid/solutions/](https://leetcode.com/problems/minimum-path-cost-in-a-grid/solutions/)
 
 ### Eulerian Path
 
@@ -797,7 +805,11 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 
 2216 [https://leetcode.com/problems/minimum-deletions-to-make-array-beautiful/description/](https://leetcode.com/problems/minimum-deletions-to-make-array-beautiful/description/)&#x20;
 
-2217 [https://leetcode.com/problems/find-palindrome-with-fixed-length/description/](https://leetcode.com/problems/find-palindrome-with-fixed-length/description/)
+2217 [https://leetcode.com/problems/find-palindrome-with-fixed-length/description/](https://leetcode.com/problems/find-palindrome-with-fixed-length/description/)&#x20;
+
+2295 [https://leetcode.com/problems/replace-elements-in-an-array/description/](https://leetcode.com/problems/replace-elements-in-an-array/description/)&#x20;
+
+2306 [https://leetcode.com/problems/naming-a-company/description/](https://leetcode.com/problems/naming-a-company/description/)
 
 ### Hash
 
@@ -1187,7 +1199,11 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 
 2030 [https://leetcode.com/problems/smallest-k-length-subsequence-with-occurrences-of-a-letter/description/](https://leetcode.com/problems/smallest-k-length-subsequence-with-occurrences-of-a-letter/description/)&#x20;
 
-2104 [https://leetcode.com/problems/sum-of-subarray-ranges/description/](https://leetcode.com/problems/sum-of-subarray-ranges/description/)
+2104 [https://leetcode.com/problems/sum-of-subarray-ranges/description/](https://leetcode.com/problems/sum-of-subarray-ranges/description/)&#x20;
+
+2289 + dp [https://leetcode.com/problems/steps-to-make-array-non-decreasing/description/](https://leetcode.com/problems/steps-to-make-array-non-decreasing/description/)
+
+2297 + dp [https://leetcode.com/problems/jump-game-viii/description/](https://leetcode.com/problems/jump-game-viii/description/)
 
 ## Named Algorithms&#x20;
 
@@ -1566,7 +1582,9 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 
 ### KMP&#x20;
 
-1367 [https://leetcode.com/problems/linked-list-in-binary-tree/description/](https://leetcode.com/problems/linked-list-in-binary-tree/description/)
+1367 [https://leetcode.com/problems/linked-list-in-binary-tree/description/](https://leetcode.com/problems/linked-list-in-binary-tree/description/)&#x20;
+
+2301 [https://leetcode.com/problems/match-substring-after-replacement/description/](https://leetcode.com/problems/match-substring-after-replacement/description/)
 
 ### Longest Common Prefix (LCP)
 
@@ -1688,7 +1706,9 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 
 2106 [https://leetcode.com/problems/maximum-fruits-harvested-after-at-most-k-steps/description/](https://leetcode.com/problems/maximum-fruits-harvested-after-at-most-k-steps/description/)&#x20;
 
-2134 [https://leetcode.com/problems/minimum-swaps-to-group-all-1s-together-ii/description/](https://leetcode.com/problems/minimum-swaps-to-group-all-1s-together-ii/description/)
+2134 [https://leetcode.com/problems/minimum-swaps-to-group-all-1s-together-ii/description/](https://leetcode.com/problems/minimum-swaps-to-group-all-1s-together-ii/description/)&#x20;
+
+2302 [https://leetcode.com/problems/count-subarrays-with-score-less-than-k/description/](https://leetcode.com/problems/count-subarrays-with-score-less-than-k/description/)
 
 ### Fast and Slow Pointer
 
@@ -1788,7 +1808,11 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 
 2076 [https://leetcode.com/problems/process-restricted-friend-requests/description/](https://leetcode.com/problems/process-restricted-friend-requests/description/)&#x20;
 
-2157 + bitmask [https://leetcode.com/problems/groups-of-strings/description/](https://leetcode.com/problems/groups-of-strings/description/)
+2157 + bitmask [https://leetcode.com/problems/groups-of-strings/description/](https://leetcode.com/problems/groups-of-strings/description/)&#x20;
+
+2307 DFS [https://leetcode.com/problems/check-for-contradictions-in-equations/description/](https://leetcode.com/problems/check-for-contradictions-in-equations/description/)&#x20;
+
+2310 [https://leetcode.com/problems/sum-of-numbers-with-units-digit-k/description/](https://leetcode.com/problems/sum-of-numbers-with-units-digit-k/description/)
 
 ### Disjointed Union Find
 

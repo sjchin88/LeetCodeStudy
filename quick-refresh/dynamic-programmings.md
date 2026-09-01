@@ -328,7 +328,9 @@
 
 2008 [https://leetcode.com/problems/maximum-earnings-from-taxi/description/](https://leetcode.com/problems/maximum-earnings-from-taxi/description/)&#x20;
 
-2189 [https://leetcode.com/problems/number-of-ways-to-build-house-of-cards/description/](https://leetcode.com/problems/number-of-ways-to-build-house-of-cards/description/)
+2189 [https://leetcode.com/problems/number-of-ways-to-build-house-of-cards/description/](https://leetcode.com/problems/number-of-ways-to-build-house-of-cards/description/)&#x20;
+
+2291 [https://leetcode.com/problems/maximum-profit-from-trading-stocks/description/](https://leetcode.com/problems/maximum-profit-from-trading-stocks/description/)
 
 ### Longest Common Subsequence
 
