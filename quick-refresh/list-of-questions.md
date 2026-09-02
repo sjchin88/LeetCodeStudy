@@ -529,6 +529,8 @@ Unnecessary Hard
 
 2296 [https://leetcode.com/problems/design-a-text-editor/description/](https://leetcode.com/problems/design-a-text-editor/description/)
 
+2227 [https://leetcode.com/problems/encrypt-and-decrypt-strings/description/](https://leetcode.com/problems/encrypt-and-decrypt-strings/description/)
+
 ### Concurrency
 
 1115 Concurrency [https://leetcode.com/problems/print-foobar-alternately/description/](https://leetcode.com/problems/print-foobar-alternately/description/)
@@ -1586,6 +1588,8 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 
 2301 [https://leetcode.com/problems/match-substring-after-replacement/description/](https://leetcode.com/problems/match-substring-after-replacement/description/)
 
+2223 Or Z or rolling hash - [https://leetcode.com/problems/sum-of-scores-of-built-strings/description/](https://leetcode.com/problems/sum-of-scores-of-built-strings/description/)
+
 ### Longest Common Prefix (LCP)
 
 1698 or Rolling Hash [https://leetcode.com/problems/number-of-distinct-substrings-in-a-string/description/](https://leetcode.com/problems/number-of-distinct-substrings-in-a-string/description/)
@@ -1654,7 +1658,9 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 
 2122 [https://leetcode.com/problems/recover-the-original-array/description/](https://leetcode.com/problems/recover-the-original-array/description/)&#x20;
 
-2193 [https://leetcode.com/problems/minimum-number-of-moves-to-make-palindrome/description/](https://leetcode.com/problems/minimum-number-of-moves-to-make-palindrome/description/)
+2193 [https://leetcode.com/problems/minimum-number-of-moves-to-make-palindrome/description/](https://leetcode.com/problems/minimum-number-of-moves-to-make-palindrome/description/)&#x20;
+
+2234 [https://leetcode.com/problems/maximum-total-beauty-of-the-gardens/](https://leetcode.com/problems/maximum-total-beauty-of-the-gardens/)
 
 ### Opposite Direction Traversal
 

@@ -21,4 +21,6 @@ for k1 in range(n):
     nCk //= k1 + 1
 ```
 
-[https://leetcode.com/problems/check-if-digits-are-equal-in-string-after-operations-ii/description/](https://leetcode.com/problems/check-if-digits-are-equal-in-string-after-operations-ii/description/)
+{% embed url="https://leetcode.com/problems/check-if-digits-are-equal-in-string-after-operations-ii/description/" %}
+
+2221 [https://leetcode.com/problems/find-triangular-sum-of-an-array/description/](https://leetcode.com/problems/find-triangular-sum-of-an-array/description/)
