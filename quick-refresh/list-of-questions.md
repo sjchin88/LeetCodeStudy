@@ -258,7 +258,9 @@ To continue
 
 2151 bitmasking + DFS [https://leetcode.com/problems/maximum-good-people-based-on-statements/description/](https://leetcode.com/problems/maximum-good-people-based-on-statements/description/)&#x20;
 
-2152 [https://leetcode.com/problems/minimum-number-of-lines-to-cover-points/description/](https://leetcode.com/problems/minimum-number-of-lines-to-cover-points/description/)
+2152 [https://leetcode.com/problems/minimum-number-of-lines-to-cover-points/description/](https://leetcode.com/problems/minimum-number-of-lines-to-cover-points/description/)&#x20;
+
+2311 [https://leetcode.com/problems/longest-binary-subsequence-less-than-or-equal-to-k/description/](https://leetcode.com/problems/longest-binary-subsequence-less-than-or-equal-to-k/description/)
 
 ### Gray Code
 
