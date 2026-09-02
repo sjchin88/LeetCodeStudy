@@ -1207,6 +1207,8 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 
 2297 + dp [https://leetcode.com/problems/jump-game-viii/description/](https://leetcode.com/problems/jump-game-viii/description/)
 
+2282 [https://leetcode.com/problems/number-of-people-that-can-be-seen-in-a-grid/description/](https://leetcode.com/problems/number-of-people-that-can-be-seen-in-a-grid/description/)
+
 ## Named Algorithms&#x20;
 
 ### Hungarian Algorithm (Assignment)
@@ -1455,7 +1457,9 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 
 2158 [https://leetcode.com/problems/amount-of-new-area-painted-each-day/description/](https://leetcode.com/problems/amount-of-new-area-painted-each-day/description/)&#x20;
 
-2214 [https://leetcode.com/problems/longest-substring-of-one-repeating-character/description/](https://leetcode.com/problems/longest-substring-of-one-repeating-character/description/)
+2214 [https://leetcode.com/problems/longest-substring-of-one-repeating-character/description/](https://leetcode.com/problems/longest-substring-of-one-repeating-character/description/)&#x20;
+
+2286 [https://leetcode.com/problems/booking-concert-tickets-in-groups/solutions/](https://leetcode.com/problems/booking-concert-tickets-in-groups/solutions/)
 
 ### Binary Index Tree / Fenwick Tree
 
