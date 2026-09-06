@@ -334,6 +334,8 @@ To continue
 
 2258 [https://leetcode.com/problems/escape-the-spreading-fire/description/](https://leetcode.com/problems/escape-the-spreading-fire/description/)
 
+2359 [https://leetcode.com/problems/find-closest-node-to-given-two-nodes/description/](https://leetcode.com/problems/find-closest-node-to-given-two-nodes/description/)
+
 ### Bidectional BFS
 
 1197 Double BFS [https://leetcode.com/problems/minimum-knight-moves/description/](https://leetcode.com/problems/minimum-knight-moves/description/)
@@ -531,7 +533,11 @@ Unnecessary Hard
 
 2296 [https://leetcode.com/problems/design-a-text-editor/description/](https://leetcode.com/problems/design-a-text-editor/description/)
 
-2227 [https://leetcode.com/problems/encrypt-and-decrypt-strings/description/](https://leetcode.com/problems/encrypt-and-decrypt-strings/description/)
+2227 [https://leetcode.com/problems/encrypt-and-decrypt-strings/description/](https://leetcode.com/problems/encrypt-and-decrypt-strings/description/)&#x20;
+
+2349 [https://leetcode.com/problems/design-a-number-container-system/description/](https://leetcode.com/problems/design-a-number-container-system/description/)
+
+2353 [https://leetcode.com/problems/design-a-food-rating-system/description/](https://leetcode.com/problems/design-a-food-rating-system/description/)
 
 ### Concurrency
 
@@ -608,6 +614,12 @@ Unnecessary Hard
 ### Hadlock algorithm (A+)
 
 675 .[https://leetcode.com/problems/cut-off-trees-for-golf-event/description/](https://leetcode.com/problems/cut-off-trees-for-golf-event/description/)
+
+
+
+### Kahn's algorithm
+
+2360 [https://leetcode.com/problems/longest-cycle-in-a-graph/description/](https://leetcode.com/problems/longest-cycle-in-a-graph/description/)
 
 ### Mininum Spanning Tree (Kruskal)
 
@@ -813,7 +825,13 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 
 2295 [https://leetcode.com/problems/replace-elements-in-an-array/description/](https://leetcode.com/problems/replace-elements-in-an-array/description/)&#x20;
 
-2306 [https://leetcode.com/problems/naming-a-company/description/](https://leetcode.com/problems/naming-a-company/description/)
+2306 [https://leetcode.com/problems/naming-a-company/description/](https://leetcode.com/problems/naming-a-company/description/)&#x20;
+
+2350 [https://leetcode.com/problems/shortest-impossible-sequence-of-rolls/description/](https://leetcode.com/problems/shortest-impossible-sequence-of-rolls/description/)&#x20;
+
+2366 [https://leetcode.com/problems/minimum-replacements-to-sort-the-array/description/](https://leetcode.com/problems/minimum-replacements-to-sort-the-array/description/)
+
+2375 [https://leetcode.com/problems/construct-smallest-number-from-di-string/description/](https://leetcode.com/problems/construct-smallest-number-from-di-string/description/)
 
 ### Hash
 
@@ -911,7 +929,9 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 
 2182 [https://leetcode.com/problems/construct-string-with-repeat-limit/description/](https://leetcode.com/problems/construct-string-with-repeat-limit/description/)&#x20;
 
-2263 [https://leetcode.com/problems/make-array-non-decreasing-or-non-increasing/](https://leetcode.com/problems/make-array-non-decreasing-or-non-increasing/)
+2263 [https://leetcode.com/problems/make-array-non-decreasing-or-non-increasing/](https://leetcode.com/problems/make-array-non-decreasing-or-non-increasing/)&#x20;
+
+2371 hint: distinct integer - [https://leetcode.com/problems/minimize-maximum-value-in-a-grid/description/](https://leetcode.com/problems/minimize-maximum-value-in-a-grid/description/)
 
 ### Huffman's Algorithm
 
@@ -1089,7 +1109,9 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 
 2013 [https://leetcode.com/problems/detect-squares/description/](https://leetcode.com/problems/detect-squares/description/)&#x20;
 
-2249 [https://leetcode.com/problems/count-lattice-points-inside-a-circle/description/](https://leetcode.com/problems/count-lattice-points-inside-a-circle/description/)
+2249 [https://leetcode.com/problems/count-lattice-points-inside-a-circle/description/](https://leetcode.com/problems/count-lattice-points-inside-a-circle/description/)&#x20;
+
+2345 [https://leetcode.com/problems/finding-the-number-of-visible-mountains/description/](https://leetcode.com/problems/finding-the-number-of-visible-mountains/description/)
 
 ### Matrix
 
@@ -1529,7 +1551,9 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 
 1057 [https://leetcode.com/problems/campus-bikes/description/](https://leetcode.com/problems/campus-bikes/description/)
 
-1465 [https://leetcode.com/problems/maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts/description/](https://leetcode.com/problems/maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts/description/)
+1465 [https://leetcode.com/problems/maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts/description/](https://leetcode.com/problems/maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts/description/)&#x20;
+
+2243 [https://leetcode.com/problems/query-kth-smallest-trimmed-number/description/](https://leetcode.com/problems/query-kth-smallest-trimmed-number/description/)
 
 ### Wiggle sort
 

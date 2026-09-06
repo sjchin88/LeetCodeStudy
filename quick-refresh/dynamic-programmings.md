@@ -270,7 +270,15 @@
 
 2267 [https://leetcode.com/problems/check-if-there-is-a-valid-parentheses-string-path/description/](https://leetcode.com/problems/check-if-there-is-a-valid-parentheses-string-path/description/)&#x20;
 
-2312 [https://leetcode.com/problems/selling-pieces-of-wood/description/](https://leetcode.com/problems/selling-pieces-of-wood/description/)
+2312 [https://leetcode.com/problems/selling-pieces-of-wood/description/](https://leetcode.com/problems/selling-pieces-of-wood/description/)&#x20;
+
+2355 Monostack [https://leetcode.com/problems/maximum-number-of-books-you-can-take/description/](https://leetcode.com/problems/maximum-number-of-books-you-can-take/description/)
+
+2361 [https://leetcode.com/problems/minimum-costs-using-the-train-line/description/](https://leetcode.com/problems/minimum-costs-using-the-train-line/description/)&#x20;
+
+2378 [https://leetcode.com/problems/choose-edges-to-maximize-score-in-a-tree/description/](https://leetcode.com/problems/choose-edges-to-maximize-score-in-a-tree/description/)&#x20;
+
+2380 [https://leetcode.com/problems/time-needed-to-rearrange-a-binary-string/description/](https://leetcode.com/problems/time-needed-to-rearrange-a-binary-string/description/)
 
 ### Bitmasking
 
@@ -325,6 +333,8 @@
 1067 [https://leetcode.com/problems/digit-count-in-range/description/](https://leetcode.com/problems/digit-count-in-range/description/)
 
 1397 with KMP [https://leetcode.com/problems/find-all-good-strings/description/](https://leetcode.com/problems/find-all-good-strings/description/)
+
+2376 [https://leetcode.com/problems/count-special-integers/description/](https://leetcode.com/problems/count-special-integers/description/)
 
 ### Knacksack
 

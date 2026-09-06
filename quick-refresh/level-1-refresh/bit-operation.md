@@ -98,6 +98,12 @@ def patch(bit):
     return "".join(patch) + bit
 ```
 
+## Inclusion & Exclusion
+
+bits(num1 OR num2) + bits(num1 AND num2) = bits(num1) + bits(num2)
+
+2354 [https://leetcode.com/problems/number-of-excellent-pairs/description/](https://leetcode.com/problems/number-of-excellent-pairs/description/)
+
 ## Use of AND Properties
 
 201  Find common prefix by shifting right, then restore the common prefix - [https://leetcode.com/problems/bitwise-and-of-numbers-range/description/](https://leetcode.com/problems/bitwise-and-of-numbers-range/description/)
