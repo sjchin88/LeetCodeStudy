@@ -463,7 +463,9 @@ Unnecessary Hard
 
 2174 [https://leetcode.com/problems/remove-all-ones-with-row-and-column-flips-ii/description/](https://leetcode.com/problems/remove-all-ones-with-row-and-column-flips-ii/description/)&#x20;
 
-2305 [https://leetcode.com/problems/fair-distribution-of-cookies/description/](https://leetcode.com/problems/fair-distribution-of-cookies/description/)
+2305 [https://leetcode.com/problems/fair-distribution-of-cookies/description/](https://leetcode.com/problems/fair-distribution-of-cookies/description/)&#x20;
+
+2322 [https://leetcode.com/problems/minimum-score-after-removals-on-a-tree/description/](https://leetcode.com/problems/minimum-score-after-removals-on-a-tree/description/)
 
 ##
 
@@ -1533,7 +1535,9 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 
 2069 [https://leetcode.com/problems/walking-robot-simulation-ii/description/](https://leetcode.com/problems/walking-robot-simulation-ii/description/)&#x20;
 
-2162 [https://leetcode.com/problems/minimum-cost-to-set-cooking-time/description/](https://leetcode.com/problems/minimum-cost-to-set-cooking-time/description/)
+2162 [https://leetcode.com/problems/minimum-cost-to-set-cooking-time/description/](https://leetcode.com/problems/minimum-cost-to-set-cooking-time/description/)&#x20;
+
+2327 deque [https://leetcode.com/problems/number-of-people-aware-of-a-secret/description/](https://leetcode.com/problems/number-of-people-aware-of-a-secret/description/)
 
 ## Sorting
 

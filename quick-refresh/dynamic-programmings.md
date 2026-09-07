@@ -282,6 +282,8 @@
 
 2318 [https://leetcode.com/problems/number-of-distinct-roll-sequences/description/](https://leetcode.com/problems/number-of-distinct-roll-sequences/description/)
 
+2328 [https://leetcode.com/problems/number-of-increasing-paths-in-a-grid/description/](https://leetcode.com/problems/number-of-increasing-paths-in-a-grid/description/)
+
 ### Bitmasking
 
 1434 Use bitmasking [https://leetcode.com/problems/number-of-ways-to-wear-different-hats-to-each-other/description/](https://leetcode.com/problems/number-of-ways-to-wear-different-hats-to-each-other/description/)
