@@ -1073,7 +1073,9 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 
 ### Fibonacci
 
-1414 [https://leetcode.com/problems/find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k/description/](https://leetcode.com/problems/find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k/description/)
+1414 [https://leetcode.com/problems/find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k/description/](https://leetcode.com/problems/find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k/description/)&#x20;
+
+2320 [https://leetcode.com/problems/count-number-of-ways-to-place-houses/description/](https://leetcode.com/problems/count-number-of-ways-to-place-houses/description/)
 
 ### GCD
 
@@ -1251,7 +1253,9 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 
 1186 [https://leetcode.com/problems/maximum-subarray-sum-with-one-deletion/description/](https://leetcode.com/problems/maximum-subarray-sum-with-one-deletion/description/)&#x20;
 
-2036 [https://leetcode.com/problems/maximum-alternating-subarray-sum/description/](https://leetcode.com/problems/maximum-alternating-subarray-sum/description/)
+2036 [https://leetcode.com/problems/maximum-alternating-subarray-sum/description/](https://leetcode.com/problems/maximum-alternating-subarray-sum/description/)&#x20;
+
+2321 [https://leetcode.com/problems/maximum-score-of-spliced-array/description/](https://leetcode.com/problems/maximum-score-of-spliced-array/description/)
 
 ### Kahn's algorithm
 

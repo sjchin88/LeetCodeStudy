@@ -280,6 +280,8 @@
 
 2380 [https://leetcode.com/problems/time-needed-to-rearrange-a-binary-string/description/](https://leetcode.com/problems/time-needed-to-rearrange-a-binary-string/description/)
 
+2318 [https://leetcode.com/problems/number-of-distinct-roll-sequences/description/](https://leetcode.com/problems/number-of-distinct-roll-sequences/description/)
+
 ### Bitmasking
 
 1434 Use bitmasking [https://leetcode.com/problems/number-of-ways-to-wear-different-hats-to-each-other/description/](https://leetcode.com/problems/number-of-ways-to-wear-different-hats-to-each-other/description/)
