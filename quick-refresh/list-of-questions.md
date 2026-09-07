@@ -541,6 +541,8 @@ Unnecessary Hard
 
 2353 [https://leetcode.com/problems/design-a-food-rating-system/description/](https://leetcode.com/problems/design-a-food-rating-system/description/)
 
+2336 [https://leetcode.com/problems/smallest-number-in-infinite-set/description/](https://leetcode.com/problems/smallest-number-in-infinite-set/description/)
+
 ### Concurrency
 
 1115 Concurrency [https://leetcode.com/problems/print-foobar-alternately/description/](https://leetcode.com/problems/print-foobar-alternately/description/)
@@ -1171,7 +1173,9 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 
 2048 [https://leetcode.com/problems/next-greater-numerically-balanced-number/description/](https://leetcode.com/problems/next-greater-numerically-balanced-number/description/)&#x20;
 
-2147 DP + Combo [https://leetcode.com/problems/number-of-ways-to-divide-a-long-corridor/description/](https://leetcode.com/problems/number-of-ways-to-divide-a-long-corridor/description/)
+2147 DP + Combo [https://leetcode.com/problems/number-of-ways-to-divide-a-long-corridor/description/](https://leetcode.com/problems/number-of-ways-to-divide-a-long-corridor/description/)&#x20;
+
+2338 [https://leetcode.com/problems/count-the-number-of-ideal-arrays/description/](https://leetcode.com/problems/count-the-number-of-ideal-arrays/description/)
 
 ### Pigeon Holes Principle
 
@@ -1235,7 +1239,9 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 
 2297 + dp [https://leetcode.com/problems/jump-game-viii/description/](https://leetcode.com/problems/jump-game-viii/description/)
 
-2282 [https://leetcode.com/problems/number-of-people-that-can-be-seen-in-a-grid/description/](https://leetcode.com/problems/number-of-people-that-can-be-seen-in-a-grid/description/)
+2282 [https://leetcode.com/problems/number-of-people-that-can-be-seen-in-a-grid/description/](https://leetcode.com/problems/number-of-people-that-can-be-seen-in-a-grid/description/)&#x20;
+
+2334 [https://leetcode.com/problems/subarray-with-elements-greater-than-varying-threshold/description/](https://leetcode.com/problems/subarray-with-elements-greater-than-varying-threshold/description/)
 
 ## Named Algorithms&#x20;
 
@@ -1698,7 +1704,9 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 
 2193 [https://leetcode.com/problems/minimum-number-of-moves-to-make-palindrome/description/](https://leetcode.com/problems/minimum-number-of-moves-to-make-palindrome/description/)&#x20;
 
-2234 [https://leetcode.com/problems/maximum-total-beauty-of-the-gardens/](https://leetcode.com/problems/maximum-total-beauty-of-the-gardens/)
+2234 [https://leetcode.com/problems/maximum-total-beauty-of-the-gardens/](https://leetcode.com/problems/maximum-total-beauty-of-the-gardens/)&#x20;
+
+2337 [https://leetcode.com/problems/move-pieces-to-obtain-a-string/description/](https://leetcode.com/problems/move-pieces-to-obtain-a-string/description/)
 
 ### Opposite Direction Traversal
 
