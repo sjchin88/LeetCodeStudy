@@ -76,7 +76,9 @@ with duplicate (hard and not necessary) - [https://leetcode.com/problems/find-mi
 
 1970 BFS [https://leetcode.com/problems/last-day-where-you-can-still-cross/description/](https://leetcode.com/problems/last-day-where-you-can-still-cross/description/)&#x20;
 
-2071 [https://leetcode.com/problems/maximum-number-of-tasks-you-can-assign/description/](https://leetcode.com/problems/maximum-number-of-tasks-you-can-assign/description/)
+2071 [https://leetcode.com/problems/maximum-number-of-tasks-you-can-assign/description/](https://leetcode.com/problems/maximum-number-of-tasks-you-can-assign/description/)&#x20;
+
+2387 [https://leetcode.com/problems/median-of-a-row-wise-sorted-matrix/description/](https://leetcode.com/problems/median-of-a-row-wise-sorted-matrix/description/)
 
 ### Divide and Conquer
 
@@ -260,7 +262,9 @@ To continue
 
 2152 [https://leetcode.com/problems/minimum-number-of-lines-to-cover-points/description/](https://leetcode.com/problems/minimum-number-of-lines-to-cover-points/description/)&#x20;
 
-2311 [https://leetcode.com/problems/longest-binary-subsequence-less-than-or-equal-to-k/description/](https://leetcode.com/problems/longest-binary-subsequence-less-than-or-equal-to-k/description/)
+2311 [https://leetcode.com/problems/longest-binary-subsequence-less-than-or-equal-to-k/description/](https://leetcode.com/problems/longest-binary-subsequence-less-than-or-equal-to-k/description/)&#x20;
+
+2401 [https://leetcode.com/problems/longest-nice-subarray/description/](https://leetcode.com/problems/longest-nice-subarray/description/)
 
 ### Gray Code
 
@@ -467,6 +471,8 @@ Unnecessary Hard
 
 2322 [https://leetcode.com/problems/minimum-score-after-removals-on-a-tree/description/](https://leetcode.com/problems/minimum-score-after-removals-on-a-tree/description/)
 
+2397 [https://leetcode.com/problems/maximum-rows-covered-by-columns/description/](https://leetcode.com/problems/maximum-rows-covered-by-columns/description/)
+
 ##
 
 ## Function/Class Implementation
@@ -539,9 +545,11 @@ Unnecessary Hard
 
 2349 [https://leetcode.com/problems/design-a-number-container-system/description/](https://leetcode.com/problems/design-a-number-container-system/description/)
 
-2353 [https://leetcode.com/problems/design-a-food-rating-system/description/](https://leetcode.com/problems/design-a-food-rating-system/description/)
+2353 [https://leetcode.com/problems/design-a-food-rating-system/description/](https://leetcode.com/problems/design-a-food-rating-system/description/)&#x20;
 
 2336 [https://leetcode.com/problems/smallest-number-in-infinite-set/description/](https://leetcode.com/problems/smallest-number-in-infinite-set/description/)
+
+2408 [https://leetcode.com/problems/design-sql/description/](https://leetcode.com/problems/design-sql/description/)
 
 ### Concurrency
 
@@ -623,7 +631,9 @@ Unnecessary Hard
 
 ### Kahn's algorithm
 
-2360 [https://leetcode.com/problems/longest-cycle-in-a-graph/description/](https://leetcode.com/problems/longest-cycle-in-a-graph/description/)
+2360 [https://leetcode.com/problems/longest-cycle-in-a-graph/description/](https://leetcode.com/problems/longest-cycle-in-a-graph/description/)&#x20;
+
+2392 or DFS [https://leetcode.com/problems/build-a-matrix-with-conditions/description/](https://leetcode.com/problems/build-a-matrix-with-conditions/description/)
 
 ### Mininum Spanning Tree (Kruskal)
 
@@ -936,6 +946,10 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 2263 [https://leetcode.com/problems/make-array-non-decreasing-or-non-increasing/](https://leetcode.com/problems/make-array-non-decreasing-or-non-increasing/)&#x20;
 
 2371 hint: distinct integer - [https://leetcode.com/problems/minimize-maximum-value-in-a-grid/description/](https://leetcode.com/problems/minimize-maximum-value-in-a-grid/description/)
+
+2386 [https://leetcode.com/problems/find-the-k-sum-of-an-array/description/](https://leetcode.com/problems/find-the-k-sum-of-an-array/description/)&#x20;
+
+2402 [https://leetcode.com/problems/meeting-rooms-iii/description/](https://leetcode.com/problems/meeting-rooms-iii/description/)
 
 ### Huffman's Algorithm
 
@@ -1497,6 +1511,8 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 
 2286 [https://leetcode.com/problems/booking-concert-tickets-in-groups/solutions/](https://leetcode.com/problems/booking-concert-tickets-in-groups/solutions/)
 
+2407 [https://leetcode.com/problems/longest-increasing-subsequence-ii/description/](https://leetcode.com/problems/longest-increasing-subsequence-ii/description/)
+
 ### Binary Index Tree / Fenwick Tree
 
 308 . [https://leetcode.com/problems/range-sum-query-2d-mutable/description/](https://leetcode.com/problems/range-sum-query-2d-mutable/description/)
@@ -1760,7 +1776,9 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 
 2134 [https://leetcode.com/problems/minimum-swaps-to-group-all-1s-together-ii/description/](https://leetcode.com/problems/minimum-swaps-to-group-all-1s-together-ii/description/)&#x20;
 
-2302 [https://leetcode.com/problems/count-subarrays-with-score-less-than-k/description/](https://leetcode.com/problems/count-subarrays-with-score-less-than-k/description/)
+2302 [https://leetcode.com/problems/count-subarrays-with-score-less-than-k/description/](https://leetcode.com/problems/count-subarrays-with-score-less-than-k/description/)&#x20;
+
+2398 [https://leetcode.com/problems/maximum-number-of-robots-within-budget/description/](https://leetcode.com/problems/maximum-number-of-robots-within-budget/description/)
 
 ### Fast and Slow Pointer
 
@@ -1865,6 +1883,8 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 2307 DFS [https://leetcode.com/problems/check-for-contradictions-in-equations/description/](https://leetcode.com/problems/check-for-contradictions-in-equations/description/)&#x20;
 
 2310 [https://leetcode.com/problems/sum-of-numbers-with-units-digit-k/description/](https://leetcode.com/problems/sum-of-numbers-with-units-digit-k/description/)
+
+2382 reverse [https://leetcode.com/problems/maximum-segment-sum-after-removals/description/](https://leetcode.com/problems/maximum-segment-sum-after-removals/description/)
 
 ### Disjointed Union Find
 

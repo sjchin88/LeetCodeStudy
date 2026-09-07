@@ -278,11 +278,13 @@
 
 2378 [https://leetcode.com/problems/choose-edges-to-maximize-score-in-a-tree/description/](https://leetcode.com/problems/choose-edges-to-maximize-score-in-a-tree/description/)&#x20;
 
-2380 [https://leetcode.com/problems/time-needed-to-rearrange-a-binary-string/description/](https://leetcode.com/problems/time-needed-to-rearrange-a-binary-string/description/)
+2380 [https://leetcode.com/problems/time-needed-to-rearrange-a-binary-string/description/](https://leetcode.com/problems/time-needed-to-rearrange-a-binary-string/description/)&#x20;
 
 2318 [https://leetcode.com/problems/number-of-distinct-roll-sequences/description/](https://leetcode.com/problems/number-of-distinct-roll-sequences/description/)
 
 2328 [https://leetcode.com/problems/number-of-increasing-paths-in-a-grid/description/](https://leetcode.com/problems/number-of-increasing-paths-in-a-grid/description/)
+
+2400 [https://leetcode.com/problems/number-of-ways-to-reach-a-position-after-exactly-k-steps/description/](https://leetcode.com/problems/number-of-ways-to-reach-a-position-after-exactly-k-steps/description/)
 
 ### Bitmasking
 
@@ -302,7 +304,9 @@
 
 1879 [https://leetcode.com/problems/minimum-xor-sum-of-two-arrays/description/](https://leetcode.com/problems/minimum-xor-sum-of-two-arrays/description/)&#x20;
 
-1947 [https://leetcode.com/problems/maximum-compatibility-score-sum/description/](https://leetcode.com/problems/maximum-compatibility-score-sum/description/)
+1947 [https://leetcode.com/problems/maximum-compatibility-score-sum/description/](https://leetcode.com/problems/maximum-compatibility-score-sum/description/)&#x20;
+
+2403 [https://leetcode.com/problems/minimum-time-to-kill-all-monsters/description/](https://leetcode.com/problems/minimum-time-to-kill-all-monsters/description/)
 
 ### Coin DP
 
