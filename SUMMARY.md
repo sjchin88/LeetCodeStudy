@@ -71,6 +71,7 @@
   * [Bit Operation](quick-refresh/level-1-refresh/bit-operation.md)
   * [Dynamic Programming](quick-refresh/level-1-refresh/dynamic-programming/README.md)
     * [Best Time to Buy and Sell Stock](quick-refresh/level-1-refresh/dynamic-programming/best-time-to-buy-and-sell-stock.md)
+    * [Bit Masking](quick-refresh/level-1-refresh/dynamic-programming/bit-masking.md)
     * [Dividing Type](quick-refresh/level-1-refresh/dynamic-programming/dividing-type.md)
     * [Knapsack Problem](quick-refresh/level-1-refresh/dynamic-programming/knapsack-problem.md)
   * [Kadanes Algorithm](dynamic-programming/kadanes-algorithm.md)
