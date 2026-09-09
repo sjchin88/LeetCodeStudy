@@ -266,7 +266,9 @@ To continue
 
 2401 [https://leetcode.com/problems/longest-nice-subarray/description/](https://leetcode.com/problems/longest-nice-subarray/description/)
 
-2411 [https://leetcode.com/problems/smallest-subarrays-with-maximum-bitwise-or/description/](https://leetcode.com/problems/smallest-subarrays-with-maximum-bitwise-or/description/)
+2411 [https://leetcode.com/problems/smallest-subarrays-with-maximum-bitwise-or/description/](https://leetcode.com/problems/smallest-subarrays-with-maximum-bitwise-or/description/)&#x20;
+
+2425 [https://leetcode.com/problems/bitwise-xor-of-all-pairings/description/](https://leetcode.com/problems/bitwise-xor-of-all-pairings/description/)
 
 ### Gray Code
 
@@ -551,7 +553,9 @@ Unnecessary Hard
 
 2336 [https://leetcode.com/problems/smallest-number-in-infinite-set/description/](https://leetcode.com/problems/smallest-number-in-infinite-set/description/)
 
-2408 [https://leetcode.com/problems/design-sql/description/](https://leetcode.com/problems/design-sql/description/)
+2408 [https://leetcode.com/problems/design-sql/description/](https://leetcode.com/problems/design-sql/description/)&#x20;
+
+2424 [https://leetcode.com/problems/longest-uploaded-prefix/](https://leetcode.com/problems/longest-uploaded-prefix/)
 
 ### Concurrency
 
@@ -1892,7 +1896,9 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 
 2310 [https://leetcode.com/problems/sum-of-numbers-with-units-digit-k/description/](https://leetcode.com/problems/sum-of-numbers-with-units-digit-k/description/)
 
-2382 reverse [https://leetcode.com/problems/maximum-segment-sum-after-removals/description/](https://leetcode.com/problems/maximum-segment-sum-after-removals/description/)
+2382 reverse [https://leetcode.com/problems/maximum-segment-sum-after-removals/description/](https://leetcode.com/problems/maximum-segment-sum-after-removals/description/)&#x20;
+
+2421 [https://leetcode.com/problems/number-of-good-paths/editorial/](https://leetcode.com/problems/number-of-good-paths/editorial/)
 
 ### Disjointed Union Find
 
