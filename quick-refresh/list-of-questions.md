@@ -266,6 +266,8 @@ To continue
 
 2401 [https://leetcode.com/problems/longest-nice-subarray/description/](https://leetcode.com/problems/longest-nice-subarray/description/)
 
+2411 [https://leetcode.com/problems/smallest-subarrays-with-maximum-bitwise-or/description/](https://leetcode.com/problems/smallest-subarrays-with-maximum-bitwise-or/description/)
+
 ### Gray Code
 
 89 . [https://leetcode.com/problems/gray-code/description/](https://leetcode.com/problems/gray-code/description/)&#x20;
@@ -845,7 +847,11 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 
 2366 [https://leetcode.com/problems/minimum-replacements-to-sort-the-array/description/](https://leetcode.com/problems/minimum-replacements-to-sort-the-array/description/)
 
-2375 [https://leetcode.com/problems/construct-smallest-number-from-di-string/description/](https://leetcode.com/problems/construct-smallest-number-from-di-string/description/)
+2375 [https://leetcode.com/problems/construct-smallest-number-from-di-string/description/](https://leetcode.com/problems/construct-smallest-number-from-di-string/description/)&#x20;
+
+2412 [https://leetcode.com/problems/minimum-money-required-before-transactions/description/](https://leetcode.com/problems/minimum-money-required-before-transactions/description/)&#x20;
+
+2417 [https://leetcode.com/problems/closest-fair-integer/description/](https://leetcode.com/problems/closest-fair-integer/description/)
 
 ### Hash
 
@@ -1840,7 +1846,9 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 
 1948 [https://leetcode.com/problems/delete-duplicate-folders-in-system/description/](https://leetcode.com/problems/delete-duplicate-folders-in-system/description/)
 
-1983 bit trie [https://leetcode.com/problems/maximum-genetic-difference-query/description/](https://leetcode.com/problems/maximum-genetic-difference-query/description/)
+1983 bit trie [https://leetcode.com/problems/maximum-genetic-difference-query/description/](https://leetcode.com/problems/maximum-genetic-difference-query/description/)&#x20;
+
+2416 [https://leetcode.com/problems/sum-of-prefix-scores-of-strings/description/](https://leetcode.com/problems/sum-of-prefix-scores-of-strings/description/)
 
 ## Union Find
 
