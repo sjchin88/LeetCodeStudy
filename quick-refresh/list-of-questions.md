@@ -270,6 +270,8 @@ To continue
 
 2425 [https://leetcode.com/problems/bitwise-xor-of-all-pairings/description/](https://leetcode.com/problems/bitwise-xor-of-all-pairings/description/)
 
+2429 [https://leetcode.com/problems/minimize-xor/submissions/2137166278/](https://leetcode.com/problems/minimize-xor/submissions/2137166278/)
+
 ### Gray Code
 
 89 . [https://leetcode.com/problems/gray-code/description/](https://leetcode.com/problems/gray-code/description/)&#x20;
