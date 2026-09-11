@@ -346,6 +346,8 @@ To continue
 
 2359 [https://leetcode.com/problems/find-closest-node-to-given-two-nodes/description/](https://leetcode.com/problems/find-closest-node-to-given-two-nodes/description/)
 
+2440 [https://leetcode.com/problems/create-components-with-same-value/description/](https://leetcode.com/problems/create-components-with-same-value/description/)
+
 ### Bidectional BFS
 
 1197 Double BFS [https://leetcode.com/problems/minimum-knight-moves/description/](https://leetcode.com/problems/minimum-knight-moves/description/)
@@ -859,6 +861,10 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 
 2417 [https://leetcode.com/problems/closest-fair-integer/description/](https://leetcode.com/problems/closest-fair-integer/description/)
 
+2434 [https://leetcode.com/problems/using-a-robot-to-print-the-lexicographically-smallest-string/description/](https://leetcode.com/problems/using-a-robot-to-print-the-lexicographically-smallest-string/description/)&#x20;
+
+2449 [https://leetcode.com/problems/minimum-number-of-operations-to-make-arrays-similar/description/](https://leetcode.com/problems/minimum-number-of-operations-to-make-arrays-similar/description/)
+
 ### Hash
 
 1072 [https://leetcode.com/problems/flip-columns-for-maximum-number-of-equal-rows/description/](https://leetcode.com/problems/flip-columns-for-maximum-number-of-equal-rows/description/)
@@ -1099,7 +1105,9 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 
 2081 Base 0 [https://leetcode.com/problems/sum-of-k-mirror-numbers/description/](https://leetcode.com/problems/sum-of-k-mirror-numbers/description/)
 
-2195 [https://leetcode.com/problems/append-k-integers-with-minimal-sum/description/](https://leetcode.com/problems/append-k-integers-with-minimal-sum/description/)
+2195 [https://leetcode.com/problems/append-k-integers-with-minimal-sum/description/](https://leetcode.com/problems/append-k-integers-with-minimal-sum/description/)&#x20;
+
+2450 [https://leetcode.com/problems/number-of-distinct-binary-strings-after-applying-operations/description/](https://leetcode.com/problems/number-of-distinct-binary-strings-after-applying-operations/description/)
 
 ### Fibonacci
 
@@ -1734,7 +1742,9 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 
 2234 [https://leetcode.com/problems/maximum-total-beauty-of-the-gardens/](https://leetcode.com/problems/maximum-total-beauty-of-the-gardens/)&#x20;
 
-2337 [https://leetcode.com/problems/move-pieces-to-obtain-a-string/description/](https://leetcode.com/problems/move-pieces-to-obtain-a-string/description/)
+2337 [https://leetcode.com/problems/move-pieces-to-obtain-a-string/description/](https://leetcode.com/problems/move-pieces-to-obtain-a-string/description/)&#x20;
+
+2445 [https://leetcode.com/problems/count-subarrays-with-fixed-bounds/description/](https://leetcode.com/problems/count-subarrays-with-fixed-bounds/description/)
 
 ### Opposite Direction Traversal
 

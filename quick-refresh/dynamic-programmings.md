@@ -288,6 +288,8 @@
 
 2430 [https://leetcode.com/problems/maximum-deletions-on-a-string/description/](https://leetcode.com/problems/maximum-deletions-on-a-string/description/)
 
+2435 [https://leetcode.com/problems/paths-in-matrix-whose-sum-is-divisible-by-k/description/](https://leetcode.com/problems/paths-in-matrix-whose-sum-is-divisible-by-k/description/)
+
 ### Bitmasking
 
 1434 Use bitmasking [https://leetcode.com/problems/number-of-ways-to-wear-different-hats-to-each-other/description/](https://leetcode.com/problems/number-of-ways-to-wear-different-hats-to-each-other/description/)
@@ -354,7 +356,9 @@
 
 2189 [https://leetcode.com/problems/number-of-ways-to-build-house-of-cards/description/](https://leetcode.com/problems/number-of-ways-to-build-house-of-cards/description/)&#x20;
 
-2291 [https://leetcode.com/problems/maximum-profit-from-trading-stocks/description/](https://leetcode.com/problems/maximum-profit-from-trading-stocks/description/)
+2291 [https://leetcode.com/problems/maximum-profit-from-trading-stocks/description/](https://leetcode.com/problems/maximum-profit-from-trading-stocks/description/)&#x20;
+
+2431 [https://leetcode.com/problems/maximize-total-tastiness-of-purchased-fruits/description/](https://leetcode.com/problems/maximize-total-tastiness-of-purchased-fruits/description/)
 
 ### Longest Common Subsequence
 
