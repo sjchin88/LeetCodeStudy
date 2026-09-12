@@ -208,6 +208,10 @@ with duplicate (hard and not necessary) - [https://leetcode.com/problems/find-mi
 
 979 . DFS - [https://leetcode.com/problems/distribute-coins-in-binary-tree/description/](https://leetcode.com/problems/distribute-coins-in-binary-tree/description/)
 
+2458 [https://leetcode.com/problems/height-of-binary-tree-after-subtree-removal-queries/description/](https://leetcode.com/problems/height-of-binary-tree-after-subtree-removal-queries/description/)
+
+2476 [https://leetcode.com/problems/closest-nodes-queries-in-a-binary-search-tree/description/](https://leetcode.com/problems/closest-nodes-queries-in-a-binary-search-tree/description/)
+
 ### Distance between Each Node
 
 834 . Subtree sum - [https://leetcode.com/problems/sum-of-distances-in-tree/description/](https://leetcode.com/problems/sum-of-distances-in-tree/description/)
@@ -347,6 +351,12 @@ To continue
 2359 [https://leetcode.com/problems/find-closest-node-to-given-two-nodes/description/](https://leetcode.com/problems/find-closest-node-to-given-two-nodes/description/)
 
 2440 [https://leetcode.com/problems/create-components-with-same-value/description/](https://leetcode.com/problems/create-components-with-same-value/description/)
+
+2467 [https://leetcode.com/problems/most-profitable-path-in-a-tree/description/](https://leetcode.com/problems/most-profitable-path-in-a-tree/description/)
+
+2471 [https://leetcode.com/problems/minimum-number-of-operations-to-sort-a-binary-tree-by-level/description/](https://leetcode.com/problems/minimum-number-of-operations-to-sort-a-binary-tree-by-level/description/)&#x20;
+
+2477 [https://leetcode.com/problems/minimum-fuel-cost-to-report-to-the-capital/description/](https://leetcode.com/problems/minimum-fuel-cost-to-report-to-the-capital/description/)
 
 ### Bidectional BFS
 
@@ -585,7 +595,11 @@ Unnecessary Hard
 
 1719 with dfs [https://leetcode.com/problems/number-of-ways-to-reconstruct-a-tree/description/](https://leetcode.com/problems/number-of-ways-to-reconstruct-a-tree/description/)
 
-2204 [https://leetcode.com/problems/distance-to-a-cycle-in-undirected-graph/description/](https://leetcode.com/problems/distance-to-a-cycle-in-undirected-graph/description/)
+2204 [https://leetcode.com/problems/distance-to-a-cycle-in-undirected-graph/description/](https://leetcode.com/problems/distance-to-a-cycle-in-undirected-graph/description/)&#x20;
+
+2459 [https://leetcode.com/problems/sort-array-by-moving-items-to-empty-space/description/](https://leetcode.com/problems/sort-array-by-moving-items-to-empty-space/description/)
+
+2473 [https://leetcode.com/problems/minimum-cost-to-buy-apples/description/](https://leetcode.com/problems/minimum-cost-to-buy-apples/description/)
 
 ### Dijkstra <a href="#approach-dijkstras" id="approach-dijkstras"></a>
 
@@ -863,7 +877,9 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 
 2434 [https://leetcode.com/problems/using-a-robot-to-print-the-lexicographically-smallest-string/description/](https://leetcode.com/problems/using-a-robot-to-print-the-lexicographically-smallest-string/description/)&#x20;
 
-2449 [https://leetcode.com/problems/minimum-number-of-operations-to-make-arrays-similar/description/](https://leetcode.com/problems/minimum-number-of-operations-to-make-arrays-similar/description/)
+2449 [https://leetcode.com/problems/minimum-number-of-operations-to-make-arrays-similar/description/](https://leetcode.com/problems/minimum-number-of-operations-to-make-arrays-similar/description/)&#x20;
+
+2468 [https://leetcode.com/problems/split-message-based-on-limit/description/](https://leetcode.com/problems/split-message-based-on-limit/description/)
 
 ### Hash
 
@@ -1864,7 +1880,9 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 
 1983 bit trie [https://leetcode.com/problems/maximum-genetic-difference-query/description/](https://leetcode.com/problems/maximum-genetic-difference-query/description/)&#x20;
 
-2416 [https://leetcode.com/problems/sum-of-prefix-scores-of-strings/description/](https://leetcode.com/problems/sum-of-prefix-scores-of-strings/description/)
+2416 [https://leetcode.com/problems/sum-of-prefix-scores-of-strings/description/](https://leetcode.com/problems/sum-of-prefix-scores-of-strings/description/)&#x20;
+
+2479 [https://leetcode.com/problems/maximum-xor-of-two-non-overlapping-subtrees/description/](https://leetcode.com/problems/maximum-xor-of-two-non-overlapping-subtrees/description/)
 
 ## Union Find
 

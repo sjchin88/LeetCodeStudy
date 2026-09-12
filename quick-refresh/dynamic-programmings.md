@@ -288,7 +288,19 @@
 
 2430 [https://leetcode.com/problems/maximum-deletions-on-a-string/description/](https://leetcode.com/problems/maximum-deletions-on-a-string/description/)
 
-2435 [https://leetcode.com/problems/paths-in-matrix-whose-sum-is-divisible-by-k/description/](https://leetcode.com/problems/paths-in-matrix-whose-sum-is-divisible-by-k/description/)
+2435 [https://leetcode.com/problems/paths-in-matrix-whose-sum-is-divisible-by-k/description/](https://leetcode.com/problems/paths-in-matrix-whose-sum-is-divisible-by-k/description/)&#x20;
+
+2463 [https://leetcode.com/problems/minimum-total-distance-traveled/description/](https://leetcode.com/problems/minimum-total-distance-traveled/description/)&#x20;
+
+2464 [https://leetcode.com/problems/minimum-subarrays-in-a-valid-split/description/](https://leetcode.com/problems/minimum-subarrays-in-a-valid-split/description/)
+
+2466 [https://leetcode.com/problems/count-ways-to-build-good-strings/description/](https://leetcode.com/problems/count-ways-to-build-good-strings/description/)
+
+2472 [https://leetcode.com/problems/maximum-number-of-non-overlapping-palindrome-substrings/description/](https://leetcode.com/problems/maximum-number-of-non-overlapping-palindrome-substrings/description/)&#x20;
+
+2478 [https://leetcode.com/problems/number-of-beautiful-partitions/description/](https://leetcode.com/problems/number-of-beautiful-partitions/description/)&#x20;
+
+2484 [https://leetcode.com/problems/count-palindromic-subsequences/solutions/](https://leetcode.com/problems/count-palindromic-subsequences/solutions/)
 
 ### Bitmasking
 
