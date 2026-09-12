@@ -166,6 +166,8 @@ with duplicate (hard and not necessary) - [https://leetcode.com/problems/find-mi
 
 2096 [https://leetcode.com/problems/step-by-step-directions-from-a-binary-tree-node-to-another/description/](https://leetcode.com/problems/step-by-step-directions-from-a-binary-tree-node-to-another/description/)
 
+2509 [https://leetcode.com/problems/cycle-length-queries-in-a-tree/description/](https://leetcode.com/problems/cycle-length-queries-in-a-tree/description/)
+
 ### Nary Tree Structure
 
 431 . [https://leetcode.com/problems/encode-n-ary-tree-to-binary-tree/description/](https://leetcode.com/problems/encode-n-ary-tree-to-binary-tree/description/)
@@ -274,7 +276,9 @@ To continue
 
 2425 [https://leetcode.com/problems/bitwise-xor-of-all-pairings/description/](https://leetcode.com/problems/bitwise-xor-of-all-pairings/description/)
 
-2429 [https://leetcode.com/problems/minimize-xor/submissions/2137166278/](https://leetcode.com/problems/minimize-xor/submissions/2137166278/)
+2429 [https://leetcode.com/problems/minimize-xor/submissions/2137166278/](https://leetcode.com/problems/minimize-xor/submissions/2137166278/)&#x20;
+
+2505 [https://leetcode.com/problems/bitwise-or-of-all-subsequence-sums/description/](https://leetcode.com/problems/bitwise-or-of-all-subsequence-sums/description/)
 
 ### Gray Code
 
@@ -356,7 +360,9 @@ To continue
 
 2471 [https://leetcode.com/problems/minimum-number-of-operations-to-sort-a-binary-tree-by-level/description/](https://leetcode.com/problems/minimum-number-of-operations-to-sort-a-binary-tree-by-level/description/)&#x20;
 
-2477 [https://leetcode.com/problems/minimum-fuel-cost-to-report-to-the-capital/description/](https://leetcode.com/problems/minimum-fuel-cost-to-report-to-the-capital/description/)
+2477 [https://leetcode.com/problems/minimum-fuel-cost-to-report-to-the-capital/description/](https://leetcode.com/problems/minimum-fuel-cost-to-report-to-the-capital/description/)&#x20;
+
+2492 [https://leetcode.com/problems/minimum-score-of-a-path-between-two-cities/description/](https://leetcode.com/problems/minimum-score-of-a-path-between-two-cities/description/)
 
 ### Bidectional BFS
 
@@ -571,6 +577,8 @@ Unnecessary Hard
 
 2424 [https://leetcode.com/problems/longest-uploaded-prefix/](https://leetcode.com/problems/longest-uploaded-prefix/)
 
+2502 [https://leetcode.com/problems/design-memory-allocator/description/](https://leetcode.com/problems/design-memory-allocator/description/)
+
 ### Concurrency
 
 1115 Concurrency [https://leetcode.com/problems/print-foobar-alternately/description/](https://leetcode.com/problems/print-foobar-alternately/description/)
@@ -600,6 +608,10 @@ Unnecessary Hard
 2459 [https://leetcode.com/problems/sort-array-by-moving-items-to-empty-space/description/](https://leetcode.com/problems/sort-array-by-moving-items-to-empty-space/description/)
 
 2473 [https://leetcode.com/problems/minimum-cost-to-buy-apples/description/](https://leetcode.com/problems/minimum-cost-to-buy-apples/description/)
+
+2493 Graph Coloring [https://leetcode.com/problems/divide-nodes-into-the-maximum-number-of-groups/description/](https://leetcode.com/problems/divide-nodes-into-the-maximum-number-of-groups/description/)&#x20;
+
+2508 Greedy [https://leetcode.com/problems/add-edges-to-make-degrees-of-all-nodes-even/description/](https://leetcode.com/problems/add-edges-to-make-degrees-of-all-nodes-even/description/)
 
 ### Dijkstra <a href="#approach-dijkstras" id="approach-dijkstras"></a>
 
@@ -879,7 +891,9 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 
 2449 [https://leetcode.com/problems/minimum-number-of-operations-to-make-arrays-similar/description/](https://leetcode.com/problems/minimum-number-of-operations-to-make-arrays-similar/description/)&#x20;
 
-2468 [https://leetcode.com/problems/split-message-based-on-limit/description/](https://leetcode.com/problems/split-message-based-on-limit/description/)
+2468 [https://leetcode.com/problems/split-message-based-on-limit/description/](https://leetcode.com/problems/split-message-based-on-limit/description/)&#x20;
+
+2498 [https://leetcode.com/problems/frog-jump-ii/description/](https://leetcode.com/problems/frog-jump-ii/description/)
 
 ### Hash
 
@@ -1233,7 +1247,9 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 
 1121 [https://leetcode.com/problems/divide-array-into-increasing-sequences/description/](https://leetcode.com/problems/divide-array-into-increasing-sequences/description/)
 
-1927 [https://leetcode.com/problems/sum-game/description/](https://leetcode.com/problems/sum-game/description/)
+1927 [https://leetcode.com/problems/sum-game/description/](https://leetcode.com/problems/sum-game/description/)&#x20;
+
+2499 [https://leetcode.com/problems/minimum-total-cost-to-make-arrays-unequal/description/](https://leetcode.com/problems/minimum-total-cost-to-make-arrays-unequal/description/)
 
 ### Prime
 
@@ -1461,7 +1477,9 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 
 2201 [https://leetcode.com/problems/count-artifacts-that-can-be-extracted/description/](https://leetcode.com/problems/count-artifacts-that-can-be-extracted/description/)&#x20;
 
-2281 pre pre sum [https://leetcode.com/problems/sum-of-total-strength-of-wizards/description/](https://leetcode.com/problems/sum-of-total-strength-of-wizards/description/)
+2281 pre pre sum [https://leetcode.com/problems/sum-of-total-strength-of-wizards/description/](https://leetcode.com/problems/sum-of-total-strength-of-wizards/description/)&#x20;
+
+2289 store the ratio [https://leetcode.com/problems/number-of-substrings-with-fixed-ratio/description/](https://leetcode.com/problems/number-of-substrings-with-fixed-ratio/description/)
 
 
 
@@ -1928,7 +1946,9 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 
 2382 reverse [https://leetcode.com/problems/maximum-segment-sum-after-removals/description/](https://leetcode.com/problems/maximum-segment-sum-after-removals/description/)&#x20;
 
-2421 [https://leetcode.com/problems/number-of-good-paths/editorial/](https://leetcode.com/problems/number-of-good-paths/editorial/)
+2421 [https://leetcode.com/problems/number-of-good-paths/editorial/](https://leetcode.com/problems/number-of-good-paths/editorial/)&#x20;
+
+2503 [https://leetcode.com/problems/maximum-number-of-points-from-grid-queries/description/](https://leetcode.com/problems/maximum-number-of-points-from-grid-queries/description/)
 
 ### Disjointed Union Find
 

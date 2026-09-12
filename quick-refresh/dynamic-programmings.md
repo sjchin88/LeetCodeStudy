@@ -300,7 +300,9 @@
 
 2478 [https://leetcode.com/problems/number-of-beautiful-partitions/description/](https://leetcode.com/problems/number-of-beautiful-partitions/description/)&#x20;
 
-2484 [https://leetcode.com/problems/count-palindromic-subsequences/solutions/](https://leetcode.com/problems/count-palindromic-subsequences/solutions/)
+2484 [https://leetcode.com/problems/count-palindromic-subsequences/solutions/](https://leetcode.com/problems/count-palindromic-subsequences/solutions/)&#x20;
+
+2510 [https://leetcode.com/problems/check-if-there-is-a-path-with-equal-number-of-0s-and-1s/description/](https://leetcode.com/problems/check-if-there-is-a-path-with-equal-number-of-0s-and-1s/description/)
 
 ### Bitmasking
 
