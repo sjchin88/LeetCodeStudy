@@ -302,7 +302,9 @@
 
 2484 [https://leetcode.com/problems/count-palindromic-subsequences/solutions/](https://leetcode.com/problems/count-palindromic-subsequences/solutions/)&#x20;
 
-2510 [https://leetcode.com/problems/check-if-there-is-a-path-with-equal-number-of-0s-and-1s/description/](https://leetcode.com/problems/check-if-there-is-a-path-with-equal-number-of-0s-and-1s/description/)
+2510 [https://leetcode.com/problems/check-if-there-is-a-path-with-equal-number-of-0s-and-1s/description/](https://leetcode.com/problems/check-if-there-is-a-path-with-equal-number-of-0s-and-1s/description/)&#x20;
+
+2533 [https://leetcode.com/problems/number-of-good-binary-strings/description/](https://leetcode.com/problems/number-of-good-binary-strings/description/)
 
 ### Bitmasking
 
@@ -372,7 +374,9 @@
 
 2291 [https://leetcode.com/problems/maximum-profit-from-trading-stocks/description/](https://leetcode.com/problems/maximum-profit-from-trading-stocks/description/)&#x20;
 
-2431 [https://leetcode.com/problems/maximize-total-tastiness-of-purchased-fruits/description/](https://leetcode.com/problems/maximize-total-tastiness-of-purchased-fruits/description/)
+2431 [https://leetcode.com/problems/maximize-total-tastiness-of-purchased-fruits/description/](https://leetcode.com/problems/maximize-total-tastiness-of-purchased-fruits/description/)&#x20;
+
+2518 [https://leetcode.com/problems/number-of-great-partitions/description/](https://leetcode.com/problems/number-of-great-partitions/description/)
 
 ### Longest Common Subsequence
 

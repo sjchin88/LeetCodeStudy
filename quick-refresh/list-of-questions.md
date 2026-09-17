@@ -78,7 +78,11 @@ with duplicate (hard and not necessary) - [https://leetcode.com/problems/find-mi
 
 2071 [https://leetcode.com/problems/maximum-number-of-tasks-you-can-assign/description/](https://leetcode.com/problems/maximum-number-of-tasks-you-can-assign/description/)&#x20;
 
-2387 [https://leetcode.com/problems/median-of-a-row-wise-sorted-matrix/description/](https://leetcode.com/problems/median-of-a-row-wise-sorted-matrix/description/)
+2387 [https://leetcode.com/problems/median-of-a-row-wise-sorted-matrix/description/](https://leetcode.com/problems/median-of-a-row-wise-sorted-matrix/description/)&#x20;
+
+2517 [https://leetcode.com/problems/maximum-tastiness-of-candy-basket/description/](https://leetcode.com/problems/maximum-tastiness-of-candy-basket/description/)&#x20;
+
+2528 [https://leetcode.com/problems/maximize-the-minimum-powered-city/description/](https://leetcode.com/problems/maximize-the-minimum-powered-city/description/)
 
 ### Divide and Conquer
 
@@ -278,7 +282,9 @@ To continue
 
 2429 [https://leetcode.com/problems/minimize-xor/submissions/2137166278/](https://leetcode.com/problems/minimize-xor/submissions/2137166278/)&#x20;
 
-2505 [https://leetcode.com/problems/bitwise-or-of-all-subsequence-sums/description/](https://leetcode.com/problems/bitwise-or-of-all-subsequence-sums/description/)
+2505 [https://leetcode.com/problems/bitwise-or-of-all-subsequence-sums/description/](https://leetcode.com/problems/bitwise-or-of-all-subsequence-sums/description/)&#x20;
+
+2527 [https://leetcode.com/problems/find-xor-beauty-of-array/description/](https://leetcode.com/problems/find-xor-beauty-of-array/description/)
 
 ### Gray Code
 
@@ -495,7 +501,9 @@ Unnecessary Hard
 
 2322 [https://leetcode.com/problems/minimum-score-after-removals-on-a-tree/description/](https://leetcode.com/problems/minimum-score-after-removals-on-a-tree/description/)
 
-2397 [https://leetcode.com/problems/maximum-rows-covered-by-columns/description/](https://leetcode.com/problems/maximum-rows-covered-by-columns/description/)
+2397 [https://leetcode.com/problems/maximum-rows-covered-by-columns/description/](https://leetcode.com/problems/maximum-rows-covered-by-columns/description/)&#x20;
+
+2538 Rerooting [https://leetcode.com/problems/difference-between-maximum-and-minimum-price-sum/description/](https://leetcode.com/problems/difference-between-maximum-and-minimum-price-sum/description/)
 
 ##
 
@@ -997,7 +1005,11 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 
 2386 [https://leetcode.com/problems/find-the-k-sum-of-an-array/description/](https://leetcode.com/problems/find-the-k-sum-of-an-array/description/)&#x20;
 
-2402 [https://leetcode.com/problems/meeting-rooms-iii/description/](https://leetcode.com/problems/meeting-rooms-iii/description/)
+2402 [https://leetcode.com/problems/meeting-rooms-iii/description/](https://leetcode.com/problems/meeting-rooms-iii/description/)&#x20;
+
+2519 [https://leetcode.com/problems/count-the-number-of-k-big-indices/solutions/](https://leetcode.com/problems/count-the-number-of-k-big-indices/solutions/)&#x20;
+
+2532 [https://leetcode.com/problems/time-to-cross-a-bridge/description/](https://leetcode.com/problems/time-to-cross-a-bridge/description/)
 
 ### Huffman's Algorithm
 
@@ -1211,6 +1223,8 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 
 2183 [https://leetcode.com/problems/count-array-pairs-divisible-by-k/description/](https://leetcode.com/problems/count-array-pairs-divisible-by-k/description/)dyn
 
+2524 [https://leetcode.com/problems/maximum-frequency-score-of-a-subarray/description/](https://leetcode.com/problems/maximum-frequency-score-of-a-subarray/description/)
+
 ### Permutations
 
 60 . [https://leetcode.com/problems/permutation-sequence/description/](https://leetcode.com/problems/permutation-sequence/description/)
@@ -1241,6 +1255,8 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 
 2338 [https://leetcode.com/problems/count-the-number-of-ideal-arrays/description/](https://leetcode.com/problems/count-the-number-of-ideal-arrays/description/)
 
+2539 Fermat Little Theorem - [https://leetcode.com/problems/count-the-number-of-good-subsequences/description/](https://leetcode.com/problems/count-the-number-of-good-subsequences/description/)
+
 ### Pigeon Holes Principle
 
 466 . [https://leetcode.com/problems/count-the-repetitions/description/](https://leetcode.com/problems/count-the-repetitions/description/)
@@ -1257,7 +1273,9 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 
 1714 [https://leetcode.com/problems/sum-of-special-evenly-spaced-elements-in-array/description/](https://leetcode.com/problems/sum-of-special-evenly-spaced-elements-in-array/description/)
 
-1819 [https://leetcode.com/problems/number-of-different-subsequences-gcds/description/](https://leetcode.com/problems/number-of-different-subsequences-gcds/description/)
+1819 [https://leetcode.com/problems/number-of-different-subsequences-gcds/description/](https://leetcode.com/problems/number-of-different-subsequences-gcds/description/)&#x20;
+
+2523 [https://leetcode.com/problems/closest-prime-numbers-in-range/submissions/2142055032/](https://leetcode.com/problems/closest-prime-numbers-in-range/submissions/2142055032/)
 
 
 
@@ -1646,7 +1664,9 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 
 ## Deque
 
-1813 [https://leetcode.com/problems/sentence-similarity-iii/submissions/2082685023/](https://leetcode.com/problems/sentence-similarity-iii/submissions/2082685023/)
+1813 [https://leetcode.com/problems/sentence-similarity-iii/submissions/2082685023/](https://leetcode.com/problems/sentence-similarity-iii/submissions/2082685023/)&#x20;
+
+2534 [https://leetcode.com/problems/time-taken-to-cross-the-door/description/](https://leetcode.com/problems/time-taken-to-cross-the-door/description/)
 
 ## Stacks
 
@@ -1757,6 +1777,8 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 2262 . [https://leetcode.com/problems/total-appeal-of-a-string/description/](https://leetcode.com/problems/total-appeal-of-a-string/description/)&#x20;
 
 2272 [https://leetcode.com/problems/substring-with-largest-variance/description/](https://leetcode.com/problems/substring-with-largest-variance/description/)
+
+2531 [https://leetcode.com/problems/make-number-of-distinct-characters-equal/description/](https://leetcode.com/problems/make-number-of-distinct-characters-equal/description/)
 
 
 
