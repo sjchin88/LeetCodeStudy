@@ -1157,7 +1157,7 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 
 2320 [https://leetcode.com/problems/count-number-of-ways-to-place-houses/description/](https://leetcode.com/problems/count-number-of-ways-to-place-houses/description/)
 
-### GCD
+### GCD | LCM
 
 858 . [https://leetcode.com/problems/mirror-reflection/description/](https://leetcode.com/problems/mirror-reflection/description/)
 
@@ -1169,7 +1169,9 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 
 1998 [https://leetcode.com/problems/gcd-sort-of-an-array/description/](https://leetcode.com/problems/gcd-sort-of-an-array/description/)&#x20;
 
-2197 [https://leetcode.com/problems/replace-non-coprime-numbers-in-array/description/](https://leetcode.com/problems/replace-non-coprime-numbers-in-array/description/)
+2197 [https://leetcode.com/problems/replace-non-coprime-numbers-in-array/description/](https://leetcode.com/problems/replace-non-coprime-numbers-in-array/description/)&#x20;
+
+2513 [https://leetcode.com/problems/minimize-the-maximum-of-two-arrays/description/](https://leetcode.com/problems/minimize-the-maximum-of-two-arrays/description/)
 
 ### Geometry
 
@@ -1253,9 +1255,11 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 
 2147 DP + Combo [https://leetcode.com/problems/number-of-ways-to-divide-a-long-corridor/description/](https://leetcode.com/problems/number-of-ways-to-divide-a-long-corridor/description/)&#x20;
 
-2338 [https://leetcode.com/problems/count-the-number-of-ideal-arrays/description/](https://leetcode.com/problems/count-the-number-of-ideal-arrays/description/)
+2338 [https://leetcode.com/problems/count-the-number-of-ideal-arrays/description/](https://leetcode.com/problems/count-the-number-of-ideal-arrays/description/)&#x20;
 
 2539 Fermat Little Theorem - [https://leetcode.com/problems/count-the-number-of-good-subsequences/description/](https://leetcode.com/problems/count-the-number-of-good-subsequences/description/)
+
+2514 [https://leetcode.com/problems/count-anagrams/description/](https://leetcode.com/problems/count-anagrams/description/)
 
 ### Pigeon Holes Principle
 
