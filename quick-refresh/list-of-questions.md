@@ -82,7 +82,9 @@ with duplicate (hard and not necessary) - [https://leetcode.com/problems/find-mi
 
 2517 [https://leetcode.com/problems/maximum-tastiness-of-candy-basket/description/](https://leetcode.com/problems/maximum-tastiness-of-candy-basket/description/)&#x20;
 
-2528 [https://leetcode.com/problems/maximize-the-minimum-powered-city/description/](https://leetcode.com/problems/maximize-the-minimum-powered-city/description/)
+2528 [https://leetcode.com/problems/maximize-the-minimum-powered-city/description/](https://leetcode.com/problems/maximize-the-minimum-powered-city/description/)&#x20;
+
+2557 [https://leetcode.com/problems/maximum-number-of-integers-to-choose-from-a-range-ii/description/](https://leetcode.com/problems/maximum-number-of-integers-to-choose-from-a-range-ii/description/)
 
 ### Divide and Conquer
 
@@ -503,7 +505,9 @@ Unnecessary Hard
 
 2397 [https://leetcode.com/problems/maximum-rows-covered-by-columns/description/](https://leetcode.com/problems/maximum-rows-covered-by-columns/description/)&#x20;
 
-2538 Rerooting [https://leetcode.com/problems/difference-between-maximum-and-minimum-price-sum/description/](https://leetcode.com/problems/difference-between-maximum-and-minimum-price-sum/description/)
+2538 Rerooting [https://leetcode.com/problems/difference-between-maximum-and-minimum-price-sum/description/](https://leetcode.com/problems/difference-between-maximum-and-minimum-price-sum/description/)&#x20;
+
+2556 Run it twice [https://leetcode.com/problems/disconnect-path-in-a-binary-matrix-by-at-most-one-flip/description/](https://leetcode.com/problems/disconnect-path-in-a-binary-matrix-by-at-most-one-flip/description/)
 
 ##
 
@@ -901,7 +905,9 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 
 2468 [https://leetcode.com/problems/split-message-based-on-limit/description/](https://leetcode.com/problems/split-message-based-on-limit/description/)&#x20;
 
-2498 [https://leetcode.com/problems/frog-jump-ii/description/](https://leetcode.com/problems/frog-jump-ii/description/)
+2498 [https://leetcode.com/problems/frog-jump-ii/description/](https://leetcode.com/problems/frog-jump-ii/description/)&#x20;
+
+2548 [https://leetcode.com/problems/maximum-price-to-fill-a-bag/description/](https://leetcode.com/problems/maximum-price-to-fill-a-bag/description/)
 
 ### Hash
 
@@ -1171,7 +1177,9 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 
 2197 [https://leetcode.com/problems/replace-non-coprime-numbers-in-array/description/](https://leetcode.com/problems/replace-non-coprime-numbers-in-array/description/)&#x20;
 
-2513 [https://leetcode.com/problems/minimize-the-maximum-of-two-arrays/description/](https://leetcode.com/problems/minimize-the-maximum-of-two-arrays/description/)
+2513 [https://leetcode.com/problems/minimize-the-maximum-of-two-arrays/description/](https://leetcode.com/problems/minimize-the-maximum-of-two-arrays/description/)&#x20;
+
+2543 [https://leetcode.com/problems/check-if-point-is-reachable/description/](https://leetcode.com/problems/check-if-point-is-reachable/description/)
 
 ### Geometry
 
@@ -1503,6 +1511,8 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 
 2289 store the ratio [https://leetcode.com/problems/number-of-substrings-with-fixed-ratio/description/](https://leetcode.com/problems/number-of-substrings-with-fixed-ratio/description/)
 
+2552 or bit [https://leetcode.com/problems/count-increasing-quadruplets/description/](https://leetcode.com/problems/count-increasing-quadruplets/description/)
+
 
 
 ### Prefix\_Suffix array
@@ -1782,7 +1792,9 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 
 2272 [https://leetcode.com/problems/substring-with-largest-variance/description/](https://leetcode.com/problems/substring-with-largest-variance/description/)
 
-2531 [https://leetcode.com/problems/make-number-of-distinct-characters-equal/description/](https://leetcode.com/problems/make-number-of-distinct-characters-equal/description/)
+2531 [https://leetcode.com/problems/make-number-of-distinct-characters-equal/description/](https://leetcode.com/problems/make-number-of-distinct-characters-equal/description/)&#x20;
+
+2551 [https://leetcode.com/problems/put-marbles-in-bags/description/](https://leetcode.com/problems/put-marbles-in-bags/description/)
 
 
 
@@ -1860,7 +1872,9 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 
 2302 [https://leetcode.com/problems/count-subarrays-with-score-less-than-k/description/](https://leetcode.com/problems/count-subarrays-with-score-less-than-k/description/)&#x20;
 
-2398 [https://leetcode.com/problems/maximum-number-of-robots-within-budget/description/](https://leetcode.com/problems/maximum-number-of-robots-within-budget/description/)
+2398 [https://leetcode.com/problems/maximum-number-of-robots-within-budget/description/](https://leetcode.com/problems/maximum-number-of-robots-within-budget/description/)&#x20;
+
+2555 [https://leetcode.com/problems/maximize-win-from-two-segments/description/](https://leetcode.com/problems/maximize-win-from-two-segments/description/)
 
 ### Fast and Slow Pointer
 

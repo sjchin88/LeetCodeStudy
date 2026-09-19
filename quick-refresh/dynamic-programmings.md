@@ -304,7 +304,9 @@
 
 2510 [https://leetcode.com/problems/check-if-there-is-a-path-with-equal-number-of-0s-and-1s/description/](https://leetcode.com/problems/check-if-there-is-a-path-with-equal-number-of-0s-and-1s/description/)&#x20;
 
-2533 [https://leetcode.com/problems/number-of-good-binary-strings/description/](https://leetcode.com/problems/number-of-good-binary-strings/description/)
+2533 [https://leetcode.com/problems/number-of-good-binary-strings/description/](https://leetcode.com/problems/number-of-good-binary-strings/description/)&#x20;
+
+2547 [https://leetcode.com/problems/minimum-cost-to-split-an-array/description/](https://leetcode.com/problems/minimum-cost-to-split-an-array/description/)
 
 ### Bitmasking
 
