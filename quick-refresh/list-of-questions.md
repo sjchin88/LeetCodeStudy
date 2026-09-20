@@ -286,7 +286,9 @@ To continue
 
 2505 [https://leetcode.com/problems/bitwise-or-of-all-subsequence-sums/description/](https://leetcode.com/problems/bitwise-or-of-all-subsequence-sums/description/)&#x20;
 
-2527 [https://leetcode.com/problems/find-xor-beauty-of-array/description/](https://leetcode.com/problems/find-xor-beauty-of-array/description/)
+2527 [https://leetcode.com/problems/find-xor-beauty-of-array/description/](https://leetcode.com/problems/find-xor-beauty-of-array/description/)&#x20;
+
+2568 [https://leetcode.com/problems/minimum-impossible-or/description/](https://leetcode.com/problems/minimum-impossible-or/description/)
 
 ### Gray Code
 
@@ -505,11 +507,15 @@ Unnecessary Hard
 
 2397 [https://leetcode.com/problems/maximum-rows-covered-by-columns/description/](https://leetcode.com/problems/maximum-rows-covered-by-columns/description/)&#x20;
 
+2556 Run it twice [https://leetcode.com/problems/disconnect-path-in-a-binary-matrix-by-at-most-one-flip/description/](https://leetcode.com/problems/disconnect-path-in-a-binary-matrix-by-at-most-one-flip/description/)&#x20;
+
+2597 [https://leetcode.com/problems/the-number-of-beautiful-subsets/description/](https://leetcode.com/problems/the-number-of-beautiful-subsets/description/)
+
+### Rerooting
+
 2538 Rerooting [https://leetcode.com/problems/difference-between-maximum-and-minimum-price-sum/description/](https://leetcode.com/problems/difference-between-maximum-and-minimum-price-sum/description/)&#x20;
 
-2556 Run it twice [https://leetcode.com/problems/disconnect-path-in-a-binary-matrix-by-at-most-one-flip/description/](https://leetcode.com/problems/disconnect-path-in-a-binary-matrix-by-at-most-one-flip/description/)
-
-##
+2581 [https://leetcode.com/problems/count-number-of-possible-root-nodes/description/](https://leetcode.com/problems/count-number-of-possible-root-nodes/description/)
 
 ## Function/Class Implementation
 
@@ -589,7 +595,9 @@ Unnecessary Hard
 
 2424 [https://leetcode.com/problems/longest-uploaded-prefix/](https://leetcode.com/problems/longest-uploaded-prefix/)
 
-2502 [https://leetcode.com/problems/design-memory-allocator/description/](https://leetcode.com/problems/design-memory-allocator/description/)
+2502 [https://leetcode.com/problems/design-memory-allocator/description/](https://leetcode.com/problems/design-memory-allocator/description/)&#x20;
+
+2590 [https://leetcode.com/problems/design-a-todo-list/description/](https://leetcode.com/problems/design-a-todo-list/description/)
 
 ### Concurrency
 
@@ -661,7 +669,9 @@ Unnecessary Hard
 
 2290 [https://leetcode.com/problems/minimum-obstacle-removal-to-reach-corner/description/](https://leetcode.com/problems/minimum-obstacle-removal-to-reach-corner/description/)&#x20;
 
-2304 [https://leetcode.com/problems/minimum-path-cost-in-a-grid/solutions/](https://leetcode.com/problems/minimum-path-cost-in-a-grid/solutions/)
+2304 [https://leetcode.com/problems/minimum-path-cost-in-a-grid/solutions/](https://leetcode.com/problems/minimum-path-cost-in-a-grid/solutions/)&#x20;
+
+2577 [https://leetcode.com/problems/minimum-time-to-visit-a-cell-in-a-grid/description/](https://leetcode.com/problems/minimum-time-to-visit-a-cell-in-a-grid/description/)
 
 ### Eulerian Path
 
@@ -1015,7 +1025,11 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 
 2519 [https://leetcode.com/problems/count-the-number-of-k-big-indices/solutions/](https://leetcode.com/problems/count-the-number-of-k-big-indices/solutions/)&#x20;
 
-2532 [https://leetcode.com/problems/time-to-cross-a-bridge/description/](https://leetcode.com/problems/time-to-cross-a-bridge/description/)
+2532 [https://leetcode.com/problems/time-to-cross-a-bridge/description/](https://leetcode.com/problems/time-to-cross-a-bridge/description/)&#x20;
+
+2589 [https://leetcode.com/problems/minimum-time-to-complete-all-tasks/submissions/2147980906/](https://leetcode.com/problems/minimum-time-to-complete-all-tasks/submissions/2147980906/)&#x20;
+
+2594 [https://leetcode.com/problems/minimum-time-to-repair-cars/description/](https://leetcode.com/problems/minimum-time-to-repair-cars/description/)
 
 ### Huffman's Algorithm
 
@@ -1513,7 +1527,7 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 
 2552 or bit [https://leetcode.com/problems/count-increasing-quadruplets/description/](https://leetcode.com/problems/count-increasing-quadruplets/description/)
 
-
+2565 prefix suffix [https://leetcode.com/problems/subsequence-with-the-minimum-score/description/](https://leetcode.com/problems/subsequence-with-the-minimum-score/description/)
 
 ### Prefix\_Suffix array
 
@@ -1597,7 +1611,9 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 
 2286 [https://leetcode.com/problems/booking-concert-tickets-in-groups/solutions/](https://leetcode.com/problems/booking-concert-tickets-in-groups/solutions/)
 
-2407 [https://leetcode.com/problems/longest-increasing-subsequence-ii/description/](https://leetcode.com/problems/longest-increasing-subsequence-ii/description/)
+2407 [https://leetcode.com/problems/longest-increasing-subsequence-ii/description/](https://leetcode.com/problems/longest-increasing-subsequence-ii/description/)&#x20;
+
+2569 [https://leetcode.com/problems/handling-sum-queries-after-update/description/](https://leetcode.com/problems/handling-sum-queries-after-update/description/)
 
 ### Binary Index Tree / Fenwick Tree
 
@@ -1740,7 +1756,9 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 
 ### Longest Common Prefix (LCP)
 
-1698 or Rolling Hash [https://leetcode.com/problems/number-of-distinct-substrings-in-a-string/description/](https://leetcode.com/problems/number-of-distinct-substrings-in-a-string/description/)
+1698 or Rolling Hash [https://leetcode.com/problems/number-of-distinct-substrings-in-a-string/description/](https://leetcode.com/problems/number-of-distinct-substrings-in-a-string/description/)&#x20;
+
+2573 [https://leetcode.com/problems/find-the-string-with-lcp/description/](https://leetcode.com/problems/find-the-string-with-lcp/description/)
 
 ### Manacher / DP
 

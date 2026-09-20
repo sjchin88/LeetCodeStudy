@@ -328,7 +328,9 @@
 
 1947 [https://leetcode.com/problems/maximum-compatibility-score-sum/description/](https://leetcode.com/problems/maximum-compatibility-score-sum/description/)&#x20;
 
-2403 [https://leetcode.com/problems/minimum-time-to-kill-all-monsters/description/](https://leetcode.com/problems/minimum-time-to-kill-all-monsters/description/)
+2403 [https://leetcode.com/problems/minimum-time-to-kill-all-monsters/description/](https://leetcode.com/problems/minimum-time-to-kill-all-monsters/description/)&#x20;
+
+2572 [https://leetcode.com/problems/count-the-number-of-square-free-subsets/description/](https://leetcode.com/problems/count-the-number-of-square-free-subsets/description/)
 
 ### Coin DP
 
@@ -379,6 +381,8 @@
 2431 [https://leetcode.com/problems/maximize-total-tastiness-of-purchased-fruits/description/](https://leetcode.com/problems/maximize-total-tastiness-of-purchased-fruits/description/)&#x20;
 
 2518 [https://leetcode.com/problems/number-of-great-partitions/description/](https://leetcode.com/problems/number-of-great-partitions/description/)
+
+2585 [https://leetcode.com/problems/number-of-ways-to-earn-points/description/](https://leetcode.com/problems/number-of-ways-to-earn-points/description/)
 
 ### Longest Common Subsequence
 

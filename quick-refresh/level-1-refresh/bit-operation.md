@@ -128,7 +128,9 @@ Rules:
 
 137 Combo of XOR and not [https://leetcode.com/problems/single-number-ii/](https://leetcode.com/problems/single-number-ii/)
 
-260 Combo of XOR, right most 1 - bit [https://leetcode.com/problems/single-number-iii/description/](https://leetcode.com/problems/single-number-iii/description/)
+260 Combo of XOR, right most 1 - bit [https://leetcode.com/problems/single-number-iii/description/](https://leetcode.com/problems/single-number-iii/description/)&#x20;
+
+2588 with prefix sum [https://leetcode.com/problems/count-the-number-of-beautiful-subarrays/submissions/2147977750/](https://leetcode.com/problems/count-the-number-of-beautiful-subarrays/submissions/2147977750/)
 
 ## Binary Mask
 

@@ -57,8 +57,10 @@ ss = SortedSet(iterable)
 ss.add(element)
 
 # find next bigger or equal idx, same as ts.ceiling
+# if value present, will be before (to the left of) any existing values.
 idx = ss.bisect_left(value)
 
 # find next smaller or equal idx, same as ts.floor
+# if value present, will be after (to the right of) any existing values.
 idx = ss.bisect_right(value)
 ```
