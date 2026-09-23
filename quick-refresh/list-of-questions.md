@@ -84,7 +84,9 @@ with duplicate (hard and not necessary) - [https://leetcode.com/problems/find-mi
 
 2528 [https://leetcode.com/problems/maximize-the-minimum-powered-city/description/](https://leetcode.com/problems/maximize-the-minimum-powered-city/description/)&#x20;
 
-2557 [https://leetcode.com/problems/maximum-number-of-integers-to-choose-from-a-range-ii/description/](https://leetcode.com/problems/maximum-number-of-integers-to-choose-from-a-range-ii/description/)
+2557 [https://leetcode.com/problems/maximum-number-of-integers-to-choose-from-a-range-ii/description/](https://leetcode.com/problems/maximum-number-of-integers-to-choose-from-a-range-ii/description/)&#x20;
+
+2604 [https://leetcode.com/problems/minimum-time-to-eat-all-grains/description/](https://leetcode.com/problems/minimum-time-to-eat-all-grains/description/)
 
 ### Divide and Conquer
 
@@ -509,7 +511,9 @@ Unnecessary Hard
 
 2556 Run it twice [https://leetcode.com/problems/disconnect-path-in-a-binary-matrix-by-at-most-one-flip/description/](https://leetcode.com/problems/disconnect-path-in-a-binary-matrix-by-at-most-one-flip/description/)&#x20;
 
-2597 [https://leetcode.com/problems/the-number-of-beautiful-subsets/description/](https://leetcode.com/problems/the-number-of-beautiful-subsets/description/)
+2597 [https://leetcode.com/problems/the-number-of-beautiful-subsets/description/](https://leetcode.com/problems/the-number-of-beautiful-subsets/description/)&#x20;
+
+2608 [https://leetcode.com/problems/shortest-cycle-in-a-graph/description/](https://leetcode.com/problems/shortest-cycle-in-a-graph/description/)
 
 ### Rerooting
 
@@ -717,7 +721,9 @@ Unnecessary Hard
 
 2127 [https://leetcode.com/problems/maximum-employees-to-be-invited-to-a-meeting/description/](https://leetcode.com/problems/maximum-employees-to-be-invited-to-a-meeting/description/)&#x20;
 
-2192 [https://leetcode.com/problems/all-ancestors-of-a-node-in-a-directed-acyclic-graph/description/](https://leetcode.com/problems/all-ancestors-of-a-node-in-a-directed-acyclic-graph/description/)
+2192 [https://leetcode.com/problems/all-ancestors-of-a-node-in-a-directed-acyclic-graph/description/](https://leetcode.com/problems/all-ancestors-of-a-node-in-a-directed-acyclic-graph/description/)&#x20;
+
+2603 Topological pruning - [https://leetcode.com/problems/collect-coins-in-a-tree/description/](https://leetcode.com/problems/collect-coins-in-a-tree/description/)
 
 ## Greedy (IQ Tests)
 
@@ -1193,7 +1199,9 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 
 2513 [https://leetcode.com/problems/minimize-the-maximum-of-two-arrays/description/](https://leetcode.com/problems/minimize-the-maximum-of-two-arrays/description/)&#x20;
 
-2543 [https://leetcode.com/problems/check-if-point-is-reachable/description/](https://leetcode.com/problems/check-if-point-is-reachable/description/)
+2543 [https://leetcode.com/problems/check-if-point-is-reachable/description/](https://leetcode.com/problems/check-if-point-is-reachable/description/)&#x20;
+
+2607 Every GCDth of (n, k) must be equal [https://leetcode.com/problems/make-k-subarray-sums-equal/description/](https://leetcode.com/problems/make-k-subarray-sums-equal/description/)
 
 ### Geometry
 
