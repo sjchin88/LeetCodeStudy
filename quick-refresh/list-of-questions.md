@@ -86,7 +86,9 @@ with duplicate (hard and not necessary) - [https://leetcode.com/problems/find-mi
 
 2557 [https://leetcode.com/problems/maximum-number-of-integers-to-choose-from-a-range-ii/description/](https://leetcode.com/problems/maximum-number-of-integers-to-choose-from-a-range-ii/description/)&#x20;
 
-2604 [https://leetcode.com/problems/minimum-time-to-eat-all-grains/description/](https://leetcode.com/problems/minimum-time-to-eat-all-grains/description/)
+2604 [https://leetcode.com/problems/minimum-time-to-eat-all-grains/description/](https://leetcode.com/problems/minimum-time-to-eat-all-grains/description/)&#x20;
+
+2616 [https://leetcode.com/problems/minimize-the-maximum-difference-of-pairs/description/](https://leetcode.com/problems/minimize-the-maximum-difference-of-pairs/description/)
 
 ### Divide and Conquer
 
@@ -374,7 +376,9 @@ To continue
 
 2477 [https://leetcode.com/problems/minimum-fuel-cost-to-report-to-the-capital/description/](https://leetcode.com/problems/minimum-fuel-cost-to-report-to-the-capital/description/)&#x20;
 
-2492 [https://leetcode.com/problems/minimum-score-of-a-path-between-two-cities/description/](https://leetcode.com/problems/minimum-score-of-a-path-between-two-cities/description/)
+2492 [https://leetcode.com/problems/minimum-score-of-a-path-between-two-cities/description/](https://leetcode.com/problems/minimum-score-of-a-path-between-two-cities/description/)&#x20;
+
+2612 [https://leetcode.com/problems/minimum-reverse-operations/description/](https://leetcode.com/problems/minimum-reverse-operations/description/)
 
 ### Bidectional BFS
 
@@ -1621,7 +1625,9 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 
 2407 [https://leetcode.com/problems/longest-increasing-subsequence-ii/description/](https://leetcode.com/problems/longest-increasing-subsequence-ii/description/)&#x20;
 
-2569 [https://leetcode.com/problems/handling-sum-queries-after-update/description/](https://leetcode.com/problems/handling-sum-queries-after-update/description/)
+2569 [https://leetcode.com/problems/handling-sum-queries-after-update/description/](https://leetcode.com/problems/handling-sum-queries-after-update/description/)&#x20;
+
+2613 [https://leetcode.com/problems/beautiful-pairs/description/](https://leetcode.com/problems/beautiful-pairs/description/)
 
 ### Binary Index Tree / Fenwick Tree
 

@@ -306,7 +306,9 @@
 
 2533 [https://leetcode.com/problems/number-of-good-binary-strings/description/](https://leetcode.com/problems/number-of-good-binary-strings/description/)&#x20;
 
-2547 [https://leetcode.com/problems/minimum-cost-to-split-an-array/description/](https://leetcode.com/problems/minimum-cost-to-split-an-array/description/)
+2547 [https://leetcode.com/problems/minimum-cost-to-split-an-array/description/](https://leetcode.com/problems/minimum-cost-to-split-an-array/description/)&#x20;
+
+2617 [https://leetcode.com/problems/minimum-number-of-visited-cells-in-a-grid/description/](https://leetcode.com/problems/minimum-number-of-visited-cells-in-a-grid/description/)
 
 ### Bitmasking
 
