@@ -681,7 +681,9 @@ Unnecessary Hard
 
 2304 [https://leetcode.com/problems/minimum-path-cost-in-a-grid/solutions/](https://leetcode.com/problems/minimum-path-cost-in-a-grid/solutions/)&#x20;
 
-2577 [https://leetcode.com/problems/minimum-time-to-visit-a-cell-in-a-grid/description/](https://leetcode.com/problems/minimum-time-to-visit-a-cell-in-a-grid/description/)
+2577 [https://leetcode.com/problems/minimum-time-to-visit-a-cell-in-a-grid/description/](https://leetcode.com/problems/minimum-time-to-visit-a-cell-in-a-grid/description/)&#x20;
+
+2662 [https://leetcode.com/problems/minimum-cost-of-a-path-with-special-roads/description/](https://leetcode.com/problems/minimum-cost-of-a-path-with-special-roads/description/)
 
 ### Eulerian Path
 
@@ -929,7 +931,9 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 
 2498 [https://leetcode.com/problems/frog-jump-ii/description/](https://leetcode.com/problems/frog-jump-ii/description/)&#x20;
 
-2548 [https://leetcode.com/problems/maximum-price-to-fill-a-bag/description/](https://leetcode.com/problems/maximum-price-to-fill-a-bag/description/)
+2548 [https://leetcode.com/problems/maximum-price-to-fill-a-bag/description/](https://leetcode.com/problems/maximum-price-to-fill-a-bag/description/)&#x20;
+
+2659 [https://leetcode.com/problems/make-array-empty/description/](https://leetcode.com/problems/make-array-empty/description/)
 
 ### Hash
 
@@ -1207,7 +1211,9 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 
 2543 [https://leetcode.com/problems/check-if-point-is-reachable/description/](https://leetcode.com/problems/check-if-point-is-reachable/description/)&#x20;
 
-2607 Every GCDth of (n, k) must be equal [https://leetcode.com/problems/make-k-subarray-sums-equal/description/](https://leetcode.com/problems/make-k-subarray-sums-equal/description/)
+2607 Every GCDth of (n, k) must be equal [https://leetcode.com/problems/make-k-subarray-sums-equal/description/](https://leetcode.com/problems/make-k-subarray-sums-equal/description/)&#x20;
+
+2654[https://leetcode.com/problems/minimum-number-of-operations-to-make-all-array-elements-equal-to-1/description/](https://leetcode.com/problems/minimum-number-of-operations-to-make-all-array-elements-equal-to-1/description/)
 
 ### Geometry
 
