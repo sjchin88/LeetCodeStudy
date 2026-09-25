@@ -605,7 +605,9 @@ Unnecessary Hard
 
 2502 [https://leetcode.com/problems/design-memory-allocator/description/](https://leetcode.com/problems/design-memory-allocator/description/)&#x20;
 
-2590 [https://leetcode.com/problems/design-a-todo-list/description/](https://leetcode.com/problems/design-a-todo-list/description/)
+2590 [https://leetcode.com/problems/design-a-todo-list/description/](https://leetcode.com/problems/design-a-todo-list/description/)&#x20;
+
+2642 [https://leetcode.com/problems/design-graph-with-shortest-path-calculator/description/](https://leetcode.com/problems/design-graph-with-shortest-path-calculator/description/)
 
 ### Concurrency
 

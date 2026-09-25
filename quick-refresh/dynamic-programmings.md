@@ -308,7 +308,11 @@
 
 2547 [https://leetcode.com/problems/minimum-cost-to-split-an-array/description/](https://leetcode.com/problems/minimum-cost-to-split-an-array/description/)&#x20;
 
-2617 [https://leetcode.com/problems/minimum-number-of-visited-cells-in-a-grid/description/](https://leetcode.com/problems/minimum-number-of-visited-cells-in-a-grid/description/)
+2617 [https://leetcode.com/problems/minimum-number-of-visited-cells-in-a-grid/description/](https://leetcode.com/problems/minimum-number-of-visited-cells-in-a-grid/description/)&#x20;
+
+2638 [https://leetcode.com/problems/count-the-number-of-k-free-subsets/solutions/](https://leetcode.com/problems/count-the-number-of-k-free-subsets/solutions/)&#x20;
+
+2646&#x20;
 
 ### Bitmasking
 
@@ -354,7 +358,9 @@
 
 1728 [https://leetcode.com/problems/cat-and-mouse-ii/description/](https://leetcode.com/problems/cat-and-mouse-ii/description/)&#x20;
 
-2313 [https://leetcode.com/problems/minimum-flips-in-binary-tree-to-get-result/description/](https://leetcode.com/problems/minimum-flips-in-binary-tree-to-get-result/description/)
+2313 [https://leetcode.com/problems/minimum-flips-in-binary-tree-to-get-result/description/](https://leetcode.com/problems/minimum-flips-in-binary-tree-to-get-result/description/)&#x20;
+
+2646 [https://leetcode.com/problems/minimize-the-total-price-of-the-trips/description/](https://leetcode.com/problems/minimize-the-total-price-of-the-trips/description/)
 
 ### Digit DP
 

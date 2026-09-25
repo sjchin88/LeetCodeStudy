@@ -16,6 +16,8 @@
 
 770 . [https://leetcode.com/problems/basic-calculator-iv/description/](https://leetcode.com/problems/basic-calculator-iv/description/)
 
+2647 pattern [https://leetcode.com/problems/color-the-triangle-red/description/](https://leetcode.com/problems/color-the-triangle-red/description/)
+
 ## Tedious
 
 297 . [https://leetcode.com/problems/serialize-and-deserialize-binary-tree/description/](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/description/)
