@@ -142,7 +142,9 @@ with duplicate (hard and not necessary) - [https://leetcode.com/problems/find-mi
 
 1932 [https://leetcode.com/problems/merge-bsts-to-create-single-bst/description/](https://leetcode.com/problems/merge-bsts-to-create-single-bst/description/)&#x20;
 
-1937 [https://leetcode.com/problems/maximum-number-of-points-with-cost/description/](https://leetcode.com/problems/maximum-number-of-points-with-cost/description/)
+1937 [https://leetcode.com/problems/maximum-number-of-points-with-cost/description/](https://leetcode.com/problems/maximum-number-of-points-with-cost/description/)&#x20;
+
+2673 [https://leetcode.com/problems/make-costs-of-paths-equal-in-a-binary-tree/description/](https://leetcode.com/problems/make-costs-of-paths-equal-in-a-binary-tree/description/)
 
 ### Inorder traversal (Left root right)
 
@@ -292,7 +294,11 @@ To continue
 
 2527 [https://leetcode.com/problems/find-xor-beauty-of-array/description/](https://leetcode.com/problems/find-xor-beauty-of-array/description/)&#x20;
 
-2568 [https://leetcode.com/problems/minimum-impossible-or/description/](https://leetcode.com/problems/minimum-impossible-or/description/)
+2568 [https://leetcode.com/problems/minimum-impossible-or/description/](https://leetcode.com/problems/minimum-impossible-or/description/)&#x20;
+
+2680 [https://leetcode.com/problems/maximum-or/description/](https://leetcode.com/problems/maximum-or/description/)&#x20;
+
+2683 [https://leetcode.com/problems/neighboring-bitwise-xor/description/](https://leetcode.com/problems/neighboring-bitwise-xor/description/)
 
 ### Gray Code
 
@@ -517,7 +523,9 @@ Unnecessary Hard
 
 2597 [https://leetcode.com/problems/the-number-of-beautiful-subsets/description/](https://leetcode.com/problems/the-number-of-beautiful-subsets/description/)&#x20;
 
-2608 [https://leetcode.com/problems/shortest-cycle-in-a-graph/description/](https://leetcode.com/problems/shortest-cycle-in-a-graph/description/)
+2608 [https://leetcode.com/problems/shortest-cycle-in-a-graph/description/](https://leetcode.com/problems/shortest-cycle-in-a-graph/description/)&#x20;
+
+2664 [https://leetcode.com/problems/the-knights-tour/description/](https://leetcode.com/problems/the-knights-tour/description/)
 
 ### Rerooting
 
@@ -609,6 +617,8 @@ Unnecessary Hard
 
 2642 [https://leetcode.com/problems/design-graph-with-shortest-path-calculator/description/](https://leetcode.com/problems/design-graph-with-shortest-path-calculator/description/)
 
+2671 [https://leetcode.com/problems/frequency-tracker/description/](https://leetcode.com/problems/frequency-tracker/description/)
+
 ### Concurrency
 
 1115 Concurrency [https://leetcode.com/problems/print-foobar-alternately/description/](https://leetcode.com/problems/print-foobar-alternately/description/)
@@ -683,7 +693,9 @@ Unnecessary Hard
 
 2577 [https://leetcode.com/problems/minimum-time-to-visit-a-cell-in-a-grid/description/](https://leetcode.com/problems/minimum-time-to-visit-a-cell-in-a-grid/description/)&#x20;
 
-2662 [https://leetcode.com/problems/minimum-cost-of-a-path-with-special-roads/description/](https://leetcode.com/problems/minimum-cost-of-a-path-with-special-roads/description/)
+2662 [https://leetcode.com/problems/minimum-cost-of-a-path-with-special-roads/description/](https://leetcode.com/problems/minimum-cost-of-a-path-with-special-roads/description/)&#x20;
+
+2699 [https://leetcode.com/problems/modify-graph-edge-weights/description/](https://leetcode.com/problems/modify-graph-edge-weights/description/)
 
 ### Eulerian Path
 
@@ -933,7 +945,9 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 
 2548 [https://leetcode.com/problems/maximum-price-to-fill-a-bag/description/](https://leetcode.com/problems/maximum-price-to-fill-a-bag/description/)&#x20;
 
-2659 [https://leetcode.com/problems/make-array-empty/description/](https://leetcode.com/problems/make-array-empty/description/)
+2659 [https://leetcode.com/problems/make-array-empty/description/](https://leetcode.com/problems/make-array-empty/description/)&#x20;
+
+2663 [https://leetcode.com/problems/lexicographically-smallest-beautiful-string/description/](https://leetcode.com/problems/lexicographically-smallest-beautiful-string/description/)
 
 ### Hash
 
@@ -1185,7 +1199,9 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 
 2195 [https://leetcode.com/problems/append-k-integers-with-minimal-sum/description/](https://leetcode.com/problems/append-k-integers-with-minimal-sum/description/)&#x20;
 
-2450 [https://leetcode.com/problems/number-of-distinct-binary-strings-after-applying-operations/description/](https://leetcode.com/problems/number-of-distinct-binary-strings-after-applying-operations/description/)
+2450 [https://leetcode.com/problems/number-of-distinct-binary-strings-after-applying-operations/description/](https://leetcode.com/problems/number-of-distinct-binary-strings-after-applying-operations/description/)&#x20;
+
+2681 [https://leetcode.com/problems/power-of-heroes/description/](https://leetcode.com/problems/power-of-heroes/description/)
 
 ### Fibonacci
 
@@ -1577,7 +1593,9 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 
 1569 [https://leetcode.com/problems/number-of-ways-to-reorder-array-to-get-same-bst/description/](https://leetcode.com/problems/number-of-ways-to-reorder-array-to-get-same-bst/description/)&#x20;
 
-1982 [https://leetcode.com/problems/find-array-given-subset-sums/description/](https://leetcode.com/problems/find-array-given-subset-sums/description/)
+1982 [https://leetcode.com/problems/find-array-given-subset-sums/description/](https://leetcode.com/problems/find-array-given-subset-sums/description/)&#x20;
+
+2698 [https://leetcode.com/problems/find-the-punishment-number-of-an-integer/description/](https://leetcode.com/problems/find-the-punishment-number-of-an-integer/description/)
 
 ## Regex
 
@@ -1980,7 +1998,9 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 
 2416 [https://leetcode.com/problems/sum-of-prefix-scores-of-strings/description/](https://leetcode.com/problems/sum-of-prefix-scores-of-strings/description/)&#x20;
 
-2479 [https://leetcode.com/problems/maximum-xor-of-two-non-overlapping-subtrees/description/](https://leetcode.com/problems/maximum-xor-of-two-non-overlapping-subtrees/description/)
+2479 [https://leetcode.com/problems/maximum-xor-of-two-non-overlapping-subtrees/description/](https://leetcode.com/problems/maximum-xor-of-two-non-overlapping-subtrees/description/)&#x20;
+
+2707 [https://leetcode.com/problems/extra-characters-in-a-string/description/](https://leetcode.com/problems/extra-characters-in-a-string/description/)
 
 ## Union Find
 
@@ -2028,7 +2048,9 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 
 2421 [https://leetcode.com/problems/number-of-good-paths/editorial/](https://leetcode.com/problems/number-of-good-paths/editorial/)&#x20;
 
-2503 [https://leetcode.com/problems/maximum-number-of-points-from-grid-queries/description/](https://leetcode.com/problems/maximum-number-of-points-from-grid-queries/description/)
+2503 [https://leetcode.com/problems/maximum-number-of-points-from-grid-queries/description/](https://leetcode.com/problems/maximum-number-of-points-from-grid-queries/description/)&#x20;
+
+2709 [https://leetcode.com/problems/greatest-common-divisor-traversal/description/](https://leetcode.com/problems/greatest-common-divisor-traversal/description/)
 
 ### Disjointed Union Find
 
@@ -2044,4 +2066,6 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 
 1579 [https://leetcode.com/problems/remove-max-number-of-edges-to-keep-graph-fully-traversable/description/](https://leetcode.com/problems/remove-max-number-of-edges-to-keep-graph-fully-traversable/description/)
 
-1697 [https://leetcode.com/problems/checking-existence-of-edge-length-limited-paths/description/](https://leetcode.com/problems/checking-existence-of-edge-length-limited-paths/description/)
+1697 [https://leetcode.com/problems/checking-existence-of-edge-length-limited-paths/description/](https://leetcode.com/problems/checking-existence-of-edge-length-limited-paths/description/)&#x20;
+
+2685 [https://leetcode.com/problems/count-the-number-of-complete-components/description/](https://leetcode.com/problems/count-the-number-of-complete-components/description/)

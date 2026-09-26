@@ -314,6 +314,8 @@
 
 2646&#x20;
 
+2684 [https://leetcode.com/problems/maximum-number-of-moves-in-a-grid/description/](https://leetcode.com/problems/maximum-number-of-moves-in-a-grid/description/)
+
 ### Bitmasking
 
 1434 Use bitmasking [https://leetcode.com/problems/number-of-ways-to-wear-different-hats-to-each-other/description/](https://leetcode.com/problems/number-of-ways-to-wear-different-hats-to-each-other/description/)
