@@ -1790,7 +1790,9 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 
 1963 [https://leetcode.com/problems/minimum-number-of-swaps-to-make-the-string-balanced/description/](https://leetcode.com/problems/minimum-number-of-swaps-to-make-the-string-balanced/description/)&#x20;
 
-2116 [https://leetcode.com/problems/check-if-a-parentheses-string-can-be-valid/description/](https://leetcode.com/problems/check-if-a-parentheses-string-can-be-valid/description/)
+2116 [https://leetcode.com/problems/check-if-a-parentheses-string-can-be-valid/description/](https://leetcode.com/problems/check-if-a-parentheses-string-can-be-valid/description/)&#x20;
+
+2751 [https://leetcode.com/problems/robot-collisions/description/](https://leetcode.com/problems/robot-collisions/description/)
 
 ### Stacks for Tree
 
