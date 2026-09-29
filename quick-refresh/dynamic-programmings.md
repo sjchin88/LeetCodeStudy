@@ -316,7 +316,11 @@
 
 2684 [https://leetcode.com/problems/maximum-number-of-moves-in-a-grid/description/](https://leetcode.com/problems/maximum-number-of-moves-in-a-grid/description/)&#x20;
 
-2713 group same values together first [https://leetcode.com/problems/maximum-strictly-increasing-cells-in-a-matrix/description/](https://leetcode.com/problems/maximum-strictly-increasing-cells-in-a-matrix/description/)
+2713 group same values together first [https://leetcode.com/problems/maximum-strictly-increasing-cells-in-a-matrix/description/](https://leetcode.com/problems/maximum-strictly-increasing-cells-in-a-matrix/description/)&#x20;
+
+2742 [https://leetcode.com/problems/painting-the-walls/description/](https://leetcode.com/problems/painting-the-walls/description/)
+
+2746 [https://leetcode.com/problems/decremental-string-concatenation/description/](https://leetcode.com/problems/decremental-string-concatenation/description/)
 
 ### Bitmasking
 
@@ -340,7 +344,9 @@
 
 2403 [https://leetcode.com/problems/minimum-time-to-kill-all-monsters/description/](https://leetcode.com/problems/minimum-time-to-kill-all-monsters/description/)&#x20;
 
-2572 [https://leetcode.com/problems/count-the-number-of-square-free-subsets/description/](https://leetcode.com/problems/count-the-number-of-square-free-subsets/description/)
+2572 [https://leetcode.com/problems/count-the-number-of-square-free-subsets/description/](https://leetcode.com/problems/count-the-number-of-square-free-subsets/description/)&#x20;
+
+2741 [https://leetcode.com/problems/special-permutations/description/](https://leetcode.com/problems/special-permutations/description/)
 
 ### Coin DP
 

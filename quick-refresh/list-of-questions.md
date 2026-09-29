@@ -697,7 +697,9 @@ Unnecessary Hard
 
 2699 [https://leetcode.com/problems/modify-graph-edge-weights/description/](https://leetcode.com/problems/modify-graph-edge-weights/description/)&#x20;
 
-2714 [https://leetcode.com/problems/find-shortest-path-with-k-hops/description/](https://leetcode.com/problems/find-shortest-path-with-k-hops/description/)
+2714 [https://leetcode.com/problems/find-shortest-path-with-k-hops/description/](https://leetcode.com/problems/find-shortest-path-with-k-hops/description/)&#x20;
+
+2737 [https://leetcode.com/problems/find-the-closest-marked-node/description/](https://leetcode.com/problems/find-the-closest-marked-node/description/)
 
 ### Eulerian Path
 
@@ -951,7 +953,11 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 
 2663 [https://leetcode.com/problems/lexicographically-smallest-beautiful-string/description/](https://leetcode.com/problems/lexicographically-smallest-beautiful-string/description/)&#x20;
 
-2712 [https://leetcode.com/problems/minimum-cost-to-make-all-characters-equal/description/](https://leetcode.com/problems/minimum-cost-to-make-all-characters-equal/description/)
+2712 [https://leetcode.com/problems/minimum-cost-to-make-all-characters-equal/description/](https://leetcode.com/problems/minimum-cost-to-make-all-characters-equal/description/)&#x20;
+
+2732 [https://leetcode.com/problems/find-a-good-subset-of-the-matrix/solutions/](https://leetcode.com/problems/find-a-good-subset-of-the-matrix/solutions/)&#x20;
+
+2745 [https://leetcode.com/problems/construct-the-longest-new-string/description/](https://leetcode.com/problems/construct-the-longest-new-string/description/)
 
 ### Hash
 
@@ -1657,7 +1663,9 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 
 2569 [https://leetcode.com/problems/handling-sum-queries-after-update/description/](https://leetcode.com/problems/handling-sum-queries-after-update/description/)&#x20;
 
-2613 [https://leetcode.com/problems/beautiful-pairs/description/](https://leetcode.com/problems/beautiful-pairs/description/)
+2613 [https://leetcode.com/problems/beautiful-pairs/description/](https://leetcode.com/problems/beautiful-pairs/description/)&#x20;
+
+2736 [https://leetcode.com/problems/maximum-sum-queries/description/](https://leetcode.com/problems/maximum-sum-queries/description/)
 
 ### Binary Index Tree / Fenwick Tree
 
@@ -1705,7 +1713,11 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 
 2162 [https://leetcode.com/problems/minimum-cost-to-set-cooking-time/description/](https://leetcode.com/problems/minimum-cost-to-set-cooking-time/description/)&#x20;
 
-2327 deque [https://leetcode.com/problems/number-of-people-aware-of-a-secret/description/](https://leetcode.com/problems/number-of-people-aware-of-a-secret/description/)
+2327 deque [https://leetcode.com/problems/number-of-people-aware-of-a-secret/description/](https://leetcode.com/problems/number-of-people-aware-of-a-secret/description/)&#x20;
+
+2735 [https://leetcode.com/problems/collecting-chocolates/description/](https://leetcode.com/problems/collecting-chocolates/description/)&#x20;
+
+2749 [https://leetcode.com/problems/minimum-operations-to-make-the-integer-zero/description/](https://leetcode.com/problems/minimum-operations-to-make-the-integer-zero/description/)
 
 ## Sorting
 
@@ -1820,7 +1832,9 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 
 ### Substring | Subarray
 
-2063 [https://leetcode.com/problems/vowels-of-all-substrings/description/](https://leetcode.com/problems/vowels-of-all-substrings/description/)
+2063 [https://leetcode.com/problems/vowels-of-all-substrings/description/](https://leetcode.com/problems/vowels-of-all-substrings/description/)&#x20;
+
+2743 Count substring ending at i [https://leetcode.com/problems/count-substrings-without-repeating-character/](https://leetcode.com/problems/count-substrings-without-repeating-character/)
 
 ## Sweeping Lines | Linear Scan
 
@@ -1938,7 +1952,9 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 
 2398 [https://leetcode.com/problems/maximum-number-of-robots-within-budget/description/](https://leetcode.com/problems/maximum-number-of-robots-within-budget/description/)&#x20;
 
-2555 [https://leetcode.com/problems/maximize-win-from-two-segments/description/](https://leetcode.com/problems/maximize-win-from-two-segments/description/)
+2555 [https://leetcode.com/problems/maximize-win-from-two-segments/description/](https://leetcode.com/problems/maximize-win-from-two-segments/description/)&#x20;
+
+2747 [https://leetcode.com/problems/count-zero-request-servers/description/](https://leetcode.com/problems/count-zero-request-servers/description/)
 
 ### Fast and Slow Pointer
 
