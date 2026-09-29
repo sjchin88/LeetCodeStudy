@@ -695,7 +695,9 @@ Unnecessary Hard
 
 2662 [https://leetcode.com/problems/minimum-cost-of-a-path-with-special-roads/description/](https://leetcode.com/problems/minimum-cost-of-a-path-with-special-roads/description/)&#x20;
 
-2699 [https://leetcode.com/problems/modify-graph-edge-weights/description/](https://leetcode.com/problems/modify-graph-edge-weights/description/)
+2699 [https://leetcode.com/problems/modify-graph-edge-weights/description/](https://leetcode.com/problems/modify-graph-edge-weights/description/)&#x20;
+
+2714 [https://leetcode.com/problems/find-shortest-path-with-k-hops/description/](https://leetcode.com/problems/find-shortest-path-with-k-hops/description/)
 
 ### Eulerian Path
 
@@ -947,7 +949,9 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 
 2659 [https://leetcode.com/problems/make-array-empty/description/](https://leetcode.com/problems/make-array-empty/description/)&#x20;
 
-2663 [https://leetcode.com/problems/lexicographically-smallest-beautiful-string/description/](https://leetcode.com/problems/lexicographically-smallest-beautiful-string/description/)
+2663 [https://leetcode.com/problems/lexicographically-smallest-beautiful-string/description/](https://leetcode.com/problems/lexicographically-smallest-beautiful-string/description/)&#x20;
+
+2712 [https://leetcode.com/problems/minimum-cost-to-make-all-characters-equal/description/](https://leetcode.com/problems/minimum-cost-to-make-all-characters-equal/description/)
 
 ### Hash
 
@@ -1852,7 +1856,9 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 
 2531 [https://leetcode.com/problems/make-number-of-distinct-characters-equal/description/](https://leetcode.com/problems/make-number-of-distinct-characters-equal/description/)&#x20;
 
-2551 [https://leetcode.com/problems/put-marbles-in-bags/description/](https://leetcode.com/problems/put-marbles-in-bags/description/)
+2551 [https://leetcode.com/problems/put-marbles-in-bags/description/](https://leetcode.com/problems/put-marbles-in-bags/description/)&#x20;
+
+2718 iterate from last -[https://leetcode.com/problems/sum-of-matrix-after-queries/description/](https://leetcode.com/problems/sum-of-matrix-after-queries/description/)
 
 
 

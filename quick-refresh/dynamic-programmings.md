@@ -314,7 +314,9 @@
 
 2646&#x20;
 
-2684 [https://leetcode.com/problems/maximum-number-of-moves-in-a-grid/description/](https://leetcode.com/problems/maximum-number-of-moves-in-a-grid/description/)
+2684 [https://leetcode.com/problems/maximum-number-of-moves-in-a-grid/description/](https://leetcode.com/problems/maximum-number-of-moves-in-a-grid/description/)&#x20;
+
+2713 group same values together first [https://leetcode.com/problems/maximum-strictly-increasing-cells-in-a-matrix/description/](https://leetcode.com/problems/maximum-strictly-increasing-cells-in-a-matrix/description/)
 
 ### Bitmasking
 
@@ -376,7 +378,9 @@
 
 1397 with KMP [https://leetcode.com/problems/find-all-good-strings/description/](https://leetcode.com/problems/find-all-good-strings/description/)
 
-2376 [https://leetcode.com/problems/count-special-integers/description/](https://leetcode.com/problems/count-special-integers/description/)
+2376 [https://leetcode.com/problems/count-special-integers/description/](https://leetcode.com/problems/count-special-integers/description/)&#x20;
+
+2719 [https://leetcode.com/problems/count-of-integers/description/](https://leetcode.com/problems/count-of-integers/description/)
 
 ### Knacksack
 
