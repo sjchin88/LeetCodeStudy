@@ -196,7 +196,9 @@ with duplicate (hard and not necessary) - [https://leetcode.com/problems/find-mi
 
 1382 [https://leetcode.com/problems/balance-a-binary-search-tree/description/](https://leetcode.com/problems/balance-a-binary-search-tree/description/)
 
-1612 [https://leetcode.com/problems/check-if-two-expression-trees-are-equivalent/description/](https://leetcode.com/problems/check-if-two-expression-trees-are-equivalent/description/)
+1612 [https://leetcode.com/problems/check-if-two-expression-trees-are-equivalent/description/](https://leetcode.com/problems/check-if-two-expression-trees-are-equivalent/description/)&#x20;
+
+2764 [https://leetcode.com/problems/is-array-a-preorder-of-some-binary-tree/solutions/](https://leetcode.com/problems/is-array-a-preorder-of-some-binary-tree/solutions/)
 
 
 
@@ -967,7 +969,11 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 
 1418 [https://leetcode.com/problems/display-table-of-food-orders-in-a-restaurant/](https://leetcode.com/problems/display-table-of-food-orders-in-a-restaurant/)
 
-1419 [https://leetcode.com/problems/minimum-number-of-frogs-croaking/description/](https://leetcode.com/problems/minimum-number-of-frogs-croaking/description/)
+1419 [https://leetcode.com/problems/minimum-number-of-frogs-croaking/description/](https://leetcode.com/problems/minimum-number-of-frogs-croaking/description/)&#x20;
+
+2763 [https://leetcode.com/problems/sum-of-imbalance-numbers-of-all-subarrays/description/](https://leetcode.com/problems/sum-of-imbalance-numbers-of-all-subarrays/description/)&#x20;
+
+2770 [https://leetcode.com/problems/number-of-black-blocks/description/](https://leetcode.com/problems/number-of-black-blocks/description/)
 
 ### Lights Out Puzzle
 
@@ -1399,7 +1405,9 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 
 2282 [https://leetcode.com/problems/number-of-people-that-can-be-seen-in-a-grid/description/](https://leetcode.com/problems/number-of-people-that-can-be-seen-in-a-grid/description/)&#x20;
 
-2334 [https://leetcode.com/problems/subarray-with-elements-greater-than-varying-threshold/description/](https://leetcode.com/problems/subarray-with-elements-greater-than-varying-threshold/description/)
+2334 [https://leetcode.com/problems/subarray-with-elements-greater-than-varying-threshold/description/](https://leetcode.com/problems/subarray-with-elements-greater-than-varying-threshold/description/)&#x20;
+
+2762 [https://leetcode.com/problems/continuous-subarrays/description/](https://leetcode.com/problems/continuous-subarrays/description/)
 
 ## Named Algorithms&#x20;
 
