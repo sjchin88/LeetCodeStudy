@@ -957,7 +957,9 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 
 2732 [https://leetcode.com/problems/find-a-good-subset-of-the-matrix/solutions/](https://leetcode.com/problems/find-a-good-subset-of-the-matrix/solutions/)&#x20;
 
-2745 [https://leetcode.com/problems/construct-the-longest-new-string/description/](https://leetcode.com/problems/construct-the-longest-new-string/description/)
+2745 [https://leetcode.com/problems/construct-the-longest-new-string/description/](https://leetcode.com/problems/construct-the-longest-new-string/description/)&#x20;
+
+2753 Skip first open door - [https://leetcode.com/problems/count-houses-in-a-circular-street-ii/description/](https://leetcode.com/problems/count-houses-in-a-circular-street-ii/description/)
 
 ### Hash
 
