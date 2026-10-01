@@ -144,7 +144,9 @@ with duplicate (hard and not necessary) - [https://leetcode.com/problems/find-mi
 
 1937 [https://leetcode.com/problems/maximum-number-of-points-with-cost/description/](https://leetcode.com/problems/maximum-number-of-points-with-cost/description/)&#x20;
 
-2673 [https://leetcode.com/problems/make-costs-of-paths-equal-in-a-binary-tree/description/](https://leetcode.com/problems/make-costs-of-paths-equal-in-a-binary-tree/description/)
+2673 [https://leetcode.com/problems/make-costs-of-paths-equal-in-a-binary-tree/description/](https://leetcode.com/problems/make-costs-of-paths-equal-in-a-binary-tree/description/)&#x20;
+
+2773 [https://leetcode.com/problems/height-of-special-binary-tree/description/](https://leetcode.com/problems/height-of-special-binary-tree/description/)
 
 ### Inorder traversal (Left root right)
 
@@ -1219,7 +1221,9 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 
 2450 [https://leetcode.com/problems/number-of-distinct-binary-strings-after-applying-operations/description/](https://leetcode.com/problems/number-of-distinct-binary-strings-after-applying-operations/description/)&#x20;
 
-2681 [https://leetcode.com/problems/power-of-heroes/description/](https://leetcode.com/problems/power-of-heroes/description/)
+2681 [https://leetcode.com/problems/power-of-heroes/description/](https://leetcode.com/problems/power-of-heroes/description/)&#x20;
+
+2790 [https://leetcode.com/problems/maximum-number-of-groups-with-increasing-length/description/](https://leetcode.com/problems/maximum-number-of-groups-with-increasing-length/description/)
 
 ### Fibonacci
 
@@ -2034,7 +2038,9 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 
 2479 [https://leetcode.com/problems/maximum-xor-of-two-non-overlapping-subtrees/description/](https://leetcode.com/problems/maximum-xor-of-two-non-overlapping-subtrees/description/)&#x20;
 
-2707 [https://leetcode.com/problems/extra-characters-in-a-string/description/](https://leetcode.com/problems/extra-characters-in-a-string/description/)
+2707 [https://leetcode.com/problems/extra-characters-in-a-string/description/](https://leetcode.com/problems/extra-characters-in-a-string/description/)&#x20;
+
+2781 [https://leetcode.com/problems/length-of-the-longest-valid-substring/description/](https://leetcode.com/problems/length-of-the-longest-valid-substring/description/)
 
 ## Union Find
 

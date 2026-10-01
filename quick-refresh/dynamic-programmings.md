@@ -320,7 +320,9 @@
 
 2742 [https://leetcode.com/problems/painting-the-walls/description/](https://leetcode.com/problems/painting-the-walls/description/)
 
-2746 [https://leetcode.com/problems/decremental-string-concatenation/description/](https://leetcode.com/problems/decremental-string-concatenation/description/)
+2746 [https://leetcode.com/problems/decremental-string-concatenation/description/](https://leetcode.com/problems/decremental-string-concatenation/description/)&#x20;
+
+2787 [https://leetcode.com/problems/ways-to-express-an-integer-as-sum-of-powers/description/](https://leetcode.com/problems/ways-to-express-an-integer-as-sum-of-powers/description/)
 
 ### Bitmasking
 
