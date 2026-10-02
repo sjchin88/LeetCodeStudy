@@ -302,7 +302,11 @@ To continue
 
 2680 [https://leetcode.com/problems/maximum-or/description/](https://leetcode.com/problems/maximum-or/description/)&#x20;
 
-2683 [https://leetcode.com/problems/neighboring-bitwise-xor/description/](https://leetcode.com/problems/neighboring-bitwise-xor/description/)
+2683 [https://leetcode.com/problems/neighboring-bitwise-xor/description/](https://leetcode.com/problems/neighboring-bitwise-xor/description/)&#x20;
+
+2791 [https://leetcode.com/problems/count-paths-that-can-form-a-palindrome-in-a-tree/description/](https://leetcode.com/problems/count-paths-that-can-form-a-palindrome-in-a-tree/description/)&#x20;
+
+2802 [https://leetcode.com/problems/find-the-k-th-lucky-number/description/](https://leetcode.com/problems/find-the-k-th-lucky-number/description/)
 
 ### Gray Code
 
@@ -1824,7 +1828,9 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 
 2301 [https://leetcode.com/problems/match-substring-after-replacement/description/](https://leetcode.com/problems/match-substring-after-replacement/description/)
 
-2223 Or Z or rolling hash - [https://leetcode.com/problems/sum-of-scores-of-built-strings/description/](https://leetcode.com/problems/sum-of-scores-of-built-strings/description/)
+2223 Or Z or rolling hash - [https://leetcode.com/problems/sum-of-scores-of-built-strings/description/](https://leetcode.com/problems/sum-of-scores-of-built-strings/description/)&#x20;
+
+2800 [https://leetcode.com/problems/shortest-string-that-contains-three-strings/description/](https://leetcode.com/problems/shortest-string-that-contains-three-strings/description/)
 
 ### Longest Common Prefix (LCP)
 

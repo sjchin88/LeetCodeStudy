@@ -322,7 +322,9 @@
 
 2746 [https://leetcode.com/problems/decremental-string-concatenation/description/](https://leetcode.com/problems/decremental-string-concatenation/description/)&#x20;
 
-2787 [https://leetcode.com/problems/ways-to-express-an-integer-as-sum-of-powers/description/](https://leetcode.com/problems/ways-to-express-an-integer-as-sum-of-powers/description/)
+2787 [https://leetcode.com/problems/ways-to-express-an-integer-as-sum-of-powers/description/](https://leetcode.com/problems/ways-to-express-an-integer-as-sum-of-powers/description/)&#x20;
+
+2809 [https://leetcode.com/problems/minimum-time-to-make-array-sum-at-most-x/description/](https://leetcode.com/problems/minimum-time-to-make-array-sum-at-most-x/description/)
 
 ### Bitmasking
 
@@ -388,7 +390,9 @@
 
 2376 [https://leetcode.com/problems/count-special-integers/description/](https://leetcode.com/problems/count-special-integers/description/)&#x20;
 
-2719 [https://leetcode.com/problems/count-of-integers/description/](https://leetcode.com/problems/count-of-integers/description/)
+2719 [https://leetcode.com/problems/count-of-integers/description/](https://leetcode.com/problems/count-of-integers/description/)&#x20;
+
+2801 [https://leetcode.com/problems/count-stepping-numbers-in-range/description/](https://leetcode.com/problems/count-stepping-numbers-in-range/description/)
 
 ### Knacksack
 
