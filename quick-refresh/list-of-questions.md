@@ -392,7 +392,9 @@ To continue
 
 2492 [https://leetcode.com/problems/minimum-score-of-a-path-between-two-cities/description/](https://leetcode.com/problems/minimum-score-of-a-path-between-two-cities/description/)&#x20;
 
-2612 [https://leetcode.com/problems/minimum-reverse-operations/description/](https://leetcode.com/problems/minimum-reverse-operations/description/)
+2612 [https://leetcode.com/problems/minimum-reverse-operations/description/](https://leetcode.com/problems/minimum-reverse-operations/description/)&#x20;
+
+2814 [https://leetcode.com/problems/minimum-time-takes-to-reach-destination-without-drowning/description/](https://leetcode.com/problems/minimum-time-takes-to-reach-destination-without-drowning/description/)
 
 ### Bidectional BFS
 
@@ -967,7 +969,11 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 
 2745 [https://leetcode.com/problems/construct-the-longest-new-string/description/](https://leetcode.com/problems/construct-the-longest-new-string/description/)&#x20;
 
-2753 Skip first open door - [https://leetcode.com/problems/count-houses-in-a-circular-street-ii/description/](https://leetcode.com/problems/count-houses-in-a-circular-street-ii/description/)
+2753 Skip first open door - [https://leetcode.com/problems/count-houses-in-a-circular-street-ii/description/](https://leetcode.com/problems/count-houses-in-a-circular-street-ii/description/)&#x20;
+
+2812 [https://leetcode.com/problems/find-the-safest-path-in-a-grid/description/](https://leetcode.com/problems/find-the-safest-path-in-a-grid/description/)&#x20;
+
+2813 sort and take [https://leetcode.com/problems/maximum-elegance-of-a-k-length-subsequence/description/](https://leetcode.com/problems/maximum-elegance-of-a-k-length-subsequence/description/)
 
 ### Hash
 
@@ -1415,7 +1421,9 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 
 2334 [https://leetcode.com/problems/subarray-with-elements-greater-than-varying-threshold/description/](https://leetcode.com/problems/subarray-with-elements-greater-than-varying-threshold/description/)&#x20;
 
-2762 [https://leetcode.com/problems/continuous-subarrays/description/](https://leetcode.com/problems/continuous-subarrays/description/)
+2762 [https://leetcode.com/problems/continuous-subarrays/description/](https://leetcode.com/problems/continuous-subarrays/description/)&#x20;
+
+2818 [https://leetcode.com/problems/apply-operations-to-maximize-score/description/](https://leetcode.com/problems/apply-operations-to-maximize-score/description/)
 
 ## Named Algorithms&#x20;
 
@@ -1592,6 +1600,8 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 2552 or bit [https://leetcode.com/problems/count-increasing-quadruplets/description/](https://leetcode.com/problems/count-increasing-quadruplets/description/)
 
 2565 prefix suffix [https://leetcode.com/problems/subsequence-with-the-minimum-score/description/](https://leetcode.com/problems/subsequence-with-the-minimum-score/description/)
+
+2819 + bisect [https://leetcode.com/problems/minimum-relative-loss-after-buying-chocolates/description/](https://leetcode.com/problems/minimum-relative-loss-after-buying-chocolates/description/)
 
 ### Prefix\_Suffix array
 
