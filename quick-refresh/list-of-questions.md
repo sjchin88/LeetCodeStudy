@@ -973,7 +973,9 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 
 2812 [https://leetcode.com/problems/find-the-safest-path-in-a-grid/description/](https://leetcode.com/problems/find-the-safest-path-in-a-grid/description/)&#x20;
 
-2813 sort and take [https://leetcode.com/problems/maximum-elegance-of-a-k-length-subsequence/description/](https://leetcode.com/problems/maximum-elegance-of-a-k-length-subsequence/description/)
+2813 sort and take [https://leetcode.com/problems/maximum-elegance-of-a-k-length-subsequence/description/](https://leetcode.com/problems/maximum-elegance-of-a-k-length-subsequence/description/)&#x20;
+
+2835 [https://leetcode.com/problems/minimum-operations-to-form-subsequence-with-target-sum/description/](https://leetcode.com/problems/minimum-operations-to-form-subsequence-with-target-sum/description/)
 
 ### Hash
 
@@ -1723,7 +1725,9 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 
 1483 [https://leetcode.com/problems/kth-ancestor-of-a-tree-node/description/](https://leetcode.com/problems/kth-ancestor-of-a-tree-node/description/)
 
-2277 [https://leetcode.com/problems/closest-node-to-path-in-tree/description/](https://leetcode.com/problems/closest-node-to-path-in-tree/description/)
+2277 [https://leetcode.com/problems/closest-node-to-path-in-tree/description/](https://leetcode.com/problems/closest-node-to-path-in-tree/description/)&#x20;
+
+2836 [https://leetcode.com/problems/maximize-value-of-function-in-a-ball-passing-game/description/](https://leetcode.com/problems/maximize-value-of-function-in-a-ball-passing-game/description/)
 
 ## Simulation
 
