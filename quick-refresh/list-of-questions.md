@@ -1235,7 +1235,9 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 
 2681 [https://leetcode.com/problems/power-of-heroes/description/](https://leetcode.com/problems/power-of-heroes/description/)&#x20;
 
-2790 [https://leetcode.com/problems/maximum-number-of-groups-with-increasing-length/description/](https://leetcode.com/problems/maximum-number-of-groups-with-increasing-length/description/)
+2790 [https://leetcode.com/problems/maximum-number-of-groups-with-increasing-length/description/](https://leetcode.com/problems/maximum-number-of-groups-with-increasing-length/description/)&#x20;
+
+2842 [https://leetcode.com/problems/count-k-subsequences-of-a-string-with-maximum-beauty/solutions/3992969/javacpython-math-by-lee215-r1ep/](https://leetcode.com/problems/count-k-subsequences-of-a-string-with-maximum-beauty/solutions/3992969/javacpython-math-by-lee215-r1ep/)
 
 ### Fibonacci
 
