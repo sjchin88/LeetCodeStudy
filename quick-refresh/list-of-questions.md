@@ -1605,7 +1605,9 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 
 2565 prefix suffix [https://leetcode.com/problems/subsequence-with-the-minimum-score/description/](https://leetcode.com/problems/subsequence-with-the-minimum-score/description/)
 
-2819 + bisect [https://leetcode.com/problems/minimum-relative-loss-after-buying-chocolates/description/](https://leetcode.com/problems/minimum-relative-loss-after-buying-chocolates/description/)
+2819 + bisect [https://leetcode.com/problems/minimum-relative-loss-after-buying-chocolates/description/](https://leetcode.com/problems/minimum-relative-loss-after-buying-chocolates/description/)&#x20;
+
+2845 [https://leetcode.com/problems/count-of-interesting-subarrays/description/](https://leetcode.com/problems/count-of-interesting-subarrays/description/)
 
 ### Prefix\_Suffix array
 
