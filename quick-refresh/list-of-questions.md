@@ -180,7 +180,9 @@ with duplicate (hard and not necessary) - [https://leetcode.com/problems/find-mi
 
 2096 [https://leetcode.com/problems/step-by-step-directions-from-a-binary-tree-node-to-another/description/](https://leetcode.com/problems/step-by-step-directions-from-a-binary-tree-node-to-another/description/)
 
-2509 [https://leetcode.com/problems/cycle-length-queries-in-a-tree/description/](https://leetcode.com/problems/cycle-length-queries-in-a-tree/description/)
+2509 [https://leetcode.com/problems/cycle-length-queries-in-a-tree/description/](https://leetcode.com/problems/cycle-length-queries-in-a-tree/description/)&#x20;
+
+2846 [https://leetcode.com/problems/minimum-edge-weight-equilibrium-queries-in-a-tree/description/](https://leetcode.com/problems/minimum-edge-weight-equilibrium-queries-in-a-tree/description/)
 
 ### Nary Tree Structure
 
@@ -394,7 +396,9 @@ To continue
 
 2612 [https://leetcode.com/problems/minimum-reverse-operations/description/](https://leetcode.com/problems/minimum-reverse-operations/description/)&#x20;
 
-2814 [https://leetcode.com/problems/minimum-time-takes-to-reach-destination-without-drowning/description/](https://leetcode.com/problems/minimum-time-takes-to-reach-destination-without-drowning/description/)
+2814 [https://leetcode.com/problems/minimum-time-takes-to-reach-destination-without-drowning/description/](https://leetcode.com/problems/minimum-time-takes-to-reach-destination-without-drowning/description/)&#x20;
+
+2850 [https://leetcode.com/problems/minimum-moves-to-spread-stones-over-grid/description/](https://leetcode.com/problems/minimum-moves-to-spread-stones-over-grid/description/)
 
 ### Bidectional BFS
 
