@@ -328,7 +328,11 @@
 
 2826 [https://leetcode.com/problems/sorting-three-groups/description/](https://leetcode.com/problems/sorting-three-groups/description/)&#x20;
 
-2830 [https://leetcode.com/problems/maximize-the-profit-as-the-salesman/description/](https://leetcode.com/problems/maximize-the-profit-as-the-salesman/description/)
+2830 [https://leetcode.com/problems/maximize-the-profit-as-the-salesman/description/](https://leetcode.com/problems/maximize-the-profit-as-the-salesman/description/)&#x20;
+
+2896 [https://leetcode.com/problems/apply-operations-to-make-two-strings-equal/description/](https://leetcode.com/problems/apply-operations-to-make-two-strings-equal/description/)&#x20;
+
+2901 [https://leetcode.com/problems/longest-unequal-adjacent-groups-subsequence-ii/description/](https://leetcode.com/problems/longest-unequal-adjacent-groups-subsequence-ii/description/)
 
 ### Bitmasking
 
@@ -414,7 +418,9 @@
 
 2518 [https://leetcode.com/problems/number-of-great-partitions/description/](https://leetcode.com/problems/number-of-great-partitions/description/)
 
-2585 [https://leetcode.com/problems/number-of-ways-to-earn-points/description/](https://leetcode.com/problems/number-of-ways-to-earn-points/description/)
+2585 [https://leetcode.com/problems/number-of-ways-to-earn-points/description/](https://leetcode.com/problems/number-of-ways-to-earn-points/description/)&#x20;
+
+2902 [https://leetcode.com/problems/count-of-sub-multisets-with-bounded-sum/solutions/](https://leetcode.com/problems/count-of-sub-multisets-with-bounded-sum/solutions/)
 
 ### Longest Common Subsequence
 

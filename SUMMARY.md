@@ -79,6 +79,7 @@
 * [Level 2 Refresh](quick-refresh/level-2-refresh/README.md)
   * [Common Mechanism](common-mechanism.md)
 * [List of Questions](quick-refresh/list-of-questions.md)
+* [List of Questions Part 2](quick-refresh/list-of-questions-part-2.md)
 * [Dynamic Programmings](quick-refresh/dynamic-programmings.md)
 * [Absolutely nuts](quick-refresh/absolutely-nuts.md)
 * [SQL](quick-refresh/sql.md)
