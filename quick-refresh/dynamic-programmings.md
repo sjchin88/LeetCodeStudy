@@ -332,7 +332,13 @@
 
 2896 [https://leetcode.com/problems/apply-operations-to-make-two-strings-equal/description/](https://leetcode.com/problems/apply-operations-to-make-two-strings-equal/description/)&#x20;
 
-2901 [https://leetcode.com/problems/longest-unequal-adjacent-groups-subsequence-ii/description/](https://leetcode.com/problems/longest-unequal-adjacent-groups-subsequence-ii/description/)
+2901 [https://leetcode.com/problems/longest-unequal-adjacent-groups-subsequence-ii/description/](https://leetcode.com/problems/longest-unequal-adjacent-groups-subsequence-ii/description/)&#x20;
+
+2911 [https://leetcode.com/problems/minimum-changes-to-make-k-semi-palindromes/description/](https://leetcode.com/problems/minimum-changes-to-make-k-semi-palindromes/description/)&#x20;
+
+2912 [https://leetcode.com/problems/number-of-ways-to-reach-destination-in-the-grid/description/](https://leetcode.com/problems/number-of-ways-to-reach-destination-in-the-grid/description/)
+
+
 
 ### Bitmasking
 
