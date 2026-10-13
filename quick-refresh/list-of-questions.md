@@ -1737,7 +1737,9 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 
 2736 [https://leetcode.com/problems/maximum-sum-queries/description/](https://leetcode.com/problems/maximum-sum-queries/description/)&#x20;
 
-2907 [https://leetcode.com/problems/maximum-profitable-triplets-with-increasing-prices-i/description/](https://leetcode.com/problems/maximum-profitable-triplets-with-increasing-prices-i/description/)
+2907 [https://leetcode.com/problems/maximum-profitable-triplets-with-increasing-prices-i/description/](https://leetcode.com/problems/maximum-profitable-triplets-with-increasing-prices-i/description/)&#x20;
+
+2916 [https://leetcode.com/problems/subarrays-distinct-element-sum-of-squares-ii/description/](https://leetcode.com/problems/subarrays-distinct-element-sum-of-squares-ii/description/)
 
 ### Binary Index Tree / Fenwick Tree
 

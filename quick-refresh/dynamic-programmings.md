@@ -338,7 +338,9 @@
 
 2912 [https://leetcode.com/problems/number-of-ways-to-reach-destination-in-the-grid/description/](https://leetcode.com/problems/number-of-ways-to-reach-destination-in-the-grid/description/)
 
+2919 [https://leetcode.com/problems/minimum-increment-operations-to-make-array-beautiful/description/](https://leetcode.com/problems/minimum-increment-operations-to-make-array-beautiful/description/)&#x20;
 
+2920 [https://leetcode.com/problems/maximum-points-after-collecting-coins-from-all-nodes/description/](https://leetcode.com/problems/maximum-points-after-collecting-coins-from-all-nodes/description/)
 
 ### Bitmasking
 
@@ -426,7 +428,9 @@
 
 2585 [https://leetcode.com/problems/number-of-ways-to-earn-points/description/](https://leetcode.com/problems/number-of-ways-to-earn-points/description/)&#x20;
 
-2902 [https://leetcode.com/problems/count-of-sub-multisets-with-bounded-sum/solutions/](https://leetcode.com/problems/count-of-sub-multisets-with-bounded-sum/solutions/)
+2902 [https://leetcode.com/problems/count-of-sub-multisets-with-bounded-sum/solutions/](https://leetcode.com/problems/count-of-sub-multisets-with-bounded-sum/solutions/)&#x20;
+
+2912&#x20;
 
 ### Longest Common Subsequence
 
