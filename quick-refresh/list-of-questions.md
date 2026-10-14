@@ -549,7 +549,9 @@ Unnecessary Hard
 
 2664 [https://leetcode.com/problems/the-knights-tour/description/](https://leetcode.com/problems/the-knights-tour/description/)&#x20;
 
-2852 [https://leetcode.com/problems/sum-of-remoteness-of-all-cells/description/](https://leetcode.com/problems/sum-of-remoteness-of-all-cells/description/)
+2852 [https://leetcode.com/problems/sum-of-remoteness-of-all-cells/description/](https://leetcode.com/problems/sum-of-remoteness-of-all-cells/description/)&#x20;
+
+2925 [https://leetcode.com/problems/maximum-score-after-applying-operations-on-a-tree/description/](https://leetcode.com/problems/maximum-score-after-applying-operations-on-a-tree/description/)
 
 ### Rerooting
 
@@ -1117,7 +1119,9 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 
 2594 [https://leetcode.com/problems/minimum-time-to-repair-cars/description/](https://leetcode.com/problems/minimum-time-to-repair-cars/description/)&#x20;
 
-2868 [https://leetcode.com/problems/the-wording-game/description/](https://leetcode.com/problems/the-wording-game/description/)
+2868 [https://leetcode.com/problems/the-wording-game/description/](https://leetcode.com/problems/the-wording-game/description/)&#x20;
+
+2931 Heap sort [https://leetcode.com/problems/maximum-spending-after-buying-items/description/](https://leetcode.com/problems/maximum-spending-after-buying-items/description/)
 
 ### Huffman's Algorithm
 
@@ -1193,7 +1197,9 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 
 1964 [https://leetcode.com/problems/find-the-longest-valid-obstacle-course-at-each-position/description/](https://leetcode.com/problems/find-the-longest-valid-obstacle-course-at-each-position/description/)&#x20;
 
-2111 [https://leetcode.com/problems/minimum-operations-to-make-the-array-k-increasing/description/](https://leetcode.com/problems/minimum-operations-to-make-the-array-k-increasing/description/)
+2111 [https://leetcode.com/problems/minimum-operations-to-make-the-array-k-increasing/description/](https://leetcode.com/problems/minimum-operations-to-make-the-array-k-increasing/description/)&#x20;
+
+2926 [https://leetcode.com/problems/maximum-balanced-subsequence-sum/description/](https://leetcode.com/problems/maximum-balanced-subsequence-sum/description/)
 
 
 
@@ -1383,7 +1389,11 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 
 2539 Fermat Little Theorem - [https://leetcode.com/problems/count-the-number-of-good-subsequences/description/](https://leetcode.com/problems/count-the-number-of-good-subsequences/description/)
 
-2514 [https://leetcode.com/problems/count-anagrams/description/](https://leetcode.com/problems/count-anagrams/description/)
+2514 [https://leetcode.com/problems/count-anagrams/description/](https://leetcode.com/problems/count-anagrams/description/)&#x20;
+
+2927 [https://leetcode.com/problems/distribute-candies-among-children-iii/description/](https://leetcode.com/problems/distribute-candies-among-children-iii/description/)&#x20;
+
+2930 [https://leetcode.com/problems/number-of-strings-which-can-be-rearranged-to-contain-substring/description/](https://leetcode.com/problems/number-of-strings-which-can-be-rearranged-to-contain-substring/description/)
 
 ### Pigeon Holes Principle
 
@@ -1763,7 +1773,9 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 
 2179 [https://leetcode.com/problems/count-good-triplets-in-an-array/description/](https://leetcode.com/problems/count-good-triplets-in-an-array/description/)&#x20;
 
-2250 [https://leetcode.com/problems/count-number-of-rectangles-containing-each-point/description/](https://leetcode.com/problems/count-number-of-rectangles-containing-each-point/description/)
+2250 [https://leetcode.com/problems/count-number-of-rectangles-containing-each-point/description/](https://leetcode.com/problems/count-number-of-rectangles-containing-each-point/description/)&#x20;
+
+2921 [https://leetcode.com/problems/maximum-profitable-triplets-with-increasing-prices-ii/description/](https://leetcode.com/problems/maximum-profitable-triplets-with-increasing-prices-ii/description/)
 
 ### Binary Lifting
 
