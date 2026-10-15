@@ -154,7 +154,7 @@ description: Two Pointers etc
 
 2781 [https://leetcode.com/problems/length-of-the-longest-valid-substring/description/](https://leetcode.com/problems/length-of-the-longest-valid-substring/description/)&#x20;
 
-
+2935 [https://leetcode.com/problems/maximum-strong-pair-xor-ii/description/](https://leetcode.com/problems/maximum-strong-pair-xor-ii/description/)
 
 ## Union Find
 
