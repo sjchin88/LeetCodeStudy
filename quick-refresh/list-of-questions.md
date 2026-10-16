@@ -56,7 +56,9 @@ with duplicate (hard and not necessary) - [https://leetcode.com/problems/find-mi
 
 2040 double binary [https://leetcode.com/problems/kth-smallest-product-of-two-sorted-arrays/description/](https://leetcode.com/problems/kth-smallest-product-of-two-sorted-arrays/description/)
 
-2080 [https://leetcode.com/problems/range-frequency-queries/description/](https://leetcode.com/problems/range-frequency-queries/description/)
+2080 [https://leetcode.com/problems/range-frequency-queries/description/](https://leetcode.com/problems/range-frequency-queries/description/)&#x20;
+
+2936 [https://leetcode.com/problems/number-of-equal-numbers-blocks/description/](https://leetcode.com/problems/number-of-equal-numbers-blocks/description/)
 
 ### Binary Search Result Range
 
@@ -314,7 +316,9 @@ To continue
 
 2802 [https://leetcode.com/problems/find-the-k-th-lucky-number/description/](https://leetcode.com/problems/find-the-k-th-lucky-number/description/)&#x20;
 
-2871 [https://leetcode.com/problems/split-array-into-maximum-number-of-subarrays/description/](https://leetcode.com/problems/split-array-into-maximum-number-of-subarrays/description/)
+2871 [https://leetcode.com/problems/split-array-into-maximum-number-of-subarrays/description/](https://leetcode.com/problems/split-array-into-maximum-number-of-subarrays/description/)&#x20;
+
+2939 [https://leetcode.com/problems/maximum-xor-product/description/](https://leetcode.com/problems/maximum-xor-product/description/)
 
 ### Gray Code
 
@@ -1299,7 +1303,9 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 
 2607 Every GCDth of (n, k) must be equal [https://leetcode.com/problems/make-k-subarray-sums-equal/description/](https://leetcode.com/problems/make-k-subarray-sums-equal/description/)&#x20;
 
-2654[https://leetcode.com/problems/minimum-number-of-operations-to-make-all-array-elements-equal-to-1/description/](https://leetcode.com/problems/minimum-number-of-operations-to-make-all-array-elements-equal-to-1/description/)
+2654[https://leetcode.com/problems/minimum-number-of-operations-to-make-all-array-elements-equal-to-1/description/](https://leetcode.com/problems/minimum-number-of-operations-to-make-all-array-elements-equal-to-1/description/)&#x20;
+
+2941 Sparse Table [https://leetcode.com/problems/maximum-gcd-sum-of-a-subarray/description/](https://leetcode.com/problems/maximum-gcd-sum-of-a-subarray/description/)
 
 ### Geometry
 
@@ -1469,7 +1475,9 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 
 2818 [https://leetcode.com/problems/apply-operations-to-maximize-score/description/](https://leetcode.com/problems/apply-operations-to-maximize-score/description/)&#x20;
 
-2863 Maintain a list of increasing stack first, then iterate from right to left , 2 pass [https://leetcode.com/problems/maximum-length-of-semi-decreasing-subarrays/description/](https://leetcode.com/problems/maximum-length-of-semi-decreasing-subarrays/description/)
+2863 Maintain a list of increasing stack first, then iterate from right to left , 2 pass [https://leetcode.com/problems/maximum-length-of-semi-decreasing-subarrays/description/](https://leetcode.com/problems/maximum-length-of-semi-decreasing-subarrays/description/)&#x20;
+
+2940 [https://leetcode.com/problems/find-building-where-alice-and-bob-can-meet/description/](https://leetcode.com/problems/find-building-where-alice-and-bob-can-meet/description/)
 
 ## Named Algorithms&#x20;
 
@@ -1651,7 +1659,9 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 
 2845 [https://leetcode.com/problems/count-of-interesting-subarrays/description/](https://leetcode.com/problems/count-of-interesting-subarrays/description/)&#x20;
 
-2875 [https://leetcode.com/problems/minimum-size-subarray-in-infinite-array/description/](https://leetcode.com/problems/minimum-size-subarray-in-infinite-array/description/)
+2875 [https://leetcode.com/problems/minimum-size-subarray-in-infinite-array/description/](https://leetcode.com/problems/minimum-size-subarray-in-infinite-array/description/)&#x20;
+
+2949 [https://leetcode.com/problems/count-beautiful-substrings-ii/description/](https://leetcode.com/problems/count-beautiful-substrings-ii/description/)
 
 ### Prefix\_Suffix array
 
@@ -1809,7 +1819,9 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 
 ## Sorting
 
-912 . [https://leetcode.com/problems/sort-an-array/description/](https://leetcode.com/problems/sort-an-array/description/)
+912 . [https://leetcode.com/problems/sort-an-array/description/](https://leetcode.com/problems/sort-an-array/description/)&#x20;
+
+2943 [https://leetcode.com/problems/maximize-area-of-square-hole-in-grid/description/](https://leetcode.com/problems/maximize-area-of-square-hole-in-grid/description/)
 
 ### Bubble Sort
 
@@ -1840,7 +1852,9 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 
 1813 [https://leetcode.com/problems/sentence-similarity-iii/submissions/2082685023/](https://leetcode.com/problems/sentence-similarity-iii/submissions/2082685023/)&#x20;
 
-2534 [https://leetcode.com/problems/time-taken-to-cross-the-door/description/](https://leetcode.com/problems/time-taken-to-cross-the-door/description/)
+2534 [https://leetcode.com/problems/time-taken-to-cross-the-door/description/](https://leetcode.com/problems/time-taken-to-cross-the-door/description/)&#x20;
+
+2944 DP [https://leetcode.com/problems/minimum-number-of-coins-for-fruits/description/](https://leetcode.com/problems/minimum-number-of-coins-for-fruits/description/)
 
 ## Stacks
 

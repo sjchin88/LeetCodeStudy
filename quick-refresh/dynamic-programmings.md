@@ -340,7 +340,9 @@
 
 2919 [https://leetcode.com/problems/minimum-increment-operations-to-make-array-beautiful/description/](https://leetcode.com/problems/minimum-increment-operations-to-make-array-beautiful/description/)&#x20;
 
-2920 [https://leetcode.com/problems/maximum-points-after-collecting-coins-from-all-nodes/description/](https://leetcode.com/problems/maximum-points-after-collecting-coins-from-all-nodes/description/)
+2920 [https://leetcode.com/problems/maximum-points-after-collecting-coins-from-all-nodes/description/](https://leetcode.com/problems/maximum-points-after-collecting-coins-from-all-nodes/description/)&#x20;
+
+2945 DP + Binary [https://leetcode.com/problems/find-maximum-non-decreasing-array-length/description/](https://leetcode.com/problems/find-maximum-non-decreasing-array-length/description/)
 
 ### Bitmasking
 
