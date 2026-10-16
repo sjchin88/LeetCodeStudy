@@ -1399,7 +1399,9 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 
 2927 [https://leetcode.com/problems/distribute-candies-among-children-iii/description/](https://leetcode.com/problems/distribute-candies-among-children-iii/description/)&#x20;
 
-2930 [https://leetcode.com/problems/number-of-strings-which-can-be-rearranged-to-contain-substring/description/](https://leetcode.com/problems/number-of-strings-which-can-be-rearranged-to-contain-substring/description/)
+2930 [https://leetcode.com/problems/number-of-strings-which-can-be-rearranged-to-contain-substring/description/](https://leetcode.com/problems/number-of-strings-which-can-be-rearranged-to-contain-substring/description/)&#x20;
+
+2954 [https://leetcode.com/problems/count-the-number-of-infection-sequences/description/](https://leetcode.com/problems/count-the-number-of-infection-sequences/description/)
 
 ### Pigeon Holes Principle
 
@@ -1661,7 +1663,9 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 
 2875 [https://leetcode.com/problems/minimum-size-subarray-in-infinite-array/description/](https://leetcode.com/problems/minimum-size-subarray-in-infinite-array/description/)&#x20;
 
-2949 [https://leetcode.com/problems/count-beautiful-substrings-ii/description/](https://leetcode.com/problems/count-beautiful-substrings-ii/description/)
+2949 [https://leetcode.com/problems/count-beautiful-substrings-ii/description/](https://leetcode.com/problems/count-beautiful-substrings-ii/description/)&#x20;
+
+2955 only 26 char [https://leetcode.com/problems/number-of-same-end-substrings/description/](https://leetcode.com/problems/number-of-same-end-substrings/description/)
 
 ### Prefix\_Suffix array
 

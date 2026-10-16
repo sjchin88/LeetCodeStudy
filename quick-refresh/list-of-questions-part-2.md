@@ -82,7 +82,9 @@ description: Two Pointers etc
 
 2555 [https://leetcode.com/problems/maximize-win-from-two-segments/description/](https://leetcode.com/problems/maximize-win-from-two-segments/description/)&#x20;
 
-2747 [https://leetcode.com/problems/count-zero-request-servers/description/](https://leetcode.com/problems/count-zero-request-servers/description/)
+2747 [https://leetcode.com/problems/count-zero-request-servers/description/](https://leetcode.com/problems/count-zero-request-servers/description/)&#x20;
+
+2953 [https://leetcode.com/problems/count-complete-substrings/](https://leetcode.com/problems/count-complete-substrings/)
 
 ### Fast and Slow Pointer
 
