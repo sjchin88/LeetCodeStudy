@@ -737,7 +737,11 @@ Unnecessary Hard
 
 ### Eulerian Path
 
-2097 [https://leetcode.com/problems/valid-arrangement-of-pairs/description/](https://leetcode.com/problems/valid-arrangement-of-pairs/description/)
+2097 [https://leetcode.com/problems/valid-arrangement-of-pairs/description/](https://leetcode.com/problems/valid-arrangement-of-pairs/description/)&#x20;
+
+### Floyd-Warshall
+
+2959 [https://leetcode.com/problems/number-of-possible-sets-of-closing-branches/description/](https://leetcode.com/problems/number-of-possible-sets-of-closing-branches/description/)
 
 ### Jarvis Algorithm / Graham Scan
 
