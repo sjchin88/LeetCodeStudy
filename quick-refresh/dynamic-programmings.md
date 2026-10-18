@@ -342,7 +342,9 @@
 
 2920 [https://leetcode.com/problems/maximum-points-after-collecting-coins-from-all-nodes/description/](https://leetcode.com/problems/maximum-points-after-collecting-coins-from-all-nodes/description/)&#x20;
 
-2945 DP + Binary [https://leetcode.com/problems/find-maximum-non-decreasing-array-length/description/](https://leetcode.com/problems/find-maximum-non-decreasing-array-length/description/)
+2945 DP + Binary [https://leetcode.com/problems/find-maximum-non-decreasing-array-length/description/](https://leetcode.com/problems/find-maximum-non-decreasing-array-length/description/)&#x20;
+
+2979 [https://leetcode.com/problems/most-expensive-item-that-can-not-be-bought/description/](https://leetcode.com/problems/most-expensive-item-that-can-not-be-bought/description/)
 
 ### Bitmasking
 
@@ -412,7 +414,9 @@
 
 2801 [https://leetcode.com/problems/count-stepping-numbers-in-range/description/](https://leetcode.com/problems/count-stepping-numbers-in-range/description/)&#x20;
 
-2827 [https://leetcode.com/problems/number-of-beautiful-integers-in-the-range/description/](https://leetcode.com/problems/number-of-beautiful-integers-in-the-range/description/)
+2827 [https://leetcode.com/problems/number-of-beautiful-integers-in-the-range/description/](https://leetcode.com/problems/number-of-beautiful-integers-in-the-range/description/)&#x20;
+
+2999 [https://leetcode.com/problems/count-the-number-of-powerful-integers/description/](https://leetcode.com/problems/count-the-number-of-powerful-integers/description/)
 
 ### Knacksack
 

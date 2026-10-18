@@ -94,6 +94,8 @@ with duplicate (hard and not necessary) - [https://leetcode.com/problems/find-mi
 
 2862 [https://leetcode.com/problems/maximum-number-of-alloys/description/](https://leetcode.com/problems/maximum-number-of-alloys/description/)
 
+3007 [https://leetcode.com/problems/maximum-number-that-sum-of-the-prices-is-less-than-or-equal-to-k/description/](https://leetcode.com/problems/maximum-number-that-sum-of-the-prices-is-less-than-or-equal-to-k/description/)
+
 
 
 ### Divide and Conquer
@@ -318,7 +320,13 @@ To continue
 
 2871 [https://leetcode.com/problems/split-array-into-maximum-number-of-subarrays/description/](https://leetcode.com/problems/split-array-into-maximum-number-of-subarrays/description/)&#x20;
 
-2939 [https://leetcode.com/problems/maximum-xor-product/description/](https://leetcode.com/problems/maximum-xor-product/description/)
+2939 [https://leetcode.com/problems/maximum-xor-product/description/](https://leetcode.com/problems/maximum-xor-product/description/)&#x20;
+
+2997 [https://leetcode.com/problems/minimum-number-of-operations-to-make-array-xor-equal-to-k/description/](https://leetcode.com/problems/minimum-number-of-operations-to-make-array-xor-equal-to-k/description/)
+
+### Bit Mask
+
+3003 [https://leetcode.com/problems/maximize-the-number-of-partitions-after-operations/description/](https://leetcode.com/problems/maximize-the-number-of-partitions-after-operations/description/)
 
 ### Gray Code
 
@@ -555,7 +563,15 @@ Unnecessary Hard
 
 2852 [https://leetcode.com/problems/sum-of-remoteness-of-all-cells/description/](https://leetcode.com/problems/sum-of-remoteness-of-all-cells/description/)&#x20;
 
-2925 [https://leetcode.com/problems/maximum-score-after-applying-operations-on-a-tree/description/](https://leetcode.com/problems/maximum-score-after-applying-operations-on-a-tree/description/)
+2925 [https://leetcode.com/problems/maximum-score-after-applying-operations-on-a-tree/description/](https://leetcode.com/problems/maximum-score-after-applying-operations-on-a-tree/description/)&#x20;
+
+2973 [https://leetcode.com/problems/find-number-of-coins-to-place-in-tree-nodes/description/](https://leetcode.com/problems/find-number-of-coins-to-place-in-tree-nodes/description/)&#x20;
+
+2992 [https://leetcode.com/problems/number-of-self-divisible-permutations/description/](https://leetcode.com/problems/number-of-self-divisible-permutations/description/)&#x20;
+
+2998 [https://leetcode.com/problems/minimum-number-of-operations-to-make-x-and-y-equal/description/](https://leetcode.com/problems/minimum-number-of-operations-to-make-x-and-y-equal/description/)&#x20;
+
+3004 [https://leetcode.com/problems/maximum-subtree-of-the-same-color/description/](https://leetcode.com/problems/maximum-subtree-of-the-same-color/description/)
 
 ### Rerooting
 
@@ -733,7 +749,9 @@ Unnecessary Hard
 
 2714 [https://leetcode.com/problems/find-shortest-path-with-k-hops/description/](https://leetcode.com/problems/find-shortest-path-with-k-hops/description/)&#x20;
 
-2737 [https://leetcode.com/problems/find-the-closest-marked-node/description/](https://leetcode.com/problems/find-the-closest-marked-node/description/)
+2737 [https://leetcode.com/problems/find-the-closest-marked-node/description/](https://leetcode.com/problems/find-the-closest-marked-node/description/)&#x20;
+
+2976 [https://leetcode.com/problems/minimum-cost-to-convert-string-i/description/](https://leetcode.com/problems/minimum-cost-to-convert-string-i/description/)
 
 ### Eulerian Path
 
@@ -1009,7 +1027,9 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 
 2897 [https://leetcode.com/problems/apply-operations-on-array-to-maximize-sum-of-squares/description/](https://leetcode.com/problems/apply-operations-on-array-to-maximize-sum-of-squares/description/)&#x20;
 
-2910 [https://leetcode.com/problems/minimum-number-of-groups-to-create-a-valid-assignment/description/](https://leetcode.com/problems/minimum-number-of-groups-to-create-a-valid-assignment/description/)
+2910 [https://leetcode.com/problems/minimum-number-of-groups-to-create-a-valid-assignment/description/](https://leetcode.com/problems/minimum-number-of-groups-to-create-a-valid-assignment/description/)&#x20;
+
+2963 [https://leetcode.com/problems/count-the-number-of-good-partitions/description/](https://leetcode.com/problems/count-the-number-of-good-partitions/description/)
 
 ### Hash
 
@@ -1129,7 +1149,9 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 
 2868 [https://leetcode.com/problems/the-wording-game/description/](https://leetcode.com/problems/the-wording-game/description/)&#x20;
 
-2931 Heap sort [https://leetcode.com/problems/maximum-spending-after-buying-items/description/](https://leetcode.com/problems/maximum-spending-after-buying-items/description/)
+2931 Heap sort [https://leetcode.com/problems/maximum-spending-after-buying-items/description/](https://leetcode.com/problems/maximum-spending-after-buying-items/description/)&#x20;
+
+3009 [https://leetcode.com/problems/maximum-number-of-intersections-on-the-chart/description/](https://leetcode.com/problems/maximum-number-of-intersections-on-the-chart/description/)
 
 ### Huffman's Algorithm
 
@@ -1279,7 +1301,9 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 
 2842 [https://leetcode.com/problems/count-k-subsequences-of-a-string-with-maximum-beauty/solutions/3992969/javacpython-math-by-lee215-r1ep/](https://leetcode.com/problems/count-k-subsequences-of-a-string-with-maximum-beauty/solutions/3992969/javacpython-math-by-lee215-r1ep/)&#x20;
 
-2862 [https://leetcode.com/problems/maximum-element-sum-of-a-complete-subset-of-indices/description/](https://leetcode.com/problems/maximum-element-sum-of-a-complete-subset-of-indices/description/)
+2862 [https://leetcode.com/problems/maximum-element-sum-of-a-complete-subset-of-indices/description/](https://leetcode.com/problems/maximum-element-sum-of-a-complete-subset-of-indices/description/)&#x20;
+
+2967 find median - [https://leetcode.com/problems/minimum-cost-to-make-array-equalindromic/description/](https://leetcode.com/problems/minimum-cost-to-make-array-equalindromic/description/)
 
 ### Fibonacci
 
@@ -1365,7 +1389,9 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 
 2524 [https://leetcode.com/problems/maximum-frequency-score-of-a-subarray/description/](https://leetcode.com/problems/maximum-frequency-score-of-a-subarray/description/)&#x20;
 
-2906 Mod and Suffix - [https://leetcode.com/problems/construct-product-matrix/description/](https://leetcode.com/problems/construct-product-matrix/description/)
+2906 Mod and Suffix - [https://leetcode.com/problems/construct-product-matrix/description/](https://leetcode.com/problems/construct-product-matrix/description/)&#x20;
+
+2961 [https://leetcode.com/problems/double-modular-exponentiation/description/](https://leetcode.com/problems/double-modular-exponentiation/description/)
 
 ### Permutations
 
@@ -1669,7 +1695,9 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 
 2949 [https://leetcode.com/problems/count-beautiful-substrings-ii/description/](https://leetcode.com/problems/count-beautiful-substrings-ii/description/)&#x20;
 
-2955 only 26 char [https://leetcode.com/problems/number-of-same-end-substrings/description/](https://leetcode.com/problems/number-of-same-end-substrings/description/)
+2955 only 26 char [https://leetcode.com/problems/number-of-same-end-substrings/description/](https://leetcode.com/problems/number-of-same-end-substrings/description/)&#x20;
+
+2983 [https://leetcode.com/problems/palindrome-rearrangement-queries/description/](https://leetcode.com/problems/palindrome-rearrangement-queries/description/)
 
 ### Prefix\_Suffix array
 
@@ -1767,7 +1795,9 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 
 2907 [https://leetcode.com/problems/maximum-profitable-triplets-with-increasing-prices-i/description/](https://leetcode.com/problems/maximum-profitable-triplets-with-increasing-prices-i/description/)&#x20;
 
-2916 [https://leetcode.com/problems/subarrays-distinct-element-sum-of-squares-ii/description/](https://leetcode.com/problems/subarrays-distinct-element-sum-of-squares-ii/description/)
+2916 [https://leetcode.com/problems/subarrays-distinct-element-sum-of-squares-ii/description/](https://leetcode.com/problems/subarrays-distinct-element-sum-of-squares-ii/description/)&#x20;
+
+2969 [https://leetcode.com/problems/minimum-number-of-coins-for-fruits-ii/description/](https://leetcode.com/problems/minimum-number-of-coins-for-fruits-ii/description/)
 
 ### Binary Index Tree / Fenwick Tree
 
@@ -1823,7 +1853,9 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 
 2735 [https://leetcode.com/problems/collecting-chocolates/description/](https://leetcode.com/problems/collecting-chocolates/description/)&#x20;
 
-2749 [https://leetcode.com/problems/minimum-operations-to-make-the-integer-zero/description/](https://leetcode.com/problems/minimum-operations-to-make-the-integer-zero/description/)
+2749 [https://leetcode.com/problems/minimum-operations-to-make-the-integer-zero/description/](https://leetcode.com/problems/minimum-operations-to-make-the-integer-zero/description/)&#x20;
+
+2975 [https://leetcode.com/problems/maximum-square-area-by-removing-fences-from-a-field/description/](https://leetcode.com/problems/maximum-square-area-by-removing-fences-from-a-field/description/)
 
 ## Sorting
 
@@ -1925,6 +1957,10 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 2223 Or Z or rolling hash - [https://leetcode.com/problems/sum-of-scores-of-built-strings/description/](https://leetcode.com/problems/sum-of-scores-of-built-strings/description/)&#x20;
 
 2800 [https://leetcode.com/problems/shortest-string-that-contains-three-strings/description/](https://leetcode.com/problems/shortest-string-that-contains-three-strings/description/)&#x20;
+
+3006 [https://leetcode.com/problems/find-beautiful-indices-in-the-given-array-i/description/](https://leetcode.com/problems/find-beautiful-indices-in-the-given-array-i/description/)&#x20;
+
+3008 [https://leetcode.com/problems/find-beautiful-indices-in-the-given-array-ii/description/](https://leetcode.com/problems/find-beautiful-indices-in-the-given-array-ii/description/)
 
 ### Longest Common Prefix (LCP)
 
