@@ -46,7 +46,9 @@
 
 2056 [https://leetcode.com/problems/number-of-valid-move-combinations-on-chessboard/description/](https://leetcode.com/problems/number-of-valid-move-combinations-on-chessboard/description/)&#x20;
 
-2061 [https://leetcode.com/problems/number-of-spaces-cleaning-robot-cleaned/description/](https://leetcode.com/problems/number-of-spaces-cleaning-robot-cleaned/description/)
+2061 [https://leetcode.com/problems/number-of-spaces-cleaning-robot-cleaned/description/](https://leetcode.com/problems/number-of-spaces-cleaning-robot-cleaned/description/) &#x20;
+
+3030 [https://leetcode.com/problems/find-the-grid-of-region-average/description/](https://leetcode.com/problems/find-the-grid-of-region-average/description/)
 
 ## Recursion
 

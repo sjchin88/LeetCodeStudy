@@ -344,7 +344,13 @@
 
 2945 DP + Binary [https://leetcode.com/problems/find-maximum-non-decreasing-array-length/description/](https://leetcode.com/problems/find-maximum-non-decreasing-array-length/description/)&#x20;
 
-2979 [https://leetcode.com/problems/most-expensive-item-that-can-not-be-bought/description/](https://leetcode.com/problems/most-expensive-item-that-can-not-be-bought/description/)
+2979 [https://leetcode.com/problems/most-expensive-item-that-can-not-be-bought/description/](https://leetcode.com/problems/most-expensive-item-that-can-not-be-bought/description/)&#x20;
+
+3018 [https://leetcode.com/problems/maximum-number-of-removal-queries-that-can-be-processed-i/description/](https://leetcode.com/problems/maximum-number-of-removal-queries-that-can-be-processed-i/description/)&#x20;
+
+3040 [https://leetcode.com/problems/maximum-number-of-operations-with-the-same-score-ii/description/](https://leetcode.com/problems/maximum-number-of-operations-with-the-same-score-ii/description/)
+
+3041 [https://leetcode.com/problems/maximize-consecutive-elements-in-an-array-after-modification/description/](https://leetcode.com/problems/maximize-consecutive-elements-in-an-array-after-modification/description/)
 
 ### Bitmasking
 

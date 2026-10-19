@@ -88,7 +88,9 @@ description: Two Pointers etc
 
 2953 [https://leetcode.com/problems/count-complete-substrings/](https://leetcode.com/problems/count-complete-substrings/)
 
-2968 [https://leetcode.com/problems/apply-operations-to-maximize-frequency-score/description/](https://leetcode.com/problems/apply-operations-to-maximize-frequency-score/description/)
+2968 [https://leetcode.com/problems/apply-operations-to-maximize-frequency-score/description/](https://leetcode.com/problems/apply-operations-to-maximize-frequency-score/description/)&#x20;
+
+3013 [https://leetcode.com/problems/divide-an-array-into-subarrays-with-minimum-cost-ii/description/](https://leetcode.com/problems/divide-an-array-into-subarrays-with-minimum-cost-ii/description/)
 
 ### Fast and Slow Pointer
 
@@ -162,7 +164,11 @@ description: Two Pointers etc
 
 2935 [https://leetcode.com/problems/maximum-strong-pair-xor-ii/description/](https://leetcode.com/problems/maximum-strong-pair-xor-ii/description/)&#x20;
 
-2977 Floyd + DP [https://leetcode.com/problems/minimum-cost-to-convert-string-ii/description/](https://leetcode.com/problems/minimum-cost-to-convert-string-ii/description/)
+2977 Floyd + DP [https://leetcode.com/problems/minimum-cost-to-convert-string-ii/description/](https://leetcode.com/problems/minimum-cost-to-convert-string-ii/description/)&#x20;
+
+3043 [https://leetcode.com/problems/find-the-length-of-the-longest-common-prefix/description/](https://leetcode.com/problems/find-the-length-of-the-longest-common-prefix/description/)&#x20;
+
+3045 [https://leetcode.com/problems/count-prefix-and-suffix-pairs-ii/description/](https://leetcode.com/problems/count-prefix-and-suffix-pairs-ii/description/)
 
 ## Union Find
 

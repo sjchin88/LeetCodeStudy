@@ -96,6 +96,10 @@ with duplicate (hard and not necessary) - [https://leetcode.com/problems/find-mi
 
 3007 [https://leetcode.com/problems/maximum-number-that-sum-of-the-prices-is-less-than-or-equal-to-k/description/](https://leetcode.com/problems/maximum-number-that-sum-of-the-prices-is-less-than-or-equal-to-k/description/)
 
+also 3048&#x20;
+
+3049 Heap [https://leetcode.com/problems/earliest-second-to-mark-indices-ii/description/](https://leetcode.com/problems/earliest-second-to-mark-indices-ii/description/)
+
 
 
 ### Divide and Conquer
@@ -322,7 +326,9 @@ To continue
 
 2939 [https://leetcode.com/problems/maximum-xor-product/description/](https://leetcode.com/problems/maximum-xor-product/description/)&#x20;
 
-2997 [https://leetcode.com/problems/minimum-number-of-operations-to-make-array-xor-equal-to-k/description/](https://leetcode.com/problems/minimum-number-of-operations-to-make-array-xor-equal-to-k/description/)
+2997 [https://leetcode.com/problems/minimum-number-of-operations-to-make-array-xor-equal-to-k/description/](https://leetcode.com/problems/minimum-number-of-operations-to-make-array-xor-equal-to-k/description/)&#x20;
+
+3022 [https://leetcode.com/problems/minimize-or-of-remaining-elements-using-operations/description/](https://leetcode.com/problems/minimize-or-of-remaining-elements-using-operations/description/)
 
 ### Bit Mask
 
@@ -701,7 +707,9 @@ Unnecessary Hard
 
 2493 Graph Coloring [https://leetcode.com/problems/divide-nodes-into-the-maximum-number-of-groups/description/](https://leetcode.com/problems/divide-nodes-into-the-maximum-number-of-groups/description/)&#x20;
 
-2508 Greedy [https://leetcode.com/problems/add-edges-to-make-degrees-of-all-nodes-even/description/](https://leetcode.com/problems/add-edges-to-make-degrees-of-all-nodes-even/description/)
+2508 Greedy [https://leetcode.com/problems/add-edges-to-make-degrees-of-all-nodes-even/description/](https://leetcode.com/problems/add-edges-to-make-degrees-of-all-nodes-even/description/)&#x20;
+
+3017 [https://leetcode.com/problems/count-the-number-of-houses-at-a-certain-distance-ii/description/](https://leetcode.com/problems/count-the-number-of-houses-at-a-certain-distance-ii/description/)
 
 ### Dijkstra <a href="#approach-dijkstras" id="approach-dijkstras"></a>
 
@@ -1029,7 +1037,9 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 
 2910 [https://leetcode.com/problems/minimum-number-of-groups-to-create-a-valid-assignment/description/](https://leetcode.com/problems/minimum-number-of-groups-to-create-a-valid-assignment/description/)&#x20;
 
-2963 [https://leetcode.com/problems/count-the-number-of-good-partitions/description/](https://leetcode.com/problems/count-the-number-of-good-partitions/description/)
+2963 [https://leetcode.com/problems/count-the-number-of-good-partitions/description/](https://leetcode.com/problems/count-the-number-of-good-partitions/description/)&#x20;
+
+3035 [https://leetcode.com/problems/maximum-palindromes-after-operations/description/](https://leetcode.com/problems/maximum-palindromes-after-operations/description/)
 
 ### Hash
 
@@ -1303,7 +1313,9 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 
 2862 [https://leetcode.com/problems/maximum-element-sum-of-a-complete-subset-of-indices/description/](https://leetcode.com/problems/maximum-element-sum-of-a-complete-subset-of-indices/description/)&#x20;
 
-2967 find median - [https://leetcode.com/problems/minimum-cost-to-make-array-equalindromic/description/](https://leetcode.com/problems/minimum-cost-to-make-array-equalindromic/description/)
+2967 find median - [https://leetcode.com/problems/minimum-cost-to-make-array-equalindromic/description/](https://leetcode.com/problems/minimum-cost-to-make-array-equalindromic/description/)&#x20;
+
+3021 [https://leetcode.com/problems/alice-and-bob-playing-flower-game/description/](https://leetcode.com/problems/alice-and-bob-playing-flower-game/description/)
 
 ### Fibonacci
 
@@ -1335,7 +1347,7 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 
 2941 Sparse Table [https://leetcode.com/problems/maximum-gcd-sum-of-a-subarray/description/](https://leetcode.com/problems/maximum-gcd-sum-of-a-subarray/description/)
 
-### Geometry
+### Geometry (2D-3D)
 
 1401 [https://leetcode.com/problems/circle-and-rectangle-overlapping/description/](https://leetcode.com/problems/circle-and-rectangle-overlapping/description/)
 
@@ -1357,7 +1369,11 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 
 2249 [https://leetcode.com/problems/count-lattice-points-inside-a-circle/description/](https://leetcode.com/problems/count-lattice-points-inside-a-circle/description/)&#x20;
 
-2345 [https://leetcode.com/problems/finding-the-number-of-visible-mountains/description/](https://leetcode.com/problems/finding-the-number-of-visible-mountains/description/)
+2345 [https://leetcode.com/problems/finding-the-number-of-visible-mountains/description/](https://leetcode.com/problems/finding-the-number-of-visible-mountains/description/)&#x20;
+
+3027 [https://leetcode.com/problems/find-the-number-of-ways-to-place-people-ii/description/](https://leetcode.com/problems/find-the-number-of-ways-to-place-people-ii/description/)&#x20;
+
+3047 [https://leetcode.com/problems/find-the-largest-area-of-square-inside-two-rectangles/description/](https://leetcode.com/problems/find-the-largest-area-of-square-inside-two-rectangles/description/)
 
 ### Matrix
 
@@ -1391,7 +1407,9 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 
 2906 Mod and Suffix - [https://leetcode.com/problems/construct-product-matrix/description/](https://leetcode.com/problems/construct-product-matrix/description/)&#x20;
 
-2961 [https://leetcode.com/problems/double-modular-exponentiation/description/](https://leetcode.com/problems/double-modular-exponentiation/description/)
+2961 [https://leetcode.com/problems/double-modular-exponentiation/description/](https://leetcode.com/problems/double-modular-exponentiation/description/)&#x20;
+
+3102 [https://leetcode.com/problems/minimize-length-of-array-using-operations/description/](https://leetcode.com/problems/minimize-length-of-array-using-operations/description/)
 
 ### Permutations
 
@@ -1451,7 +1469,9 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 
 1819 [https://leetcode.com/problems/number-of-different-subsequences-gcds/description/](https://leetcode.com/problems/number-of-different-subsequences-gcds/description/)&#x20;
 
-2523 [https://leetcode.com/problems/closest-prime-numbers-in-range/submissions/2142055032/](https://leetcode.com/problems/closest-prime-numbers-in-range/submissions/2142055032/)
+2523 [https://leetcode.com/problems/closest-prime-numbers-in-range/submissions/2142055032/](https://leetcode.com/problems/closest-prime-numbers-in-range/submissions/2142055032/)&#x20;
+
+3044 [https://leetcode.com/problems/most-frequent-prime/description/](https://leetcode.com/problems/most-frequent-prime/description/)
 
 
 
@@ -1509,7 +1529,9 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 
 2863 Maintain a list of increasing stack first, then iterate from right to left , 2 pass [https://leetcode.com/problems/maximum-length-of-semi-decreasing-subarrays/description/](https://leetcode.com/problems/maximum-length-of-semi-decreasing-subarrays/description/)&#x20;
 
-2940 [https://leetcode.com/problems/find-building-where-alice-and-bob-can-meet/description/](https://leetcode.com/problems/find-building-where-alice-and-bob-can-meet/description/)
+2940 [https://leetcode.com/problems/find-building-where-alice-and-bob-can-meet/description/](https://leetcode.com/problems/find-building-where-alice-and-bob-can-meet/description/)&#x20;
+
+3025 [https://leetcode.com/problems/find-the-number-of-ways-to-place-people-i/description/](https://leetcode.com/problems/find-the-number-of-ways-to-place-people-i/description/)
 
 ## Named Algorithms&#x20;
 
@@ -1697,7 +1719,9 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 
 2955 only 26 char [https://leetcode.com/problems/number-of-same-end-substrings/description/](https://leetcode.com/problems/number-of-same-end-substrings/description/)&#x20;
 
-2983 [https://leetcode.com/problems/palindrome-rearrangement-queries/description/](https://leetcode.com/problems/palindrome-rearrangement-queries/description/)
+2983 [https://leetcode.com/problems/palindrome-rearrangement-queries/description/](https://leetcode.com/problems/palindrome-rearrangement-queries/description/)&#x20;
+
+3026 [https://leetcode.com/problems/maximum-good-subarray-sum/description/](https://leetcode.com/problems/maximum-good-subarray-sum/description/)
 
 ### Prefix\_Suffix array
 
@@ -1760,6 +1784,8 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 2156 + Sliding window [https://leetcode.com/problems/find-substring-with-given-hash-value/description/](https://leetcode.com/problems/find-substring-with-given-hash-value/description/)&#x20;
 
 2851 [https://leetcode.com/problems/string-transformation/description/](https://leetcode.com/problems/string-transformation/description/)
+
+3037 [https://leetcode.com/problems/find-pattern-in-infinite-stream-ii/description/](https://leetcode.com/problems/find-pattern-in-infinite-stream-ii/description/)
 
 
 
@@ -1855,7 +1881,9 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 
 2749 [https://leetcode.com/problems/minimum-operations-to-make-the-integer-zero/description/](https://leetcode.com/problems/minimum-operations-to-make-the-integer-zero/description/)&#x20;
 
-2975 [https://leetcode.com/problems/maximum-square-area-by-removing-fences-from-a-field/description/](https://leetcode.com/problems/maximum-square-area-by-removing-fences-from-a-field/description/)
+2975 [https://leetcode.com/problems/maximum-square-area-by-removing-fences-from-a-field/description/](https://leetcode.com/problems/maximum-square-area-by-removing-fences-from-a-field/description/)&#x20;
+
+3020 [https://leetcode.com/problems/find-the-maximum-number-of-elements-in-subset/description/](https://leetcode.com/problems/find-the-maximum-number-of-elements-in-subset/description/)
 
 ## Sorting
 
@@ -1960,7 +1988,11 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 
 3006 [https://leetcode.com/problems/find-beautiful-indices-in-the-given-array-i/description/](https://leetcode.com/problems/find-beautiful-indices-in-the-given-array-i/description/)&#x20;
 
-3008 [https://leetcode.com/problems/find-beautiful-indices-in-the-given-array-ii/description/](https://leetcode.com/problems/find-beautiful-indices-in-the-given-array-ii/description/)
+3008 [https://leetcode.com/problems/find-beautiful-indices-in-the-given-array-ii/description/](https://leetcode.com/problems/find-beautiful-indices-in-the-given-array-ii/description/)&#x20;
+
+3031 [https://leetcode.com/problems/minimum-time-to-revert-word-to-initial-state-ii/description/](https://leetcode.com/problems/minimum-time-to-revert-word-to-initial-state-ii/description/)&#x20;
+
+3036 [https://leetcode.com/problems/number-of-subarrays-that-match-a-pattern-ii/solutions/](https://leetcode.com/problems/number-of-subarrays-that-match-a-pattern-ii/solutions/)
 
 ### Longest Common Prefix (LCP)
 
