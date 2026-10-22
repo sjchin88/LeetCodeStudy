@@ -577,7 +577,9 @@ Unnecessary Hard
 
 2998 [https://leetcode.com/problems/minimum-number-of-operations-to-make-x-and-y-equal/description/](https://leetcode.com/problems/minimum-number-of-operations-to-make-x-and-y-equal/description/)&#x20;
 
-3004 [https://leetcode.com/problems/maximum-subtree-of-the-same-color/description/](https://leetcode.com/problems/maximum-subtree-of-the-same-color/description/)
+3004 [https://leetcode.com/problems/maximum-subtree-of-the-same-color/description/](https://leetcode.com/problems/maximum-subtree-of-the-same-color/description/)&#x20;
+
+3067 [https://leetcode.com/problems/count-pairs-of-connectable-servers-in-a-weighted-tree-network/description/](https://leetcode.com/problems/count-pairs-of-connectable-servers-in-a-weighted-tree-network/description/)
 
 ### Rerooting
 

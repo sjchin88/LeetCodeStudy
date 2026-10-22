@@ -350,7 +350,9 @@
 
 3040 [https://leetcode.com/problems/maximum-number-of-operations-with-the-same-score-ii/description/](https://leetcode.com/problems/maximum-number-of-operations-with-the-same-score-ii/description/)
 
-3041 [https://leetcode.com/problems/maximize-consecutive-elements-in-an-array-after-modification/description/](https://leetcode.com/problems/maximize-consecutive-elements-in-an-array-after-modification/description/)
+3041 [https://leetcode.com/problems/maximize-consecutive-elements-in-an-array-after-modification/description/](https://leetcode.com/problems/maximize-consecutive-elements-in-an-array-after-modification/description/)&#x20;
+
+3068 [https://leetcode.com/problems/find-the-maximum-sum-of-node-values/description/](https://leetcode.com/problems/find-the-maximum-sum-of-node-values/description/)
 
 ### Bitmasking
 
