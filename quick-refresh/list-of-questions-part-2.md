@@ -168,7 +168,9 @@ description: Two Pointers etc
 
 3043 [https://leetcode.com/problems/find-the-length-of-the-longest-common-prefix/description/](https://leetcode.com/problems/find-the-length-of-the-longest-common-prefix/description/)&#x20;
 
-3045 [https://leetcode.com/problems/count-prefix-and-suffix-pairs-ii/description/](https://leetcode.com/problems/count-prefix-and-suffix-pairs-ii/description/)
+3045 [https://leetcode.com/problems/count-prefix-and-suffix-pairs-ii/description/](https://leetcode.com/problems/count-prefix-and-suffix-pairs-ii/description/)&#x20;
+
+3076 [https://leetcode.com/problems/shortest-uncommon-substring-in-an-array/description/](https://leetcode.com/problems/shortest-uncommon-substring-in-an-array/description/)
 
 ## Union Find
 

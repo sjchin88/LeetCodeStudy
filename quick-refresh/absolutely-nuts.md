@@ -50,6 +50,8 @@
 
 3030 [https://leetcode.com/problems/find-the-grid-of-region-average/description/](https://leetcode.com/problems/find-the-grid-of-region-average/description/)
 
+3071 [https://leetcode.com/problems/minimum-operations-to-write-the-letter-y-on-a-grid/description/](https://leetcode.com/problems/minimum-operations-to-write-the-letter-y-on-a-grid/description/)
+
 ## Recursion
 
 247 . [https://leetcode.com/problems/strobogrammatic-number-ii/description/](https://leetcode.com/problems/strobogrammatic-number-ii/description/)

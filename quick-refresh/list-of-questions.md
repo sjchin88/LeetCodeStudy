@@ -1649,7 +1649,9 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 
 2102 [https://leetcode.com/problems/sequentially-ordinal-rank-tracker/description/](https://leetcode.com/problems/sequentially-ordinal-rank-tracker/description/)&#x20;
 
-2276 [https://leetcode.com/problems/count-integers-in-intervals/description/](https://leetcode.com/problems/count-integers-in-intervals/description/)
+2276 [https://leetcode.com/problems/count-integers-in-intervals/description/](https://leetcode.com/problems/count-integers-in-intervals/description/)&#x20;
+
+3073 [https://leetcode.com/problems/maximum-increasing-triplet-value/description/](https://leetcode.com/problems/maximum-increasing-triplet-value/description/)
 
 ## Points Operation (2D Map)
 
@@ -1851,7 +1853,9 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 
 2250 [https://leetcode.com/problems/count-number-of-rectangles-containing-each-point/description/](https://leetcode.com/problems/count-number-of-rectangles-containing-each-point/description/)&#x20;
 
-2921 [https://leetcode.com/problems/maximum-profitable-triplets-with-increasing-prices-ii/description/](https://leetcode.com/problems/maximum-profitable-triplets-with-increasing-prices-ii/description/)
+2921 [https://leetcode.com/problems/maximum-profitable-triplets-with-increasing-prices-ii/description/](https://leetcode.com/problems/maximum-profitable-triplets-with-increasing-prices-ii/description/)&#x20;
+
+3072 [https://leetcode.com/problems/distribute-elements-into-two-arrays-ii/description/](https://leetcode.com/problems/distribute-elements-into-two-arrays-ii/description/)
 
 ### Binary Lifting
 
