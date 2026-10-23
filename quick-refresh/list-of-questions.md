@@ -1041,7 +1041,9 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 
 2963 [https://leetcode.com/problems/count-the-number-of-good-partitions/description/](https://leetcode.com/problems/count-the-number-of-good-partitions/description/)&#x20;
 
-3035 [https://leetcode.com/problems/maximum-palindromes-after-operations/description/](https://leetcode.com/problems/maximum-palindromes-after-operations/description/)
+3035 [https://leetcode.com/problems/maximum-palindromes-after-operations/description/](https://leetcode.com/problems/maximum-palindromes-after-operations/description/)&#x20;
+
+3088 [https://leetcode.com/problems/make-string-anti-palindrome/solutions/](https://leetcode.com/problems/make-string-anti-palindrome/solutions/)
 
 ### Hash
 

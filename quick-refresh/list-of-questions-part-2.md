@@ -90,7 +90,9 @@ description: Two Pointers etc
 
 2968 [https://leetcode.com/problems/apply-operations-to-maximize-frequency-score/description/](https://leetcode.com/problems/apply-operations-to-maximize-frequency-score/description/)&#x20;
 
-3013 [https://leetcode.com/problems/divide-an-array-into-subarrays-with-minimum-cost-ii/description/](https://leetcode.com/problems/divide-an-array-into-subarrays-with-minimum-cost-ii/description/)
+3013 [https://leetcode.com/problems/divide-an-array-into-subarrays-with-minimum-cost-ii/description/](https://leetcode.com/problems/divide-an-array-into-subarrays-with-minimum-cost-ii/description/)&#x20;
+
+3086 [https://leetcode.com/problems/minimum-moves-to-pick-k-ones/description/](https://leetcode.com/problems/minimum-moves-to-pick-k-ones/description/)
 
 ### Fast and Slow Pointer
 

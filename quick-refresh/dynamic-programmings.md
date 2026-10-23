@@ -354,7 +354,9 @@
 
 3068 [https://leetcode.com/problems/find-the-maximum-sum-of-node-values/description/](https://leetcode.com/problems/find-the-maximum-sum-of-node-values/description/)&#x20;
 
-3077 [https://leetcode.com/problems/maximum-strength-of-k-disjoint-subarrays/description/](https://leetcode.com/problems/maximum-strength-of-k-disjoint-subarrays/description/)
+3077 [https://leetcode.com/problems/maximum-strength-of-k-disjoint-subarrays/description/](https://leetcode.com/problems/maximum-strength-of-k-disjoint-subarrays/description/)&#x20;
+
+3082 [https://leetcode.com/problems/find-the-sum-of-the-power-of-all-subsequences/description/](https://leetcode.com/problems/find-the-sum-of-the-power-of-all-subsequences/description/)
 
 ### Bitmasking
 
