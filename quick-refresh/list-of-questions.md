@@ -98,7 +98,9 @@ with duplicate (hard and not necessary) - [https://leetcode.com/problems/find-mi
 
 also 3048&#x20;
 
-3049 Heap [https://leetcode.com/problems/earliest-second-to-mark-indices-ii/description/](https://leetcode.com/problems/earliest-second-to-mark-indices-ii/description/)
+3049 Heap [https://leetcode.com/problems/earliest-second-to-mark-indices-ii/description/](https://leetcode.com/problems/earliest-second-to-mark-indices-ii/description/)&#x20;
+
+3097 with sliding window [https://leetcode.com/problems/shortest-subarray-with-or-at-least-k-ii/description/](https://leetcode.com/problems/shortest-subarray-with-or-at-least-k-ii/description/)
 
 
 
@@ -328,7 +330,9 @@ To continue
 
 2997 [https://leetcode.com/problems/minimum-number-of-operations-to-make-array-xor-equal-to-k/description/](https://leetcode.com/problems/minimum-number-of-operations-to-make-array-xor-equal-to-k/description/)&#x20;
 
-3022 [https://leetcode.com/problems/minimize-or-of-remaining-elements-using-operations/description/](https://leetcode.com/problems/minimize-or-of-remaining-elements-using-operations/description/)
+3022 [https://leetcode.com/problems/minimize-or-of-remaining-elements-using-operations/description/](https://leetcode.com/problems/minimize-or-of-remaining-elements-using-operations/description/)&#x20;
+
+3094 [https://leetcode.com/problems/guess-the-number-using-bitwise-questions-ii/description/](https://leetcode.com/problems/guess-the-number-using-bitwise-questions-ii/description/)
 
 ### Bit Mask
 
@@ -1385,7 +1389,11 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 
 1632 [https://leetcode.com/problems/rank-transform-of-a-matrix/description/](https://leetcode.com/problems/rank-transform-of-a-matrix/description/)
 
-1761 [https://leetcode.com/problems/minimum-degree-of-a-connected-trio-in-a-graph/description/](https://leetcode.com/problems/minimum-degree-of-a-connected-trio-in-a-graph/description/)
+1761 [https://leetcode.com/problems/minimum-degree-of-a-connected-trio-in-a-graph/description/](https://leetcode.com/problems/minimum-degree-of-a-connected-trio-in-a-graph/description/)&#x20;
+
+### Manhattan Distance
+
+3102 [https://leetcode.com/problems/minimize-manhattan-distances/description/](https://leetcode.com/problems/minimize-manhattan-distances/description/)
 
 ### Modulus Operation
 
@@ -1727,7 +1735,11 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 
 2983 [https://leetcode.com/problems/palindrome-rearrangement-queries/description/](https://leetcode.com/problems/palindrome-rearrangement-queries/description/)&#x20;
 
-3026 [https://leetcode.com/problems/maximum-good-subarray-sum/description/](https://leetcode.com/problems/maximum-good-subarray-sum/description/)
+3026 [https://leetcode.com/problems/maximum-good-subarray-sum/description/](https://leetcode.com/problems/maximum-good-subarray-sum/description/)&#x20;
+
+3096 [https://leetcode.com/problems/minimum-levels-to-gain-more-points/description/](https://leetcode.com/problems/minimum-levels-to-gain-more-points/description/)&#x20;
+
+3104 [https://leetcode.com/problems/find-longest-self-contained-substring/description/](https://leetcode.com/problems/find-longest-self-contained-substring/description/)
 
 ### Prefix\_Suffix array
 
@@ -1857,7 +1869,9 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 
 2921 [https://leetcode.com/problems/maximum-profitable-triplets-with-increasing-prices-ii/description/](https://leetcode.com/problems/maximum-profitable-triplets-with-increasing-prices-ii/description/)&#x20;
 
-3072 [https://leetcode.com/problems/distribute-elements-into-two-arrays-ii/description/](https://leetcode.com/problems/distribute-elements-into-two-arrays-ii/description/)
+3072 [https://leetcode.com/problems/distribute-elements-into-two-arrays-ii/description/](https://leetcode.com/problems/distribute-elements-into-two-arrays-ii/description/)&#x20;
+
+3109 [https://leetcode.com/problems/find-the-index-of-permutation/solutions/](https://leetcode.com/problems/find-the-index-of-permutation/solutions/)
 
 ### Binary Lifting
 
@@ -1891,7 +1905,9 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 
 2975 [https://leetcode.com/problems/maximum-square-area-by-removing-fences-from-a-field/description/](https://leetcode.com/problems/maximum-square-area-by-removing-fences-from-a-field/description/)&#x20;
 
-3020 [https://leetcode.com/problems/find-the-maximum-number-of-elements-in-subset/description/](https://leetcode.com/problems/find-the-maximum-number-of-elements-in-subset/description/)
+3020 [https://leetcode.com/problems/find-the-maximum-number-of-elements-in-subset/description/](https://leetcode.com/problems/find-the-maximum-number-of-elements-in-subset/description/)&#x20;
+
+3100 [https://leetcode.com/problems/water-bottles-ii/description/](https://leetcode.com/problems/water-bottles-ii/description/)
 
 ## Sorting
 

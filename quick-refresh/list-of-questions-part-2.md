@@ -172,7 +172,9 @@ description: Two Pointers etc
 
 3045 [https://leetcode.com/problems/count-prefix-and-suffix-pairs-ii/description/](https://leetcode.com/problems/count-prefix-and-suffix-pairs-ii/description/)&#x20;
 
-3076 [https://leetcode.com/problems/shortest-uncommon-substring-in-an-array/description/](https://leetcode.com/problems/shortest-uncommon-substring-in-an-array/description/)
+3076 [https://leetcode.com/problems/shortest-uncommon-substring-in-an-array/description/](https://leetcode.com/problems/shortest-uncommon-substring-in-an-array/description/)&#x20;
+
+3093 [https://leetcode.com/problems/longest-common-suffix-queries/description/](https://leetcode.com/problems/longest-common-suffix-queries/description/)
 
 ## Union Find
 
@@ -241,3 +243,5 @@ description: Two Pointers etc
 1697 [https://leetcode.com/problems/checking-existence-of-edge-length-limited-paths/description/](https://leetcode.com/problems/checking-existence-of-edge-length-limited-paths/description/)&#x20;
 
 2685 [https://leetcode.com/problems/count-the-number-of-complete-components/description/](https://leetcode.com/problems/count-the-number-of-complete-components/description/)
+
+3108 [https://leetcode.com/problems/minimum-cost-walk-in-weighted-graph/description/](https://leetcode.com/problems/minimum-cost-walk-in-weighted-graph/description/)

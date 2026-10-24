@@ -356,7 +356,9 @@
 
 3077 [https://leetcode.com/problems/maximum-strength-of-k-disjoint-subarrays/description/](https://leetcode.com/problems/maximum-strength-of-k-disjoint-subarrays/description/)&#x20;
 
-3082 [https://leetcode.com/problems/find-the-sum-of-the-power-of-all-subsequences/description/](https://leetcode.com/problems/find-the-sum-of-the-power-of-all-subsequences/description/)
+3082 [https://leetcode.com/problems/find-the-sum-of-the-power-of-all-subsequences/description/](https://leetcode.com/problems/find-the-sum-of-the-power-of-all-subsequences/description/)&#x20;
+
+3098 [https://leetcode.com/problems/find-the-sum-of-subsequence-powers/description/](https://leetcode.com/problems/find-the-sum-of-subsequence-powers/description/)
 
 ### Bitmasking
 
