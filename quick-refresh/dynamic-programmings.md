@@ -358,7 +358,13 @@
 
 3082 [https://leetcode.com/problems/find-the-sum-of-the-power-of-all-subsequences/description/](https://leetcode.com/problems/find-the-sum-of-the-power-of-all-subsequences/description/)&#x20;
 
-3098 [https://leetcode.com/problems/find-the-sum-of-subsequence-powers/description/](https://leetcode.com/problems/find-the-sum-of-subsequence-powers/description/)
+3098 [https://leetcode.com/problems/find-the-sum-of-subsequence-powers/description/](https://leetcode.com/problems/find-the-sum-of-subsequence-powers/description/)&#x20;
+
+3117 [https://leetcode.com/problems/minimum-sum-of-values-by-dividing-array/description/](https://leetcode.com/problems/minimum-sum-of-values-by-dividing-array/description/)&#x20;
+
+3122 [https://leetcode.com/problems/minimum-number-of-operations-to-satisfy-conditions/description/](https://leetcode.com/problems/minimum-number-of-operations-to-satisfy-conditions/description/)&#x20;
+
+3130 [https://leetcode.com/problems/find-all-possible-stable-binary-arrays-ii/description/](https://leetcode.com/problems/find-all-possible-stable-binary-arrays-ii/description/)
 
 ### Bitmasking
 

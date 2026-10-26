@@ -765,7 +765,11 @@ Unnecessary Hard
 
 2737 [https://leetcode.com/problems/find-the-closest-marked-node/description/](https://leetcode.com/problems/find-the-closest-marked-node/description/)&#x20;
 
-2976 [https://leetcode.com/problems/minimum-cost-to-convert-string-i/description/](https://leetcode.com/problems/minimum-cost-to-convert-string-i/description/)
+2976 [https://leetcode.com/problems/minimum-cost-to-convert-string-i/description/](https://leetcode.com/problems/minimum-cost-to-convert-string-i/description/)&#x20;
+
+3112 [https://leetcode.com/problems/minimum-time-to-visit-disappearing-nodes/description/](https://leetcode.com/problems/minimum-time-to-visit-disappearing-nodes/description/)&#x20;
+
+3123 [https://leetcode.com/problems/find-edges-in-shortest-paths/description/](https://leetcode.com/problems/find-edges-in-shortest-paths/description/)
 
 ### Eulerian Path
 
@@ -1381,7 +1385,11 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 
 3027 [https://leetcode.com/problems/find-the-number-of-ways-to-place-people-ii/description/](https://leetcode.com/problems/find-the-number-of-ways-to-place-people-ii/description/)&#x20;
 
-3047 [https://leetcode.com/problems/find-the-largest-area-of-square-inside-two-rectangles/description/](https://leetcode.com/problems/find-the-largest-area-of-square-inside-two-rectangles/description/)
+3047 [https://leetcode.com/problems/find-the-largest-area-of-square-inside-two-rectangles/description/](https://leetcode.com/problems/find-the-largest-area-of-square-inside-two-rectangles/description/)&#x20;
+
+### Inclusion Exclusion
+
+3116 [https://leetcode.com/problems/kth-smallest-amount-with-single-denomination-combination/description/](https://leetcode.com/problems/kth-smallest-amount-with-single-denomination-combination/description/)
 
 ### Matrix
 
