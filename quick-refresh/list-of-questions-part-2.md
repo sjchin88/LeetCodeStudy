@@ -94,6 +94,8 @@ description: Two Pointers etc
 
 3086 [https://leetcode.com/problems/minimum-moves-to-pick-k-ones/description/](https://leetcode.com/problems/minimum-moves-to-pick-k-ones/description/)
 
+3137 [https://leetcode.com/problems/minimum-number-of-operations-to-make-word-k-periodic/description/](https://leetcode.com/problems/minimum-number-of-operations-to-make-word-k-periodic/description/)
+
 ### Fast and Slow Pointer
 
 142 . [https://leetcode.com/problems/linked-list-cycle-ii/description/](https://leetcode.com/problems/linked-list-cycle-ii/description/)

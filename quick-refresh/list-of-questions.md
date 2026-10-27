@@ -100,7 +100,9 @@ also 3048&#x20;
 
 3049 Heap [https://leetcode.com/problems/earliest-second-to-mark-indices-ii/description/](https://leetcode.com/problems/earliest-second-to-mark-indices-ii/description/)&#x20;
 
-3097 with sliding window [https://leetcode.com/problems/shortest-subarray-with-or-at-least-k-ii/description/](https://leetcode.com/problems/shortest-subarray-with-or-at-least-k-ii/description/)
+3097 with sliding window [https://leetcode.com/problems/shortest-subarray-with-or-at-least-k-ii/description/](https://leetcode.com/problems/shortest-subarray-with-or-at-least-k-ii/description/)&#x20;
+
+3134 [https://leetcode.com/problems/find-the-median-of-the-uniqueness-array/description/](https://leetcode.com/problems/find-the-median-of-the-uniqueness-array/description/)
 
 
 
@@ -336,7 +338,9 @@ To continue
 
 ### Bit Mask
 
-3003 [https://leetcode.com/problems/maximize-the-number-of-partitions-after-operations/description/](https://leetcode.com/problems/maximize-the-number-of-partitions-after-operations/description/)
+3003 [https://leetcode.com/problems/maximize-the-number-of-partitions-after-operations/description/](https://leetcode.com/problems/maximize-the-number-of-partitions-after-operations/description/)&#x20;
+
+3133 [https://leetcode.com/problems/minimum-array-end/submissions/2181914837/](https://leetcode.com/problems/minimum-array-end/submissions/2181914837/)
 
 ### Gray Code
 
@@ -1051,7 +1055,9 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 
 3035 [https://leetcode.com/problems/maximum-palindromes-after-operations/description/](https://leetcode.com/problems/maximum-palindromes-after-operations/description/)&#x20;
 
-3088 [https://leetcode.com/problems/make-string-anti-palindrome/solutions/](https://leetcode.com/problems/make-string-anti-palindrome/solutions/)
+3088 [https://leetcode.com/problems/make-string-anti-palindrome/solutions/](https://leetcode.com/problems/make-string-anti-palindrome/solutions/)&#x20;
+
+3139 [https://leetcode.com/problems/minimum-cost-to-equalize-array/description/](https://leetcode.com/problems/minimum-cost-to-equalize-array/description/)
 
 ### Hash
 
@@ -1493,7 +1499,7 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 
 3044 [https://leetcode.com/problems/most-frequent-prime/description/](https://leetcode.com/problems/most-frequent-prime/description/)
 
-
+3138 [https://leetcode.com/problems/minimum-length-of-anagram-concatenation/description/](https://leetcode.com/problems/minimum-length-of-anagram-concatenation/description/)
 
 ### Set Operation
 
@@ -1811,7 +1817,9 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 
 2851 [https://leetcode.com/problems/string-transformation/description/](https://leetcode.com/problems/string-transformation/description/)
 
-3037 [https://leetcode.com/problems/find-pattern-in-infinite-stream-ii/description/](https://leetcode.com/problems/find-pattern-in-infinite-stream-ii/description/)
+3037 [https://leetcode.com/problems/find-pattern-in-infinite-stream-ii/description/](https://leetcode.com/problems/find-pattern-in-infinite-stream-ii/description/)&#x20;
+
+3135 or longest common substring [https://leetcode.com/problems/equalize-strings-by-adding-or-removing-characters-at-ends/description/](https://leetcode.com/problems/equalize-strings-by-adding-or-removing-characters-at-ends/description/)
 
 
 
@@ -1916,6 +1924,8 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 3020 [https://leetcode.com/problems/find-the-maximum-number-of-elements-in-subset/description/](https://leetcode.com/problems/find-the-maximum-number-of-elements-in-subset/description/)&#x20;
 
 3100 [https://leetcode.com/problems/water-bottles-ii/description/](https://leetcode.com/problems/water-bottles-ii/description/)
+
+3132 [https://leetcode.com/problems/find-the-integer-added-to-array-ii/](https://leetcode.com/problems/find-the-integer-added-to-array-ii/)
 
 ## Sorting
 
