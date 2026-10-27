@@ -364,7 +364,13 @@
 
 3122 [https://leetcode.com/problems/minimum-number-of-operations-to-satisfy-conditions/description/](https://leetcode.com/problems/minimum-number-of-operations-to-satisfy-conditions/description/)&#x20;
 
-3130 [https://leetcode.com/problems/find-all-possible-stable-binary-arrays-ii/description/](https://leetcode.com/problems/find-all-possible-stable-binary-arrays-ii/description/)
+3130 [https://leetcode.com/problems/find-all-possible-stable-binary-arrays-ii/description/](https://leetcode.com/problems/find-all-possible-stable-binary-arrays-ii/description/)&#x20;
+
+3144 [https://leetcode.com/problems/minimum-substring-partition-of-equal-character-frequency/description/](https://leetcode.com/problems/minimum-substring-partition-of-equal-character-frequency/description/)&#x20;
+
+3148 [https://leetcode.com/problems/maximum-difference-score-in-a-grid/description/](https://leetcode.com/problems/maximum-difference-score-in-a-grid/description/)
+
+3149 [https://leetcode.com/problems/find-the-minimum-cost-array-permutation/description/](https://leetcode.com/problems/find-the-minimum-cost-array-permutation/description/)
 
 ### Bitmasking
 

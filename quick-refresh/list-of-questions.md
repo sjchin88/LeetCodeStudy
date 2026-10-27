@@ -104,7 +104,7 @@ also 3048&#x20;
 
 3134 [https://leetcode.com/problems/find-the-median-of-the-uniqueness-array/description/](https://leetcode.com/problems/find-the-median-of-the-uniqueness-array/description/)
 
-
+3145 [https://leetcode.com/problems/find-products-of-elements-of-big-array/description/](https://leetcode.com/problems/find-products-of-elements-of-big-array/description/)
 
 ### Divide and Conquer
 
@@ -432,7 +432,9 @@ To continue
 
 2850 [https://leetcode.com/problems/minimum-moves-to-spread-stones-over-grid/description/](https://leetcode.com/problems/minimum-moves-to-spread-stones-over-grid/description/)&#x20;
 
-2872 [https://leetcode.com/problems/maximum-number-of-k-divisible-components/description/](https://leetcode.com/problems/maximum-number-of-k-divisible-components/description/)
+2872 [https://leetcode.com/problems/maximum-number-of-k-divisible-components/description/](https://leetcode.com/problems/maximum-number-of-k-divisible-components/description/)&#x20;
+
+3141 [https://leetcode.com/problems/maximum-hamming-distances/description/](https://leetcode.com/problems/maximum-hamming-distances/description/)
 
 ### Bidectional BFS
 
@@ -1057,7 +1059,9 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 
 3088 [https://leetcode.com/problems/make-string-anti-palindrome/solutions/](https://leetcode.com/problems/make-string-anti-palindrome/solutions/)&#x20;
 
-3139 [https://leetcode.com/problems/minimum-cost-to-equalize-array/description/](https://leetcode.com/problems/minimum-cost-to-equalize-array/description/)
+3139 [https://leetcode.com/problems/minimum-cost-to-equalize-array/description/](https://leetcode.com/problems/minimum-cost-to-equalize-array/description/)&#x20;
+
+3143 [https://leetcode.com/problems/maximum-points-inside-the-square/description/](https://leetcode.com/problems/maximum-points-inside-the-square/description/)
 
 ### Hash
 
