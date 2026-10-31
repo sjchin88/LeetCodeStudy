@@ -58,7 +58,11 @@ with duplicate (hard and not necessary) - [https://leetcode.com/problems/find-mi
 
 2080 [https://leetcode.com/problems/range-frequency-queries/description/](https://leetcode.com/problems/range-frequency-queries/description/)&#x20;
 
-2936 [https://leetcode.com/problems/number-of-equal-numbers-blocks/description/](https://leetcode.com/problems/number-of-equal-numbers-blocks/description/)
+2936 [https://leetcode.com/problems/number-of-equal-numbers-blocks/description/](https://leetcode.com/problems/number-of-equal-numbers-blocks/description/)&#x20;
+
+3152 [https://leetcode.com/problems/special-array-ii/description/](https://leetcode.com/problems/special-array-ii/description/)
+
+3155 [https://leetcode.com/problems/maximum-number-of-upgradable-servers/description/](https://leetcode.com/problems/maximum-number-of-upgradable-servers/description/)
 
 ### Binary Search Result Range
 
@@ -1479,7 +1483,9 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 
 2930 [https://leetcode.com/problems/number-of-strings-which-can-be-rearranged-to-contain-substring/description/](https://leetcode.com/problems/number-of-strings-which-can-be-rearranged-to-contain-substring/description/)&#x20;
 
-2954 [https://leetcode.com/problems/count-the-number-of-infection-sequences/description/](https://leetcode.com/problems/count-the-number-of-infection-sequences/description/)
+2954 [https://leetcode.com/problems/count-the-number-of-infection-sequences/description/](https://leetcode.com/problems/count-the-number-of-infection-sequences/description/)&#x20;
+
+3154 [https://leetcode.com/problems/find-number-of-ways-to-reach-the-k-th-stair/description/](https://leetcode.com/problems/find-number-of-ways-to-reach-the-k-th-stair/description/)
 
 ### Pigeon Holes Principle
 
