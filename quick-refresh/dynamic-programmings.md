@@ -370,7 +370,17 @@
 
 3148 [https://leetcode.com/problems/maximum-difference-score-in-a-grid/description/](https://leetcode.com/problems/maximum-difference-score-in-a-grid/description/)
 
-3149 [https://leetcode.com/problems/find-the-minimum-cost-array-permutation/description/](https://leetcode.com/problems/find-the-minimum-cost-array-permutation/description/)
+3149 [https://leetcode.com/problems/find-the-minimum-cost-array-permutation/description/](https://leetcode.com/problems/find-the-minimum-cost-array-permutation/description/)&#x20;
+
+3177 [https://leetcode.com/problems/find-the-maximum-length-of-a-good-subsequence-ii/description/](https://leetcode.com/problems/find-the-maximum-length-of-a-good-subsequence-ii/description/)&#x20;
+
+3181 [https://leetcode.com/problems/maximum-total-reward-using-operations-ii/description/](https://leetcode.com/problems/maximum-total-reward-using-operations-ii/description/)&#x20;
+
+3193 [https://leetcode.com/problems/count-the-number-of-inversions/description/](https://leetcode.com/problems/count-the-number-of-inversions/description/)&#x20;
+
+3196 [https://leetcode.com/problems/maximize-total-cost-of-alternating-subarrays/description/](https://leetcode.com/problems/maximize-total-cost-of-alternating-subarrays/description/)&#x20;
+
+3202 [https://leetcode.com/problems/find-the-maximum-length-of-valid-subsequence-ii/description/](https://leetcode.com/problems/find-the-maximum-length-of-valid-subsequence-ii/description/)
 
 ### Bitmasking
 
@@ -462,7 +472,7 @@
 
 2902 [https://leetcode.com/problems/count-of-sub-multisets-with-bounded-sum/solutions/](https://leetcode.com/problems/count-of-sub-multisets-with-bounded-sum/solutions/)&#x20;
 
-2912&#x20;
+3182 [https://leetcode.com/problems/the-number-of-ways-to-make-the-sum/description/](https://leetcode.com/problems/the-number-of-ways-to-make-the-sum/description/)
 
 ### Longest Common Subsequence
 

@@ -94,7 +94,9 @@ description: Two Pointers etc
 
 3086 [https://leetcode.com/problems/minimum-moves-to-pick-k-ones/description/](https://leetcode.com/problems/minimum-moves-to-pick-k-ones/description/)
 
-3137 [https://leetcode.com/problems/minimum-number-of-operations-to-make-word-k-periodic/description/](https://leetcode.com/problems/minimum-number-of-operations-to-make-word-k-periodic/description/)
+3137 [https://leetcode.com/problems/minimum-number-of-operations-to-make-word-k-periodic/description/](https://leetcode.com/problems/minimum-number-of-operations-to-make-word-k-periodic/description/)&#x20;
+
+3208 [https://leetcode.com/problems/alternating-groups-ii/description/](https://leetcode.com/problems/alternating-groups-ii/description/)
 
 ### Fast and Slow Pointer
 

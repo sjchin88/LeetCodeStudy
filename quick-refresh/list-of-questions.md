@@ -338,7 +338,11 @@ To continue
 
 3022 [https://leetcode.com/problems/minimize-or-of-remaining-elements-using-operations/description/](https://leetcode.com/problems/minimize-or-of-remaining-elements-using-operations/description/)&#x20;
 
-3094 [https://leetcode.com/problems/guess-the-number-using-bitwise-questions-ii/description/](https://leetcode.com/problems/guess-the-number-using-bitwise-questions-ii/description/)
+3094 [https://leetcode.com/problems/guess-the-number-using-bitwise-questions-ii/description/](https://leetcode.com/problems/guess-the-number-using-bitwise-questions-ii/description/)&#x20;
+
+3171 [https://leetcode.com/problems/find-subarray-with-bitwise-or-closest-to-k/description/](https://leetcode.com/problems/find-subarray-with-bitwise-or-closest-to-k/description/)&#x20;
+
+3209 [https://leetcode.com/problems/number-of-subarrays-with-and-value-of-k/description/](https://leetcode.com/problems/number-of-subarrays-with-and-value-of-k/description/)
 
 ### Bit Mask
 
@@ -438,7 +442,9 @@ To continue
 
 2872 [https://leetcode.com/problems/maximum-number-of-k-divisible-components/description/](https://leetcode.com/problems/maximum-number-of-k-divisible-components/description/)&#x20;
 
-3141 [https://leetcode.com/problems/maximum-hamming-distances/description/](https://leetcode.com/problems/maximum-hamming-distances/description/)
+3141 [https://leetcode.com/problems/maximum-hamming-distances/description/](https://leetcode.com/problems/maximum-hamming-distances/description/)&#x20;
+
+3203 [https://leetcode.com/problems/find-minimum-diameter-after-merging-two-trees/description/](https://leetcode.com/problems/find-minimum-diameter-after-merging-two-trees/description/)
 
 ### Bidectional BFS
 
@@ -1065,7 +1071,13 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 
 3139 [https://leetcode.com/problems/minimum-cost-to-equalize-array/description/](https://leetcode.com/problems/minimum-cost-to-equalize-array/description/)&#x20;
 
-3143 [https://leetcode.com/problems/maximum-points-inside-the-square/description/](https://leetcode.com/problems/maximum-points-inside-the-square/description/)
+3143 [https://leetcode.com/problems/maximum-points-inside-the-square/description/](https://leetcode.com/problems/maximum-points-inside-the-square/description/)&#x20;
+
+3192 [https://leetcode.com/problems/minimum-operations-to-make-binary-array-elements-equal-to-one-ii/description/](https://leetcode.com/problems/minimum-operations-to-make-binary-array-elements-equal-to-one-ii/description/)&#x20;
+
+3197 [https://leetcode.com/problems/find-the-minimum-area-to-cover-all-ones-ii/description/](https://leetcode.com/problems/find-the-minimum-area-to-cover-all-ones-ii/description/)&#x20;
+
+3201 [https://leetcode.com/problems/find-the-maximum-length-of-valid-subsequence-i/description/](https://leetcode.com/problems/find-the-maximum-length-of-valid-subsequence-i/description/)
 
 ### Hash
 
@@ -1443,7 +1455,13 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 
 2961 [https://leetcode.com/problems/double-modular-exponentiation/description/](https://leetcode.com/problems/double-modular-exponentiation/description/)&#x20;
 
-3102 [https://leetcode.com/problems/minimize-length-of-array-using-operations/description/](https://leetcode.com/problems/minimize-length-of-array-using-operations/description/)
+3102 [https://leetcode.com/problems/minimize-length-of-array-using-operations/description/](https://leetcode.com/problems/minimize-length-of-array-using-operations/description/)&#x20;
+
+
+
+### Pascal Triangle
+
+3179 [https://leetcode.com/problems/find-the-n-th-value-after-k-seconds/description/](https://leetcode.com/problems/find-the-n-th-value-after-k-seconds/description/)
 
 ### Permutations
 
@@ -1509,7 +1527,9 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 
 3044 [https://leetcode.com/problems/most-frequent-prime/description/](https://leetcode.com/problems/most-frequent-prime/description/)
 
-3138 [https://leetcode.com/problems/minimum-length-of-anagram-concatenation/description/](https://leetcode.com/problems/minimum-length-of-anagram-concatenation/description/)
+3138 [https://leetcode.com/problems/minimum-length-of-anagram-concatenation/description/](https://leetcode.com/problems/minimum-length-of-anagram-concatenation/description/)&#x20;
+
+3164 [https://leetcode.com/problems/find-the-number-of-good-pairs-ii/description/](https://leetcode.com/problems/find-the-number-of-good-pairs-ii/description/)
 
 ### Set Operation
 
@@ -1869,6 +1889,12 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 
 2969 [https://leetcode.com/problems/minimum-number-of-coins-for-fruits-ii/description/](https://leetcode.com/problems/minimum-number-of-coins-for-fruits-ii/description/)
 
+3161 [https://leetcode.com/problems/block-placement-queries/description/](https://leetcode.com/problems/block-placement-queries/description/)&#x20;
+
+3165 [https://leetcode.com/problems/maximum-sum-of-subsequence-with-non-adjacent-elements/description/](https://leetcode.com/problems/maximum-sum-of-subsequence-with-non-adjacent-elements/description/)&#x20;
+
+3187 [https://leetcode.com/problems/peaks-in-array/description/](https://leetcode.com/problems/peaks-in-array/description/)
+
 ### Binary Index Tree / Fenwick Tree
 
 308 . [https://leetcode.com/problems/range-sum-query-2d-mutable/description/](https://leetcode.com/problems/range-sum-query-2d-mutable/description/)
@@ -1951,7 +1977,7 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 
 215 . Quick Select -[https://leetcode.com/problems/kth-largest-element-in-an-array/description/](https://leetcode.com/problems/kth-largest-element-in-an-array/description/)
 
-### Radix Sort / Bucket Sort
+### Radix Sort / Bucket Sort / Counting Sort
 
 164 . [https://leetcode.com/problems/maximum-gap/](https://leetcode.com/problems/maximum-gap/)
 
@@ -1961,7 +1987,9 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 
 1465 [https://leetcode.com/problems/maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts/description/](https://leetcode.com/problems/maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts/description/)&#x20;
 
-2243 [https://leetcode.com/problems/query-kth-smallest-trimmed-number/description/](https://leetcode.com/problems/query-kth-smallest-trimmed-number/description/)
+2243 [https://leetcode.com/problems/query-kth-smallest-trimmed-number/description/](https://leetcode.com/problems/query-kth-smallest-trimmed-number/description/)&#x20;
+
+3189 [https://leetcode.com/problems/minimum-moves-to-get-a-peaceful-board/description/](https://leetcode.com/problems/minimum-moves-to-get-a-peaceful-board/description/)
 
 ### Wiggle sort
 
