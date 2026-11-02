@@ -342,7 +342,9 @@ To continue
 
 3171 [https://leetcode.com/problems/find-subarray-with-bitwise-or-closest-to-k/description/](https://leetcode.com/problems/find-subarray-with-bitwise-or-closest-to-k/description/)&#x20;
 
-3209 [https://leetcode.com/problems/number-of-subarrays-with-and-value-of-k/description/](https://leetcode.com/problems/number-of-subarrays-with-and-value-of-k/description/)
+3209 [https://leetcode.com/problems/number-of-subarrays-with-and-value-of-k/description/](https://leetcode.com/problems/number-of-subarrays-with-and-value-of-k/description/)&#x20;
+
+3215 [https://leetcode.com/problems/count-triplets-with-even-xor-set-bits-ii/description/](https://leetcode.com/problems/count-triplets-with-even-xor-set-bits-ii/description/)
 
 ### Bit Mask
 
@@ -599,7 +601,9 @@ Unnecessary Hard
 
 3004 [https://leetcode.com/problems/maximum-subtree-of-the-same-color/description/](https://leetcode.com/problems/maximum-subtree-of-the-same-color/description/)&#x20;
 
-3067 [https://leetcode.com/problems/count-pairs-of-connectable-servers-in-a-weighted-tree-network/description/](https://leetcode.com/problems/count-pairs-of-connectable-servers-in-a-weighted-tree-network/description/)
+3067 [https://leetcode.com/problems/count-pairs-of-connectable-servers-in-a-weighted-tree-network/description/](https://leetcode.com/problems/count-pairs-of-connectable-servers-in-a-weighted-tree-network/description/)&#x20;
+
+3211 [https://leetcode.com/problems/generate-binary-strings-without-adjacent-zeros/description/](https://leetcode.com/problems/generate-binary-strings-without-adjacent-zeros/description/)
 
 ### Rerooting
 
@@ -1077,7 +1081,11 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 
 3197 [https://leetcode.com/problems/find-the-minimum-area-to-cover-all-ones-ii/description/](https://leetcode.com/problems/find-the-minimum-area-to-cover-all-ones-ii/description/)&#x20;
 
-3201 [https://leetcode.com/problems/find-the-maximum-length-of-valid-subsequence-i/description/](https://leetcode.com/problems/find-the-maximum-length-of-valid-subsequence-i/description/)
+3201 [https://leetcode.com/problems/find-the-maximum-length-of-valid-subsequence-i/description/](https://leetcode.com/problems/find-the-maximum-length-of-valid-subsequence-i/description/)&#x20;
+
+3219 [https://leetcode.com/problems/minimum-cost-for-cutting-cake-ii/description/](https://leetcode.com/problems/minimum-cost-for-cutting-cake-ii/description/)&#x20;
+
+3229 [https://leetcode.com/problems/minimum-operations-to-make-array-equal-to-target/description/](https://leetcode.com/problems/minimum-operations-to-make-array-equal-to-target/description/)
 
 ### Hash
 
@@ -1279,7 +1287,7 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 
 2926 [https://leetcode.com/problems/maximum-balanced-subsequence-sum/description/](https://leetcode.com/problems/maximum-balanced-subsequence-sum/description/)
 
-
+3231 [https://leetcode.com/problems/minimum-number-of-increasing-subsequence-to-be-removed/description/](https://leetcode.com/problems/minimum-number-of-increasing-subsequence-to-be-removed/description/)
 
 ## LFU Cache
 
@@ -1529,7 +1537,9 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 
 3138 [https://leetcode.com/problems/minimum-length-of-anagram-concatenation/description/](https://leetcode.com/problems/minimum-length-of-anagram-concatenation/description/)&#x20;
 
-3164 [https://leetcode.com/problems/find-the-number-of-good-pairs-ii/description/](https://leetcode.com/problems/find-the-number-of-good-pairs-ii/description/)
+3164 [https://leetcode.com/problems/find-the-number-of-good-pairs-ii/description/](https://leetcode.com/problems/find-the-number-of-good-pairs-ii/description/)&#x20;
+
+3233 [https://leetcode.com/problems/find-the-count-of-numbers-which-are-not-special/description/](https://leetcode.com/problems/find-the-count-of-numbers-which-are-not-special/description/)
 
 ### Set Operation
 
@@ -1783,7 +1793,9 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 
 3096 [https://leetcode.com/problems/minimum-levels-to-gain-more-points/description/](https://leetcode.com/problems/minimum-levels-to-gain-more-points/description/)&#x20;
 
-3104 [https://leetcode.com/problems/find-longest-self-contained-substring/description/](https://leetcode.com/problems/find-longest-self-contained-substring/description/)
+3104 [https://leetcode.com/problems/find-longest-self-contained-substring/description/](https://leetcode.com/problems/find-longest-self-contained-substring/description/)&#x20;
+
+3212 [https://leetcode.com/problems/count-submatrices-with-equal-frequency-of-x-and-y/description/](https://leetcode.com/problems/count-submatrices-with-equal-frequency-of-x-and-y/description/)
 
 ### Prefix\_Suffix array
 
@@ -1961,7 +1973,9 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 
 3100 [https://leetcode.com/problems/water-bottles-ii/description/](https://leetcode.com/problems/water-bottles-ii/description/)
 
-3132 [https://leetcode.com/problems/find-the-integer-added-to-array-ii/](https://leetcode.com/problems/find-the-integer-added-to-array-ii/)
+3132 [https://leetcode.com/problems/find-the-integer-added-to-array-ii/](https://leetcode.com/problems/find-the-integer-added-to-array-ii/)&#x20;
+
+3234 [https://leetcode.com/problems/count-the-number-of-substrings-with-dominant-ones/description/](https://leetcode.com/problems/count-the-number-of-substrings-with-dominant-ones/description/)
 
 ## Sorting
 

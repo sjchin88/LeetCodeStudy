@@ -380,7 +380,9 @@
 
 3196 [https://leetcode.com/problems/maximize-total-cost-of-alternating-subarrays/description/](https://leetcode.com/problems/maximize-total-cost-of-alternating-subarrays/description/)&#x20;
 
-3202 [https://leetcode.com/problems/find-the-maximum-length-of-valid-subsequence-ii/description/](https://leetcode.com/problems/find-the-maximum-length-of-valid-subsequence-ii/description/)
+3202 [https://leetcode.com/problems/find-the-maximum-length-of-valid-subsequence-ii/description/](https://leetcode.com/problems/find-the-maximum-length-of-valid-subsequence-ii/description/)&#x20;
+
+3225 [https://leetcode.com/problems/maximum-score-from-grid-operations/description/](https://leetcode.com/problems/maximum-score-from-grid-operations/description/)
 
 ### Bitmasking
 

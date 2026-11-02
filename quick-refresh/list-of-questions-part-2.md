@@ -178,7 +178,9 @@ description: Two Pointers etc
 
 3076 [https://leetcode.com/problems/shortest-uncommon-substring-in-an-array/description/](https://leetcode.com/problems/shortest-uncommon-substring-in-an-array/description/)&#x20;
 
-3093 [https://leetcode.com/problems/longest-common-suffix-queries/description/](https://leetcode.com/problems/longest-common-suffix-queries/description/)
+3093 [https://leetcode.com/problems/longest-common-suffix-queries/description/](https://leetcode.com/problems/longest-common-suffix-queries/description/)&#x20;
+
+3213 DP [https://leetcode.com/problems/construct-string-with-minimum-cost/description/](https://leetcode.com/problems/construct-string-with-minimum-cost/description/)
 
 ## Union Find
 
@@ -228,7 +230,9 @@ description: Two Pointers etc
 
 2503 [https://leetcode.com/problems/maximum-number-of-points-from-grid-queries/description/](https://leetcode.com/problems/maximum-number-of-points-from-grid-queries/description/)&#x20;
 
-2709 [https://leetcode.com/problems/greatest-common-divisor-traversal/description/](https://leetcode.com/problems/greatest-common-divisor-traversal/description/)
+2709 [https://leetcode.com/problems/greatest-common-divisor-traversal/description/](https://leetcode.com/problems/greatest-common-divisor-traversal/description/)&#x20;
+
+3235 [https://leetcode.com/problems/check-if-the-rectangle-corner-is-reachable/description/](https://leetcode.com/problems/check-if-the-rectangle-corner-is-reachable/description/)
 
 ### Disjointed Union Find
 
@@ -249,3 +253,9 @@ description: Two Pointers etc
 2685 [https://leetcode.com/problems/count-the-number-of-complete-components/description/](https://leetcode.com/problems/count-the-number-of-complete-components/description/)
 
 3108 [https://leetcode.com/problems/minimum-cost-walk-in-weighted-graph/description/](https://leetcode.com/problems/minimum-cost-walk-in-weighted-graph/description/)
+
+
+
+## Z - Complex - To Revisit
+
+3224 - [https://leetcode.com/problems/minimum-array-changes-to-make-differences-equal/description/](https://leetcode.com/problems/minimum-array-changes-to-make-differences-equal/description/)
