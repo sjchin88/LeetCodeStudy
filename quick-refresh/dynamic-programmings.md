@@ -382,7 +382,9 @@
 
 3202 [https://leetcode.com/problems/find-the-maximum-length-of-valid-subsequence-ii/description/](https://leetcode.com/problems/find-the-maximum-length-of-valid-subsequence-ii/description/)&#x20;
 
-3225 [https://leetcode.com/problems/maximum-score-from-grid-operations/description/](https://leetcode.com/problems/maximum-score-from-grid-operations/description/)
+3225 [https://leetcode.com/problems/maximum-score-from-grid-operations/description/](https://leetcode.com/problems/maximum-score-from-grid-operations/description/)&#x20;
+
+3250 [https://leetcode.com/problems/find-the-count-of-monotonic-pairs-i/description/](https://leetcode.com/problems/find-the-count-of-monotonic-pairs-i/description/)
 
 ### Bitmasking
 

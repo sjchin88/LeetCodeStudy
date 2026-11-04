@@ -166,7 +166,9 @@ also 3048&#x20;
 
 2673 [https://leetcode.com/problems/make-costs-of-paths-equal-in-a-binary-tree/description/](https://leetcode.com/problems/make-costs-of-paths-equal-in-a-binary-tree/description/)&#x20;
 
-2773 [https://leetcode.com/problems/height-of-special-binary-tree/description/](https://leetcode.com/problems/height-of-special-binary-tree/description/)
+2773 [https://leetcode.com/problems/height-of-special-binary-tree/description/](https://leetcode.com/problems/height-of-special-binary-tree/description/)&#x20;
+
+3249 [https://leetcode.com/problems/count-the-number-of-good-nodes/description/](https://leetcode.com/problems/count-the-number-of-good-nodes/description/)
 
 ### Inorder traversal (Left root right)
 
@@ -613,7 +615,9 @@ Unnecessary Hard
 
 2858 [https://leetcode.com/problems/minimum-edge-reversals-so-every-node-is-reachable/solutions/](https://leetcode.com/problems/minimum-edge-reversals-so-every-node-is-reachable/solutions/)&#x20;
 
-2867 [https://leetcode.com/problems/count-valid-paths-in-a-tree/description/](https://leetcode.com/problems/count-valid-paths-in-a-tree/description/)
+2867 [https://leetcode.com/problems/count-valid-paths-in-a-tree/description/](https://leetcode.com/problems/count-valid-paths-in-a-tree/description/)&#x20;
+
+3241 [https://leetcode.com/problems/time-taken-to-mark-all-nodes/description/](https://leetcode.com/problems/time-taken-to-mark-all-nodes/description/)
 
 ## Function/Class Implementation
 
@@ -1085,7 +1089,9 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 
 3219 [https://leetcode.com/problems/minimum-cost-for-cutting-cake-ii/description/](https://leetcode.com/problems/minimum-cost-for-cutting-cake-ii/description/)&#x20;
 
-3229 [https://leetcode.com/problems/minimum-operations-to-make-array-equal-to-target/description/](https://leetcode.com/problems/minimum-operations-to-make-array-equal-to-target/description/)
+3229 [https://leetcode.com/problems/minimum-operations-to-make-array-equal-to-target/description/](https://leetcode.com/problems/minimum-operations-to-make-array-equal-to-target/description/)&#x20;
+
+3240 [https://leetcode.com/problems/minimum-number-of-flips-to-make-binary-grid-palindromic-ii/solutions/5585642/javacpython-symmetry-by-lee215-e9yi/](https://leetcode.com/problems/minimum-number-of-flips-to-make-binary-grid-palindromic-ii/solutions/5585642/javacpython-symmetry-by-lee215-e9yi/)
 
 ### Hash
 
@@ -1263,7 +1269,9 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 
 2074 [https://leetcode.com/problems/reverse-nodes-in-even-length-groups/description/](https://leetcode.com/problems/reverse-nodes-in-even-length-groups/description/)&#x20;
 
-2030 reverse linked list [https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list/description/](https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list/description/)
+2030 reverse linked list [https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list/description/](https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list/description/)&#x20;
+
+3244 [https://leetcode.com/problems/shortest-distance-after-road-addition-queries-ii/description/](https://leetcode.com/problems/shortest-distance-after-road-addition-queries-ii/description/)
 
 ### Double linked list
 
@@ -1935,7 +1943,9 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 
 3072 [https://leetcode.com/problems/distribute-elements-into-two-arrays-ii/description/](https://leetcode.com/problems/distribute-elements-into-two-arrays-ii/description/)&#x20;
 
-3109 [https://leetcode.com/problems/find-the-index-of-permutation/solutions/](https://leetcode.com/problems/find-the-index-of-permutation/solutions/)
+3109 [https://leetcode.com/problems/find-the-index-of-permutation/solutions/](https://leetcode.com/problems/find-the-index-of-permutation/solutions/)&#x20;
+
+3245 [https://leetcode.com/problems/alternating-groups-iii/description/](https://leetcode.com/problems/alternating-groups-iii/description/)
 
 ### Binary Lifting
 
