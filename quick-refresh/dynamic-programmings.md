@@ -386,7 +386,13 @@
 
 3250 [https://leetcode.com/problems/find-the-count-of-monotonic-pairs-i/description/](https://leetcode.com/problems/find-the-count-of-monotonic-pairs-i/description/)&#x20;
 
-3251 [https://leetcode.com/problems/find-the-count-of-monotonic-pairs-ii/description/](https://leetcode.com/problems/find-the-count-of-monotonic-pairs-ii/description/)
+3251 [https://leetcode.com/problems/find-the-count-of-monotonic-pairs-ii/description/](https://leetcode.com/problems/find-the-count-of-monotonic-pairs-ii/description/)&#x20;
+
+3269 [https://leetcode.com/problems/constructing-two-increasing-arrays/description/](https://leetcode.com/problems/constructing-two-increasing-arrays/description/)&#x20;
+
+3277 [https://leetcode.com/problems/maximum-xor-score-subarray-queries/description/](https://leetcode.com/problems/maximum-xor-score-subarray-queries/description/)&#x20;
+
+3290 [https://leetcode.com/problems/maximum-multiplication-score/description/](https://leetcode.com/problems/maximum-multiplication-score/description/)
 
 ### Bitmasking
 
@@ -412,7 +418,9 @@
 
 2572 [https://leetcode.com/problems/count-the-number-of-square-free-subsets/description/](https://leetcode.com/problems/count-the-number-of-square-free-subsets/description/)&#x20;
 
-2741 [https://leetcode.com/problems/special-permutations/description/](https://leetcode.com/problems/special-permutations/description/)
+2741 [https://leetcode.com/problems/special-permutations/description/](https://leetcode.com/problems/special-permutations/description/)&#x20;
+
+3283 [https://leetcode.com/problems/maximum-number-of-moves-to-kill-all-pawns/description/](https://leetcode.com/problems/maximum-number-of-moves-to-kill-all-pawns/description/)
 
 ### Coin DP
 

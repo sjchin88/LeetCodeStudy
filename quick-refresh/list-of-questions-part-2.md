@@ -98,7 +98,9 @@ description: Two Pointers etc
 
 3208 [https://leetcode.com/problems/alternating-groups-ii/description/](https://leetcode.com/problems/alternating-groups-ii/description/)&#x20;
 
-3255 [https://leetcode.com/problems/find-the-power-of-k-size-subarrays-ii/description/](https://leetcode.com/problems/find-the-power-of-k-size-subarrays-ii/description/)
+3255 [https://leetcode.com/problems/find-the-power-of-k-size-subarrays-ii/description/](https://leetcode.com/problems/find-the-power-of-k-size-subarrays-ii/description/)&#x20;
+
+3261 [https://leetcode.com/problems/count-substrings-that-satisfy-k-constraint-ii/description/](https://leetcode.com/problems/count-substrings-that-satisfy-k-constraint-ii/description/)
 
 ### Fast and Slow Pointer
 

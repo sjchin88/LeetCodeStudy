@@ -346,7 +346,11 @@ To continue
 
 3209 [https://leetcode.com/problems/number-of-subarrays-with-and-value-of-k/description/](https://leetcode.com/problems/number-of-subarrays-with-and-value-of-k/description/)&#x20;
 
-3215 [https://leetcode.com/problems/count-triplets-with-even-xor-set-bits-ii/description/](https://leetcode.com/problems/count-triplets-with-even-xor-set-bits-ii/description/)
+3215 [https://leetcode.com/problems/count-triplets-with-even-xor-set-bits-ii/description/](https://leetcode.com/problems/count-triplets-with-even-xor-set-bits-ii/description/)&#x20;
+
+3267 [https://leetcode.com/problems/count-almost-equal-pairs-ii/description/](https://leetcode.com/problems/count-almost-equal-pairs-ii/description/)&#x20;
+
+3287 DP [https://leetcode.com/problems/find-the-maximum-sequence-value-of-array/description/](https://leetcode.com/problems/find-the-maximum-sequence-value-of-array/description/)
 
 ### Bit Mask
 
@@ -793,7 +797,9 @@ Unnecessary Hard
 
 3112 [https://leetcode.com/problems/minimum-time-to-visit-disappearing-nodes/description/](https://leetcode.com/problems/minimum-time-to-visit-disappearing-nodes/description/)&#x20;
 
-3123 [https://leetcode.com/problems/find-edges-in-shortest-paths/description/](https://leetcode.com/problems/find-edges-in-shortest-paths/description/)
+3123 [https://leetcode.com/problems/find-edges-in-shortest-paths/description/](https://leetcode.com/problems/find-edges-in-shortest-paths/description/)&#x20;
+
+3286 [https://leetcode.com/problems/find-a-safe-walk-through-a-grid/description/](https://leetcode.com/problems/find-a-safe-walk-through-a-grid/description/)
 
 ### Eulerian Path
 
@@ -1213,7 +1219,11 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 
 2931 Heap sort [https://leetcode.com/problems/maximum-spending-after-buying-items/description/](https://leetcode.com/problems/maximum-spending-after-buying-items/description/)&#x20;
 
-3009 [https://leetcode.com/problems/maximum-number-of-intersections-on-the-chart/description/](https://leetcode.com/problems/maximum-number-of-intersections-on-the-chart/description/)
+3009 [https://leetcode.com/problems/maximum-number-of-intersections-on-the-chart/description/](https://leetcode.com/problems/maximum-number-of-intersections-on-the-chart/description/)&#x20;
+
+3266 [https://leetcode.com/problems/final-array-state-after-k-multiplication-operations-ii/description/](https://leetcode.com/problems/final-array-state-after-k-multiplication-operations-ii/description/)&#x20;
+
+3279 [https://leetcode.com/problems/maximum-total-area-occupied-by-pistons/description/](https://leetcode.com/problems/maximum-total-area-occupied-by-pistons/description/)
 
 ### Huffman's Algorithm
 
@@ -1296,6 +1306,8 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 2926 [https://leetcode.com/problems/maximum-balanced-subsequence-sum/description/](https://leetcode.com/problems/maximum-balanced-subsequence-sum/description/)
 
 3231 [https://leetcode.com/problems/minimum-number-of-increasing-subsequence-to-be-removed/description/](https://leetcode.com/problems/minimum-number-of-increasing-subsequence-to-be-removed/description/)
+
+3288 [https://leetcode.com/problems/length-of-the-longest-increasing-path/description/](https://leetcode.com/problems/length-of-the-longest-increasing-path/description/)
 
 ## LFU Cache
 
@@ -1521,7 +1533,9 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 
 2954 [https://leetcode.com/problems/count-the-number-of-infection-sequences/description/](https://leetcode.com/problems/count-the-number-of-infection-sequences/description/)&#x20;
 
-3154 [https://leetcode.com/problems/find-number-of-ways-to-reach-the-k-th-stair/description/](https://leetcode.com/problems/find-number-of-ways-to-reach-the-k-th-stair/description/)
+3154 [https://leetcode.com/problems/find-number-of-ways-to-reach-the-k-th-stair/description/](https://leetcode.com/problems/find-number-of-ways-to-reach-the-k-th-stair/description/)&#x20;
+
+3272 [https://leetcode.com/problems/find-the-count-of-good-integers/description/](https://leetcode.com/problems/find-the-count-of-good-integers/description/)
 
 ### Pigeon Holes Principle
 
@@ -1615,7 +1629,9 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 
 1820 [https://leetcode.com/problems/maximum-number-of-accepted-invitations/description/](https://leetcode.com/problems/maximum-number-of-accepted-invitations/description/)&#x20;
 
-2123 [https://leetcode.com/problems/minimum-operations-to-remove-adjacent-ones-in-matrix/description/](https://leetcode.com/problems/minimum-operations-to-remove-adjacent-ones-in-matrix/description/)
+2123 [https://leetcode.com/problems/minimum-operations-to-remove-adjacent-ones-in-matrix/description/](https://leetcode.com/problems/minimum-operations-to-remove-adjacent-ones-in-matrix/description/)&#x20;
+
+3276 [https://leetcode.com/problems/select-cells-in-grid-with-maximum-score/description/](https://leetcode.com/problems/select-cells-in-grid-with-maximum-score/description/)
 
 ### Kadane's algorithm&#x20;
 
@@ -1806,6 +1822,8 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 3104 [https://leetcode.com/problems/find-longest-self-contained-substring/description/](https://leetcode.com/problems/find-longest-self-contained-substring/description/)&#x20;
 
 3212 [https://leetcode.com/problems/count-submatrices-with-equal-frequency-of-x-and-y/description/](https://leetcode.com/problems/count-submatrices-with-equal-frequency-of-x-and-y/description/)
+
+3284 [https://leetcode.com/problems/sum-of-consecutive-subarrays/description/](https://leetcode.com/problems/sum-of-consecutive-subarrays/description/)
 
 ### Prefix\_Suffix array
 
@@ -2170,7 +2188,9 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 
 2898 [https://leetcode.com/problems/maximum-linear-stock-score/description/](https://leetcode.com/problems/maximum-linear-stock-score/description/)&#x20;
 
-2909 [https://leetcode.com/problems/minimum-sum-of-mountain-triplets-ii/description/](https://leetcode.com/problems/minimum-sum-of-mountain-triplets-ii/description/)
+2909 [https://leetcode.com/problems/minimum-sum-of-mountain-triplets-ii/description/](https://leetcode.com/problems/minimum-sum-of-mountain-triplets-ii/description/)&#x20;
+
+3273 [https://leetcode.com/problems/minimum-amount-of-damage-dealt-to-bob/submissions/1374406238/](https://leetcode.com/problems/minimum-amount-of-damage-dealt-to-bob/submissions/1374406238/)
 
 ##
 
