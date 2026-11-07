@@ -96,7 +96,9 @@ description: Two Pointers etc
 
 3137 [https://leetcode.com/problems/minimum-number-of-operations-to-make-word-k-periodic/description/](https://leetcode.com/problems/minimum-number-of-operations-to-make-word-k-periodic/description/)&#x20;
 
-3208 [https://leetcode.com/problems/alternating-groups-ii/description/](https://leetcode.com/problems/alternating-groups-ii/description/)
+3208 [https://leetcode.com/problems/alternating-groups-ii/description/](https://leetcode.com/problems/alternating-groups-ii/description/)&#x20;
+
+3255 [https://leetcode.com/problems/find-the-power-of-k-size-subarrays-ii/description/](https://leetcode.com/problems/find-the-power-of-k-size-subarrays-ii/description/)
 
 ### Fast and Slow Pointer
 
@@ -182,6 +184,8 @@ description: Two Pointers etc
 
 3213 DP [https://leetcode.com/problems/construct-string-with-minimum-cost/description/](https://leetcode.com/problems/construct-string-with-minimum-cost/description/)
 
+3253 [https://leetcode.com/problems/construct-string-with-minimum-cost-easy/description/](https://leetcode.com/problems/construct-string-with-minimum-cost-easy/description/)
+
 ## Union Find
 
 305 . Alternative is BFS with memory - [https://leetcode.com/problems/number-of-islands-ii/description/](https://leetcode.com/problems/number-of-islands-ii/description/)
@@ -259,3 +263,7 @@ description: Two Pointers etc
 ## Z - Complex - To Revisit
 
 3224 - [https://leetcode.com/problems/minimum-array-changes-to-make-differences-equal/description/](https://leetcode.com/problems/minimum-array-changes-to-make-differences-equal/description/)
+
+3256 [https://leetcode.com/problems/maximum-value-sum-by-placing-three-rooks-i/description/](https://leetcode.com/problems/maximum-value-sum-by-placing-three-rooks-i/description/)
+
+3257 [https://leetcode.com/problems/maximum-value-sum-by-placing-three-rooks-ii/solutions/](https://leetcode.com/problems/maximum-value-sum-by-placing-three-rooks-ii/solutions/)

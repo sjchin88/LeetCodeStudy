@@ -384,7 +384,9 @@
 
 3225 [https://leetcode.com/problems/maximum-score-from-grid-operations/description/](https://leetcode.com/problems/maximum-score-from-grid-operations/description/)&#x20;
 
-3250 [https://leetcode.com/problems/find-the-count-of-monotonic-pairs-i/description/](https://leetcode.com/problems/find-the-count-of-monotonic-pairs-i/description/)
+3250 [https://leetcode.com/problems/find-the-count-of-monotonic-pairs-i/description/](https://leetcode.com/problems/find-the-count-of-monotonic-pairs-i/description/)&#x20;
+
+3251 [https://leetcode.com/problems/find-the-count-of-monotonic-pairs-ii/description/](https://leetcode.com/problems/find-the-count-of-monotonic-pairs-ii/description/)
 
 ### Bitmasking
 

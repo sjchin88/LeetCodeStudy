@@ -1369,7 +1369,9 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 
 2967 find median - [https://leetcode.com/problems/minimum-cost-to-make-array-equalindromic/description/](https://leetcode.com/problems/minimum-cost-to-make-array-equalindromic/description/)&#x20;
 
-3021 [https://leetcode.com/problems/alice-and-bob-playing-flower-game/description/](https://leetcode.com/problems/alice-and-bob-playing-flower-game/description/)
+3021 [https://leetcode.com/problems/alice-and-bob-playing-flower-game/description/](https://leetcode.com/problems/alice-and-bob-playing-flower-game/description/)&#x20;
+
+3260 number theory [https://leetcode.com/problems/find-the-largest-palindrome-divisible-by-k/description/](https://leetcode.com/problems/find-the-largest-palindrome-divisible-by-k/description/)
 
 ### Fibonacci
 
