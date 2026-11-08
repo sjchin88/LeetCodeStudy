@@ -350,7 +350,9 @@ To continue
 
 3267 [https://leetcode.com/problems/count-almost-equal-pairs-ii/description/](https://leetcode.com/problems/count-almost-equal-pairs-ii/description/)&#x20;
 
-3287 DP [https://leetcode.com/problems/find-the-maximum-sequence-value-of-array/description/](https://leetcode.com/problems/find-the-maximum-sequence-value-of-array/description/)
+3287 DP [https://leetcode.com/problems/find-the-maximum-sequence-value-of-array/description/](https://leetcode.com/problems/find-the-maximum-sequence-value-of-array/description/)&#x20;
+
+3307 [https://leetcode.com/problems/find-the-k-th-character-in-string-game-ii/description/](https://leetcode.com/problems/find-the-k-th-character-in-string-game-ii/description/)
 
 ### Bit Mask
 
@@ -743,7 +745,9 @@ Unnecessary Hard
 
 2508 Greedy [https://leetcode.com/problems/add-edges-to-make-degrees-of-all-nodes-even/description/](https://leetcode.com/problems/add-edges-to-make-degrees-of-all-nodes-even/description/)&#x20;
 
-3017 [https://leetcode.com/problems/count-the-number-of-houses-at-a-certain-distance-ii/description/](https://leetcode.com/problems/count-the-number-of-houses-at-a-certain-distance-ii/description/)
+3017 [https://leetcode.com/problems/count-the-number-of-houses-at-a-certain-distance-ii/description/](https://leetcode.com/problems/count-the-number-of-houses-at-a-certain-distance-ii/description/)&#x20;
+
+3310 [https://leetcode.com/problems/remove-methods-from-project/description/](https://leetcode.com/problems/remove-methods-from-project/description/)
 
 ### Dijkstra <a href="#approach-dijkstras" id="approach-dijkstras"></a>
 
@@ -1097,7 +1101,9 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 
 3229 [https://leetcode.com/problems/minimum-operations-to-make-array-equal-to-target/description/](https://leetcode.com/problems/minimum-operations-to-make-array-equal-to-target/description/)&#x20;
 
-3240 [https://leetcode.com/problems/minimum-number-of-flips-to-make-binary-grid-palindromic-ii/solutions/5585642/javacpython-symmetry-by-lee215-e9yi/](https://leetcode.com/problems/minimum-number-of-flips-to-make-binary-grid-palindromic-ii/solutions/5585642/javacpython-symmetry-by-lee215-e9yi/)
+3240 [https://leetcode.com/problems/minimum-number-of-flips-to-make-binary-grid-palindromic-ii/solutions/5585642/javacpython-symmetry-by-lee215-e9yi/](https://leetcode.com/problems/minimum-number-of-flips-to-make-binary-grid-palindromic-ii/solutions/5585642/javacpython-symmetry-by-lee215-e9yi/)&#x20;
+
+3299 [https://leetcode.com/problems/sum-of-consecutive-subsequences/description/](https://leetcode.com/problems/sum-of-consecutive-subsequences/description/)
 
 ### Hash
 
@@ -2098,6 +2104,8 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 
 1062 Radix | DP | Binary search [https://leetcode.com/problems/longest-repeating-substring/description/](https://leetcode.com/problems/longest-repeating-substring/description/)
 
+3302 Prefix suffix [https://leetcode.com/problems/find-the-lexicographically-smallest-valid-sequence/description/](https://leetcode.com/problems/find-the-lexicographically-smallest-valid-sequence/description/)
+
 
 
 ### KMP&#x20;
@@ -2116,7 +2124,9 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 
 3031 [https://leetcode.com/problems/minimum-time-to-revert-word-to-initial-state-ii/description/](https://leetcode.com/problems/minimum-time-to-revert-word-to-initial-state-ii/description/)&#x20;
 
-3036 [https://leetcode.com/problems/number-of-subarrays-that-match-a-pattern-ii/solutions/](https://leetcode.com/problems/number-of-subarrays-that-match-a-pattern-ii/solutions/)
+3036 [https://leetcode.com/problems/number-of-subarrays-that-match-a-pattern-ii/solutions/](https://leetcode.com/problems/number-of-subarrays-that-match-a-pattern-ii/solutions/)&#x20;
+
+3292 [https://leetcode.com/problems/minimum-number-of-valid-strings-to-form-target-ii/description/](https://leetcode.com/problems/minimum-number-of-valid-strings-to-form-target-ii/description/)
 
 ### Longest Common Prefix (LCP)
 
@@ -2143,6 +2153,10 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 2063 [https://leetcode.com/problems/vowels-of-all-substrings/description/](https://leetcode.com/problems/vowels-of-all-substrings/description/)&#x20;
 
 2743 Count substring ending at i [https://leetcode.com/problems/count-substrings-without-repeating-character/](https://leetcode.com/problems/count-substrings-without-repeating-character/)
+
+### Z-function
+
+3303 [https://leetcode.com/problems/find-the-occurrence-of-first-almost-equal-substring/description/](https://leetcode.com/problems/find-the-occurrence-of-first-almost-equal-substring/description/)
 
 ## Sweeping Lines | Linear Scan
 

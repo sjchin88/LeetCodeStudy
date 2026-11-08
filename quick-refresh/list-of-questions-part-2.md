@@ -102,6 +102,10 @@ description: Two Pointers etc
 
 3261 [https://leetcode.com/problems/count-substrings-that-satisfy-k-constraint-ii/description/](https://leetcode.com/problems/count-substrings-that-satisfy-k-constraint-ii/description/)
 
+3298 [https://leetcode.com/problems/count-substrings-that-can-be-rearranged-to-contain-a-string-ii/description/](https://leetcode.com/problems/count-substrings-that-can-be-rearranged-to-contain-a-string-ii/description/)&#x20;
+
+3306 [https://leetcode.com/problems/count-of-substrings-containing-every-vowel-and-k-consonants-ii/description/](https://leetcode.com/problems/count-of-substrings-containing-every-vowel-and-k-consonants-ii/description/)
+
 ### Fast and Slow Pointer
 
 142 . [https://leetcode.com/problems/linked-list-cycle-ii/description/](https://leetcode.com/problems/linked-list-cycle-ii/description/)
