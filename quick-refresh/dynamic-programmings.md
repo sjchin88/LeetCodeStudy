@@ -392,7 +392,23 @@
 
 3277 [https://leetcode.com/problems/maximum-xor-score-subarray-queries/description/](https://leetcode.com/problems/maximum-xor-score-subarray-queries/description/)&#x20;
 
-3290 [https://leetcode.com/problems/maximum-multiplication-score/description/](https://leetcode.com/problems/maximum-multiplication-score/description/)
+3290 [https://leetcode.com/problems/maximum-multiplication-score/description/](https://leetcode.com/problems/maximum-multiplication-score/description/)&#x20;
+
+3316 [https://leetcode.com/problems/find-maximum-removals-from-source-string/description/](https://leetcode.com/problems/find-maximum-removals-from-source-string/description/)&#x20;
+
+3317 [https://leetcode.com/problems/find-the-number-of-possible-ways-for-an-event/description/](https://leetcode.com/problems/find-the-number-of-possible-ways-for-an-event/description/)&#x20;
+
+3332 [https://leetcode.com/problems/maximum-points-tourist-can-earn/description/](https://leetcode.com/problems/maximum-points-tourist-can-earn/description/)
+
+3333 [https://leetcode.com/problems/find-the-original-typed-string-ii/description/](https://leetcode.com/problems/find-the-original-typed-string-ii/description/)&#x20;
+
+3336 [https://leetcode.com/problems/find-the-number-of-subsequences-with-equal-gcd/description/](https://leetcode.com/problems/find-the-number-of-subsequences-with-equal-gcd/description/)
+
+3337 [https://leetcode.com/problems/total-characters-in-string-after-transformations-ii/description/](https://leetcode.com/problems/total-characters-in-string-after-transformations-ii/description/)&#x20;
+
+3343 [https://leetcode.com/problems/count-number-of-balanced-permutations/description/](https://leetcode.com/problems/count-number-of-balanced-permutations/description/)
+
+3351 [https://leetcode.com/problems/sum-of-good-subsequences/description/](https://leetcode.com/problems/sum-of-good-subsequences/description/)
 
 ### Bitmasking
 
@@ -466,7 +482,9 @@
 
 2827 [https://leetcode.com/problems/number-of-beautiful-integers-in-the-range/description/](https://leetcode.com/problems/number-of-beautiful-integers-in-the-range/description/)&#x20;
 
-2999 [https://leetcode.com/problems/count-the-number-of-powerful-integers/description/](https://leetcode.com/problems/count-the-number-of-powerful-integers/description/)
+2999 [https://leetcode.com/problems/count-the-number-of-powerful-integers/description/](https://leetcode.com/problems/count-the-number-of-powerful-integers/description/)&#x20;
+
+3352 [https://leetcode.com/problems/count-k-reducible-numbers-less-than-n/description/](https://leetcode.com/problems/count-k-reducible-numbers-less-than-n/description/)
 
 ### Knacksack
 
@@ -510,7 +528,9 @@
 
 1872 [https://leetcode.com/problems/stone-game-viii/solutions/](https://leetcode.com/problems/stone-game-viii/solutions/)&#x20;
 
-1908 [https://leetcode.com/problems/game-of-nim/description/](https://leetcode.com/problems/game-of-nim/description/)
+1908 [https://leetcode.com/problems/game-of-nim/description/](https://leetcode.com/problems/game-of-nim/description/)&#x20;
+
+3320 [https://leetcode.com/problems/count-the-number-of-winning-sequences/description/](https://leetcode.com/problems/count-the-number-of-winning-sequences/description/)
 
 #### minimax algorithm
 

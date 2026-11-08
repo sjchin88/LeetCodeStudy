@@ -104,7 +104,9 @@ description: Two Pointers etc
 
 3298 [https://leetcode.com/problems/count-substrings-that-can-be-rearranged-to-contain-a-string-ii/description/](https://leetcode.com/problems/count-substrings-that-can-be-rearranged-to-contain-a-string-ii/description/)&#x20;
 
-3306 [https://leetcode.com/problems/count-of-substrings-containing-every-vowel-and-k-consonants-ii/description/](https://leetcode.com/problems/count-of-substrings-containing-every-vowel-and-k-consonants-ii/description/)
+3306 [https://leetcode.com/problems/count-of-substrings-containing-every-vowel-and-k-consonants-ii/description/](https://leetcode.com/problems/count-of-substrings-containing-every-vowel-and-k-consonants-ii/description/)&#x20;
+
+3356 [https://leetcode.com/problems/zero-array-transformation-ii/description/](https://leetcode.com/problems/zero-array-transformation-ii/description/)
 
 ### Fast and Slow Pointer
 

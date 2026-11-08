@@ -110,6 +110,10 @@ also 3048&#x20;
 
 3145 [https://leetcode.com/problems/find-products-of-elements-of-big-array/description/](https://leetcode.com/problems/find-products-of-elements-of-big-array/description/)
 
+3344 + bit manipulation [https://leetcode.com/problems/maximum-sized-array/description/](https://leetcode.com/problems/maximum-sized-array/description/)
+
+3347 [https://leetcode.com/problems/maximum-frequency-of-an-element-after-performing-operations-ii/description/](https://leetcode.com/problems/maximum-frequency-of-an-element-after-performing-operations-ii/description/)
+
 ### Divide and Conquer
 
 1274 [https://leetcode.com/problems/number-of-ships-in-a-rectangle/description/](https://leetcode.com/problems/number-of-ships-in-a-rectangle/description/)
@@ -352,7 +356,9 @@ To continue
 
 3287 DP [https://leetcode.com/problems/find-the-maximum-sequence-value-of-array/description/](https://leetcode.com/problems/find-the-maximum-sequence-value-of-array/description/)&#x20;
 
-3307 [https://leetcode.com/problems/find-the-k-th-character-in-string-game-ii/description/](https://leetcode.com/problems/find-the-k-th-character-in-string-game-ii/description/)
+3307 [https://leetcode.com/problems/find-the-k-th-character-in-string-game-ii/description/](https://leetcode.com/problems/find-the-k-th-character-in-string-game-ii/description/)&#x20;
+
+3315 [https://leetcode.com/problems/construct-the-minimum-bitwise-array-ii/description/](https://leetcode.com/problems/construct-the-minimum-bitwise-array-ii/description/)
 
 ### Bit Mask
 
@@ -611,7 +617,11 @@ Unnecessary Hard
 
 3067 [https://leetcode.com/problems/count-pairs-of-connectable-servers-in-a-weighted-tree-network/description/](https://leetcode.com/problems/count-pairs-of-connectable-servers-in-a-weighted-tree-network/description/)&#x20;
 
-3211 [https://leetcode.com/problems/generate-binary-strings-without-adjacent-zeros/description/](https://leetcode.com/problems/generate-binary-strings-without-adjacent-zeros/description/)
+3211 [https://leetcode.com/problems/generate-binary-strings-without-adjacent-zeros/description/](https://leetcode.com/problems/generate-binary-strings-without-adjacent-zeros/description/)&#x20;
+
+3319 [https://leetcode.com/problems/k-th-largest-perfect-subtree-size-in-binary-tree/description/](https://leetcode.com/problems/k-th-largest-perfect-subtree-size-in-binary-tree/description/)&#x20;
+
+3331 [https://leetcode.com/problems/find-subtree-sizes-after-changes/description/](https://leetcode.com/problems/find-subtree-sizes-after-changes/description/)
 
 ### Rerooting
 
@@ -623,7 +633,9 @@ Unnecessary Hard
 
 2867 [https://leetcode.com/problems/count-valid-paths-in-a-tree/description/](https://leetcode.com/problems/count-valid-paths-in-a-tree/description/)&#x20;
 
-3241 [https://leetcode.com/problems/time-taken-to-mark-all-nodes/description/](https://leetcode.com/problems/time-taken-to-mark-all-nodes/description/)
+3241 [https://leetcode.com/problems/time-taken-to-mark-all-nodes/description/](https://leetcode.com/problems/time-taken-to-mark-all-nodes/description/)&#x20;
+
+3313 [https://leetcode.com/problems/find-the-last-marked-nodes-in-tree/description/](https://leetcode.com/problems/find-the-last-marked-nodes-in-tree/description/)
 
 ## Function/Class Implementation
 
@@ -747,7 +759,9 @@ Unnecessary Hard
 
 3017 [https://leetcode.com/problems/count-the-number-of-houses-at-a-certain-distance-ii/description/](https://leetcode.com/problems/count-the-number-of-houses-at-a-certain-distance-ii/description/)&#x20;
 
-3310 [https://leetcode.com/problems/remove-methods-from-project/description/](https://leetcode.com/problems/remove-methods-from-project/description/)
+3310 [https://leetcode.com/problems/remove-methods-from-project/description/](https://leetcode.com/problems/remove-methods-from-project/description/)&#x20;
+
+3311 [https://leetcode.com/problems/construct-2d-grid-matching-graph-layout/description/](https://leetcode.com/problems/construct-2d-grid-matching-graph-layout/description/)
 
 ### Dijkstra <a href="#approach-dijkstras" id="approach-dijkstras"></a>
 
@@ -803,7 +817,9 @@ Unnecessary Hard
 
 3123 [https://leetcode.com/problems/find-edges-in-shortest-paths/description/](https://leetcode.com/problems/find-edges-in-shortest-paths/description/)&#x20;
 
-3286 [https://leetcode.com/problems/find-a-safe-walk-through-a-grid/description/](https://leetcode.com/problems/find-a-safe-walk-through-a-grid/description/)
+3286 [https://leetcode.com/problems/find-a-safe-walk-through-a-grid/description/](https://leetcode.com/problems/find-a-safe-walk-through-a-grid/description/)&#x20;
+
+3342 [https://leetcode.com/problems/find-minimum-time-to-reach-last-room-ii/description/](https://leetcode.com/problems/find-minimum-time-to-reach-last-room-ii/description/)
 
 ### Eulerian Path
 
@@ -1103,7 +1119,9 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 
 3240 [https://leetcode.com/problems/minimum-number-of-flips-to-make-binary-grid-palindromic-ii/solutions/5585642/javacpython-symmetry-by-lee215-e9yi/](https://leetcode.com/problems/minimum-number-of-flips-to-make-binary-grid-palindromic-ii/solutions/5585642/javacpython-symmetry-by-lee215-e9yi/)&#x20;
 
-3299 [https://leetcode.com/problems/sum-of-consecutive-subsequences/description/](https://leetcode.com/problems/sum-of-consecutive-subsequences/description/)
+3299 [https://leetcode.com/problems/sum-of-consecutive-subsequences/description/](https://leetcode.com/problems/sum-of-consecutive-subsequences/description/)&#x20;
+
+3357 [https://leetcode.com/problems/minimize-the-maximum-adjacent-element-difference/description/](https://leetcode.com/problems/minimize-the-maximum-adjacent-element-difference/description/)
 
 ### Hash
 
@@ -1451,7 +1469,9 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 
 ### Inclusion Exclusion
 
-3116 [https://leetcode.com/problems/kth-smallest-amount-with-single-denomination-combination/description/](https://leetcode.com/problems/kth-smallest-amount-with-single-denomination-combination/description/)
+3116 [https://leetcode.com/problems/kth-smallest-amount-with-single-denomination-combination/description/](https://leetcode.com/problems/kth-smallest-amount-with-single-denomination-combination/description/)&#x20;
+
+3312 [https://leetcode.com/problems/sorted-gcd-pair-queries/description/](https://leetcode.com/problems/sorted-gcd-pair-queries/description/)
 
 ### Matrix
 
@@ -1541,7 +1561,9 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 
 3154 [https://leetcode.com/problems/find-number-of-ways-to-reach-the-k-th-stair/description/](https://leetcode.com/problems/find-number-of-ways-to-reach-the-k-th-stair/description/)&#x20;
 
-3272 [https://leetcode.com/problems/find-the-count-of-good-integers/description/](https://leetcode.com/problems/find-the-count-of-good-integers/description/)
+3272 [https://leetcode.com/problems/find-the-count-of-good-integers/description/](https://leetcode.com/problems/find-the-count-of-good-integers/description/)&#x20;
+
+3339 or DP [https://leetcode.com/problems/find-the-number-of-k-even-arrays/description/](https://leetcode.com/problems/find-the-number-of-k-even-arrays/description/)
 
 ### Pigeon Holes Principle
 
@@ -1569,7 +1591,9 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 
 3164 [https://leetcode.com/problems/find-the-number-of-good-pairs-ii/description/](https://leetcode.com/problems/find-the-number-of-good-pairs-ii/description/)&#x20;
 
-3233 [https://leetcode.com/problems/find-the-count-of-numbers-which-are-not-special/description/](https://leetcode.com/problems/find-the-count-of-numbers-which-are-not-special/description/)
+3233 [https://leetcode.com/problems/find-the-count-of-numbers-which-are-not-special/description/](https://leetcode.com/problems/find-the-count-of-numbers-which-are-not-special/description/)&#x20;
+
+3326 [https://leetcode.com/problems/minimum-division-operations-to-make-array-non-decreasing/description/](https://leetcode.com/problems/minimum-division-operations-to-make-array-non-decreasing/description/)
 
 ### Set Operation
 
@@ -1627,7 +1651,9 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 
 2940 [https://leetcode.com/problems/find-building-where-alice-and-bob-can-meet/description/](https://leetcode.com/problems/find-building-where-alice-and-bob-can-meet/description/)&#x20;
 
-3025 [https://leetcode.com/problems/find-the-number-of-ways-to-place-people-i/description/](https://leetcode.com/problems/find-the-number-of-ways-to-place-people-i/description/)
+3025 [https://leetcode.com/problems/find-the-number-of-ways-to-place-people-i/description/](https://leetcode.com/problems/find-the-number-of-ways-to-place-people-i/description/)&#x20;
+
+3359 [https://leetcode.com/problems/find-sorted-submatrices-with-maximum-element-at-most-k/description/](https://leetcode.com/problems/find-sorted-submatrices-with-maximum-element-at-most-k/description/)
 
 ## Named Algorithms&#x20;
 
@@ -1747,7 +1773,9 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 
 2276 [https://leetcode.com/problems/count-integers-in-intervals/description/](https://leetcode.com/problems/count-integers-in-intervals/description/)&#x20;
 
-3073 [https://leetcode.com/problems/maximum-increasing-triplet-value/description/](https://leetcode.com/problems/maximum-increasing-triplet-value/description/)
+3073 [https://leetcode.com/problems/maximum-increasing-triplet-value/description/](https://leetcode.com/problems/maximum-increasing-triplet-value/description/)&#x20;
+
+3321 [https://leetcode.com/problems/find-x-sum-of-all-k-long-subarrays-ii/description/](https://leetcode.com/problems/find-x-sum-of-all-k-long-subarrays-ii/description/)
 
 ## Points Operation (2D Map)
 
@@ -2011,7 +2039,9 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 
 3132 [https://leetcode.com/problems/find-the-integer-added-to-array-ii/](https://leetcode.com/problems/find-the-integer-added-to-array-ii/)&#x20;
 
-3234 [https://leetcode.com/problems/count-the-number-of-substrings-with-dominant-ones/description/](https://leetcode.com/problems/count-the-number-of-substrings-with-dominant-ones/description/)
+3234 [https://leetcode.com/problems/count-the-number-of-substrings-with-dominant-ones/description/](https://leetcode.com/problems/count-the-number-of-substrings-with-dominant-ones/description/)&#x20;
+
+3348 [https://leetcode.com/problems/smallest-divisible-digit-product-ii/description/](https://leetcode.com/problems/smallest-divisible-digit-product-ii/description/)
 
 ## Sorting
 
@@ -2140,7 +2170,9 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 
 647 , [https://leetcode.com/problems/palindromic-substrings/description/](https://leetcode.com/problems/palindromic-substrings/description/)&#x20;
 
-1960 [https://leetcode.com/problems/maximum-product-of-the-length-of-two-palindromic-substrings/description/](https://leetcode.com/problems/maximum-product-of-the-length-of-two-palindromic-substrings/description/)
+1960 [https://leetcode.com/problems/maximum-product-of-the-length-of-two-palindromic-substrings/description/](https://leetcode.com/problems/maximum-product-of-the-length-of-two-palindromic-substrings/description/)&#x20;
+
+3327 [https://leetcode.com/problems/check-if-dfs-strings-are-palindromes/description/](https://leetcode.com/problems/check-if-dfs-strings-are-palindromes/description/)
 
 ### Regex
 
