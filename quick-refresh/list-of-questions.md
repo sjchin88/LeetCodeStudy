@@ -366,6 +366,8 @@ To continue
 
 3133 [https://leetcode.com/problems/minimum-array-end/submissions/2181914837/](https://leetcode.com/problems/minimum-array-end/submissions/2181914837/)
 
+3376 backtrack [https://leetcode.com/problems/minimum-time-to-break-locks-i/description/](https://leetcode.com/problems/minimum-time-to-break-locks-i/description/)
+
 ### Gray Code
 
 89 . [https://leetcode.com/problems/gray-code/description/](https://leetcode.com/problems/gray-code/description/)&#x20;
@@ -460,7 +462,9 @@ To continue
 
 3141 [https://leetcode.com/problems/maximum-hamming-distances/description/](https://leetcode.com/problems/maximum-hamming-distances/description/)&#x20;
 
-3203 [https://leetcode.com/problems/find-minimum-diameter-after-merging-two-trees/description/](https://leetcode.com/problems/find-minimum-diameter-after-merging-two-trees/description/)
+3203 [https://leetcode.com/problems/find-minimum-diameter-after-merging-two-trees/description/](https://leetcode.com/problems/find-minimum-diameter-after-merging-two-trees/description/)&#x20;
+
+3387 [https://leetcode.com/problems/maximize-amount-after-two-days-of-conversions/description/](https://leetcode.com/problems/maximize-amount-after-two-days-of-conversions/description/)
 
 ### Bidectional BFS
 
@@ -621,7 +625,11 @@ Unnecessary Hard
 
 3319 [https://leetcode.com/problems/k-th-largest-perfect-subtree-size-in-binary-tree/description/](https://leetcode.com/problems/k-th-largest-perfect-subtree-size-in-binary-tree/description/)&#x20;
 
-3331 [https://leetcode.com/problems/find-subtree-sizes-after-changes/description/](https://leetcode.com/problems/find-subtree-sizes-after-changes/description/)
+3331 [https://leetcode.com/problems/find-subtree-sizes-after-changes/description/](https://leetcode.com/problems/find-subtree-sizes-after-changes/description/)&#x20;
+
+3367 [https://leetcode.com/problems/maximize-sum-of-weights-after-edge-removals/description/](https://leetcode.com/problems/maximize-sum-of-weights-after-edge-removals/description/)&#x20;
+
+3373 [https://leetcode.com/problems/maximize-the-number-of-target-nodes-after-connecting-trees-ii/description/](https://leetcode.com/problems/maximize-the-number-of-target-nodes-after-connecting-trees-ii/description/)
 
 ### Rerooting
 
@@ -723,6 +731,8 @@ Unnecessary Hard
 
 2671 [https://leetcode.com/problems/frequency-tracker/description/](https://leetcode.com/problems/frequency-tracker/description/)
 
+3369 [https://leetcode.com/problems/design-an-array-statistics-tracker/description/](https://leetcode.com/problems/design-an-array-statistics-tracker/description/)
+
 ### Concurrency
 
 1115 Concurrency [https://leetcode.com/problems/print-foobar-alternately/description/](https://leetcode.com/problems/print-foobar-alternately/description/)
@@ -819,7 +829,9 @@ Unnecessary Hard
 
 3286 [https://leetcode.com/problems/find-a-safe-walk-through-a-grid/description/](https://leetcode.com/problems/find-a-safe-walk-through-a-grid/description/)&#x20;
 
-3342 [https://leetcode.com/problems/find-minimum-time-to-reach-last-room-ii/description/](https://leetcode.com/problems/find-minimum-time-to-reach-last-room-ii/description/)
+3342 [https://leetcode.com/problems/find-minimum-time-to-reach-last-room-ii/description/](https://leetcode.com/problems/find-minimum-time-to-reach-last-room-ii/description/)&#x20;
+
+3377 [https://leetcode.com/problems/digit-operations-to-make-two-integers-equal/description/](https://leetcode.com/problems/digit-operations-to-make-two-integers-equal/description/)
 
 ### Eulerian Path
 
@@ -1247,7 +1259,9 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 
 3266 [https://leetcode.com/problems/final-array-state-after-k-multiplication-operations-ii/description/](https://leetcode.com/problems/final-array-state-after-k-multiplication-operations-ii/description/)&#x20;
 
-3279 [https://leetcode.com/problems/maximum-total-area-occupied-by-pistons/description/](https://leetcode.com/problems/maximum-total-area-occupied-by-pistons/description/)
+3279 [https://leetcode.com/problems/maximum-total-area-occupied-by-pistons/description/](https://leetcode.com/problems/maximum-total-area-occupied-by-pistons/description/)&#x20;
+
+3362 [https://leetcode.com/problems/zero-array-transformation-iii/description/](https://leetcode.com/problems/zero-array-transformation-iii/description/)
 
 ### Huffman's Algorithm
 
@@ -1663,7 +1677,9 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 
 2123 [https://leetcode.com/problems/minimum-operations-to-remove-adjacent-ones-in-matrix/description/](https://leetcode.com/problems/minimum-operations-to-remove-adjacent-ones-in-matrix/description/)&#x20;
 
-3276 [https://leetcode.com/problems/select-cells-in-grid-with-maximum-score/description/](https://leetcode.com/problems/select-cells-in-grid-with-maximum-score/description/)
+3276 [https://leetcode.com/problems/select-cells-in-grid-with-maximum-score/description/](https://leetcode.com/problems/select-cells-in-grid-with-maximum-score/description/)&#x20;
+
+3385 [https://leetcode.com/problems/minimum-time-to-break-locks-ii/description/](https://leetcode.com/problems/minimum-time-to-break-locks-ii/description/)
 
 ### Kadane's algorithm&#x20;
 
@@ -1677,7 +1693,9 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 
 2036 [https://leetcode.com/problems/maximum-alternating-subarray-sum/description/](https://leetcode.com/problems/maximum-alternating-subarray-sum/description/)&#x20;
 
-2321 [https://leetcode.com/problems/maximum-score-of-spliced-array/description/](https://leetcode.com/problems/maximum-score-of-spliced-array/description/)
+2321 [https://leetcode.com/problems/maximum-score-of-spliced-array/description/](https://leetcode.com/problems/maximum-score-of-spliced-array/description/)&#x20;
+
+3381 + dp [https://leetcode.com/problems/maximum-subarray-sum-with-length-divisible-by-k/description/](https://leetcode.com/problems/maximum-subarray-sum-with-length-divisible-by-k/description/)
 
 ### Kahn's algorithm
 
@@ -1689,9 +1707,11 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 
 2050 [https://leetcode.com/problems/parallel-courses-iii/description/](https://leetcode.com/problems/parallel-courses-iii/description/)
 
-### Tarjan's algorithm
+### Tarjan's algorithm (SCC)
 
-1568 [https://leetcode.com/problems/minimum-number-of-days-to-disconnect-island/description/](https://leetcode.com/problems/minimum-number-of-days-to-disconnect-island/description/)
+1568 [https://leetcode.com/problems/minimum-number-of-days-to-disconnect-island/description/](https://leetcode.com/problems/minimum-number-of-days-to-disconnect-island/description/)&#x20;
+
+3383 [https://leetcode.com/problems/minimum-runes-to-add-to-cast-spell/description/](https://leetcode.com/problems/minimum-runes-to-add-to-cast-spell/description/)
 
 ## Others
 
@@ -1967,7 +1987,9 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 
 3165 [https://leetcode.com/problems/maximum-sum-of-subsequence-with-non-adjacent-elements/description/](https://leetcode.com/problems/maximum-sum-of-subsequence-with-non-adjacent-elements/description/)&#x20;
 
-3187 [https://leetcode.com/problems/peaks-in-array/description/](https://leetcode.com/problems/peaks-in-array/description/)
+3187 [https://leetcode.com/problems/peaks-in-array/description/](https://leetcode.com/problems/peaks-in-array/description/)&#x20;
+
+3382 [https://leetcode.com/problems/maximum-area-rectangle-with-point-constraints-ii/description/](https://leetcode.com/problems/maximum-area-rectangle-with-point-constraints-ii/description/)
 
 ### Binary Index Tree / Fenwick Tree
 
@@ -2189,6 +2211,8 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 ### Z-function
 
 3303 [https://leetcode.com/problems/find-the-occurrence-of-first-almost-equal-substring/description/](https://leetcode.com/problems/find-the-occurrence-of-first-almost-equal-substring/description/)
+
+3388 [https://leetcode.com/problems/count-beautiful-splits-in-an-array/description/](https://leetcode.com/problems/count-beautiful-splits-in-an-array/description/)
 
 ## Sweeping Lines | Linear Scan
 

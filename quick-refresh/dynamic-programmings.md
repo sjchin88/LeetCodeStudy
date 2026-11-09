@@ -408,7 +408,13 @@
 
 3343 [https://leetcode.com/problems/count-number-of-balanced-permutations/description/](https://leetcode.com/problems/count-number-of-balanced-permutations/description/)
 
-3351 [https://leetcode.com/problems/sum-of-good-subsequences/description/](https://leetcode.com/problems/sum-of-good-subsequences/description/)
+3351 [https://leetcode.com/problems/sum-of-good-subsequences/description/](https://leetcode.com/problems/sum-of-good-subsequences/description/)&#x20;
+
+3363 [https://leetcode.com/problems/find-the-maximum-number-of-fruits-collected/description/](https://leetcode.com/problems/find-the-maximum-number-of-fruits-collected/description/)
+
+3366 [https://leetcode.com/problems/minimum-array-sum/description/](https://leetcode.com/problems/minimum-array-sum/description/)&#x20;
+
+3389 [https://leetcode.com/problems/minimum-operations-to-make-character-frequencies-equal/description/](https://leetcode.com/problems/minimum-operations-to-make-character-frequencies-equal/description/)
 
 ### Bitmasking
 
