@@ -731,7 +731,9 @@ Unnecessary Hard
 
 2671 [https://leetcode.com/problems/frequency-tracker/description/](https://leetcode.com/problems/frequency-tracker/description/)
 
-3369 [https://leetcode.com/problems/design-an-array-statistics-tracker/description/](https://leetcode.com/problems/design-an-array-statistics-tracker/description/)
+3369 [https://leetcode.com/problems/design-an-array-statistics-tracker/description/](https://leetcode.com/problems/design-an-array-statistics-tracker/description/)&#x20;
+
+3391 [https://leetcode.com/problems/design-a-3d-binary-matrix-with-efficient-layer-tracking/description/](https://leetcode.com/problems/design-a-3d-binary-matrix-with-efficient-layer-tracking/description/)
 
 ### Concurrency
 

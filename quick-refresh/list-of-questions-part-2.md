@@ -106,7 +106,13 @@ description: Two Pointers etc
 
 3306 [https://leetcode.com/problems/count-of-substrings-containing-every-vowel-and-k-consonants-ii/description/](https://leetcode.com/problems/count-of-substrings-containing-every-vowel-and-k-consonants-ii/description/)&#x20;
 
-3356 [https://leetcode.com/problems/zero-array-transformation-ii/description/](https://leetcode.com/problems/zero-array-transformation-ii/description/)
+3356 [https://leetcode.com/problems/zero-array-transformation-ii/description/](https://leetcode.com/problems/zero-array-transformation-ii/description/)&#x20;
+
+
+
+### Line Sweep
+
+3394 [https://leetcode.com/problems/check-if-grid-can-be-cut-into-sections/description/](https://leetcode.com/problems/check-if-grid-can-be-cut-into-sections/description/)
 
 ### Fast and Slow Pointer
 

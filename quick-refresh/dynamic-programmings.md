@@ -414,7 +414,9 @@
 
 3366 [https://leetcode.com/problems/minimum-array-sum/description/](https://leetcode.com/problems/minimum-array-sum/description/)&#x20;
 
-3389 [https://leetcode.com/problems/minimum-operations-to-make-character-frequencies-equal/description/](https://leetcode.com/problems/minimum-operations-to-make-character-frequencies-equal/description/)
+3389 [https://leetcode.com/problems/minimum-operations-to-make-character-frequencies-equal/description/](https://leetcode.com/problems/minimum-operations-to-make-character-frequencies-equal/description/)&#x20;
+
+3393 [https://leetcode.com/problems/count-paths-with-the-given-xor-value/description/](https://leetcode.com/problems/count-paths-with-the-given-xor-value/description/)
 
 ### Bitmasking
 
