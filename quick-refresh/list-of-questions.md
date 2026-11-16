@@ -112,7 +112,11 @@ also 3048&#x20;
 
 3344 + bit manipulation [https://leetcode.com/problems/maximum-sized-array/description/](https://leetcode.com/problems/maximum-sized-array/description/)
 
-3347 [https://leetcode.com/problems/maximum-frequency-of-an-element-after-performing-operations-ii/description/](https://leetcode.com/problems/maximum-frequency-of-an-element-after-performing-operations-ii/description/)
+3347 [https://leetcode.com/problems/maximum-frequency-of-an-element-after-performing-operations-ii/description/](https://leetcode.com/problems/maximum-frequency-of-an-element-after-performing-operations-ii/description/)&#x20;
+
+3398 [https://leetcode.com/problems/smallest-substring-with-identical-characters-i/solutions/](https://leetcode.com/problems/smallest-substring-with-identical-characters-i/solutions/)
+
+3399 [https://leetcode.com/problems/smallest-substring-with-identical-characters-ii/description/](https://leetcode.com/problems/smallest-substring-with-identical-characters-ii/description/)
 
 ### Divide and Conquer
 
@@ -733,7 +737,9 @@ Unnecessary Hard
 
 3369 [https://leetcode.com/problems/design-an-array-statistics-tracker/description/](https://leetcode.com/problems/design-an-array-statistics-tracker/description/)&#x20;
 
-3391 [https://leetcode.com/problems/design-a-3d-binary-matrix-with-efficient-layer-tracking/description/](https://leetcode.com/problems/design-a-3d-binary-matrix-with-efficient-layer-tracking/description/)
+3391 [https://leetcode.com/problems/design-a-3d-binary-matrix-with-efficient-layer-tracking/description/](https://leetcode.com/problems/design-a-3d-binary-matrix-with-efficient-layer-tracking/description/)&#x20;
+
+3408 [https://leetcode.com/problems/design-task-manager/description/](https://leetcode.com/problems/design-task-manager/description/)
 
 ### Concurrency
 
@@ -1135,7 +1141,9 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 
 3299 [https://leetcode.com/problems/sum-of-consecutive-subsequences/description/](https://leetcode.com/problems/sum-of-consecutive-subsequences/description/)&#x20;
 
-3357 [https://leetcode.com/problems/minimize-the-maximum-adjacent-element-difference/description/](https://leetcode.com/problems/minimize-the-maximum-adjacent-element-difference/description/)
+3357 [https://leetcode.com/problems/minimize-the-maximum-adjacent-element-difference/description/](https://leetcode.com/problems/minimize-the-maximum-adjacent-element-difference/description/)&#x20;
+
+3400 [https://leetcode.com/problems/maximum-number-of-matching-indices-after-right-shifts/description/](https://leetcode.com/problems/maximum-number-of-matching-indices-after-right-shifts/description/)
 
 ### Hash
 
@@ -1579,7 +1587,11 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 
 3272 [https://leetcode.com/problems/find-the-count-of-good-integers/description/](https://leetcode.com/problems/find-the-count-of-good-integers/description/)&#x20;
 
-3339 or DP [https://leetcode.com/problems/find-the-number-of-k-even-arrays/description/](https://leetcode.com/problems/find-the-number-of-k-even-arrays/description/)
+3339 or DP [https://leetcode.com/problems/find-the-number-of-k-even-arrays/description/](https://leetcode.com/problems/find-the-number-of-k-even-arrays/description/)&#x20;
+
+3395 [https://leetcode.com/problems/subsequences-with-a-unique-middle-mode-i/description/](https://leetcode.com/problems/subsequences-with-a-unique-middle-mode-i/description/)&#x20;
+
+3405 [https://leetcode.com/problems/count-the-number-of-arrays-with-k-matching-adjacent-elements/description/](https://leetcode.com/problems/count-the-number-of-arrays-with-k-matching-adjacent-elements/description/)
 
 ### Pigeon Holes Principle
 
@@ -1991,7 +2003,9 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 
 3187 [https://leetcode.com/problems/peaks-in-array/description/](https://leetcode.com/problems/peaks-in-array/description/)&#x20;
 
-3382 [https://leetcode.com/problems/maximum-area-rectangle-with-point-constraints-ii/description/](https://leetcode.com/problems/maximum-area-rectangle-with-point-constraints-ii/description/)
+3382 [https://leetcode.com/problems/maximum-area-rectangle-with-point-constraints-ii/description/](https://leetcode.com/problems/maximum-area-rectangle-with-point-constraints-ii/description/)&#x20;
+
+3410 [https://leetcode.com/problems/maximize-subarray-sum-after-removing-all-occurrences-of-one-element/description/](https://leetcode.com/problems/maximize-subarray-sum-after-removing-all-occurrences-of-one-element/description/)
 
 ### Binary Index Tree / Fenwick Tree
 

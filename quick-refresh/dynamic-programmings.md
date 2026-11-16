@@ -416,7 +416,9 @@
 
 3389 [https://leetcode.com/problems/minimum-operations-to-make-character-frequencies-equal/description/](https://leetcode.com/problems/minimum-operations-to-make-character-frequencies-equal/description/)&#x20;
 
-3393 [https://leetcode.com/problems/count-paths-with-the-given-xor-value/description/](https://leetcode.com/problems/count-paths-with-the-given-xor-value/description/)
+3393 [https://leetcode.com/problems/count-paths-with-the-given-xor-value/description/](https://leetcode.com/problems/count-paths-with-the-given-xor-value/description/)&#x20;
+
+3409 [https://leetcode.com/problems/longest-subsequence-with-decreasing-adjacent-difference/solutions/](https://leetcode.com/problems/longest-subsequence-with-decreasing-adjacent-difference/solutions/)
 
 ### Bitmasking
 

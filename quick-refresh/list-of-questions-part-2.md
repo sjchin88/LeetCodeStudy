@@ -24,7 +24,9 @@ description: Two Pointers etc
 
 2445 [https://leetcode.com/problems/count-subarrays-with-fixed-bounds/description/](https://leetcode.com/problems/count-subarrays-with-fixed-bounds/description/)&#x20;
 
-2972 [https://leetcode.com/problems/count-the-number-of-incremovable-subarrays-ii/description/](https://leetcode.com/problems/count-the-number-of-incremovable-subarrays-ii/description/)
+2972 [https://leetcode.com/problems/count-the-number-of-incremovable-subarrays-ii/description/](https://leetcode.com/problems/count-the-number-of-incremovable-subarrays-ii/description/)&#x20;
+
+3406 [https://leetcode.com/problems/find-the-lexicographically-largest-string-from-the-box-ii/description/](https://leetcode.com/problems/find-the-lexicographically-largest-string-from-the-box-ii/description/)
 
 ### Opposite Direction Traversal
 
