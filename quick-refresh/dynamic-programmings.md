@@ -418,7 +418,13 @@
 
 3393 [https://leetcode.com/problems/count-paths-with-the-given-xor-value/description/](https://leetcode.com/problems/count-paths-with-the-given-xor-value/description/)&#x20;
 
-3409 [https://leetcode.com/problems/longest-subsequence-with-decreasing-adjacent-difference/solutions/](https://leetcode.com/problems/longest-subsequence-with-decreasing-adjacent-difference/solutions/)
+3409 [https://leetcode.com/problems/longest-subsequence-with-decreasing-adjacent-difference/solutions/](https://leetcode.com/problems/longest-subsequence-with-decreasing-adjacent-difference/solutions/)&#x20;
+
+3414 [https://leetcode.com/problems/maximum-score-of-non-overlapping-intervals/description/](https://leetcode.com/problems/maximum-score-of-non-overlapping-intervals/description/)&#x20;
+
+3418 [https://leetcode.com/problems/maximum-amount-of-money-robot-can-earn/description/](https://leetcode.com/problems/maximum-amount-of-money-robot-can-earn/description/)&#x20;
+
+3429 [https://leetcode.com/problems/paint-house-iv/description/](https://leetcode.com/problems/paint-house-iv/description/)
 
 ### Bitmasking
 

@@ -633,7 +633,9 @@ Unnecessary Hard
 
 3367 [https://leetcode.com/problems/maximize-sum-of-weights-after-edge-removals/description/](https://leetcode.com/problems/maximize-sum-of-weights-after-edge-removals/description/)&#x20;
 
-3373 [https://leetcode.com/problems/maximize-the-number-of-target-nodes-after-connecting-trees-ii/description/](https://leetcode.com/problems/maximize-the-number-of-target-nodes-after-connecting-trees-ii/description/)
+3373 [https://leetcode.com/problems/maximize-the-number-of-target-nodes-after-connecting-trees-ii/description/](https://leetcode.com/problems/maximize-the-number-of-target-nodes-after-connecting-trees-ii/description/)&#x20;
+
+3425 DFS + sliding [https://leetcode.com/problems/longest-special-path/description/](https://leetcode.com/problems/longest-special-path/description/)
 
 ### Rerooting
 
@@ -865,7 +867,7 @@ Unnecessary Hard
 
 2392 or DFS [https://leetcode.com/problems/build-a-matrix-with-conditions/description/](https://leetcode.com/problems/build-a-matrix-with-conditions/description/)
 
-### Mininum Spanning Tree (Kruskal)
+### Mininum Spanning Tree (Kruskal | Prim)
 
 1135 [https://leetcode.com/problems/connecting-cities-with-minimum-cost/description/](https://leetcode.com/problems/connecting-cities-with-minimum-cost/description/)
 
@@ -875,7 +877,7 @@ Unnecessary Hard
 
 1584 [https://leetcode.com/problems/min-cost-to-connect-all-points/description/](https://leetcode.com/problems/min-cost-to-connect-all-points/description/)
 
-
+3419 [https://leetcode.com/problems/minimize-the-maximum-edge-weight-of-graph/description/](https://leetcode.com/problems/minimize-the-maximum-edge-weight-of-graph/description/)
 
 ### Traveling Salesman
 
@@ -1143,7 +1145,9 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 
 3357 [https://leetcode.com/problems/minimize-the-maximum-adjacent-element-difference/description/](https://leetcode.com/problems/minimize-the-maximum-adjacent-element-difference/description/)&#x20;
 
-3400 [https://leetcode.com/problems/maximum-number-of-matching-indices-after-right-shifts/description/](https://leetcode.com/problems/maximum-number-of-matching-indices-after-right-shifts/description/)
+3400 [https://leetcode.com/problems/maximum-number-of-matching-indices-after-right-shifts/description/](https://leetcode.com/problems/maximum-number-of-matching-indices-after-right-shifts/description/)&#x20;
+
+3424 [https://leetcode.com/problems/minimum-cost-to-make-arrays-identical/description/](https://leetcode.com/problems/minimum-cost-to-make-arrays-identical/description/)
 
 ### Hash
 
@@ -1591,7 +1595,13 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 
 3395 [https://leetcode.com/problems/subsequences-with-a-unique-middle-mode-i/description/](https://leetcode.com/problems/subsequences-with-a-unique-middle-mode-i/description/)&#x20;
 
-3405 [https://leetcode.com/problems/count-the-number-of-arrays-with-k-matching-adjacent-elements/description/](https://leetcode.com/problems/count-the-number-of-arrays-with-k-matching-adjacent-elements/description/)
+3416 [https://leetcode.com/problems/subsequences-with-a-unique-middle-mode-ii/description/](https://leetcode.com/problems/subsequences-with-a-unique-middle-mode-ii/description/)
+
+3405 [https://leetcode.com/problems/count-the-number-of-arrays-with-k-matching-adjacent-elements/description/](https://leetcode.com/problems/count-the-number-of-arrays-with-k-matching-adjacent-elements/description/)&#x20;
+
+3426 [https://leetcode.com/problems/manhattan-distances-of-all-arrangements-of-pieces/description/](https://leetcode.com/problems/manhattan-distances-of-all-arrangements-of-pieces/description/)&#x20;
+
+3428 [https://leetcode.com/problems/maximum-and-minimum-sums-of-at-most-size-k-subsequences/description/](https://leetcode.com/problems/maximum-and-minimum-sums-of-at-most-size-k-subsequences/description/)
 
 ### Pigeon Holes Principle
 
@@ -1681,7 +1691,9 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 
 3025 [https://leetcode.com/problems/find-the-number-of-ways-to-place-people-i/description/](https://leetcode.com/problems/find-the-number-of-ways-to-place-people-i/description/)&#x20;
 
-3359 [https://leetcode.com/problems/find-sorted-submatrices-with-maximum-element-at-most-k/description/](https://leetcode.com/problems/find-sorted-submatrices-with-maximum-element-at-most-k/description/)
+3359 [https://leetcode.com/problems/find-sorted-submatrices-with-maximum-element-at-most-k/description/](https://leetcode.com/problems/find-sorted-submatrices-with-maximum-element-at-most-k/description/)&#x20;
+
+3430 [https://leetcode.com/problems/maximum-and-minimum-sums-of-at-most-size-k-subarrays/description/](https://leetcode.com/problems/maximum-and-minimum-sums-of-at-most-size-k-subarrays/description/)
 
 ## Named Algorithms&#x20;
 
@@ -1809,7 +1821,9 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 
 3073 [https://leetcode.com/problems/maximum-increasing-triplet-value/description/](https://leetcode.com/problems/maximum-increasing-triplet-value/description/)&#x20;
 
-3321 [https://leetcode.com/problems/find-x-sum-of-all-k-long-subarrays-ii/description/](https://leetcode.com/problems/find-x-sum-of-all-k-long-subarrays-ii/description/)
+3321 [https://leetcode.com/problems/find-x-sum-of-all-k-long-subarrays-ii/description/](https://leetcode.com/problems/find-x-sum-of-all-k-long-subarrays-ii/description/)&#x20;
+
+3422 [https://leetcode.com/problems/minimum-operations-to-make-subarray-elements-equal/description/](https://leetcode.com/problems/minimum-operations-to-make-subarray-elements-equal/description/)
 
 ## Points Operation (2D Map)
 

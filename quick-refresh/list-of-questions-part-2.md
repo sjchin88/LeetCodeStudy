@@ -110,11 +110,13 @@ description: Two Pointers etc
 
 3356 [https://leetcode.com/problems/zero-array-transformation-ii/description/](https://leetcode.com/problems/zero-array-transformation-ii/description/)&#x20;
 
-
+3420 [https://leetcode.com/problems/count-non-decreasing-subarrays-after-k-operations/description/](https://leetcode.com/problems/count-non-decreasing-subarrays-after-k-operations/description/)
 
 ### Line Sweep
 
-3394 [https://leetcode.com/problems/check-if-grid-can-be-cut-into-sections/description/](https://leetcode.com/problems/check-if-grid-can-be-cut-into-sections/description/)
+3394 [https://leetcode.com/problems/check-if-grid-can-be-cut-into-sections/description/](https://leetcode.com/problems/check-if-grid-can-be-cut-into-sections/description/)&#x20;
+
+3413 [https://leetcode.com/problems/maximum-coins-from-k-consecutive-bags/description/](https://leetcode.com/problems/maximum-coins-from-k-consecutive-bags/description/)
 
 ### Fast and Slow Pointer
 
