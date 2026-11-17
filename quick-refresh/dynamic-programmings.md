@@ -424,7 +424,11 @@
 
 3418 [https://leetcode.com/problems/maximum-amount-of-money-robot-can-earn/description/](https://leetcode.com/problems/maximum-amount-of-money-robot-can-earn/description/)&#x20;
 
-3429 [https://leetcode.com/problems/paint-house-iv/description/](https://leetcode.com/problems/paint-house-iv/description/)
+3429 [https://leetcode.com/problems/paint-house-iv/description/](https://leetcode.com/problems/paint-house-iv/description/)&#x20;
+
+3441 [https://leetcode.com/problems/minimum-cost-good-caption/description/](https://leetcode.com/problems/minimum-cost-good-caption/description/)&#x20;
+
+3448 [https://leetcode.com/problems/count-substrings-divisible-by-last-digit/description/](https://leetcode.com/problems/count-substrings-divisible-by-last-digit/description/)
 
 ### Bitmasking
 

@@ -118,6 +118,8 @@ also 3048&#x20;
 
 3399 [https://leetcode.com/problems/smallest-substring-with-identical-characters-ii/description/](https://leetcode.com/problems/smallest-substring-with-identical-characters-ii/description/)
 
+3449 [https://leetcode.com/problems/maximize-the-minimum-game-score/submissions/1543576356/](https://leetcode.com/problems/maximize-the-minimum-game-score/submissions/1543576356/)
+
 ### Divide and Conquer
 
 1274 [https://leetcode.com/problems/number-of-ships-in-a-rectangle/description/](https://leetcode.com/problems/number-of-ships-in-a-rectangle/description/)
@@ -371,6 +373,8 @@ To continue
 3133 [https://leetcode.com/problems/minimum-array-end/submissions/2181914837/](https://leetcode.com/problems/minimum-array-end/submissions/2181914837/)
 
 3376 backtrack [https://leetcode.com/problems/minimum-time-to-break-locks-i/description/](https://leetcode.com/problems/minimum-time-to-break-locks-i/description/)
+
+3444 [https://leetcode.com/problems/minimum-increments-for-target-multiples-in-an-array/description/](https://leetcode.com/problems/minimum-increments-for-target-multiples-in-an-array/description/)
 
 ### Gray Code
 
@@ -635,7 +639,9 @@ Unnecessary Hard
 
 3373 [https://leetcode.com/problems/maximize-the-number-of-target-nodes-after-connecting-trees-ii/description/](https://leetcode.com/problems/maximize-the-number-of-target-nodes-after-connecting-trees-ii/description/)&#x20;
 
-3425 DFS + sliding [https://leetcode.com/problems/longest-special-path/description/](https://leetcode.com/problems/longest-special-path/description/)
+3425 DFS + sliding [https://leetcode.com/problems/longest-special-path/description/](https://leetcode.com/problems/longest-special-path/description/)&#x20;
+
+3437 [https://leetcode.com/problems/permutations-iii/description/](https://leetcode.com/problems/permutations-iii/description/)
 
 ### Rerooting
 
@@ -1147,7 +1153,13 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 
 3400 [https://leetcode.com/problems/maximum-number-of-matching-indices-after-right-shifts/description/](https://leetcode.com/problems/maximum-number-of-matching-indices-after-right-shifts/description/)&#x20;
 
-3424 [https://leetcode.com/problems/minimum-cost-to-make-arrays-identical/description/](https://leetcode.com/problems/minimum-cost-to-make-arrays-identical/description/)
+3424 [https://leetcode.com/problems/minimum-cost-to-make-arrays-identical/description/](https://leetcode.com/problems/minimum-cost-to-make-arrays-identical/description/)&#x20;
+
+3431 [https://leetcode.com/problems/minimum-unlocked-indices-to-sort-nums/description/](https://leetcode.com/problems/minimum-unlocked-indices-to-sort-nums/description/)&#x20;
+
+3439 [https://leetcode.com/problems/reschedule-meetings-for-maximum-free-time-i/description/](https://leetcode.com/problems/reschedule-meetings-for-maximum-free-time-i/description/)
+
+3440 [https://leetcode.com/problems/reschedule-meetings-for-maximum-free-time-ii/description/](https://leetcode.com/problems/reschedule-meetings-for-maximum-free-time-ii/description/)
 
 ### Hash
 
@@ -2094,6 +2106,8 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 3234 [https://leetcode.com/problems/count-the-number-of-substrings-with-dominant-ones/description/](https://leetcode.com/problems/count-the-number-of-substrings-with-dominant-ones/description/)&#x20;
 
 3348 [https://leetcode.com/problems/smallest-divisible-digit-product-ii/description/](https://leetcode.com/problems/smallest-divisible-digit-product-ii/description/)
+
+3433 [https://leetcode.com/problems/count-mentions-per-user/description/](https://leetcode.com/problems/count-mentions-per-user/description/)
 
 ## Sorting
 

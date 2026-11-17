@@ -28,6 +28,8 @@ description: Two Pointers etc
 
 3406 [https://leetcode.com/problems/find-the-lexicographically-largest-string-from-the-box-ii/description/](https://leetcode.com/problems/find-the-lexicographically-largest-string-from-the-box-ii/description/)
 
+3445 [https://leetcode.com/problems/maximum-difference-between-even-and-odd-frequency-ii/description/](https://leetcode.com/problems/maximum-difference-between-even-and-odd-frequency-ii/description/)
+
 ### Opposite Direction Traversal
 
 11. [https://leetcode.com/problems/container-with-most-water/description/](https://leetcode.com/problems/container-with-most-water/description/)
@@ -287,3 +289,5 @@ description: Two Pointers etc
 3256 [https://leetcode.com/problems/maximum-value-sum-by-placing-three-rooks-i/description/](https://leetcode.com/problems/maximum-value-sum-by-placing-three-rooks-i/description/)
 
 3257 [https://leetcode.com/problems/maximum-value-sum-by-placing-three-rooks-ii/solutions/](https://leetcode.com/problems/maximum-value-sum-by-placing-three-rooks-ii/solutions/)
+
+3435 [https://leetcode.com/problems/frequencies-of-shortest-supersequences/description/](https://leetcode.com/problems/frequencies-of-shortest-supersequences/description/)
