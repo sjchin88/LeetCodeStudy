@@ -178,7 +178,9 @@ also 3048&#x20;
 
 2773 [https://leetcode.com/problems/height-of-special-binary-tree/description/](https://leetcode.com/problems/height-of-special-binary-tree/description/)&#x20;
 
-3249 [https://leetcode.com/problems/count-the-number-of-good-nodes/description/](https://leetcode.com/problems/count-the-number-of-good-nodes/description/)
+3249 [https://leetcode.com/problems/count-the-number-of-good-nodes/description/](https://leetcode.com/problems/count-the-number-of-good-nodes/description/)&#x20;
+
+3488 [https://leetcode.com/problems/closest-equal-element-queries/description/](https://leetcode.com/problems/closest-equal-element-queries/description/)
 
 ### Inorder traversal (Left root right)
 
@@ -641,7 +643,9 @@ Unnecessary Hard
 
 3425 DFS + sliding [https://leetcode.com/problems/longest-special-path/description/](https://leetcode.com/problems/longest-special-path/description/)&#x20;
 
-3437 [https://leetcode.com/problems/permutations-iii/description/](https://leetcode.com/problems/permutations-iii/description/)
+3437 [https://leetcode.com/problems/permutations-iii/description/](https://leetcode.com/problems/permutations-iii/description/)&#x20;
+
+3486 DFS + Sliding [https://leetcode.com/problems/longest-special-path-ii/description/](https://leetcode.com/problems/longest-special-path-ii/description/)
 
 ### Rerooting
 
@@ -747,7 +751,11 @@ Unnecessary Hard
 
 3391 [https://leetcode.com/problems/design-a-3d-binary-matrix-with-efficient-layer-tracking/description/](https://leetcode.com/problems/design-a-3d-binary-matrix-with-efficient-layer-tracking/description/)&#x20;
 
-3408 [https://leetcode.com/problems/design-task-manager/description/](https://leetcode.com/problems/design-task-manager/description/)
+3408 [https://leetcode.com/problems/design-task-manager/description/](https://leetcode.com/problems/design-task-manager/description/)&#x20;
+
+3484 [https://leetcode.com/problems/design-spreadsheet/description/](https://leetcode.com/problems/design-spreadsheet/description/)
+
+3508 [https://leetcode.com/problems/implement-router/description/](https://leetcode.com/problems/implement-router/description/)
 
 ### Concurrency
 
@@ -1159,7 +1167,15 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 
 3439 [https://leetcode.com/problems/reschedule-meetings-for-maximum-free-time-i/description/](https://leetcode.com/problems/reschedule-meetings-for-maximum-free-time-i/description/)
 
-3440 [https://leetcode.com/problems/reschedule-meetings-for-maximum-free-time-ii/description/](https://leetcode.com/problems/reschedule-meetings-for-maximum-free-time-ii/description/)
+3440 [https://leetcode.com/problems/reschedule-meetings-for-maximum-free-time-ii/description/](https://leetcode.com/problems/reschedule-meetings-for-maximum-free-time-ii/description/)&#x20;
+
+3458 Interval [https://leetcode.com/problems/select-k-disjoint-special-substrings/description/](https://leetcode.com/problems/select-k-disjoint-special-substrings/description/)&#x20;
+
+3468 [https://leetcode.com/problems/find-the-number-of-copy-arrays/description/](https://leetcode.com/problems/find-the-number-of-copy-arrays/description/)&#x20;
+
+3474 [https://leetcode.com/problems/lexicographically-smallest-generated-string/description/](https://leetcode.com/problems/lexicographically-smallest-generated-string/description/)
+
+3495 [https://leetcode.com/problems/minimum-operations-to-make-array-elements-zero/description/](https://leetcode.com/problems/minimum-operations-to-make-array-elements-zero/description/)
 
 ### Hash
 
@@ -1288,6 +1304,10 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 3279 [https://leetcode.com/problems/maximum-total-area-occupied-by-pistons/description/](https://leetcode.com/problems/maximum-total-area-occupied-by-pistons/description/)&#x20;
 
 3362 [https://leetcode.com/problems/zero-array-transformation-iii/description/](https://leetcode.com/problems/zero-array-transformation-iii/description/)
+
+3506 [https://leetcode.com/problems/find-time-required-to-eliminate-bacterial-strains/description/](https://leetcode.com/problems/find-time-required-to-eliminate-bacterial-strains/description/)
+
+3510 [https://leetcode.com/problems/minimum-pair-removal-to-sort-array-ii/description/](https://leetcode.com/problems/minimum-pair-removal-to-sort-array-ii/description/)
 
 ### Huffman's Algorithm
 
@@ -1507,6 +1527,8 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 
 3047 [https://leetcode.com/problems/find-the-largest-area-of-square-inside-two-rectangles/description/](https://leetcode.com/problems/find-the-largest-area-of-square-inside-two-rectangles/description/)&#x20;
 
+3464 [https://leetcode.com/problems/maximize-the-distance-between-points-on-a-square/description/](https://leetcode.com/problems/maximize-the-distance-between-points-on-a-square/description/)
+
 ### Inclusion Exclusion
 
 3116 [https://leetcode.com/problems/kth-smallest-amount-with-single-denomination-combination/description/](https://leetcode.com/problems/kth-smallest-amount-with-single-denomination-combination/description/)&#x20;
@@ -1553,7 +1575,9 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 
 3102 [https://leetcode.com/problems/minimize-length-of-array-using-operations/description/](https://leetcode.com/problems/minimize-length-of-array-using-operations/description/)&#x20;
 
+#### Lucas Theorem
 
+3463 [https://leetcode.com/problems/check-if-digits-are-equal-in-string-after-operations-ii/description/](https://leetcode.com/problems/check-if-digits-are-equal-in-string-after-operations-ii/description/)
 
 ### Pascal Triangle
 
@@ -1614,6 +1638,8 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 3426 [https://leetcode.com/problems/manhattan-distances-of-all-arrangements-of-pieces/description/](https://leetcode.com/problems/manhattan-distances-of-all-arrangements-of-pieces/description/)&#x20;
 
 3428 [https://leetcode.com/problems/maximum-and-minimum-sums-of-at-most-size-k-subsequences/description/](https://leetcode.com/problems/maximum-and-minimum-sums-of-at-most-size-k-subsequences/description/)
+
+3470 [https://leetcode.com/problems/permutations-iv/description/](https://leetcode.com/problems/permutations-iv/description/)
 
 ### Pigeon Holes Principle
 
@@ -2031,7 +2057,13 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 
 3382 [https://leetcode.com/problems/maximum-area-rectangle-with-point-constraints-ii/description/](https://leetcode.com/problems/maximum-area-rectangle-with-point-constraints-ii/description/)&#x20;
 
-3410 [https://leetcode.com/problems/maximize-subarray-sum-after-removing-all-occurrences-of-one-element/description/](https://leetcode.com/problems/maximize-subarray-sum-after-removing-all-occurrences-of-one-element/description/)
+3410 [https://leetcode.com/problems/maximize-subarray-sum-after-removing-all-occurrences-of-one-element/description/](https://leetcode.com/problems/maximize-subarray-sum-after-removing-all-occurrences-of-one-element/description/)&#x20;
+
+3454 [https://leetcode.com/problems/separate-squares-ii/description/](https://leetcode.com/problems/separate-squares-ii/description/)&#x20;
+
+3479 [https://leetcode.com/problems/fruits-into-baskets-iii/description/](https://leetcode.com/problems/fruits-into-baskets-iii/description/)
+
+3501 [https://leetcode.com/problems/maximize-active-section-with-trade-ii/description/](https://leetcode.com/problems/maximize-active-section-with-trade-ii/description/)
 
 ### Binary Index Tree / Fenwick Tree
 
@@ -2222,7 +2254,9 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 
 3036 [https://leetcode.com/problems/number-of-subarrays-that-match-a-pattern-ii/solutions/](https://leetcode.com/problems/number-of-subarrays-that-match-a-pattern-ii/solutions/)&#x20;
 
-3292 [https://leetcode.com/problems/minimum-number-of-valid-strings-to-form-target-ii/description/](https://leetcode.com/problems/minimum-number-of-valid-strings-to-form-target-ii/description/)
+3292 [https://leetcode.com/problems/minimum-number-of-valid-strings-to-form-target-ii/description/](https://leetcode.com/problems/minimum-number-of-valid-strings-to-form-target-ii/description/)&#x20;
+
+3455 [https://leetcode.com/problems/shortest-matching-substring/description/](https://leetcode.com/problems/shortest-matching-substring/description/)
 
 ### Longest Common Prefix (LCP)
 
@@ -2246,11 +2280,15 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 
 1087 [https://leetcode.com/problems/brace-expansion/description/](https://leetcode.com/problems/brace-expansion/description/)
 
+3481 [https://leetcode.com/problems/apply-substitutions/description/](https://leetcode.com/problems/apply-substitutions/description/)
+
 ### Substring | Subarray
 
 2063 [https://leetcode.com/problems/vowels-of-all-substrings/description/](https://leetcode.com/problems/vowels-of-all-substrings/description/)&#x20;
 
 2743 Count substring ending at i [https://leetcode.com/problems/count-substrings-without-repeating-character/](https://leetcode.com/problems/count-substrings-without-repeating-character/)
+
+3504 Longest common substring [https://leetcode.com/problems/longest-palindrome-after-substring-concatenation-ii/description/](https://leetcode.com/problems/longest-palindrome-after-substring-concatenation-ii/description/)
 
 ### Z-function
 
@@ -2305,6 +2343,8 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 2909 [https://leetcode.com/problems/minimum-sum-of-mountain-triplets-ii/description/](https://leetcode.com/problems/minimum-sum-of-mountain-triplets-ii/description/)&#x20;
 
 3273 [https://leetcode.com/problems/minimum-amount-of-damage-dealt-to-bob/submissions/1374406238/](https://leetcode.com/problems/minimum-amount-of-damage-dealt-to-bob/submissions/1374406238/)
+
+3480 [https://leetcode.com/problems/maximize-subarrays-after-removing-one-conflicting-pair/description/](https://leetcode.com/problems/maximize-subarrays-after-removing-one-conflicting-pair/description/)
 
 ##
 

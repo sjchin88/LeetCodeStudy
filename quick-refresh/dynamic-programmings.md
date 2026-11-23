@@ -428,7 +428,25 @@
 
 3441 [https://leetcode.com/problems/minimum-cost-good-caption/description/](https://leetcode.com/problems/minimum-cost-good-caption/description/)&#x20;
 
-3448 [https://leetcode.com/problems/count-substrings-divisible-by-last-digit/description/](https://leetcode.com/problems/count-substrings-divisible-by-last-digit/description/)
+3448 [https://leetcode.com/problems/count-substrings-divisible-by-last-digit/description/](https://leetcode.com/problems/count-substrings-divisible-by-last-digit/description/)&#x20;
+
+3459 [https://leetcode.com/problems/length-of-longest-v-shaped-diagonal-segment/description/](https://leetcode.com/problems/length-of-longest-v-shaped-diagonal-segment/description/)
+
+3466 [https://leetcode.com/problems/maximum-coin-collection/description/](https://leetcode.com/problems/maximum-coin-collection/description/)
+
+3469 [https://leetcode.com/problems/find-minimum-cost-to-remove-array-elements/description/](https://leetcode.com/problems/find-minimum-cost-to-remove-array-elements/description/)&#x20;
+
+3472 [https://leetcode.com/problems/longest-palindromic-subsequence-after-at-most-k-operations/description/](https://leetcode.com/problems/longest-palindromic-subsequence-after-at-most-k-operations/description/)
+
+3473 [https://leetcode.com/problems/sum-of-k-subarrays-with-length-at-least-m/description/](https://leetcode.com/problems/sum-of-k-subarrays-with-length-at-least-m/description/)
+
+3489 [https://leetcode.com/problems/zero-array-transformation-iv/description/](https://leetcode.com/problems/zero-array-transformation-iv/description/)
+
+3494 [https://leetcode.com/problems/find-the-minimum-amount-of-time-to-brew-potions/description/](https://leetcode.com/problems/find-the-minimum-amount-of-time-to-brew-potions/description/)
+
+3500 [https://leetcode.com/problems/minimum-cost-to-divide-array-into-subarrays/description/](https://leetcode.com/problems/minimum-cost-to-divide-array-into-subarrays/description/)
+
+3509 [https://leetcode.com/problems/maximum-product-of-subsequences-with-an-alternating-sum-equal-to-k/description/](https://leetcode.com/problems/maximum-product-of-subsequences-with-an-alternating-sum-equal-to-k/description/)
 
 ### Bitmasking
 
@@ -505,6 +523,8 @@
 2999 [https://leetcode.com/problems/count-the-number-of-powerful-integers/description/](https://leetcode.com/problems/count-the-number-of-powerful-integers/description/)&#x20;
 
 3352 [https://leetcode.com/problems/count-k-reducible-numbers-less-than-n/description/](https://leetcode.com/problems/count-k-reducible-numbers-less-than-n/description/)
+
+3490 [https://leetcode.com/problems/count-beautiful-numbers/description/](https://leetcode.com/problems/count-beautiful-numbers/description/)
 
 ### Knacksack
 

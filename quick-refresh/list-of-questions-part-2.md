@@ -204,7 +204,9 @@ description: Two Pointers etc
 
 3213 DP [https://leetcode.com/problems/construct-string-with-minimum-cost/description/](https://leetcode.com/problems/construct-string-with-minimum-cost/description/)
 
-3253 [https://leetcode.com/problems/construct-string-with-minimum-cost-easy/description/](https://leetcode.com/problems/construct-string-with-minimum-cost-easy/description/)
+3253 [https://leetcode.com/problems/construct-string-with-minimum-cost-easy/description/](https://leetcode.com/problems/construct-string-with-minimum-cost-easy/description/)&#x20;
+
+3485 [https://leetcode.com/problems/longest-common-prefix-of-k-strings-after-removal/description/](https://leetcode.com/problems/longest-common-prefix-of-k-strings-after-removal/description/)
 
 ## Union Find
 
@@ -258,6 +260,10 @@ description: Two Pointers etc
 
 3235 [https://leetcode.com/problems/check-if-the-rectangle-corner-is-reachable/description/](https://leetcode.com/problems/check-if-the-rectangle-corner-is-reachable/description/)
 
+3493 [https://leetcode.com/problems/properties-graph/description/](https://leetcode.com/problems/properties-graph/description/)
+
+
+
 ### Disjointed Union Find
 
 827 [https://leetcode.com/problems/making-a-large-island/description/](https://leetcode.com/problems/making-a-large-island/description/)
@@ -291,3 +297,5 @@ description: Two Pointers etc
 3257 [https://leetcode.com/problems/maximum-value-sum-by-placing-three-rooks-ii/solutions/](https://leetcode.com/problems/maximum-value-sum-by-placing-three-rooks-ii/solutions/)
 
 3435 [https://leetcode.com/problems/frequencies-of-shortest-supersequences/description/](https://leetcode.com/problems/frequencies-of-shortest-supersequences/description/)
+
+3505 [https://leetcode.com/problems/minimum-operations-to-make-elements-within-k-subarrays-equal/description/](https://leetcode.com/problems/minimum-operations-to-make-elements-within-k-subarrays-equal/description/)
