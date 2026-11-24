@@ -390,6 +390,10 @@ To continue
 
 458 . [https://leetcode.com/problems/poor-pigs/description/](https://leetcode.com/problems/poor-pigs/description/)
 
+### Walsh-Hadamard Transform
+
+3514 [https://leetcode.com/problems/number-of-unique-xor-triplets-ii/description/](https://leetcode.com/problems/number-of-unique-xor-triplets-ii/description/)
+
 ## BFS
 
 127 . Double BFS - [https://leetcode.com/problems/word-ladder/description/](https://leetcode.com/problems/word-ladder/description/)
@@ -1177,6 +1181,8 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 
 3495 [https://leetcode.com/problems/minimum-operations-to-make-array-elements-zero/description/](https://leetcode.com/problems/minimum-operations-to-make-array-elements-zero/description/)
 
+3511 Prefix sum + [https://leetcode.com/problems/make-a-positive-array/description/](https://leetcode.com/problems/make-a-positive-array/description/)
+
 ### Hash
 
 1072 [https://leetcode.com/problems/flip-columns-for-maximum-number-of-equal-rows/description/](https://leetcode.com/problems/flip-columns-for-maximum-number-of-equal-rows/description/)
@@ -1639,7 +1645,9 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 
 3428 [https://leetcode.com/problems/maximum-and-minimum-sums-of-at-most-size-k-subsequences/description/](https://leetcode.com/problems/maximum-and-minimum-sums-of-at-most-size-k-subsequences/description/)
 
-3470 [https://leetcode.com/problems/permutations-iv/description/](https://leetcode.com/problems/permutations-iv/description/)
+3470 [https://leetcode.com/problems/permutations-iv/description/](https://leetcode.com/problems/permutations-iv/description/)&#x20;
+
+3518 [https://leetcode.com/problems/smallest-palindromic-rearrangement-ii/description/](https://leetcode.com/problems/smallest-palindromic-rearrangement-ii/description/)
 
 ### Pigeon Holes Principle
 
@@ -2063,7 +2071,11 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 
 3479 [https://leetcode.com/problems/fruits-into-baskets-iii/description/](https://leetcode.com/problems/fruits-into-baskets-iii/description/)
 
-3501 [https://leetcode.com/problems/maximize-active-section-with-trade-ii/description/](https://leetcode.com/problems/maximize-active-section-with-trade-ii/description/)
+3501 [https://leetcode.com/problems/maximize-active-section-with-trade-ii/description/](https://leetcode.com/problems/maximize-active-section-with-trade-ii/description/)&#x20;
+
+3515 [https://leetcode.com/problems/shortest-path-in-a-weighted-tree/description/](https://leetcode.com/problems/shortest-path-in-a-weighted-tree/description/)
+
+3520 [https://leetcode.com/problems/minimum-threshold-for-inversion-pairs-count/description/](https://leetcode.com/problems/minimum-threshold-for-inversion-pairs-count/description/)
 
 ### Binary Index Tree / Fenwick Tree
 

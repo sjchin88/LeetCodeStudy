@@ -526,6 +526,8 @@
 
 3490 [https://leetcode.com/problems/count-beautiful-numbers/description/](https://leetcode.com/problems/count-beautiful-numbers/description/)
 
+3519 [https://leetcode.com/problems/count-numbers-with-non-decreasing-digits/description/](https://leetcode.com/problems/count-numbers-with-non-decreasing-digits/description/)
+
 ### Knacksack
 
 
