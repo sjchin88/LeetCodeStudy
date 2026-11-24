@@ -476,6 +476,8 @@
 
 3283 [https://leetcode.com/problems/maximum-number-of-moves-to-kill-all-pawns/description/](https://leetcode.com/problems/maximum-number-of-moves-to-kill-all-pawns/description/)
 
+3530 [https://leetcode.com/problems/maximum-profit-from-valid-topological-order-in-dag/description/](https://leetcode.com/problems/maximum-profit-from-valid-topological-order-in-dag/description/)
+
 ### Coin DP
 
 322 . [https://leetcode.com/problems/coin-change/description/](https://leetcode.com/problems/coin-change/description/)

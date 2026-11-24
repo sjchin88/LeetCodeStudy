@@ -182,6 +182,10 @@ also 3048&#x20;
 
 3488 [https://leetcode.com/problems/closest-equal-element-queries/description/](https://leetcode.com/problems/closest-equal-element-queries/description/)
 
+### AVL / Treap
+
+3526 [https://leetcode.com/problems/range-xor-queries-with-subarray-reversals/description/](https://leetcode.com/problems/range-xor-queries-with-subarray-reversals/description/)
+
 ### Inorder traversal (Left root right)
 
 173 . Inorder - [https://leetcode.com/problems/binary-search-tree-iterator/description/](https://leetcode.com/problems/binary-search-tree-iterator/description/)
@@ -2077,6 +2081,8 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 
 3520 [https://leetcode.com/problems/minimum-threshold-for-inversion-pairs-count/description/](https://leetcode.com/problems/minimum-threshold-for-inversion-pairs-count/description/)
 
+3525 [https://leetcode.com/problems/find-x-value-of-array-ii/description/](https://leetcode.com/problems/find-x-value-of-array-ii/description/)
+
 ### Binary Index Tree / Fenwick Tree
 
 308 . [https://leetcode.com/problems/range-sum-query-2d-mutable/description/](https://leetcode.com/problems/range-sum-query-2d-mutable/description/)
@@ -2268,7 +2274,9 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 
 3292 [https://leetcode.com/problems/minimum-number-of-valid-strings-to-form-target-ii/description/](https://leetcode.com/problems/minimum-number-of-valid-strings-to-form-target-ii/description/)&#x20;
 
-3455 [https://leetcode.com/problems/shortest-matching-substring/description/](https://leetcode.com/problems/shortest-matching-substring/description/)
+3455 [https://leetcode.com/problems/shortest-matching-substring/description/](https://leetcode.com/problems/shortest-matching-substring/description/)&#x20;
+
+3529 [https://leetcode.com/problems/count-cells-in-overlapping-horizontal-and-vertical-substrings/description/](https://leetcode.com/problems/count-cells-in-overlapping-horizontal-and-vertical-substrings/description/)
 
 ### Longest Common Prefix (LCP)
 
