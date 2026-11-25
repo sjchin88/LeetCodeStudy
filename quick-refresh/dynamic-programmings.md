@@ -448,6 +448,10 @@
 
 3509 [https://leetcode.com/problems/maximum-product-of-subsequences-with-an-alternating-sum-equal-to-k/description/](https://leetcode.com/problems/maximum-product-of-subsequences-with-an-alternating-sum-equal-to-k/description/)
 
+3538 [https://leetcode.com/problems/merge-operations-for-minimum-travel-time/description/](https://leetcode.com/problems/merge-operations-for-minimum-travel-time/description/)&#x20;
+
+3539 [https://leetcode.com/problems/find-sum-of-array-product-of-magical-sequences/description/](https://leetcode.com/problems/find-sum-of-array-product-of-magical-sequences/description/)
+
 ### Bitmasking
 
 1434 Use bitmasking [https://leetcode.com/problems/number-of-ways-to-wear-different-hats-to-each-other/description/](https://leetcode.com/problems/number-of-ways-to-wear-different-hats-to-each-other/description/)
@@ -476,7 +480,9 @@
 
 3283 [https://leetcode.com/problems/maximum-number-of-moves-to-kill-all-pawns/description/](https://leetcode.com/problems/maximum-number-of-moves-to-kill-all-pawns/description/)
 
-3530 [https://leetcode.com/problems/maximum-profit-from-valid-topological-order-in-dag/description/](https://leetcode.com/problems/maximum-profit-from-valid-topological-order-in-dag/description/)
+3530 [https://leetcode.com/problems/maximum-profit-from-valid-topological-order-in-dag/description/](https://leetcode.com/problems/maximum-profit-from-valid-topological-order-in-dag/description/)&#x20;
+
+3533 [https://leetcode.com/problems/concatenated-divisibility/description/](https://leetcode.com/problems/concatenated-divisibility/description/)
 
 ### Coin DP
 

@@ -653,7 +653,9 @@ Unnecessary Hard
 
 3437 [https://leetcode.com/problems/permutations-iii/description/](https://leetcode.com/problems/permutations-iii/description/)&#x20;
 
-3486 DFS + Sliding [https://leetcode.com/problems/longest-special-path-ii/description/](https://leetcode.com/problems/longest-special-path-ii/description/)
+3486 DFS + Sliding [https://leetcode.com/problems/longest-special-path-ii/description/](https://leetcode.com/problems/longest-special-path-ii/description/)&#x20;
+
+3535 [https://leetcode.com/problems/unit-conversion-ii/description/](https://leetcode.com/problems/unit-conversion-ii/description/)
 
 ### Rerooting
 
@@ -1955,7 +1957,9 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 
 3212 [https://leetcode.com/problems/count-submatrices-with-equal-frequency-of-x-and-y/description/](https://leetcode.com/problems/count-submatrices-with-equal-frequency-of-x-and-y/description/)
 
-3284 [https://leetcode.com/problems/sum-of-consecutive-subarrays/description/](https://leetcode.com/problems/sum-of-consecutive-subarrays/description/)
+3284 [https://leetcode.com/problems/sum-of-consecutive-subarrays/description/](https://leetcode.com/problems/sum-of-consecutive-subarrays/description/)&#x20;
+
+3540 [https://leetcode.com/problems/minimum-time-to-visit-all-houses/description/](https://leetcode.com/problems/minimum-time-to-visit-all-houses/description/)
 
 ### Prefix\_Suffix array
 

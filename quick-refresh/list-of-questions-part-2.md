@@ -28,7 +28,9 @@ description: Two Pointers etc
 
 3406 [https://leetcode.com/problems/find-the-lexicographically-largest-string-from-the-box-ii/description/](https://leetcode.com/problems/find-the-lexicographically-largest-string-from-the-box-ii/description/)
 
-3445 [https://leetcode.com/problems/maximum-difference-between-even-and-odd-frequency-ii/description/](https://leetcode.com/problems/maximum-difference-between-even-and-odd-frequency-ii/description/)
+3445 [https://leetcode.com/problems/maximum-difference-between-even-and-odd-frequency-ii/description/](https://leetcode.com/problems/maximum-difference-between-even-and-odd-frequency-ii/description/)&#x20;
+
+3534 [https://leetcode.com/problems/path-existence-queries-in-a-graph-ii/description/](https://leetcode.com/problems/path-existence-queries-in-a-graph-ii/description/)
 
 ### Opposite Direction Traversal
 
