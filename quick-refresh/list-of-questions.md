@@ -222,6 +222,10 @@ also 3048&#x20;
 
 2846 [https://leetcode.com/problems/minimum-edge-weight-equilibrium-queries-in-a-tree/description/](https://leetcode.com/problems/minimum-edge-weight-equilibrium-queries-in-a-tree/description/)
 
+3553 [https://leetcode.com/problems/minimum-weighted-subgraph-with-the-required-paths-ii/description/](https://leetcode.com/problems/minimum-weighted-subgraph-with-the-required-paths-ii/description/)
+
+3559 [https://leetcode.com/problems/number-of-ways-to-assign-edge-weights-ii/description/](https://leetcode.com/problems/number-of-ways-to-assign-edge-weights-ii/description/)
+
 ### Nary Tree Structure
 
 431 . [https://leetcode.com/problems/encode-n-ary-tree-to-binary-tree/description/](https://leetcode.com/problems/encode-n-ary-tree-to-binary-tree/description/)
@@ -484,6 +488,8 @@ To continue
 
 3387 [https://leetcode.com/problems/maximize-amount-after-two-days-of-conversions/description/](https://leetcode.com/problems/maximize-amount-after-two-days-of-conversions/description/)
 
+3568 [https://leetcode.com/problems/minimum-moves-to-clean-the-classroom/description/](https://leetcode.com/problems/minimum-moves-to-clean-the-classroom/description/)
+
 ### Bidectional BFS
 
 1197 Double BFS [https://leetcode.com/problems/minimum-knight-moves/description/](https://leetcode.com/problems/minimum-knight-moves/description/)
@@ -656,6 +662,10 @@ Unnecessary Hard
 3486 DFS + Sliding [https://leetcode.com/problems/longest-special-path-ii/description/](https://leetcode.com/problems/longest-special-path-ii/description/)&#x20;
 
 3535 [https://leetcode.com/problems/unit-conversion-ii/description/](https://leetcode.com/problems/unit-conversion-ii/description/)
+
+3565 [https://leetcode.com/problems/sequential-grid-path-cover/description/](https://leetcode.com/problems/sequential-grid-path-cover/description/)
+
+3566 [https://leetcode.com/problems/partition-array-into-two-equal-product-subsets/description/](https://leetcode.com/problems/partition-array-into-two-equal-product-subsets/description/)
 
 ### Rerooting
 
@@ -1481,6 +1491,10 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 
 3260 number theory [https://leetcode.com/problems/find-the-largest-palindrome-divisible-by-k/description/](https://leetcode.com/problems/find-the-largest-palindrome-divisible-by-k/description/)
 
+### Fast Fourier Transform
+
+3549 [https://leetcode.com/problems/multiply-two-polynomials/description/](https://leetcode.com/problems/multiply-two-polynomials/description/)
+
 ### Fibonacci
 
 1414 [https://leetcode.com/problems/find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k/description/](https://leetcode.com/problems/find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k/description/)&#x20;
@@ -1510,6 +1524,8 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 2654[https://leetcode.com/problems/minimum-number-of-operations-to-make-all-array-elements-equal-to-1/description/](https://leetcode.com/problems/minimum-number-of-operations-to-make-all-array-elements-equal-to-1/description/)&#x20;
 
 2941 Sparse Table [https://leetcode.com/problems/maximum-gcd-sum-of-a-subarray/description/](https://leetcode.com/problems/maximum-gcd-sum-of-a-subarray/description/)
+
+3574 [https://leetcode.com/problems/maximize-subarray-gcd-score/description/](https://leetcode.com/problems/maximize-subarray-gcd-score/description/)
 
 ### Geometry (2D-3D)
 
@@ -1683,7 +1699,9 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 
 3233 [https://leetcode.com/problems/find-the-count-of-numbers-which-are-not-special/description/](https://leetcode.com/problems/find-the-count-of-numbers-which-are-not-special/description/)&#x20;
 
-3326 [https://leetcode.com/problems/minimum-division-operations-to-make-array-non-decreasing/description/](https://leetcode.com/problems/minimum-division-operations-to-make-array-non-decreasing/description/)
+3326 [https://leetcode.com/problems/minimum-division-operations-to-make-array-non-decreasing/description/](https://leetcode.com/problems/minimum-division-operations-to-make-array-non-decreasing/description/)&#x20;
+
+3556 [https://leetcode.com/problems/sum-of-largest-prime-substrings/description/](https://leetcode.com/problems/sum-of-largest-prime-substrings/description/)
 
 ### Set Operation
 
@@ -1746,6 +1764,10 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 3359 [https://leetcode.com/problems/find-sorted-submatrices-with-maximum-element-at-most-k/description/](https://leetcode.com/problems/find-sorted-submatrices-with-maximum-element-at-most-k/description/)&#x20;
 
 3430 [https://leetcode.com/problems/maximum-and-minimum-sums-of-at-most-size-k-subarrays/description/](https://leetcode.com/problems/maximum-and-minimum-sums-of-at-most-size-k-subarrays/description/)
+
+3542 [https://leetcode.com/problems/minimum-operations-to-convert-all-elements-to-zero/description/](https://leetcode.com/problems/minimum-operations-to-convert-all-elements-to-zero/description/)
+
+3578 [https://leetcode.com/problems/count-partitions-with-max-min-difference-at-most-k/description/](https://leetcode.com/problems/count-partitions-with-max-min-difference-at-most-k/description/)
 
 ## Named Algorithms&#x20;
 
@@ -2087,6 +2109,8 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 
 3525 [https://leetcode.com/problems/find-x-value-of-array-ii/description/](https://leetcode.com/problems/find-x-value-of-array-ii/description/)
 
+3569 [https://leetcode.com/problems/maximize-count-of-distinct-primes-after-split/description/](https://leetcode.com/problems/maximize-count-of-distinct-primes-after-split/description/)
+
 ### Binary Index Tree / Fenwick Tree
 
 308 . [https://leetcode.com/problems/range-sum-query-2d-mutable/description/](https://leetcode.com/problems/range-sum-query-2d-mutable/description/)
@@ -2126,6 +2150,8 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 2277 [https://leetcode.com/problems/closest-node-to-path-in-tree/description/](https://leetcode.com/problems/closest-node-to-path-in-tree/description/)&#x20;
 
 2836 [https://leetcode.com/problems/maximize-value-of-function-in-a-ball-passing-game/description/](https://leetcode.com/problems/maximize-value-of-function-in-a-ball-passing-game/description/)
+
+3585 [https://leetcode.com/problems/find-weighted-median-node-in-tree/description/](https://leetcode.com/problems/find-weighted-median-node-in-tree/description/)
 
 ## Simulation
 

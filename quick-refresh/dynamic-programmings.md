@@ -450,7 +450,19 @@
 
 3538 [https://leetcode.com/problems/merge-operations-for-minimum-travel-time/description/](https://leetcode.com/problems/merge-operations-for-minimum-travel-time/description/)&#x20;
 
-3539 [https://leetcode.com/problems/find-sum-of-array-product-of-magical-sequences/description/](https://leetcode.com/problems/find-sum-of-array-product-of-magical-sequences/description/)
+3539 [https://leetcode.com/problems/find-sum-of-array-product-of-magical-sequences/description/](https://leetcode.com/problems/find-sum-of-array-product-of-magical-sequences/description/)&#x20;
+
+3543 [https://leetcode.com/problems/maximum-weighted-k-edge-path/description/](https://leetcode.com/problems/maximum-weighted-k-edge-path/description/)
+
+3562 [https://leetcode.com/problems/maximum-profit-from-trading-stocks-with-discounts/description/](https://leetcode.com/problems/maximum-profit-from-trading-stocks-with-discounts/description/)
+
+3563 [https://leetcode.com/problems/lexicographically-smallest-string-after-adjacent-removals/description/](https://leetcode.com/problems/lexicographically-smallest-string-after-adjacent-removals/description/)
+
+3573 [https://leetcode.com/problems/best-time-to-buy-and-sell-stock-v/description/](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-v/description/)
+
+3575 [https://leetcode.com/problems/maximum-good-subtree-score/description/](https://leetcode.com/problems/maximum-good-subtree-score/description/)
+
+3579 [https://leetcode.com/problems/minimum-steps-to-convert-string-with-operations/description/](https://leetcode.com/problems/minimum-steps-to-convert-string-with-operations/description/)
 
 ### Bitmasking
 
@@ -507,6 +519,8 @@
 2313 [https://leetcode.com/problems/minimum-flips-in-binary-tree-to-get-result/description/](https://leetcode.com/problems/minimum-flips-in-binary-tree-to-get-result/description/)&#x20;
 
 2646 [https://leetcode.com/problems/minimize-the-total-price-of-the-trips/description/](https://leetcode.com/problems/minimize-the-total-price-of-the-trips/description/)
+
+3544 [https://leetcode.com/problems/subtree-inversion-sum/description/](https://leetcode.com/problems/subtree-inversion-sum/description/)
 
 ### Digit DP
 
