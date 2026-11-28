@@ -462,7 +462,11 @@
 
 3575 [https://leetcode.com/problems/maximum-good-subtree-score/description/](https://leetcode.com/problems/maximum-good-subtree-score/description/)
 
-3579 [https://leetcode.com/problems/minimum-steps-to-convert-string-with-operations/description/](https://leetcode.com/problems/minimum-steps-to-convert-string-with-operations/description/)
+3579 [https://leetcode.com/problems/minimum-steps-to-convert-string-with-operations/description/](https://leetcode.com/problems/minimum-steps-to-convert-string-with-operations/description/)&#x20;
+
+3599 [https://leetcode.com/problems/partition-array-to-minimize-xor/description/](https://leetcode.com/problems/partition-array-to-minimize-xor/description/)&#x20;
+
+3603 [https://leetcode.com/problems/minimum-cost-path-with-alternating-directions-ii/description/](https://leetcode.com/problems/minimum-cost-path-with-alternating-directions-ii/description/)
 
 ### Bitmasking
 
@@ -568,7 +572,11 @@
 
 2902 [https://leetcode.com/problems/count-of-sub-multisets-with-bounded-sum/solutions/](https://leetcode.com/problems/count-of-sub-multisets-with-bounded-sum/solutions/)&#x20;
 
-3182 [https://leetcode.com/problems/the-number-of-ways-to-make-the-sum/description/](https://leetcode.com/problems/the-number-of-ways-to-make-the-sum/description/)
+3182 [https://leetcode.com/problems/the-number-of-ways-to-make-the-sum/description/](https://leetcode.com/problems/the-number-of-ways-to-make-the-sum/description/)&#x20;
+
+3592 [https://leetcode.com/problems/inverse-coin-change/description/](https://leetcode.com/problems/inverse-coin-change/description/)
+
+3610 [https://leetcode.com/problems/minimum-number-of-primes-to-sum-to-target/description/](https://leetcode.com/problems/minimum-number-of-primes-to-sum-to-target/description/)
 
 ### Longest Common Subsequence
 

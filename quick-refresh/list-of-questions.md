@@ -386,6 +386,8 @@ To continue
 
 3444 [https://leetcode.com/problems/minimum-increments-for-target-multiples-in-an-array/description/](https://leetcode.com/problems/minimum-increments-for-target-multiples-in-an-array/description/)
 
+3595 [https://leetcode.com/problems/once-twice/description/](https://leetcode.com/problems/once-twice/description/)
+
 ### Gray Code
 
 89 . [https://leetcode.com/problems/gray-code/description/](https://leetcode.com/problems/gray-code/description/)&#x20;
@@ -667,6 +669,8 @@ Unnecessary Hard
 
 3566 [https://leetcode.com/problems/partition-array-into-two-equal-product-subsets/description/](https://leetcode.com/problems/partition-array-into-two-equal-product-subsets/description/)
 
+3593 [https://leetcode.com/problems/minimum-increments-to-equalize-leaf-paths/description/](https://leetcode.com/problems/minimum-increments-to-equalize-leaf-paths/description/)
+
 ### Rerooting
 
 2538 Rerooting [https://leetcode.com/problems/difference-between-maximum-and-minimum-price-sum/description/](https://leetcode.com/problems/difference-between-maximum-and-minimum-price-sum/description/)&#x20;
@@ -877,6 +881,10 @@ Unnecessary Hard
 
 3377 [https://leetcode.com/problems/digit-operations-to-make-two-integers-equal/description/](https://leetcode.com/problems/digit-operations-to-make-two-integers-equal/description/)
 
+3594 + bitmask [https://leetcode.com/problems/minimum-time-to-transport-all-individuals/description/](https://leetcode.com/problems/minimum-time-to-transport-all-individuals/description/)
+
+3604 [https://leetcode.com/problems/minimum-time-to-reach-destination-in-directed-graph/description/](https://leetcode.com/problems/minimum-time-to-reach-destination-in-directed-graph/description/)
+
 ### Eulerian Path
 
 2097 [https://leetcode.com/problems/valid-arrangement-of-pairs/description/](https://leetcode.com/problems/valid-arrangement-of-pairs/description/)&#x20;
@@ -912,6 +920,8 @@ Unnecessary Hard
 1584 [https://leetcode.com/problems/min-cost-to-connect-all-points/description/](https://leetcode.com/problems/min-cost-to-connect-all-points/description/)
 
 3419 [https://leetcode.com/problems/minimize-the-maximum-edge-weight-of-graph/description/](https://leetcode.com/problems/minimize-the-maximum-edge-weight-of-graph/description/)
+
+3600 [https://leetcode.com/problems/maximize-spanning-tree-stability-with-upgrades/description/](https://leetcode.com/problems/maximize-spanning-tree-stability-with-upgrades/description/)
 
 ### Traveling Salesman
 
@@ -1557,6 +1567,8 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 
 3464 [https://leetcode.com/problems/maximize-the-distance-between-points-on-a-square/description/](https://leetcode.com/problems/maximize-the-distance-between-points-on-a-square/description/)
 
+3588 [https://leetcode.com/problems/find-maximum-area-of-a-triangle/description/](https://leetcode.com/problems/find-maximum-area-of-a-triangle/description/)
+
 ### Inclusion Exclusion
 
 3116 [https://leetcode.com/problems/kth-smallest-amount-with-single-denomination-combination/description/](https://leetcode.com/problems/kth-smallest-amount-with-single-denomination-combination/description/)&#x20;
@@ -1987,6 +1999,8 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 
 2100 [https://leetcode.com/problems/find-good-days-to-rob-the-bank/description/](https://leetcode.com/problems/find-good-days-to-rob-the-bank/description/)
 
+3598 [https://leetcode.com/problems/longest-common-prefix-between-adjacent-strings-after-removals/description/](https://leetcode.com/problems/longest-common-prefix-between-adjacent-strings-after-removals/description/)
+
 ### Prefix Prod
 
 1352 [https://leetcode.com/problems/product-of-the-last-k-numbers/description/](https://leetcode.com/problems/product-of-the-last-k-numbers/description/)
@@ -2109,7 +2123,9 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 
 3525 [https://leetcode.com/problems/find-x-value-of-array-ii/description/](https://leetcode.com/problems/find-x-value-of-array-ii/description/)
 
-3569 [https://leetcode.com/problems/maximize-count-of-distinct-primes-after-split/description/](https://leetcode.com/problems/maximize-count-of-distinct-primes-after-split/description/)
+3569 [https://leetcode.com/problems/maximize-count-of-distinct-primes-after-split/description/](https://leetcode.com/problems/maximize-count-of-distinct-primes-after-split/description/)&#x20;
+
+3605 [https://leetcode.com/problems/minimum-stability-factor-of-array/description/](https://leetcode.com/problems/minimum-stability-factor-of-array/description/)
 
 ### Binary Index Tree / Fenwick Tree
 
@@ -2395,6 +2411,8 @@ BFS -> Greedy [https://leetcode.com/problems/jump-game-ii/submissions/1928507312
 3273 [https://leetcode.com/problems/minimum-amount-of-damage-dealt-to-bob/submissions/1374406238/](https://leetcode.com/problems/minimum-amount-of-damage-dealt-to-bob/submissions/1374406238/)
 
 3480 [https://leetcode.com/problems/maximize-subarrays-after-removing-one-conflicting-pair/description/](https://leetcode.com/problems/maximize-subarrays-after-removing-one-conflicting-pair/description/)
+
+3609 reverse [https://leetcode.com/problems/minimum-moves-to-reach-target-in-grid/description/](https://leetcode.com/problems/minimum-moves-to-reach-target-in-grid/description/)
 
 ##
 

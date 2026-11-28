@@ -208,7 +208,13 @@ description: Two Pointers etc
 
 3253 [https://leetcode.com/problems/construct-string-with-minimum-cost-easy/description/](https://leetcode.com/problems/construct-string-with-minimum-cost-easy/description/)&#x20;
 
-3485 [https://leetcode.com/problems/longest-common-prefix-of-k-strings-after-removal/description/](https://leetcode.com/problems/longest-common-prefix-of-k-strings-after-removal/description/)
+3485 [https://leetcode.com/problems/longest-common-prefix-of-k-strings-after-removal/description/](https://leetcode.com/problems/longest-common-prefix-of-k-strings-after-removal/description/)&#x20;
+
+3590 [https://leetcode.com/problems/kth-smallest-path-xor-sum/description/](https://leetcode.com/problems/kth-smallest-path-xor-sum/description/)&#x20;
+
+3597 [https://leetcode.com/problems/partition-string/description/](https://leetcode.com/problems/partition-string/description/)
+
+
 
 ## Union Find
 
@@ -264,7 +270,9 @@ description: Two Pointers etc
 
 3493 [https://leetcode.com/problems/properties-graph/description/](https://leetcode.com/problems/properties-graph/description/)
 
+3607 [https://leetcode.com/problems/power-grid-maintenance/description/](https://leetcode.com/problems/power-grid-maintenance/description/)
 
+3608 [https://leetcode.com/problems/minimum-time-for-k-connected-components/description/](https://leetcode.com/problems/minimum-time-for-k-connected-components/description/)
 
 ### Disjointed Union Find
 
